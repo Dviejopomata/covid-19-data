@@ -91,9 +91,9 @@
     },
     {
         "nombre": "Australia",
-        "casos_total": 709,
-        "casos_nuevos": 113,
-        "casos_activos": 657,
+        "casos_total": 756,
+        "casos_nuevos": 160,
+        "casos_activos": 704,
         "casos_criticos": 1,
         "fallecidos_total": 6,
         "fallecidos_nuevos": 0,
@@ -531,9 +531,9 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 13783,
-        "casos_nuevos": 4524,
-        "casos_activos": 13468,
+        "casos_total": 13816,
+        "casos_nuevos": 4557,
+        "casos_activos": 13501,
         "casos_criticos": 64,
         "fallecidos_total": 207,
         "fallecidos_nuevos": 57,
@@ -818,6 +818,16 @@
         "fallecidos_total": 3,
         "fallecidos_nuevos": 1,
         "recuperados_total": 5
+    },
+    {
+        "nombre": "Isla de Man",
+        "casos_total": 1,
+        "casos_nuevos": 1,
+        "casos_activos": 1,
+        "casos_criticos": 0,
+        "fallecidos_total": 0,
+        "fallecidos_nuevos": 0,
+        "recuperados_total": 0
     },
     {
         "nombre": "Islandia",
