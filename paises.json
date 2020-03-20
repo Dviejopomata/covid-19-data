@@ -2,9 +2,9 @@
     {
         "pais": "AF",
         "nombre": "Afganistan",
-        "casos_total": 22,
-        "casos_nuevos": 0,
-        "casos_activos": 21,
+        "casos_total": 24,
+        "casos_nuevos": 2,
+        "casos_activos": 23,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -24,9 +24,9 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 15320,
-        "casos_nuevos": 0,
-        "casos_activos": 15161,
+        "casos_total": 15343,
+        "casos_nuevos": 23,
+        "casos_activos": 15184,
         "casos_criticos": 2,
         "fallecidos_total": 44,
         "fallecidos_nuevos": 0,
@@ -420,9 +420,9 @@
     {
         "pais": "",
         "nombre": "Consejo Danes para los Refugiados",
-        "casos_total": 14,
-        "casos_nuevos": 0,
-        "casos_activos": 14,
+        "casos_total": 18,
+        "casos_nuevos": 4,
+        "casos_activos": 18,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -640,12 +640,12 @@
     {
         "pais": "PH",
         "nombre": "Filipinas",
-        "casos_total": 217,
-        "casos_nuevos": 0,
-        "casos_activos": 192,
+        "casos_total": 230,
+        "casos_nuevos": 13,
+        "casos_activos": 204,
         "casos_criticos": 1,
-        "fallecidos_total": 17,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 18,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 8
     },
     {
@@ -874,7 +874,7 @@
         "casos_total": 85,
         "casos_nuevos": 12,
         "casos_activos": 77,
-        "casos_criticos": 4,
+        "casos_criticos": 6,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
         "recuperados_total": 7
@@ -972,11 +972,11 @@
         "nombre": "Islas Feroe",
         "casos_total": 80,
         "casos_nuevos": 8,
-        "casos_activos": 79,
+        "casos_activos": 78,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1
+        "recuperados_total": 2
     },
     {
         "pais": "VI",
@@ -1080,9 +1080,9 @@
     {
         "pais": "KW",
         "nombre": "Kuwait",
-        "casos_total": 148,
-        "casos_nuevos": 0,
-        "casos_activos": 130,
+        "casos_total": 159,
+        "casos_nuevos": 11,
+        "casos_activos": 141,
         "casos_criticos": 5,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1091,9 +1091,9 @@
     {
         "pais": "LV",
         "nombre": "Letonia",
-        "casos_total": 86,
-        "casos_nuevos": 0,
-        "casos_activos": 85,
+        "casos_total": 111,
+        "casos_nuevos": 25,
+        "casos_activos": 110,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1168,10 +1168,10 @@
     {
         "pais": "MY",
         "nombre": "Malasia",
-        "casos_total": 900,
-        "casos_nuevos": 0,
-        "casos_activos": 823,
-        "casos_criticos": 15,
+        "casos_total": 915,
+        "casos_nuevos": 15,
+        "casos_activos": 838,
+        "casos_criticos": 16,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
         "recuperados_total": 75
@@ -1828,9 +1828,9 @@
     {
         "pais": "SE",
         "nombre": "Suecia",
-        "casos_total": 1439,
-        "casos_nuevos": 0,
-        "casos_activos": 1412,
+        "casos_total": 1446,
+        "casos_nuevos": 7,
+        "casos_activos": 1419,
         "casos_criticos": 21,
         "fallecidos_total": 11,
         "fallecidos_nuevos": 0,
@@ -1872,13 +1872,13 @@
     {
         "pais": "TW",
         "nombre": "Taiwan",
-        "casos_total": 108,
-        "casos_nuevos": 0,
-        "casos_activos": 81,
+        "casos_total": 135,
+        "casos_nuevos": 27,
+        "casos_activos": 106,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 26
+        "recuperados_total": 28
     },
     {
         "pais": "TZ",
