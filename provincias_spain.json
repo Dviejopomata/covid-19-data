@@ -261,8 +261,18 @@
     },
     {
         "nombre": "Butan",
+        "casos_total": 2,
+        "casos_nuevos": 1,
+        "casos_activos": 2,
+        "casos_criticos": 0,
+        "fallecidos_total": 0,
+        "fallecidos_nuevos": 0,
+        "recuperados_total": 0
+    },
+    {
+        "nombre": "Cabo Verde",
         "casos_total": 1,
-        "casos_nuevos": 0,
+        "casos_nuevos": 1,
         "casos_activos": 1,
         "casos_criticos": 0,
         "fallecidos_total": 0,
@@ -531,12 +541,12 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 14354,
-        "casos_nuevos": 565,
-        "casos_activos": 14012,
+        "casos_total": 14363,
+        "casos_nuevos": 574,
+        "casos_activos": 14021,
         "casos_criticos": 64,
         "fallecidos_total": 217,
-        "fallecidos_nuevos": 9,
+        "fallecidos_nuevos": 10,
         "recuperados_total": 125
     },
     {
@@ -781,12 +791,12 @@
     },
     {
         "nombre": "India",
-        "casos_total": 197,
-        "casos_nuevos": 3,
-        "casos_activos": 173,
+        "casos_total": 201,
+        "casos_nuevos": 7,
+        "casos_activos": 176,
         "casos_criticos": 0,
-        "fallecidos_total": 4,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 5,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 20
     },
     {
@@ -901,9 +911,9 @@
     },
     {
         "nombre": "Jamaica",
-        "casos_total": 15,
-        "casos_nuevos": 0,
-        "casos_activos": 12,
+        "casos_total": 16,
+        "casos_nuevos": 1,
+        "casos_activos": 13,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -911,13 +921,13 @@
     },
     {
         "nombre": "Japon",
-        "casos_total": 943,
-        "casos_nuevos": 0,
-        "casos_activos": 719,
+        "casos_total": 963,
+        "casos_nuevos": 20,
+        "casos_activos": 715,
         "casos_criticos": 46,
         "fallecidos_total": 33,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 191
+        "recuperados_total": 215
     },
     {
         "nombre": "Jordania",
