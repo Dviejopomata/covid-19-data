@@ -365,13 +365,13 @@
     {
         "pais": "CN",
         "nombre": "China",
-        "casos_total": 80928,
-        "casos_nuevos": 0,
-        "casos_activos": 7263,
-        "casos_criticos": 2274,
-        "fallecidos_total": 3245,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 70420
+        "casos_total": 80967,
+        "casos_nuevos": 39,
+        "casos_activos": 6569,
+        "casos_criticos": 2136,
+        "fallecidos_total": 3248,
+        "fallecidos_nuevos": 3,
+        "recuperados_total": 71150
     },
     {
         "pais": "CO",
@@ -585,13 +585,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 13847,
-        "casos_nuevos": 4588,
-        "casos_activos": 13530,
+        "casos_total": 13920,
+        "casos_nuevos": 4661,
+        "casos_activos": 13585,
         "casos_criticos": 64,
-        "fallecidos_total": 209,
-        "fallecidos_nuevos": 59,
-        "recuperados_total": 108
+        "fallecidos_total": 214,
+        "fallecidos_nuevos": 64,
+        "recuperados_total": 121
     },
     {
         "pais": "EE",
@@ -1366,9 +1366,9 @@
     {
         "pais": "NZ",
         "nombre": "Nueva Zelanda",
-        "casos_total": 28,
-        "casos_nuevos": 8,
-        "casos_activos": 28,
+        "casos_total": 39,
+        "casos_nuevos": 19,
+        "casos_activos": 39,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
