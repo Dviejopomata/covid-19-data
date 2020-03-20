@@ -388,11 +388,11 @@
         "pais": "CN",
         "nombre": "China",
         "casos_total": 80967,
-        "casos_nuevos": 39,
+        "casos_nuevos": 0,
         "casos_activos": 6569,
         "casos_criticos": 2136,
         "fallecidos_total": 3248,
-        "fallecidos_nuevos": 3,
+        "fallecidos_nuevos": 0,
         "recuperados_total": 71150
     },
     {
@@ -607,13 +607,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 18769,
-        "casos_nuevos": 4980,
-        "casos_activos": 18409,
+        "casos_total": 18876,
+        "casos_nuevos": 5087,
+        "casos_activos": 18492,
         "casos_criticos": 64,
-        "fallecidos_total": 235,
-        "fallecidos_nuevos": 28,
-        "recuperados_total": 125
+        "fallecidos_total": 237,
+        "fallecidos_nuevos": 30,
+        "recuperados_total": 147
     },
     {
         "pais": "EE",
@@ -675,18 +675,18 @@
         "nombre": "Francia",
         "casos_total": 12612,
         "casos_nuevos": 1617,
-        "casos_activos": 10867,
-        "casos_criticos": 1122,
+        "casos_activos": 10575,
+        "casos_criticos": 1297,
         "fallecidos_total": 450,
         "fallecidos_nuevos": 78,
-        "recuperados_total": 1295
+        "recuperados_total": 1587
     },
     {
         "pais": "GA",
         "nombre": "Gabon",
-        "casos_total": 3,
-        "casos_nuevos": 0,
-        "casos_activos": 2,
+        "casos_total": 4,
+        "casos_nuevos": 1,
+        "casos_activos": 3,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 1,
@@ -1212,9 +1212,9 @@
     {
         "pais": "MA",
         "nombre": "Marruecos",
-        "casos_total": 77,
-        "casos_nuevos": 14,
-        "casos_activos": 72,
+        "casos_total": 79,
+        "casos_nuevos": 16,
+        "casos_activos": 74,
         "casos_criticos": 1,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 1,
