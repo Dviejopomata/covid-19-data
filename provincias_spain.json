@@ -21,12 +21,12 @@
     },
     {
         "nombre": "Alemania",
-        "casos_total": 20046,
-        "casos_nuevos": 198,
-        "casos_activos": 19797,
+        "casos_total": 20142,
+        "casos_nuevos": 294,
+        "casos_activos": 19892,
         "casos_criticos": 2,
-        "fallecidos_total": 69,
-        "fallecidos_nuevos": 1,
+        "fallecidos_total": 70,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 180
     },
     {
@@ -173,11 +173,11 @@
         "nombre": "Belgica",
         "casos_total": 2815,
         "casos_nuevos": 558,
-        "casos_activos": 2544,
+        "casos_activos": 2485,
         "casos_criticos": 288,
         "fallecidos_total": 67,
         "fallecidos_nuevos": 30,
-        "recuperados_total": 204
+        "recuperados_total": 263
     },
     {
         "nombre": "Benin",
@@ -513,11 +513,11 @@
         "nombre": "Eslovaquia",
         "casos_total": 137,
         "casos_nuevos": 0,
-        "casos_activos": 137,
+        "casos_activos": 130,
         "casos_criticos": 2,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 0
+        "recuperados_total": 7
     },
     {
         "nombre": "Eslovenia",
@@ -531,13 +531,13 @@
     },
     {
         "nombre": "Espa\u00f1a",
-        "casos_total": 21571,
-        "casos_nuevos": 0,
-        "casos_activos": 18890,
+        "casos_total": 24926,
+        "casos_nuevos": 3355,
+        "casos_activos": 21475,
         "casos_criticos": 939,
-        "fallecidos_total": 1093,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1588
+        "fallecidos_total": 1326,
+        "fallecidos_nuevos": 233,
+        "recuperados_total": 2125
     },
     {
         "nombre": "Estado de Palestina",
@@ -1343,10 +1343,10 @@
         "nombre": "Paraguay",
         "casos_total": 18,
         "casos_nuevos": 0,
-        "casos_activos": 18,
+        "casos_activos": 17,
         "casos_criticos": 1,
-        "fallecidos_total": 0,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 1,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 0
     },
     {
@@ -1681,10 +1681,10 @@
     },
     {
         "nombre": "Suecia",
-        "casos_total": 1639,
-        "casos_nuevos": 0,
-        "casos_activos": 1607,
-        "casos_criticos": 21,
+        "casos_total": 1657,
+        "casos_nuevos": 18,
+        "casos_activos": 1625,
+        "casos_criticos": 69,
         "fallecidos_total": 16,
         "fallecidos_nuevos": 0,
         "recuperados_total": 16
@@ -1771,9 +1771,9 @@
     },
     {
         "nombre": "Tunez",
-        "casos_total": 54,
-        "casos_nuevos": 0,
-        "casos_activos": 52,
+        "casos_total": 60,
+        "casos_nuevos": 6,
+        "casos_activos": 58,
         "casos_criticos": 7,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -1834,7 +1834,7 @@
         "casos_total": 92,
         "casos_nuevos": 1,
         "casos_activos": 75,
-        "casos_criticos": 0,
+        "casos_criticos": 2,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
         "recuperados_total": 17
