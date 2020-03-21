@@ -301,9 +301,9 @@
     },
     {
         "nombre": "Camerun",
-        "casos_total": 20,
-        "casos_nuevos": 7,
-        "casos_activos": 18,
+        "casos_total": 27,
+        "casos_nuevos": 14,
+        "casos_activos": 25,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -433,11 +433,11 @@
         "nombre": "Crucero",
         "casos_total": 712,
         "casos_nuevos": 0,
-        "casos_activos": 177,
-        "casos_criticos": 14,
+        "casos_activos": 137,
+        "casos_criticos": 15,
         "fallecidos_total": 8,
         "fallecidos_nuevos": 1,
-        "recuperados_total": 527
+        "recuperados_total": 567
     },
     {
         "nombre": "Cuba",
@@ -551,9 +551,9 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 19643,
-        "casos_nuevos": 5854,
-        "casos_activos": 19233,
+        "casos_total": 19650,
+        "casos_nuevos": 5861,
+        "casos_activos": 19240,
         "casos_criticos": 64,
         "fallecidos_total": 263,
         "fallecidos_nuevos": 56,
@@ -691,12 +691,12 @@
     },
     {
         "nombre": "Guadalupe",
-        "casos_total": 45,
-        "casos_nuevos": 12,
-        "casos_activos": 45,
-        "casos_criticos": 0,
-        "fallecidos_total": 0,
-        "fallecidos_nuevos": 0,
+        "casos_total": 51,
+        "casos_nuevos": 18,
+        "casos_activos": 50,
+        "casos_criticos": 4,
+        "fallecidos_total": 1,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 0
     },
     {
@@ -931,12 +931,12 @@
     },
     {
         "nombre": "Japon",
-        "casos_total": 963,
-        "casos_nuevos": 20,
-        "casos_activos": 715,
+        "casos_total": 1007,
+        "casos_nuevos": 64,
+        "casos_activos": 757,
         "casos_criticos": 50,
-        "fallecidos_total": 33,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 35,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 215
     },
     {
@@ -1141,9 +1141,9 @@
     },
     {
         "nombre": "Mayotte",
-        "casos_total": 6,
-        "casos_nuevos": 2,
-        "casos_activos": 6,
+        "casos_total": 7,
+        "casos_nuevos": 3,
+        "casos_activos": 7,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1481,9 +1481,9 @@
     },
     {
         "nombre": "Reunion",
-        "casos_total": 28,
-        "casos_nuevos": 0,
-        "casos_activos": 28,
+        "casos_total": 38,
+        "casos_nuevos": 10,
+        "casos_activos": 38,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1694,7 +1694,7 @@
         "casos_total": 5615,
         "casos_nuevos": 1393,
         "casos_activos": 5544,
-        "casos_criticos": 0,
+        "casos_criticos": 141,
         "fallecidos_total": 56,
         "fallecidos_nuevos": 13,
         "recuperados_total": 15
