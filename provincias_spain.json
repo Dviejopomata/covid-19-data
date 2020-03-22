@@ -803,11 +803,11 @@
         "nombre": "Hungria",
         "casos_total": 131,
         "casos_nuevos": 28,
-        "casos_activos": 120,
+        "casos_activos": 113,
         "casos_criticos": 6,
-        "fallecidos_total": 4,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 7
+        "fallecidos_total": 6,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 12
     },
     {
         "nombre": "India",
@@ -1271,9 +1271,9 @@
     },
     {
         "nombre": "Noruega",
-        "casos_total": 2170,
-        "casos_nuevos": 6,
-        "casos_activos": 2157,
+        "casos_total": 2176,
+        "casos_nuevos": 12,
+        "casos_activos": 2163,
         "casos_criticos": 28,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
