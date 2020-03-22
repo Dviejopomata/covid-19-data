@@ -1,9 +1,9 @@
 [
     {
         "nombre": "Afganistan",
-        "casos_total": 34,
-        "casos_nuevos": 10,
-        "casos_activos": 32,
+        "casos_total": 40,
+        "casos_nuevos": 16,
+        "casos_activos": 38,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 1,
@@ -333,10 +333,10 @@
         "nombre": "Chequia",
         "casos_total": 1120,
         "casos_nuevos": 125,
-        "casos_activos": 1114,
+        "casos_activos": 1113,
         "casos_criticos": 19,
-        "fallecidos_total": 0,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 1,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 6
     },
     {
@@ -561,12 +561,12 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 38757,
-        "casos_nuevos": 14550,
-        "casos_activos": 38179,
+        "casos_total": 32356,
+        "casos_nuevos": 8149,
+        "casos_activos": 31764,
         "casos_criticos": 795,
-        "fallecidos_total": 400,
-        "fallecidos_nuevos": 98,
+        "fallecidos_total": 414,
+        "fallecidos_nuevos": 112,
         "recuperados_total": 178
     },
     {
@@ -678,6 +678,16 @@
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
         "recuperados_total": 2
+    },
+    {
+        "nombre": "Granada",
+        "casos_total": 1,
+        "casos_nuevos": 1,
+        "casos_activos": 1,
+        "casos_criticos": 0,
+        "fallecidos_total": 0,
+        "fallecidos_nuevos": 0,
+        "recuperados_total": 0
     },
     {
         "nombre": "Grecia",
@@ -911,10 +921,10 @@
     },
     {
         "nombre": "Israel",
-        "casos_total": 945,
-        "casos_nuevos": 62,
-        "casos_activos": 907,
-        "casos_criticos": 20,
+        "casos_total": 1071,
+        "casos_nuevos": 188,
+        "casos_activos": 1033,
+        "casos_criticos": 18,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
         "recuperados_total": 37
@@ -993,11 +1003,11 @@
         "nombre": "Kuwait",
         "casos_total": 188,
         "casos_nuevos": 12,
-        "casos_activos": 161,
+        "casos_activos": 158,
         "casos_criticos": 5,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 27
+        "recuperados_total": 30
     },
     {
         "nombre": "Letonia",
@@ -1181,9 +1191,9 @@
     },
     {
         "nombre": "Monaco",
-        "casos_total": 18,
-        "casos_nuevos": 0,
-        "casos_activos": 17,
+        "casos_total": 23,
+        "casos_nuevos": 5,
+        "casos_activos": 22,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1201,9 +1211,9 @@
     },
     {
         "nombre": "Montenegro",
-        "casos_total": 16,
-        "casos_nuevos": 0,
-        "casos_activos": 16,
+        "casos_total": 21,
+        "casos_nuevos": 5,
+        "casos_activos": 21,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1611,9 +1621,9 @@
     },
     {
         "nombre": "Senegal",
-        "casos_total": 56,
-        "casos_nuevos": 0,
-        "casos_activos": 51,
+        "casos_total": 67,
+        "casos_nuevos": 11,
+        "casos_activos": 62,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1648,6 +1658,16 @@
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
         "recuperados_total": 144
+    },
+    {
+        "nombre": "Siria",
+        "casos_total": 1,
+        "casos_nuevos": 1,
+        "casos_activos": 1,
+        "casos_criticos": 0,
+        "fallecidos_total": 0,
+        "fallecidos_nuevos": 0,
+        "recuperados_total": 0
     },
     {
         "nombre": "Somalia",
@@ -1801,12 +1821,12 @@
     },
     {
         "nombre": "Turquia",
-        "casos_total": 947,
-        "casos_nuevos": 0,
-        "casos_activos": 926,
+        "casos_total": 1236,
+        "casos_nuevos": 289,
+        "casos_activos": 1206,
         "casos_criticos": 0,
-        "fallecidos_total": 21,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 30,
+        "fallecidos_nuevos": 9,
         "recuperados_total": 0
     },
     {
