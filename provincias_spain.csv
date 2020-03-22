@@ -3,7 +3,7 @@
 1,Cataluña,4704,3,4078,191
 2,Araba/Alava,912,21,852,60
 3,Bizkaia/Vizcaya,860,21,836,24
-4,Navarra,794,2,652,14
+4,Navarra,794,2,652,24
 5,La Rioja,654,13,536,18
 6,Valencia/Valencia,627,12,590,25
 7,Asturias,545,12,467,10
@@ -14,16 +14,16 @@
 12,A Coruña,384,5,326,5
 13,Alacant/Alicante,372,7,325,40
 14,Pontevedra,348,5,262,2
-15,Granada,335,72,276,13
-16,Zaragoza,329,0,315,14
-17,Gipuzkoa/Guipuzcoa,325,21,312,13
-18,Murcia,296,1,213,1
+15,Murcia,345,1,213,3
+16,Granada,335,72,276,13
+17,Zaragoza,329,0,315,14
+18,Gipuzkoa/Guipuzcoa,325,21,312,13
 19,Sevilla,295,72,243,4
 20,Cantabria,282,11,200,5
 21,Burgos,269,27,175,16
 22,Salamanca,265,13,180,21
 23,Guadalajara,263,2,257,4
-24,Tenerife,262,4,211,5
+24,Tenerife,262,4,211,11
 25,Caceres,243,2,231,12
 26,Valladolid,241,13,193,11
 27,Mallorca,210,10,0,8
@@ -34,7 +34,7 @@
 32,Segovia,157,9,140,20
 33,Cadiz,134,72,126,2
 34,Cuenca,120,8,104,8
-35,Gran Canaria,119,0,96,2
+35,Gran Canaria,119,0,96,11
 36,Soria,119,5,71,8
 37,Avila,114,14,55,9
 38,Badajoz,111,5,104,2
@@ -51,11 +51,11 @@
 49,Melilla,25,0,25,0
 50,Ibiza,21,10,0,8
 51,Menorca,15,10,0,8
-52,Fuerteventura,14,0,13,0
-53,La Palma,14,0,11,0
-54,Lanzarote,9,0,4,0
+52,Fuerteventura,14,0,13,11
+53,La Palma,14,0,11,11
+54,Lanzarote,9,0,4,11
 55,Arroyo de la Luz,7,0,7,0
 56,Ceuta,5,0,5,0
-57,La Gomera,3,2,1,0
-58,El Hierro,2,0,1,0
+57,La Gomera,3,2,1,11
+58,El Hierro,2,0,1,11
 59,Formentera,0,10,0,8
