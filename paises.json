@@ -24,12 +24,12 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 23974,
-        "casos_nuevos": 1610,
-        "casos_activos": 23615,
+        "casos_total": 24714,
+        "casos_nuevos": 2350,
+        "casos_activos": 24356,
         "casos_criticos": 2,
-        "fallecidos_total": 93,
-        "fallecidos_nuevos": 9,
+        "fallecidos_total": 92,
+        "fallecidos_nuevos": 8,
         "recuperados_total": 266
     },
     {
@@ -618,9 +618,9 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 30239,
-        "casos_nuevos": 6032,
-        "casos_activos": 29673,
+        "casos_total": 30291,
+        "casos_nuevos": 6084,
+        "casos_activos": 29725,
         "casos_criticos": 708,
         "fallecidos_total": 388,
         "fallecidos_nuevos": 86,
@@ -1014,13 +1014,13 @@
     {
         "pais": "IT",
         "nombre": "Italia",
-        "casos_total": 53578,
-        "casos_nuevos": 0,
-        "casos_activos": 42681,
-        "casos_criticos": 2857,
-        "fallecidos_total": 4825,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 6072
+        "casos_total": 59138,
+        "casos_nuevos": 5560,
+        "casos_activos": 46638,
+        "casos_criticos": 3000,
+        "fallecidos_total": 5476,
+        "fallecidos_nuevos": 651,
+        "recuperados_total": 7024
     },
     {
         "pais": "JM",
@@ -1410,9 +1410,9 @@
     {
         "pais": "NO",
         "nombre": "Noruega",
-        "casos_total": 2262,
-        "casos_nuevos": 98,
-        "casos_activos": 2249,
+        "casos_total": 2263,
+        "casos_nuevos": 99,
+        "casos_activos": 2250,
         "casos_criticos": 28,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
@@ -1575,12 +1575,12 @@
     {
         "pais": "GB",
         "nombre": "Reino Unido",
-        "casos_total": 5018,
-        "casos_nuevos": 0,
-        "casos_activos": 4681,
+        "casos_total": 5683,
+        "casos_nuevos": 665,
+        "casos_activos": 5309,
         "casos_criticos": 20,
-        "fallecidos_total": 244,
-        "fallecidos_nuevos": 11,
+        "fallecidos_total": 281,
+        "fallecidos_nuevos": 48,
         "recuperados_total": 93
     },
     {
@@ -1784,9 +1784,9 @@
     {
         "pais": "RS",
         "nombre": "Serbia",
-        "casos_total": 188,
-        "casos_nuevos": 17,
-        "casos_activos": 184,
+        "casos_total": 222,
+        "casos_nuevos": 51,
+        "casos_activos": 218,
         "casos_criticos": 4,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 1,
