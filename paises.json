@@ -112,13 +112,13 @@
     {
         "pais": "AU",
         "nombre": "Australia",
-        "casos_total": 1717,
-        "casos_nuevos": 108,
-        "casos_activos": 1622,
+        "casos_total": 1831,
+        "casos_nuevos": 222,
+        "casos_activos": 1706,
         "casos_criticos": 11,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 88
+        "recuperados_total": 118
     },
     {
         "pais": "AT",
@@ -651,12 +651,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 42443,
-        "casos_nuevos": 8897,
-        "casos_activos": 41631,
+        "casos_total": 42751,
+        "casos_nuevos": 9205,
+        "casos_activos": 41936,
         "casos_criticos": 1040,
-        "fallecidos_total": 517,
-        "fallecidos_nuevos": 98,
+        "fallecidos_total": 520,
+        "fallecidos_nuevos": 101,
         "recuperados_total": 295
     },
     {
@@ -1014,9 +1014,9 @@
     {
         "pais": "KY",
         "nombre": "Islas Caimanes",
-        "casos_total": 3,
-        "casos_nuevos": 0,
-        "casos_activos": 2,
+        "casos_total": 5,
+        "casos_nuevos": 2,
+        "casos_activos": 4,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -1465,9 +1465,9 @@
     {
         "pais": "NO",
         "nombre": "Noruega",
-        "casos_total": 2547,
-        "casos_nuevos": 162,
-        "casos_activos": 2531,
+        "casos_total": 2621,
+        "casos_nuevos": 236,
+        "casos_activos": 2605,
         "casos_criticos": 41,
         "fallecidos_total": 10,
         "fallecidos_nuevos": 3,
@@ -1520,9 +1520,9 @@
     {
         "pais": "PK",
         "nombre": "Pakistan",
-        "casos_total": 873,
-        "casos_nuevos": 97,
-        "casos_activos": 854,
+        "casos_total": 875,
+        "casos_nuevos": 99,
+        "casos_activos": 856,
         "casos_criticos": 0,
         "fallecidos_total": 6,
         "fallecidos_nuevos": 1,
@@ -1841,10 +1841,10 @@
         "nombre": "Serbia",
         "casos_total": 249,
         "casos_nuevos": 27,
-        "casos_activos": 244,
+        "casos_activos": 243,
         "casos_criticos": 12,
-        "fallecidos_total": 2,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 3,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 3
     },
     {
