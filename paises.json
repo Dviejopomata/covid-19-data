@@ -90,9 +90,9 @@
     {
         "pais": "AM",
         "nombre": "Armenia",
-        "casos_total": 194,
-        "casos_nuevos": 0,
-        "casos_activos": 192,
+        "casos_total": 235,
+        "casos_nuevos": 41,
+        "casos_activos": 233,
         "casos_criticos": 6,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -277,12 +277,12 @@
     {
         "pais": "BR",
         "nombre": "Brasil",
-        "casos_total": 1629,
-        "casos_nuevos": 83,
-        "casos_activos": 1602,
+        "casos_total": 1696,
+        "casos_nuevos": 150,
+        "casos_activos": 1660,
         "casos_criticos": 18,
-        "fallecidos_total": 25,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 34,
+        "fallecidos_nuevos": 9,
         "recuperados_total": 2
     },
     {
@@ -651,12 +651,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 42163,
-        "casos_nuevos": 8617,
-        "casos_activos": 41356,
+        "casos_total": 42379,
+        "casos_nuevos": 8833,
+        "casos_activos": 41567,
         "casos_criticos": 1040,
-        "fallecidos_total": 512,
-        "fallecidos_nuevos": 93,
+        "fallecidos_total": 517,
+        "fallecidos_nuevos": 98,
         "recuperados_total": 295
     },
     {
@@ -2048,12 +2048,12 @@
     {
         "pais": "TR",
         "nombre": "Turquia",
-        "casos_total": 1236,
-        "casos_nuevos": 0,
-        "casos_activos": 1206,
+        "casos_total": 1529,
+        "casos_nuevos": 293,
+        "casos_activos": 1492,
         "casos_criticos": 0,
-        "fallecidos_total": 30,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 37,
+        "fallecidos_nuevos": 7,
         "recuperados_total": 0
     },
     {
