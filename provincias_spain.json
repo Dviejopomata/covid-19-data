@@ -21,12 +21,12 @@
     },
     {
         "nombre": "Alemania",
-        "casos_total": 27181,
-        "casos_nuevos": 2308,
-        "casos_activos": 26646,
+        "casos_total": 27289,
+        "casos_nuevos": 2416,
+        "casos_activos": 26752,
         "casos_criticos": 23,
-        "fallecidos_total": 113,
-        "fallecidos_nuevos": 19,
+        "fallecidos_total": 115,
+        "fallecidos_nuevos": 21,
         "recuperados_total": 422
     },
     {
@@ -111,12 +111,12 @@
     },
     {
         "nombre": "Austria",
-        "casos_total": 3923,
-        "casos_nuevos": 341,
-        "casos_activos": 3898,
+        "casos_total": 3977,
+        "casos_nuevos": 395,
+        "casos_activos": 3947,
         "casos_criticos": 14,
-        "fallecidos_total": 16,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 21,
+        "fallecidos_nuevos": 5,
         "recuperados_total": 9
     },
     {
@@ -221,9 +221,9 @@
     },
     {
         "nombre": "Bosnia y Herzegovina",
-        "casos_total": 128,
-        "casos_nuevos": 2,
-        "casos_activos": 125,
+        "casos_total": 130,
+        "casos_nuevos": 4,
+        "casos_activos": 127,
         "casos_criticos": 1,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -343,10 +343,10 @@
         "nombre": "Chile",
         "casos_total": 746,
         "casos_nuevos": 114,
-        "casos_activos": 737,
+        "casos_activos": 736,
         "casos_criticos": 7,
-        "fallecidos_total": 1,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 2,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 8
     },
     {
@@ -461,9 +461,9 @@
     },
     {
         "nombre": "Dinamarca",
-        "casos_total": 1450,
-        "casos_nuevos": 55,
-        "casos_activos": 1425,
+        "casos_total": 1540,
+        "casos_nuevos": 145,
+        "casos_activos": 1515,
         "casos_criticos": 55,
         "fallecidos_total": 24,
         "fallecidos_nuevos": 11,
@@ -571,12 +571,12 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 35079,
-        "casos_nuevos": 1533,
-        "casos_activos": 34443,
+        "casos_total": 35179,
+        "casos_nuevos": 1633,
+        "casos_activos": 34542,
         "casos_criticos": 795,
-        "fallecidos_total": 458,
-        "fallecidos_nuevos": 39,
+        "fallecidos_total": 459,
+        "fallecidos_nuevos": 40,
         "recuperados_total": 178
     },
     {
@@ -920,6 +920,16 @@
         "recuperados_total": 14
     },
     {
+        "nombre": "Islas Turcas y Caicos",
+        "casos_total": 1,
+        "casos_nuevos": 1,
+        "casos_activos": 1,
+        "casos_criticos": 0,
+        "fallecidos_total": 0,
+        "fallecidos_nuevos": 0,
+        "recuperados_total": 0
+    },
+    {
         "nombre": "Islas Virgenes de los Estados Unidos",
         "casos_total": 6,
         "casos_nuevos": 0,
@@ -991,9 +1001,9 @@
     },
     {
         "nombre": "Kenia",
-        "casos_total": 15,
-        "casos_nuevos": 0,
-        "casos_activos": 15,
+        "casos_total": 16,
+        "casos_nuevos": 1,
+        "casos_activos": 16,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1301,9 +1311,9 @@
     },
     {
         "nombre": "Noruega",
-        "casos_total": 2538,
-        "casos_nuevos": 153,
-        "casos_activos": 2523,
+        "casos_total": 2541,
+        "casos_nuevos": 156,
+        "casos_activos": 2526,
         "casos_criticos": 41,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 2,
@@ -1344,7 +1354,7 @@
         "casos_total": 4749,
         "casos_nuevos": 545,
         "casos_activos": 4534,
-        "casos_criticos": 354,
+        "casos_criticos": 435,
         "fallecidos_total": 213,
         "fallecidos_nuevos": 34,
         "recuperados_total": 2
@@ -1713,11 +1723,11 @@
         "nombre": "Sudafrica",
         "casos_total": 402,
         "casos_nuevos": 128,
-        "casos_activos": 400,
+        "casos_activos": 398,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 2
+        "recuperados_total": 4
     },
     {
         "nombre": "Sudan",
@@ -1731,9 +1741,9 @@
     },
     {
         "nombre": "Suecia",
-        "casos_total": 2038,
-        "casos_nuevos": 104,
-        "casos_activos": 1997,
+        "casos_total": 2046,
+        "casos_nuevos": 112,
+        "casos_activos": 2005,
         "casos_criticos": 104,
         "fallecidos_total": 25,
         "fallecidos_nuevos": 4,
