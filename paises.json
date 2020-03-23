@@ -79,13 +79,13 @@
     {
         "pais": "AR",
         "nombre": "Argentina",
-        "casos_total": 266,
-        "casos_nuevos": 0,
-        "casos_activos": 235,
+        "casos_total": 301,
+        "casos_nuevos": 35,
+        "casos_activos": 246,
         "casos_criticos": 0,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 27
+        "recuperados_total": 51
     },
     {
         "pais": "AM",
@@ -367,10 +367,10 @@
         "nombre": "Canada",
         "casos_total": 2091,
         "casos_nuevos": 621,
-        "casos_activos": 1748,
+        "casos_activos": 1747,
         "casos_criticos": 1,
-        "fallecidos_total": 23,
-        "fallecidos_nuevos": 3,
+        "fallecidos_total": 24,
+        "fallecidos_nuevos": 4,
         "recuperados_total": 320
     },
     {
@@ -651,9 +651,9 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 43449,
-        "casos_nuevos": 9883,
-        "casos_activos": 42609,
+        "casos_total": 43469,
+        "casos_nuevos": 9903,
+        "casos_activos": 42629,
         "casos_criticos": 1040,
         "fallecidos_total": 545,
         "fallecidos_nuevos": 132,
@@ -1531,12 +1531,12 @@
     {
         "pais": "PA",
         "nombre": "Panama",
-        "casos_total": 313,
-        "casos_nuevos": 0,
-        "casos_activos": 309,
-        "casos_criticos": 7,
-        "fallecidos_total": 3,
-        "fallecidos_nuevos": 0,
+        "casos_total": 345,
+        "casos_nuevos": 32,
+        "casos_activos": 338,
+        "casos_criticos": 33,
+        "fallecidos_total": 6,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 1
     },
     {
