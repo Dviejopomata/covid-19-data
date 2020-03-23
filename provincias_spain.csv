@@ -1,25 +1,25 @@
 ,Ciudad,Casos totales,Casos activos,Recuperados,Muertes
-0,Madrid,9702,2000,6681,1021
-1,Cataluña,4704,3,4078,191
+0,Madrid,10575,2063,7249,1263
+1,Cataluña,5925,644,5036,245
 2,Valencia/Valencia,1084,23,1024,37
 3,Araba/Alava,912,21,852,60
-4,Bizkaia/Vizcaya,860,21,836,24
-5,Navarra,794,2,652,24
-6,La Rioja,654,13,536,18
+4,Navarra,886,7,855,24
+5,Bizkaia/Vizcaya,860,21,836,24
+6,La Rioja,747,18,707,22
 7,Alacant/Alicante,603,12,541,50
 8,Asturias,545,12,467,10
-9,Malaga,505,72,464,21
-10,Ciudad Real,505,8,457,40
-11,Toledo,501,22,451,28
-12,Albacete,430,8,390,32
-13,A Coruña,384,5,326,12
-14,Pontevedra,348,5,262,3
-15,Murcia,345,1,213,3
-16,Granada,335,72,276,13
-17,Zaragoza,329,0,315,14
-18,Gipuzkoa/Guipuzcoa,325,21,312,13
-19,Sevilla,295,72,243,4
-20,Cantabria,282,11,200,5
+9,A Coruña,524,19,512,12
+10,Malaga,505,72,464,21
+11,Ciudad Real,505,8,457,40
+12,Toledo,501,22,451,28
+13,Pontevedra,445,19,442,3
+14,Albacete,430,8,390,32
+15,Cantabria,347,11,330,6
+16,Murcia,345,1,213,3
+17,Granada,335,72,276,13
+18,Zaragoza,329,0,315,14
+19,Gipuzkoa/Guipuzcoa,325,21,312,13
+20,Sevilla,295,72,243,4
 21,Burgos,269,27,175,16
 22,Salamanca,265,13,180,21
 23,Guadalajara,263,2,257,4
@@ -33,16 +33,16 @@
 31,Aragon,174,0,163,11
 32,Jaen,171,72,136,3
 33,Segovia,157,9,140,20
-34,Cadiz,134,72,126,2
-35,Cuenca,120,8,104,8
-36,Gran Canaria,119,0,96,11
-37,Soria,119,5,71,8
-38,Avila,114,14,55,9
-39,Badajoz,111,5,104,2
-40,Ourense,95,5,74,2
-41,Zamora,59,3,42,3
-42,"Igualada, Vilanova del Cami, Santa Margarida de Montbui y Odena",58,0,58,3
-43,Lugo,58,5,53,2
+34,Ourense,142,19,140,2
+35,Cadiz,134,72,126,2
+36,Cuenca,120,8,104,8
+37,Gran Canaria,119,0,96,11
+38,Soria,119,5,71,8
+39,Avila,114,14,55,9
+40,Badajoz,111,5,104,2
+41,Lugo,62,19,60,2
+42,Zamora,59,3,42,3
+43,"Igualada, Vilanova del Cami, Santa Margarida de Montbui y Odena",58,0,58,3
 44,Almeria,58,72,53,1
 45,Teruel,47,0,45,2
 46,Huelva,47,72,37,0
@@ -55,7 +55,7 @@
 53,La Palma,14,0,11,11
 54,Lanzarote,9,0,4,11
 55,Arroyo de la Luz,7,0,7,0
-56,Ceuta,5,0,5,0
+56,Ceuta,6,0,6,0
 57,La Gomera,3,2,1,11
 58,El Hierro,2,0,1,11
 59,Formentera,0,10,0,8
