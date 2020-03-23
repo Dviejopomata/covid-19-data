@@ -10,7 +10,7 @@
 8,Suiza,7724,250,131,7495,141,0,98
 9,Reino Unido,5683,0,135,5267,20,0,281
 10,Paises Bajos,4204,0,2,4023,354,0,179
-11,Austria,3627,45,9,3602,15,0,16
+11,Austria,3631,49,9,3606,15,0,16
 12,Belgica,3401,0,340,2986,288,0,75
 13,Noruega,2385,0,6,2372,28,0,7
 14,Suecia,1934,0,16,1897,76,0,21
@@ -22,7 +22,7 @@
 20,Malasia,1306,0,139,1156,26,1,11
 21,Israel,1238,167,37,1200,24,0,1
 22,Turquia,1236,0,0,1206,0,0,30
-23,Chequia,1120,0,6,1113,19,0,1
+23,Chequia,1165,45,6,1158,19,0,1
 24,Japon,1101,0,235,825,49,0,41
 25,Irlanda,906,0,5,897,29,0,4
 26,Pakistan,803,27,13,784,0,1,6
@@ -63,29 +63,29 @@
 61,Taiwan,195,26,28,165,0,0,2
 62,Armenia,194,0,2,192,6,0,0
 63,Bulgaria,190,3,3,184,3,0,3
-64,Kuwait,188,0,30,158,5,0,0
+64,Kuwait,189,1,30,159,5,0,0
 65,Eslovaquia,185,0,7,178,2,0,0
-66,San Marino,175,0,4,151,13,0,20
-67,Hungria,167,36,16,144,6,1,7
-68,Uruguay,158,0,0,158,2,0,0
-69,Emiratos Arabes Unidos,153,0,38,113,2,0,2
-70,Lituania,143,0,1,141,1,0,1
-71,Letonia,139,0,1,138,0,0,0
+66,Letonia,180,41,1,179,0,0,0
+67,San Marino,175,0,4,151,13,0,20
+68,Hungria,167,36,16,144,6,1,7
+69,Uruguay,158,0,0,158,2,0,0
+70,Emiratos Arabes Unidos,153,0,38,113,2,0,2
+71,Lituania,143,0,1,141,1,0,1
 72,Costa Rica,134,0,2,130,2,0,2
 73,Bosnia y Herzegovina,126,0,2,123,1,0,1
-74,Vietnam,118,5,17,101,2,0,0
-75,Republica de Macedonia,115,0,1,113,1,0,1
-76,Islas Feroe,115,0,3,112,0,0,0
+74,Vietnam,121,8,17,104,2,0,0
+75,Islas Feroe,118,3,14,104,0,0,0
+76,Republica de Macedonia,115,0,1,113,1,0,1
 77,Marruecos,115,0,3,108,1,0,4
 78,Principado de Andorra,113,0,1,111,2,0,1
 79,Jordania,112,0,1,111,0,0,0
 80,Nueva Zelanda,102,0,0,102,0,0,0
 81,Republica de Chipre,95,0,3,91,3,0,1
-82,Moldavia,94,0,1,92,3,0,1
+82,Moldavia,94,0,2,91,3,0,1
 83,Malta,90,0,2,88,1,0,0
 84,Albania,89,0,2,85,2,0,2
 85,Brunei,88,0,2,86,2,0,0
-86,Camboya,86,2,2,84,0,0,0
+86,Camboya,86,2,2,84,1,0,0
 87,Sri Lanka,86,4,3,83,2,0,0
 88,Venezuela,77,7,15,62,2,0,0
 89,Bielorrusia,76,0,15,61,0,0,0
@@ -110,11 +110,11 @@
 108,Consejo Danes para los Refugiados,30,0,0,29,0,0,1
 109,Nigeria,30,0,2,28,0,0,0
 110,Mauricio,28,0,0,26,1,0,2
-111,Guam,27,0,0,26,0,0,1
-112,Banglades,27,0,3,22,0,0,2
-113,Honduras,26,0,0,26,0,0,0
-114,Costa de Marfil,25,11,2,23,0,0,0
-115,Bolivia,24,0,0,24,0,0,0
+111,Bolivia,27,3,0,27,0,0,0
+112,Guam,27,0,0,26,0,0,1
+113,Banglades,27,0,3,22,0,0,2
+114,Honduras,26,0,0,26,0,0,0
+115,Costa de Marfil,25,11,2,23,0,0,0
 116,Puerto Rico,23,0,0,22,0,0,1
 117,Ghana,23,0,0,22,0,0,1
 118,Monaco,23,0,1,22,0,0,0
@@ -139,18 +139,18 @@
 137,Etiopia,11,0,0,11,0,0,0
 138,Mongolia,10,0,0,10,0,0,0
 139,Aruba,9,0,1,8,0,0,0
-140,Seychelles,7,0,0,7,0,0,0
-141,Guinea Ecuatorial,6,0,0,6,0,0,0
-142,Bermudas,6,0,0,6,0,0,0
-143,Islas Virgenes de los Estados Unidos,6,0,0,6,0,0,0
-144,Surinam,5,0,0,5,0,0,0
-145,San Martin (Parte Francesa),5,0,0,5,0,0,0
-146,Isla de Man,5,0,0,5,0,0,0
-147,Gabon,5,0,0,4,0,0,1
-148,Bahamas,4,0,0,4,0,0,0
-149,Groenlandia,4,0,0,4,0,0,0
-150,Suazilandia,4,0,0,4,0,0,0
-151,Nueva Caledonia,4,0,0,4,0,0,0
+140,Nueva Caledonia,7,3,0,7,0,0,0
+141,Seychelles,7,0,0,7,0,0,0
+142,Islas Virgenes de los Estados Unidos,6,0,0,6,0,0,0
+143,Guinea Ecuatorial,6,0,0,6,0,0,0
+144,Bermudas,6,0,0,6,0,0,0
+145,Surinam,5,0,0,5,0,0,0
+146,San Martin (Parte Francesa),5,0,0,5,0,0,0
+147,Isla de Man,5,0,0,5,0,0,0
+148,Gabon,5,0,0,4,0,0,1
+149,Suazilandia,4,0,0,4,0,0,0
+150,Bahamas,4,0,0,4,0,0,0
+151,Groenlandia,4,0,0,4,0,0,0
 152,El Salvador,3,0,0,3,0,0,0
 153,Zimbabue,3,0,0,3,0,0,0
 154,Republica de Africa Central,3,0,0,3,0,0,0
