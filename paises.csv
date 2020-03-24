@@ -1,7 +1,7 @@
 ,País,Casos totales,Nuevos casos,Casos activos,Recuperados,Casos críticos,Muertes hoy,Muertes
 0,China,81171,78,73159,4735,1573,7,3277
 1,Italia,63927,0,7432,50418,3204,0,6077
-2,Estados Unidos,46116,2382,295,45242,1040,26,579
+2,Estados Unidos,46145,2411,295,45268,1040,29,582
 3,España,35136,0,3355,29470,2355,0,2311
 4,Alemania,29056,0,453,28480,23,0,123
 5,Iran,23049,0,8376,12861,0,0,1812
@@ -41,7 +41,7 @@
 39,Singapur,509,0,152,355,14,0,2
 40,Catar,501,0,33,468,6,0,0
 41,Filipinas,501,39,19,449,1,0,33
-42,India,499,0,34,455,0,0,10
+42,India,499,0,37,452,0,0,10
 43,Eslovenia,442,0,0,439,12,0,3
 44,Rusia,438,0,17,420,0,0,1
 45,Sudafrica,402,0,4,398,0,0,0
@@ -53,8 +53,8 @@
 51,Estonia,352,0,4,348,4,0,0
 52,Panama,345,0,1,338,33,0,6
 53,Croacia,315,0,5,309,5,0,1
-54,Argentina,301,0,51,246,0,0,4
-55,Colombia,277,0,3,271,0,0,3
+54,Colombia,306,29,6,297,0,0,3
+55,Argentina,301,0,51,246,0,0,4
 56,Libano,267,0,8,255,4,0,4
 57,Irak,266,0,62,181,0,0,23
 58,Serbia,249,0,3,243,12,0,3
@@ -131,8 +131,8 @@
 129,Polinesia Francesa,18,0,0,18,0,0,0
 130,Islas Virgenes de los Estados Unidos,17,0,0,17,0,0,0
 131,Barbados,17,0,0,17,0,0,0
-132,Kirguistan,16,0,0,16,0,0,0
-133,Kenia,16,0,0,16,0,0,0
+132,Kenia,16,0,0,16,0,0,0
+133,Kirguistan,16,0,0,16,0,0,0
 134,Gibraltar,15,0,5,10,0,0,0
 135,Isla de Man,13,0,0,13,0,0,0
 136,Maldivas,13,0,5,8,0,0,0
@@ -146,25 +146,25 @@
 144,San Martin (Parte Francesa),8,0,0,8,0,0,0
 145,Nueva Caledonia,8,0,0,8,0,0,0
 146,Seychelles,7,0,0,7,0,0,0
-147,Benin,6,0,0,6,0,0,0
+147,Bermudas,6,0,0,6,0,0,0
 148,Haiti,6,0,0,6,0,0,0
-149,Bermudas,6,0,0,6,0,0,0
+149,Benin,6,0,0,6,0,0,0
 150,Gabon,6,0,0,5,0,0,1
 151,El Salvador,5,2,0,5,0,0,0
 152,Surinam,5,0,0,5,0,0,0
 153,Islas Caimanes,5,0,0,4,0,0,1
-154,Groenlandia,4,0,0,4,0,0,0
+154,Suazilandia,4,0,0,4,0,0,0
 155,Congo,4,0,0,4,0,0,0
-156,Suazilandia,4,0,0,4,0,0,0
-157,Namibia,4,0,0,4,0,0,0
-158,Bahamas,4,0,0,4,0,0,0
-159,Guinea,4,0,0,4,0,0,0
-160,Curazao,4,0,0,3,0,0,1
-161,San Bartolome,3,0,0,3,0,0,0
-162,Republica de Yibuti,3,0,0,3,0,0,0
-163,Republica de Africa Central,3,0,0,3,0,0,0
-164,Zambia,3,0,0,3,0,0,0
-165,Fiyi,3,0,0,3,0,0,0
+156,Groenlandia,4,0,0,4,0,0,0
+157,Fiyi,4,1,0,4,0,0,0
+158,Guinea,4,0,0,4,0,0,0
+159,Namibia,4,0,0,4,0,0,0
+160,Bahamas,4,0,0,4,0,0,0
+161,Curazao,4,0,0,3,0,0,1
+162,San Bartolome,3,0,0,3,0,0,0
+163,Republica de Yibuti,3,0,0,3,0,0,0
+164,Republica de Africa Central,3,0,0,3,0,0,0
+165,Zambia,3,0,0,3,0,0,0
 166,Santa Lucia,3,0,0,3,0,0,0
 167,Cabo Verde,3,0,0,3,0,0,0
 168,Niger,3,0,0,3,0,0,0
