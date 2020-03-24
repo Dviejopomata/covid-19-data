@@ -123,10 +123,10 @@
     {
         "pais": "AT",
         "nombre": "Austria",
-        "casos_total": 4474,
-        "casos_nuevos": 0,
-        "casos_activos": 4444,
-        "casos_criticos": 14,
+        "casos_total": 4477,
+        "casos_nuevos": 3,
+        "casos_activos": 4447,
+        "casos_criticos": 16,
         "fallecidos_total": 21,
         "fallecidos_nuevos": 0,
         "recuperados_total": 9
@@ -266,9 +266,9 @@
     {
         "pais": "BA",
         "nombre": "Bosnia y Herzegovina",
-        "casos_total": 136,
-        "casos_nuevos": 0,
-        "casos_activos": 133,
+        "casos_total": 137,
+        "casos_nuevos": 1,
+        "casos_activos": 134,
         "casos_criticos": 1,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -299,9 +299,9 @@
     {
         "pais": "BG",
         "nombre": "Bulgaria",
-        "casos_total": 201,
-        "casos_nuevos": 0,
-        "casos_activos": 195,
+        "casos_total": 202,
+        "casos_nuevos": 1,
+        "casos_activos": 196,
         "casos_criticos": 8,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
@@ -827,9 +827,9 @@
     {
         "pais": "GU",
         "nombre": "Guam",
-        "casos_total": 33,
-        "casos_nuevos": 4,
-        "casos_activos": 32,
+        "casos_total": 29,
+        "casos_nuevos": 0,
+        "casos_activos": 28,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -1091,13 +1091,13 @@
     {
         "pais": "JP",
         "nombre": "Japon",
-        "casos_total": 1128,
-        "casos_nuevos": 0,
-        "casos_activos": 851,
-        "casos_criticos": 49,
+        "casos_total": 1140,
+        "casos_nuevos": 12,
+        "casos_activos": 813,
+        "casos_criticos": 54,
         "fallecidos_total": 42,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 235
+        "recuperados_total": 285
     },
     {
         "pais": "JO",
@@ -1135,9 +1135,9 @@
     {
         "pais": "KG",
         "nombre": "Kirguistan",
-        "casos_total": 16,
-        "casos_nuevos": 0,
-        "casos_activos": 16,
+        "casos_total": 42,
+        "casos_nuevos": 26,
+        "casos_activos": 42,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1247,10 +1247,10 @@
         "nombre": "Malasia",
         "casos_total": 1518,
         "casos_nuevos": 0,
-        "casos_activos": 1345,
+        "casos_activos": 1344,
         "casos_criticos": 57,
-        "fallecidos_total": 14,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 15,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 159
     },
     {
@@ -1938,12 +1938,12 @@
     {
         "pais": "SE",
         "nombre": "Suecia",
-        "casos_total": 2046,
-        "casos_nuevos": 0,
-        "casos_activos": 2003,
-        "casos_criticos": 104,
-        "fallecidos_total": 27,
-        "fallecidos_nuevos": 0,
+        "casos_total": 2059,
+        "casos_nuevos": 13,
+        "casos_activos": 2010,
+        "casos_criticos": 110,
+        "fallecidos_total": 33,
+        "fallecidos_nuevos": 6,
         "recuperados_total": 16
     },
     {
