@@ -372,11 +372,11 @@
     {
         "nombre": "China",
         "casos_total": 81171,
-        "casos_nuevos": 78,
+        "casos_nuevos": 0,
         "casos_activos": 4735,
         "casos_criticos": 1573,
         "fallecidos_total": 3277,
-        "fallecidos_nuevos": 7,
+        "fallecidos_nuevos": 0,
         "recuperados_total": 73159
     },
     {
@@ -591,9 +591,9 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 52983,
-        "casos_nuevos": 9249,
-        "casos_activos": 51928,
+        "casos_total": 53013,
+        "casos_nuevos": 9279,
+        "casos_activos": 51958,
         "casos_criticos": 1175,
         "fallecidos_total": 685,
         "fallecidos_nuevos": 132,
