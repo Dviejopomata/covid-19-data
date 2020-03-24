@@ -409,13 +409,13 @@
     {
         "pais": "CN",
         "nombre": "China",
-        "casos_total": 81093,
-        "casos_nuevos": 0,
-        "casos_activos": 5120,
-        "casos_criticos": 1749,
-        "fallecidos_total": 3270,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 72703
+        "casos_total": 81171,
+        "casos_nuevos": 78,
+        "casos_activos": 4735,
+        "casos_criticos": 1573,
+        "fallecidos_total": 3277,
+        "fallecidos_nuevos": 7,
+        "recuperados_total": 73159
     },
     {
         "pais": "CO",
@@ -651,12 +651,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 43718,
-        "casos_nuevos": 10152,
+        "casos_total": 43721,
+        "casos_nuevos": 10155,
         "casos_activos": 42874,
         "casos_criticos": 1040,
-        "fallecidos_total": 549,
-        "fallecidos_nuevos": 136,
+        "fallecidos_total": 552,
+        "fallecidos_nuevos": 139,
         "recuperados_total": 295
     },
     {
@@ -2103,9 +2103,9 @@
     {
         "pais": "VE",
         "nombre": "Venezuela",
-        "casos_total": 77,
-        "casos_nuevos": 7,
-        "casos_activos": 62,
+        "casos_total": 84,
+        "casos_nuevos": 14,
+        "casos_activos": 69,
         "casos_criticos": 2,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
