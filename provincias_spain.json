@@ -341,9 +341,9 @@
     },
     {
         "nombre": "Catar",
-        "casos_total": 526,
-        "casos_nuevos": 0,
-        "casos_activos": 485,
+        "casos_total": 537,
+        "casos_nuevos": 11,
+        "casos_activos": 496,
         "casos_criticos": 6,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1011,9 +1011,9 @@
     },
     {
         "nombre": "Jordania",
-        "casos_total": 154,
-        "casos_nuevos": 0,
-        "casos_activos": 153,
+        "casos_total": 172,
+        "casos_nuevos": 18,
+        "casos_activos": 171,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1201,13 +1201,13 @@
     },
     {
         "nombre": "Marruecos",
-        "casos_total": 170,
-        "casos_nuevos": 0,
-        "casos_activos": 159,
+        "casos_total": 225,
+        "casos_nuevos": 55,
+        "casos_activos": 212,
         "casos_criticos": 1,
-        "fallecidos_total": 5,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 6
+        "fallecidos_total": 6,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 7
     },
     {
         "nombre": "Martinica",
@@ -1811,12 +1811,12 @@
     },
     {
         "nombre": "Suiza",
-        "casos_total": 10537,
-        "casos_nuevos": 660,
-        "casos_activos": 10257,
+        "casos_total": 10897,
+        "casos_nuevos": 1020,
+        "casos_activos": 10613,
         "casos_criticos": 141,
-        "fallecidos_total": 149,
-        "fallecidos_nuevos": 27,
+        "fallecidos_total": 153,
+        "fallecidos_nuevos": 31,
         "recuperados_total": 131
     },
     {
@@ -1904,7 +1904,7 @@
         "casos_total": 1872,
         "casos_nuevos": 0,
         "casos_activos": 1802,
-        "casos_criticos": 0,
+        "casos_criticos": 136,
         "fallecidos_total": 44,
         "fallecidos_nuevos": 0,
         "recuperados_total": 26
