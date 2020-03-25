@@ -114,10 +114,10 @@
         "nombre": "Australia",
         "casos_total": 2431,
         "casos_nuevos": 114,
-        "casos_activos": 2304,
+        "casos_activos": 2302,
         "casos_criticos": 11,
-        "fallecidos_total": 9,
-        "fallecidos_nuevos": 1,
+        "fallecidos_total": 11,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 118
     },
     {
@@ -365,12 +365,12 @@
     {
         "pais": "CA",
         "nombre": "Canada",
-        "casos_total": 3367,
-        "casos_nuevos": 575,
-        "casos_activos": 3152,
+        "casos_total": 3409,
+        "casos_nuevos": 617,
+        "casos_activos": 3188,
         "casos_criticos": 1,
-        "fallecidos_total": 30,
-        "fallecidos_nuevos": 4,
+        "fallecidos_total": 36,
+        "fallecidos_nuevos": 10,
         "recuperados_total": 185
     },
     {
@@ -475,9 +475,9 @@
     {
         "pais": "CI",
         "nombre": "Costa de Marfil",
-        "casos_total": 73,
-        "casos_nuevos": 0,
-        "casos_activos": 70,
+        "casos_total": 80,
+        "casos_nuevos": 7,
+        "casos_activos": 77,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -651,12 +651,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 64832,
-        "casos_nuevos": 9976,
-        "casos_activos": 63526,
+        "casos_total": 65424,
+        "casos_nuevos": 10568,
+        "casos_activos": 64103,
         "casos_criticos": 1411,
-        "fallecidos_total": 913,
-        "fallecidos_nuevos": 133,
+        "fallecidos_total": 928,
+        "fallecidos_nuevos": 148,
         "recuperados_total": 393
     },
     {
@@ -1509,9 +1509,9 @@
     {
         "pais": "NG",
         "nombre": "Nigeria",
-        "casos_total": 46,
-        "casos_nuevos": 2,
-        "casos_activos": 43,
+        "casos_total": 51,
+        "casos_nuevos": 7,
+        "casos_activos": 48,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -1520,9 +1520,9 @@
     {
         "pais": "NO",
         "nombre": "Noruega",
-        "casos_total": 3066,
-        "casos_nuevos": 200,
-        "casos_activos": 3046,
+        "casos_total": 3084,
+        "casos_nuevos": 218,
+        "casos_activos": 3064,
         "casos_criticos": 57,
         "fallecidos_total": 14,
         "fallecidos_nuevos": 2,
@@ -1786,10 +1786,10 @@
         "nombre": "Rumania",
         "casos_total": 906,
         "casos_nuevos": 112,
-        "casos_activos": 806,
+        "casos_activos": 803,
         "casos_criticos": 18,
-        "fallecidos_total": 14,
-        "fallecidos_nuevos": 2,
+        "fallecidos_total": 17,
+        "fallecidos_nuevos": 5,
         "recuperados_total": 86
     },
     {
