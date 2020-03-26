@@ -409,13 +409,13 @@
     {
         "pais": "CN",
         "nombre": "China",
-        "casos_total": 81218,
-        "casos_nuevos": 0,
-        "casos_activos": 4287,
-        "casos_criticos": 1399,
-        "fallecidos_total": 3281,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 73650
+        "casos_total": 81285,
+        "casos_nuevos": 67,
+        "casos_activos": 3947,
+        "casos_criticos": 1235,
+        "fallecidos_total": 3287,
+        "fallecidos_nuevos": 6,
+        "recuperados_total": 74051
     },
     {
         "pais": "CO",
@@ -1542,9 +1542,9 @@
     {
         "pais": "NZ",
         "nombre": "Nueva Zelanda",
-        "casos_total": 205,
-        "casos_nuevos": 0,
-        "casos_activos": 178,
+        "casos_total": 283,
+        "casos_nuevos": 78,
+        "casos_activos": 256,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
