@@ -833,10 +833,10 @@
         "nombre": "Honduras",
         "casos_total": 52,
         "casos_nuevos": 0,
-        "casos_activos": 52,
+        "casos_activos": 51,
         "casos_criticos": 0,
-        "fallecidos_total": 0,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 1,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 0
     },
     {
@@ -993,10 +993,10 @@
         "nombre": "Italia",
         "casos_total": 80539,
         "casos_nuevos": 6153,
-        "casos_activos": 62013,
+        "casos_activos": 61963,
         "casos_criticos": 3612,
-        "fallecidos_total": 8165,
-        "fallecidos_nuevos": 662,
+        "fallecidos_total": 8215,
+        "fallecidos_nuevos": 712,
         "recuperados_total": 10361
     },
     {
@@ -1311,9 +1311,9 @@
     },
     {
         "nombre": "Montserrat",
-        "casos_total": 1,
-        "casos_nuevos": 0,
-        "casos_activos": 1,
+        "casos_total": 2,
+        "casos_nuevos": 1,
+        "casos_activos": 2,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
