@@ -15,11 +15,11 @@
 13,Canada,3409,0,185,3188,1,0,36
 14,Noruega,3100,16,6,3080,57,0,14
 15,Portugal,2995,0,22,2930,61,0,43
-16,Australia,2766,90,170,2584,11,1,12
+16,Australia,2799,123,170,2617,11,1,12
 17,Brasil,2554,0,2,2493,18,0,59
 18,Suecia,2526,0,16,2448,158,0,62
-19,Turquia,2433,0,26,2348,136,0,59
-20,Israel,2369,0,58,2306,37,0,5
+19,Israel,2495,126,66,2424,41,0,5
+20,Turquia,2433,0,26,2348,136,0,59
 21,Malasia,1796,0,199,1577,64,0,20
 22,Dinamarca,1724,0,1,1689,87,0,34
 23,Chequia,1654,0,10,1638,19,0,6
@@ -39,7 +39,7 @@
 37,Islandia,737,0,56,679,11,0,2
 38,Crucero,712,0,597,105,15,0,10
 39,Sudafrica,709,0,12,697,2,0,0
-40,India,673,16,43,617,0,1,13
+40,India,674,17,43,618,0,1,13
 41,Rusia,658,0,29,626,8,0,3
 42,Filipinas,636,0,26,572,1,0,38
 43,Singapur,631,0,160,469,17,0,2
@@ -61,11 +61,11 @@
 59,Libano,333,0,20,307,4,0,6
 60,Emiratos Arabes Unidos,333,0,52,279,2,0,2
 61,Argelia,302,0,65,216,0,0,21
-62,Nueva Zelanda,283,0,27,256,0,0,0
-63,Lituania,274,0,1,269,1,0,4
-64,Armenia,265,0,16,249,6,0,0
+62,Lituania,290,16,1,285,1,0,4
+63,Armenia,290,25,18,272,6,0,0
+64,Nueva Zelanda,283,0,27,256,0,0,0
 65,Hungria,261,35,28,223,6,0,10
-66,Bulgaria,242,0,4,235,8,0,3
+66,Bulgaria,243,1,4,236,8,0,3
 67,Taiwan,235,0,29,204,0,0,2
 68,Marruecos,225,0,7,212,1,0,6
 69,Letonia,221,0,1,220,0,0,0
@@ -99,13 +99,13 @@
 97,Bielorrusia,86,0,29,57,2,0,0
 98,Afganistan,84,0,2,80,0,0,2
 99,Costa de Marfil,80,0,3,77,0,0,0
-100,Camerun,75,0,2,72,0,0,1
-101,Georgia,75,0,10,65,1,0,0
+100,Georgia,77,2,10,67,1,0,0
+101,Camerun,75,0,2,72,0,0,1
 102,Guadalupe,73,0,0,72,4,0,1
 103,Estado de Palestina,71,0,16,54,0,0,1
 104,Ghana,68,0,0,64,0,0,4
 105,Martinica,66,0,0,65,7,0,1
-106,Uzbekistan,60,0,0,60,4,0,0
+106,Uzbekistan,65,5,0,65,4,0,0
 107,Trinidad yTobago,60,0,0,59,0,0,1
 108,Cuba,57,0,1,55,2,0,1
 109,Montenegro,53,0,0,52,1,0,1
@@ -146,22 +146,22 @@
 144,Republica de Yibuti,11,0,0,11,0,0,0
 145,San Martin (Parte Francesa),11,0,0,11,0,0,0
 146,Dominica,11,0,0,11,0,0,0
-147,Mongolia,10,0,0,10,0,0,0
+147,Mongolia,11,1,0,11,0,0,0
 148,Guinea Ecuatorial,9,0,0,9,0,0,0
-149,Surinam,8,0,0,8,0,0,0
-150,Haiti,8,0,0,8,0,0,0
+149,Haiti,8,0,0,8,0,0,0
+150,Surinam,8,0,0,8,0,0,0
 151,Islas Caimanes,8,0,0,7,0,0,1
 152,Bermudas,7,0,0,7,0,0,0
 153,Seychelles,7,0,0,7,0,0,0
-154,Niger,7,0,0,6,0,0,1
-155,Namibia,7,0,2,5,0,0,0
-156,Benin,6,0,0,6,0,0,0
-157,Gabon,6,0,0,5,0,0,1
+154,Gabon,7,1,0,6,0,0,1
+155,Niger,7,0,0,6,0,0,1
+156,Namibia,7,0,2,5,0,0,0
+157,Benin,6,0,0,6,0,0,0
 158,Groenlandia,6,0,2,4,0,0,0
 159,Curazao,6,0,2,3,0,0,1
-160,Siria,5,0,0,5,0,0,0
-161,Mozambique,5,0,0,5,0,0,0
-162,Fiyi,5,0,0,5,0,0,0
+160,Mozambique,5,0,0,5,0,0,0
+161,Fiyi,5,0,0,5,0,0,0
+162,Siria,5,0,0,5,0,0,0
 163,Bahamas,5,0,1,4,0,0,0
 164,Guyana,5,0,0,4,0,0,1
 165,Suazilandia,4,0,0,4,0,0,0
@@ -171,32 +171,32 @@
 169,Eritrea,4,0,0,4,0,0,0
 170,Cabo Verde,4,0,0,3,0,0,1
 171,Angola,3,0,0,3,0,0,0
-172,Antigua y Barbuda,3,0,0,3,0,0,0
-173,San Martin (Parte Holandesa),3,0,0,3,0,0,0
-174,Birmania,3,0,0,3,0,0,0
+172,San Bartolome,3,0,0,3,0,0,0
+173,Liberia,3,0,0,3,0,0,0
+174,Laos,3,0,0,3,0,0,0
 175,Republica de Africa Central,3,0,0,3,0,0,0
 176,Republica del Chad,3,0,0,3,0,0,0
-177,Liberia,3,0,0,3,0,0,0
-178,Laos,3,0,0,3,0,0,0
-179,San Bartolome,3,0,0,3,0,0,0
-180,Santa Lucia,3,0,0,3,0,0,0
+177,Santa Lucia,3,0,0,3,0,0,0
+178,Antigua y Barbuda,3,0,0,3,0,0,0
+179,San Martin (Parte Holandesa),3,0,0,3,0,0,0
+180,Birmania,3,0,0,3,0,0,0
 181,Sudan,3,0,0,2,0,0,1
-182,Gambia,3,0,0,2,0,0,1
-183,Nepal,3,0,1,2,0,0,0
-184,Zimbabue,3,0,0,2,0,0,1
-185,Guinea-Bisau,2,0,0,2,0,0,0
-186,Islas Virgenes Britanicas,2,0,0,2,0,0,0
-187,San Cristobal y Nieves,2,0,0,2,0,0,0
-188,Mauritania,2,0,0,2,0,0,0
+182,Zimbabue,3,0,0,2,0,0,1
+183,Gambia,3,0,0,2,0,0,1
+184,Nepal,3,0,1,2,0,0,0
+185,Mauritania,2,0,0,2,0,0,0
+186,San Cristobal y Nieves,2,0,0,2,0,0,0
+187,Islas Virgenes Britanicas,2,0,0,2,0,0,0
+188,Butan,2,0,0,2,0,0,0
 189,Nicaragua,2,0,0,2,0,0,0
 190,Belice,2,0,0,2,0,0,0
 191,Mali,2,0,0,2,0,0,0
-192,Butan,2,0,0,2,0,0,0
-193,San Vicente y las Granadinas,1,0,0,1,0,0,0
-194,Granada,1,0,0,1,0,0,0
-195,Timor Oriental,1,0,0,1,0,0,0
-196,Islas Turcas y Caicos,1,0,0,1,0,0,0
-197,Somalia,1,0,0,1,0,0,0
-198,Papua Nueva Guinea,1,0,0,1,0,0,0
-199,Montserrat,1,0,0,1,0,0,0
-200,Libia,1,0,0,1,0,0,0
+192,Guinea-Bisau,2,0,0,2,0,0,0
+193,Montserrat,1,0,0,1,0,0,0
+194,Libia,1,0,0,1,0,0,0
+195,Somalia,1,0,0,1,0,0,0
+196,Papua Nueva Guinea,1,0,0,1,0,0,0
+197,Timor Oriental,1,0,0,1,0,0,0
+198,Granada,1,0,0,1,0,0,0
+199,Islas Turcas y Caicos,1,0,0,1,0,0,0
+200,San Vicente y las Granadinas,1,0,0,1,0,0,0
