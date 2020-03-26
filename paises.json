@@ -13,9 +13,9 @@
     {
         "pais": "AL",
         "nombre": "Albania",
-        "casos_total": 146,
-        "casos_nuevos": 0,
-        "casos_activos": 123,
+        "casos_total": 174,
+        "casos_nuevos": 28,
+        "casos_activos": 151,
         "casos_criticos": 3,
         "fallecidos_total": 6,
         "fallecidos_nuevos": 1,
@@ -191,11 +191,11 @@
         "nombre": "Belgica",
         "casos_total": 6235,
         "casos_nuevos": 1298,
-        "casos_activos": 5468,
-        "casos_criticos": 474,
+        "casos_activos": 5340,
+        "casos_criticos": 605,
         "fallecidos_total": 220,
         "fallecidos_nuevos": 42,
-        "recuperados_total": 547
+        "recuperados_total": 675
     },
     {
         "pais": "BZ",
@@ -629,20 +629,20 @@
     {
         "pais": "ES",
         "nombre": "Espa\u00f1a",
-        "casos_total": 49515,
-        "casos_nuevos": 0,
-        "casos_activos": 40501,
+        "casos_total": 56188,
+        "casos_nuevos": 6673,
+        "casos_activos": 45084,
         "casos_criticos": 3166,
-        "fallecidos_total": 3647,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 5367
+        "fallecidos_total": 4089,
+        "fallecidos_nuevos": 442,
+        "recuperados_total": 7015
     },
     {
         "pais": "PS",
         "nombre": "Estado de Palestina",
-        "casos_total": 86,
-        "casos_nuevos": 15,
-        "casos_activos": 68,
+        "casos_total": 84,
+        "casos_nuevos": 13,
+        "casos_activos": 66,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -695,12 +695,12 @@
     {
         "pais": "FI",
         "nombre": "Finlandia",
-        "casos_total": 880,
-        "casos_nuevos": 0,
-        "casos_activos": 867,
+        "casos_total": 915,
+        "casos_nuevos": 35,
+        "casos_activos": 901,
         "casos_criticos": 22,
-        "fallecidos_total": 3,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 4,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 10
     },
     {
@@ -948,13 +948,13 @@
     {
         "pais": "IN",
         "nombre": "India",
-        "casos_total": 693,
-        "casos_nuevos": 36,
-        "casos_activos": 637,
+        "casos_total": 694,
+        "casos_nuevos": 37,
+        "casos_activos": 636,
         "casos_criticos": 0,
         "fallecidos_total": 13,
         "fallecidos_nuevos": 1,
-        "recuperados_total": 43
+        "recuperados_total": 45
     },
     {
         "pais": "ID",
@@ -1135,9 +1135,9 @@
     {
         "pais": "KZ",
         "nombre": "Kazajistan",
-        "casos_total": 97,
-        "casos_nuevos": 16,
-        "casos_activos": 95,
+        "casos_total": 109,
+        "casos_nuevos": 28,
+        "casos_activos": 107,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1179,9 +1179,9 @@
     {
         "pais": "LA",
         "nombre": "Laos",
-        "casos_total": 3,
-        "casos_nuevos": 0,
-        "casos_activos": 3,
+        "casos_total": 6,
+        "casos_nuevos": 3,
+        "casos_activos": 6,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -2015,12 +2015,12 @@
     {
         "pais": "CH",
         "nombre": "Suiza",
-        "casos_total": 11027,
-        "casos_nuevos": 130,
-        "casos_activos": 10742,
+        "casos_total": 11125,
+        "casos_nuevos": 228,
+        "casos_activos": 10830,
         "casos_criticos": 141,
-        "fallecidos_total": 154,
-        "fallecidos_nuevos": 1,
+        "fallecidos_total": 164,
+        "fallecidos_nuevos": 11,
         "recuperados_total": 131
     },
     {
@@ -2105,10 +2105,10 @@
         "nombre": "Tunez",
         "casos_total": 173,
         "casos_nuevos": 0,
-        "casos_activos": 166,
+        "casos_activos": 165,
         "casos_criticos": 11,
-        "fallecidos_total": 5,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 6,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 2
     },
     {
