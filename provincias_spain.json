@@ -103,11 +103,11 @@
         "nombre": "Australia",
         "casos_total": 2728,
         "casos_nuevos": 52,
-        "casos_activos": 2598,
+        "casos_activos": 2546,
         "casos_criticos": 11,
         "fallecidos_total": 12,
         "fallecidos_nuevos": 1,
-        "recuperados_total": 118
+        "recuperados_total": 170
     },
     {
         "nombre": "Austria",
@@ -591,9 +591,9 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 68421,
-        "casos_nuevos": 210,
-        "casos_activos": 66995,
+        "casos_total": 68472,
+        "casos_nuevos": 261,
+        "casos_activos": 67046,
         "casos_criticos": 1452,
         "fallecidos_total": 1032,
         "fallecidos_nuevos": 5,
@@ -861,9 +861,9 @@
     },
     {
         "nombre": "India",
-        "casos_total": 664,
-        "casos_nuevos": 7,
-        "casos_activos": 609,
+        "casos_total": 665,
+        "casos_nuevos": 8,
+        "casos_activos": 610,
         "casos_criticos": 0,
         "fallecidos_total": 12,
         "fallecidos_nuevos": 0,
@@ -1031,9 +1031,9 @@
     },
     {
         "nombre": "Kazajistan",
-        "casos_total": 81,
-        "casos_nuevos": 0,
-        "casos_activos": 81,
+        "casos_total": 88,
+        "casos_nuevos": 7,
+        "casos_activos": 88,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1261,12 +1261,12 @@
     },
     {
         "nombre": "Mexico",
-        "casos_total": 405,
-        "casos_nuevos": 0,
-        "casos_activos": 396,
+        "casos_total": 475,
+        "casos_nuevos": 70,
+        "casos_activos": 465,
         "casos_criticos": 1,
-        "fallecidos_total": 5,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 6,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 4
     },
     {
@@ -1431,9 +1431,9 @@
     },
     {
         "nombre": "Pakistan",
-        "casos_total": 1063,
-        "casos_nuevos": 0,
-        "casos_activos": 1034,
+        "casos_total": 1093,
+        "casos_nuevos": 30,
+        "casos_activos": 1064,
         "casos_criticos": 5,
         "fallecidos_total": 8,
         "fallecidos_nuevos": 0,
