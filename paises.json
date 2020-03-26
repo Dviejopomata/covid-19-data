@@ -81,11 +81,11 @@
         "nombre": "Argentina",
         "casos_total": 502,
         "casos_nuevos": 0,
-        "casos_activos": 442,
+        "casos_activos": 431,
         "casos_criticos": 0,
         "fallecidos_total": 8,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 52
+        "recuperados_total": 63
     },
     {
         "pais": "AM",
@@ -123,9 +123,9 @@
     {
         "pais": "AT",
         "nombre": "Austria",
-        "casos_total": 6703,
-        "casos_nuevos": 1115,
-        "casos_activos": 6542,
+        "casos_total": 6847,
+        "casos_nuevos": 1259,
+        "casos_activos": 6686,
         "casos_criticos": 28,
         "fallecidos_total": 49,
         "fallecidos_nuevos": 18,
@@ -365,13 +365,13 @@
     {
         "pais": "CA",
         "nombre": "Canada",
-        "casos_total": 3579,
-        "casos_nuevos": 170,
-        "casos_activos": 3358,
-        "casos_criticos": 35,
-        "fallecidos_total": 36,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 185
+        "casos_total": 3897,
+        "casos_nuevos": 488,
+        "casos_activos": 3661,
+        "casos_criticos": 120,
+        "fallecidos_total": 37,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 199
     },
     {
         "pais": "QA",
@@ -464,9 +464,9 @@
     {
         "pais": "CR",
         "nombre": "Costa Rica",
-        "casos_total": 201,
-        "casos_nuevos": 0,
-        "casos_activos": 197,
+        "casos_total": 231,
+        "casos_nuevos": 30,
+        "casos_activos": 227,
         "casos_criticos": 4,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
@@ -1432,9 +1432,9 @@
     {
         "pais": "ME",
         "nombre": "Montenegro",
-        "casos_total": 67,
-        "casos_nuevos": 14,
-        "casos_activos": 66,
+        "casos_total": 69,
+        "casos_nuevos": 16,
+        "casos_activos": 68,
         "casos_criticos": 1,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -1690,7 +1690,7 @@
         "casos_activos": 10945,
         "casos_criticos": 163,
         "fallecidos_total": 578,
-        "fallecidos_nuevos": 113,
+        "fallecidos_nuevos": 115,
         "recuperados_total": 135
     },
     {
@@ -1786,10 +1786,10 @@
         "nombre": "Rumania",
         "casos_total": 1029,
         "casos_nuevos": 123,
-        "casos_activos": 917,
+        "casos_activos": 913,
         "casos_criticos": 29,
-        "fallecidos_total": 18,
-        "fallecidos_nuevos": 1,
+        "fallecidos_total": 22,
+        "fallecidos_nuevos": 5,
         "recuperados_total": 94
     },
     {
