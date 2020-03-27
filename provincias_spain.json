@@ -21,12 +21,12 @@
     },
     {
         "nombre": "Alemania",
-        "casos_total": 43938,
-        "casos_nuevos": 0,
-        "casos_activos": 37998,
+        "casos_total": 47278,
+        "casos_nuevos": 3340,
+        "casos_activos": 41324,
         "casos_criticos": 23,
-        "fallecidos_total": 267,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 281,
+        "fallecidos_nuevos": 14,
         "recuperados_total": 5673
     },
     {
@@ -601,9 +601,9 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 85604,
-        "casos_nuevos": 169,
-        "casos_activos": 82435,
+        "casos_total": 85612,
+        "casos_nuevos": 177,
+        "casos_activos": 82443,
         "casos_criticos": 2122,
         "fallecidos_total": 1301,
         "fallecidos_nuevos": 6,
@@ -733,17 +733,17 @@
         "nombre": "Grecia",
         "casos_total": 892,
         "casos_nuevos": 0,
-        "casos_activos": 829,
+        "casos_activos": 823,
         "casos_criticos": 53,
         "fallecidos_total": 27,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 36
+        "recuperados_total": 42
     },
     {
         "nombre": "Groenlandia",
-        "casos_total": 6,
-        "casos_nuevos": 0,
-        "casos_activos": 4,
+        "casos_total": 9,
+        "casos_nuevos": 3,
+        "casos_activos": 7,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -871,13 +871,13 @@
     },
     {
         "nombre": "India",
-        "casos_total": 747,
-        "casos_nuevos": 20,
-        "casos_activos": 661,
+        "casos_total": 753,
+        "casos_nuevos": 26,
+        "casos_activos": 666,
         "casos_criticos": 0,
         "fallecidos_total": 20,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 66
+        "recuperados_total": 67
     },
     {
         "nombre": "Indonesia",
@@ -1633,10 +1633,10 @@
         "nombre": "Rumania",
         "casos_total": 1029,
         "casos_nuevos": 0,
-        "casos_activos": 912,
+        "casos_activos": 911,
         "casos_criticos": 29,
-        "fallecidos_total": 23,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 24,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 94
     },
     {
@@ -1813,10 +1813,10 @@
         "nombre": "Sudafrica",
         "casos_total": 927,
         "casos_nuevos": 0,
-        "casos_activos": 915,
+        "casos_activos": 913,
         "casos_criticos": 7,
-        "fallecidos_total": 0,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 2,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 12
     },
     {
