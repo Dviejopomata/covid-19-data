@@ -365,9 +365,9 @@
     {
         "pais": "CM",
         "nombre": "Camerun",
-        "casos_total": 75,
-        "casos_nuevos": 0,
-        "casos_activos": 72,
+        "casos_total": 88,
+        "casos_nuevos": 13,
+        "casos_activos": 85,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -961,11 +961,11 @@
         "nombre": "India",
         "casos_total": 727,
         "casos_nuevos": 0,
-        "casos_activos": 662,
+        "casos_activos": 657,
         "casos_criticos": 0,
         "fallecidos_total": 20,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 45
+        "recuperados_total": 50
     },
     {
         "pais": "ID",
@@ -1401,10 +1401,10 @@
         "nombre": "Mexico",
         "casos_total": 585,
         "casos_nuevos": 110,
-        "casos_activos": 575,
+        "casos_activos": 573,
         "casos_criticos": 1,
-        "fallecidos_total": 6,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 8,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 4
     },
     {
