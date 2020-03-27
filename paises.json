@@ -400,11 +400,11 @@
         "nombre": "Chequia",
         "casos_total": 2062,
         "casos_nuevos": 137,
-        "casos_activos": 2043,
+        "casos_activos": 2042,
         "casos_criticos": 34,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 10
+        "recuperados_total": 11
     },
     {
         "pais": "CL",
@@ -662,12 +662,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 85755,
-        "casos_nuevos": 320,
-        "casos_activos": 82583,
+        "casos_total": 85762,
+        "casos_nuevos": 327,
+        "casos_activos": 82588,
         "casos_criticos": 2122,
-        "fallecidos_total": 1304,
-        "fallecidos_nuevos": 9,
+        "fallecidos_total": 1306,
+        "fallecidos_nuevos": 11,
         "recuperados_total": 1868
     },
     {
@@ -706,9 +706,9 @@
     {
         "pais": "FI",
         "nombre": "Finlandia",
-        "casos_total": 1038,
-        "casos_nuevos": 80,
-        "casos_activos": 1023,
+        "casos_total": 1041,
+        "casos_nuevos": 83,
+        "casos_activos": 1026,
         "casos_criticos": 24,
         "fallecidos_total": 5,
         "fallecidos_nuevos": 0,
@@ -959,9 +959,9 @@
     {
         "pais": "IN",
         "nombre": "India",
-        "casos_total": 843,
-        "casos_nuevos": 116,
-        "casos_activos": 750,
+        "casos_total": 863,
+        "casos_nuevos": 136,
+        "casos_activos": 770,
         "casos_criticos": 0,
         "fallecidos_total": 20,
         "fallecidos_nuevos": 0,
@@ -1487,9 +1487,9 @@
     {
         "pais": "NP",
         "nombre": "Nepal",
-        "casos_total": 3,
-        "casos_nuevos": 0,
-        "casos_activos": 2,
+        "casos_total": 4,
+        "casos_nuevos": 1,
+        "casos_activos": 3,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1677,7 +1677,7 @@
         "casos_total": 267,
         "casos_nuevos": 43,
         "casos_activos": 263,
-        "casos_criticos": 6,
+        "casos_criticos": 11,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
         "recuperados_total": 1
@@ -2018,7 +2018,7 @@
         "casos_total": 3046,
         "casos_nuevos": 206,
         "casos_activos": 2938,
-        "casos_criticos": 209,
+        "casos_criticos": 214,
         "fallecidos_total": 92,
         "fallecidos_nuevos": 15,
         "recuperados_total": 16
@@ -2072,11 +2072,11 @@
         "nombre": "Tanzania",
         "casos_total": 13,
         "casos_nuevos": 0,
-        "casos_activos": 13,
+        "casos_activos": 12,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 0
+        "recuperados_total": 1
     },
     {
         "pais": "TL",
