@@ -173,11 +173,11 @@
         "nombre": "Barein",
         "casos_total": 458,
         "casos_nuevos": 0,
-        "casos_activos": 250,
+        "casos_activos": 244,
         "casos_criticos": 1,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 204
+        "recuperados_total": 210
     },
     {
         "nombre": "Belgica",
@@ -251,13 +251,13 @@
     },
     {
         "nombre": "Bosnia y Herzegovina",
-        "casos_total": 191,
-        "casos_nuevos": 0,
-        "casos_activos": 186,
+        "casos_total": 192,
+        "casos_nuevos": 1,
+        "casos_activos": 184,
         "casos_criticos": 1,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 2
+        "recuperados_total": 5
     },
     {
         "nombre": "Brasil",
@@ -361,9 +361,9 @@
     },
     {
         "nombre": "Chequia",
-        "casos_total": 1925,
-        "casos_nuevos": 0,
-        "casos_activos": 1906,
+        "casos_total": 2062,
+        "casos_nuevos": 137,
+        "casos_activos": 2043,
         "casos_criticos": 34,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
@@ -451,13 +451,13 @@
     },
     {
         "nombre": "Croacia",
-        "casos_total": 495,
-        "casos_nuevos": 0,
-        "casos_activos": 470,
+        "casos_total": 551,
+        "casos_nuevos": 56,
+        "casos_activos": 511,
         "casos_criticos": 14,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 22
+        "recuperados_total": 37
     },
     {
         "nombre": "Crucero",
@@ -953,11 +953,11 @@
         "nombre": "Islas Feroe",
         "casos_total": 140,
         "casos_nuevos": 0,
-        "casos_activos": 93,
-        "casos_criticos": 0,
+        "casos_activos": 86,
+        "casos_criticos": 2,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 47
+        "recuperados_total": 54
     },
     {
         "nombre": "Islas Turcas y Caicos",
@@ -1061,9 +1061,9 @@
     },
     {
         "nombre": "Kirguistan",
-        "casos_total": 44,
-        "casos_nuevos": 0,
-        "casos_activos": 44,
+        "casos_total": 58,
+        "casos_nuevos": 14,
+        "casos_activos": 58,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1091,9 +1091,9 @@
     },
     {
         "nombre": "Letonia",
-        "casos_total": 244,
-        "casos_nuevos": 0,
-        "casos_activos": 243,
+        "casos_total": 280,
+        "casos_nuevos": 36,
+        "casos_activos": 279,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1283,10 +1283,10 @@
         "nombre": "Moldavia",
         "casos_total": 177,
         "casos_nuevos": 0,
-        "casos_activos": 174,
+        "casos_activos": 173,
         "casos_criticos": 28,
-        "fallecidos_total": 1,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 2,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 2
     },
     {
@@ -1401,9 +1401,9 @@
     },
     {
         "nombre": "Nueva Caledonia",
-        "casos_total": 14,
-        "casos_nuevos": 0,
-        "casos_activos": 14,
+        "casos_total": 15,
+        "casos_nuevos": 1,
+        "casos_activos": 15,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1843,10 +1843,10 @@
         "nombre": "Suiza",
         "casos_total": 11811,
         "casos_nuevos": 0,
-        "casos_activos": 11488,
+        "casos_activos": 11486,
         "casos_criticos": 141,
-        "fallecidos_total": 192,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 194,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 131
     },
     {
@@ -1941,13 +1941,13 @@
     },
     {
         "nombre": "Ucrania",
-        "casos_total": 196,
-        "casos_nuevos": 0,
-        "casos_activos": 190,
+        "casos_total": 218,
+        "casos_nuevos": 22,
+        "casos_activos": 209,
         "casos_criticos": 0,
         "fallecidos_total": 5,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1
+        "recuperados_total": 4
     },
     {
         "nombre": "Uganda",
@@ -2011,9 +2011,9 @@
     },
     {
         "nombre": "Zimbabue",
-        "casos_total": 3,
-        "casos_nuevos": 0,
-        "casos_activos": 2,
+        "casos_total": 5,
+        "casos_nuevos": 2,
+        "casos_activos": 4,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
