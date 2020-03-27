@@ -1,9 +1,9 @@
 [
     {
         "nombre": "Afganistan",
-        "casos_total": 94,
-        "casos_nuevos": 0,
-        "casos_activos": 88,
+        "casos_total": 110,
+        "casos_nuevos": 16,
+        "casos_activos": 104,
         "casos_criticos": 0,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
@@ -21,9 +21,9 @@
     },
     {
         "nombre": "Alemania",
-        "casos_total": 49344,
-        "casos_nuevos": 5406,
-        "casos_activos": 43350,
+        "casos_total": 50178,
+        "casos_nuevos": 6240,
+        "casos_activos": 44184,
         "casos_criticos": 23,
         "fallecidos_total": 321,
         "fallecidos_nuevos": 54,
@@ -121,9 +121,9 @@
     },
     {
         "nombre": "Austria",
-        "casos_total": 7610,
-        "casos_nuevos": 701,
-        "casos_activos": 7327,
+        "casos_total": 7642,
+        "casos_nuevos": 733,
+        "casos_activos": 7359,
         "casos_criticos": 128,
         "fallecidos_total": 58,
         "fallecidos_nuevos": 9,
@@ -601,12 +601,12 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 96650,
-        "casos_nuevos": 11215,
-        "casos_activos": 92728,
+        "casos_total": 96968,
+        "casos_nuevos": 11533,
+        "casos_activos": 93038,
         "casos_criticos": 2463,
-        "fallecidos_total": 1469,
-        "fallecidos_nuevos": 174,
+        "fallecidos_total": 1477,
+        "fallecidos_nuevos": 182,
         "recuperados_total": 2453
     },
     {
@@ -661,13 +661,13 @@
     },
     {
         "nombre": "Francia",
-        "casos_total": 29155,
-        "casos_nuevos": 0,
-        "casos_activos": 22511,
-        "casos_criticos": 3375,
-        "fallecidos_total": 1696,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 4948
+        "casos_total": 32964,
+        "casos_nuevos": 3809,
+        "casos_activos": 25269,
+        "casos_criticos": 3787,
+        "fallecidos_total": 1995,
+        "fallecidos_nuevos": 299,
+        "recuperados_total": 5700
     },
     {
         "nombre": "Gabon",
@@ -1481,9 +1481,9 @@
     },
     {
         "nombre": "Peru",
-        "casos_total": 580,
-        "casos_nuevos": 0,
-        "casos_activos": 557,
+        "casos_total": 635,
+        "casos_nuevos": 55,
+        "casos_activos": 612,
         "casos_criticos": 14,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
@@ -1633,10 +1633,10 @@
         "nombre": "Rumania",
         "casos_total": 1292,
         "casos_nuevos": 263,
-        "casos_activos": 1152,
+        "casos_activos": 1151,
         "casos_criticos": 32,
-        "fallecidos_total": 25,
-        "fallecidos_nuevos": 2,
+        "fallecidos_total": 26,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 115
     },
     {
