@@ -134,9 +134,9 @@
     {
         "pais": "AT",
         "nombre": "Austria",
-        "casos_total": 6962,
-        "casos_nuevos": 53,
-        "casos_activos": 6801,
+        "casos_total": 7029,
+        "casos_nuevos": 120,
+        "casos_activos": 6868,
         "casos_criticos": 96,
         "fallecidos_total": 49,
         "fallecidos_nuevos": 0,
@@ -775,7 +775,7 @@
         "casos_total": 132,
         "casos_nuevos": 0,
         "casos_activos": 127,
-        "casos_criticos": 0,
+        "casos_criticos": 1,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
         "recuperados_total": 1
@@ -1531,9 +1531,9 @@
     {
         "pais": "NO",
         "nombre": "Noruega",
-        "casos_total": 3372,
-        "casos_nuevos": 0,
-        "casos_activos": 3352,
+        "casos_total": 3379,
+        "casos_nuevos": 7,
+        "casos_activos": 3359,
         "casos_criticos": 70,
         "fallecidos_total": 14,
         "fallecidos_nuevos": 0,
@@ -1806,13 +1806,13 @@
     {
         "pais": "RU",
         "nombre": "Rusia",
-        "casos_total": 840,
-        "casos_nuevos": 0,
-        "casos_activos": 799,
+        "casos_total": 1036,
+        "casos_nuevos": 196,
+        "casos_activos": 988,
         "casos_criticos": 8,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 38
+        "recuperados_total": 45
     },
     {
         "pais": "BL",
@@ -1960,9 +1960,9 @@
     {
         "pais": "SO",
         "nombre": "Somalia",
-        "casos_total": 2,
-        "casos_nuevos": 0,
-        "casos_activos": 2,
+        "casos_total": 3,
+        "casos_nuevos": 1,
+        "casos_activos": 3,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1974,7 +1974,7 @@
         "casos_total": 106,
         "casos_nuevos": 0,
         "casos_activos": 99,
-        "casos_criticos": 3,
+        "casos_criticos": 5,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
         "recuperados_total": 7
@@ -2029,7 +2029,7 @@
         "casos_total": 11811,
         "casos_nuevos": 0,
         "casos_activos": 11486,
-        "casos_criticos": 141,
+        "casos_criticos": 203,
         "fallecidos_total": 194,
         "fallecidos_nuevos": 2,
         "recuperados_total": 131
