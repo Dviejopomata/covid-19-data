@@ -530,9 +530,9 @@
     {
         "pais": "CW",
         "nombre": "Curazao",
-        "casos_total": 7,
-        "casos_nuevos": 0,
-        "casos_activos": 4,
+        "casos_total": 8,
+        "casos_nuevos": 1,
+        "casos_activos": 5,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -1124,23 +1124,23 @@
     {
         "pais": "JP",
         "nombre": "Japon",
-        "casos_total": 1387,
-        "casos_nuevos": 0,
-        "casos_activos": 981,
-        "casos_criticos": 57,
-        "fallecidos_total": 47,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 359
+        "casos_total": 1468,
+        "casos_nuevos": 81,
+        "casos_activos": 1047,
+        "casos_criticos": 56,
+        "fallecidos_total": 49,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 372
     },
     {
         "pais": "JO",
         "nombre": "Jordania",
         "casos_total": 235,
         "casos_nuevos": 23,
-        "casos_activos": 217,
+        "casos_activos": 216,
         "casos_criticos": 0,
-        "fallecidos_total": 0,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 1,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 18
     },
     {
@@ -1531,9 +1531,9 @@
     {
         "pais": "NO",
         "nombre": "Noruega",
-        "casos_total": 3717,
-        "casos_nuevos": 345,
-        "casos_activos": 3692,
+        "casos_total": 3755,
+        "casos_nuevos": 383,
+        "casos_activos": 3730,
         "casos_criticos": 70,
         "fallecidos_total": 19,
         "fallecidos_nuevos": 5,
@@ -1995,11 +1995,11 @@
         "nombre": "Sudafrica",
         "casos_total": 1170,
         "casos_nuevos": 243,
-        "casos_activos": 1157,
+        "casos_activos": 1138,
         "casos_criticos": 7,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 1,
-        "recuperados_total": 12
+        "recuperados_total": 31
     },
     {
         "pais": "SD",
@@ -2017,10 +2017,10 @@
         "nombre": "Suecia",
         "casos_total": 3069,
         "casos_nuevos": 229,
-        "casos_activos": 2961,
+        "casos_activos": 2948,
         "casos_criticos": 214,
-        "fallecidos_total": 92,
-        "fallecidos_nuevos": 15,
+        "fallecidos_total": 105,
+        "fallecidos_nuevos": 28,
         "recuperados_total": 16
     },
     {
@@ -2136,9 +2136,9 @@
     {
         "pais": "UA",
         "nombre": "Ucrania",
-        "casos_total": 226,
-        "casos_nuevos": 30,
-        "casos_activos": 216,
+        "casos_total": 310,
+        "casos_nuevos": 114,
+        "casos_activos": 300,
         "casos_criticos": 0,
         "fallecidos_total": 5,
         "fallecidos_nuevos": 0,
