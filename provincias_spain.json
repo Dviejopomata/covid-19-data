@@ -321,9 +321,9 @@
     },
     {
         "nombre": "Camboya",
-        "casos_total": 96,
-        "casos_nuevos": 0,
-        "casos_activos": 86,
+        "casos_total": 98,
+        "casos_nuevos": 2,
+        "casos_activos": 88,
         "casos_criticos": 1,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -381,13 +381,13 @@
     },
     {
         "nombre": "China",
-        "casos_total": 81285,
-        "casos_nuevos": 0,
-        "casos_activos": 3947,
-        "casos_criticos": 1235,
-        "fallecidos_total": 3287,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 74051
+        "casos_total": 81340,
+        "casos_nuevos": 55,
+        "casos_activos": 3460,
+        "casos_criticos": 1034,
+        "fallecidos_total": 3292,
+        "fallecidos_nuevos": 5,
+        "recuperados_total": 74588
     },
     {
         "nombre": "Colombia",
@@ -601,13 +601,13 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 85268,
-        "casos_nuevos": 17057,
-        "casos_activos": 82111,
+        "casos_total": 85344,
+        "casos_nuevos": 17133,
+        "casos_activos": 82181,
         "casos_criticos": 2122,
-        "fallecidos_total": 1293,
-        "fallecidos_nuevos": 266,
-        "recuperados_total": 1864
+        "fallecidos_total": 1295,
+        "fallecidos_nuevos": 268,
+        "recuperados_total": 1868
     },
     {
         "nombre": "Estonia",
@@ -841,9 +841,9 @@
     },
     {
         "nombre": "Honduras",
-        "casos_total": 52,
-        "casos_nuevos": 0,
-        "casos_activos": 51,
+        "casos_total": 67,
+        "casos_nuevos": 15,
+        "casos_activos": 66,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 1,
@@ -1383,17 +1383,17 @@
         "nombre": "Nigeria",
         "casos_total": 65,
         "casos_nuevos": 14,
-        "casos_activos": 62,
+        "casos_activos": 61,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 2
+        "recuperados_total": 3
     },
     {
         "nombre": "Noruega",
-        "casos_total": 3369,
-        "casos_nuevos": 285,
-        "casos_activos": 3349,
+        "casos_total": 3370,
+        "casos_nuevos": 286,
+        "casos_activos": 3350,
         "casos_criticos": 70,
         "fallecidos_total": 14,
         "fallecidos_nuevos": 0,
@@ -1923,10 +1923,10 @@
         "nombre": "Tunez",
         "casos_total": 197,
         "casos_nuevos": 24,
-        "casos_activos": 189,
+        "casos_activos": 190,
         "casos_criticos": 10,
-        "fallecidos_total": 6,
-        "fallecidos_nuevos": 1,
+        "fallecidos_total": 5,
+        "fallecidos_nuevos": 0,
         "recuperados_total": 2
     },
     {
