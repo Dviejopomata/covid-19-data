@@ -409,9 +409,9 @@
     {
         "pais": "CL",
         "nombre": "Chile",
-        "casos_total": 1610,
-        "casos_nuevos": 0,
-        "casos_activos": 1562,
+        "casos_total": 1909,
+        "casos_nuevos": 299,
+        "casos_activos": 1861,
         "casos_criticos": 7,
         "fallecidos_total": 5,
         "fallecidos_nuevos": 0,
@@ -497,12 +497,12 @@
     {
         "pais": "HR",
         "nombre": "Croacia",
-        "casos_total": 635,
-        "casos_nuevos": 49,
-        "casos_activos": 586,
+        "casos_total": 657,
+        "casos_nuevos": 71,
+        "casos_activos": 607,
         "casos_criticos": 14,
-        "fallecidos_total": 4,
-        "fallecidos_nuevos": 1,
+        "fallecidos_total": 5,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 45
     },
     {
@@ -642,10 +642,10 @@
         "nombre": "Espa\u00f1a",
         "casos_total": 72248,
         "casos_nuevos": 6529,
-        "casos_activos": 54273,
+        "casos_activos": 54151,
         "casos_criticos": 4165,
-        "fallecidos_total": 5690,
-        "fallecidos_nuevos": 552,
+        "fallecidos_total": 5812,
+        "fallecidos_nuevos": 674,
         "recuperados_total": 12285
     },
     {
@@ -662,13 +662,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 105019,
-        "casos_nuevos": 893,
-        "casos_activos": 100765,
+        "casos_total": 105161,
+        "casos_nuevos": 1035,
+        "casos_activos": 100901,
         "casos_criticos": 2494,
-        "fallecidos_total": 1717,
-        "fallecidos_nuevos": 21,
-        "recuperados_total": 2537
+        "fallecidos_total": 1722,
+        "fallecidos_nuevos": 26,
+        "recuperados_total": 2538
     },
     {
         "pais": "EE",
@@ -708,10 +708,10 @@
         "nombre": "Finlandia",
         "casos_total": 1167,
         "casos_nuevos": 126,
-        "casos_activos": 1149,
+        "casos_activos": 1148,
         "casos_criticos": 32,
-        "fallecidos_total": 8,
-        "fallecidos_nuevos": 1,
+        "fallecidos_total": 9,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 10
     },
     {
@@ -1674,10 +1674,10 @@
     {
         "pais": "AD",
         "nombre": "Principado de Andorra",
-        "casos_total": 267,
-        "casos_nuevos": 0,
-        "casos_activos": 263,
-        "casos_criticos": 11,
+        "casos_total": 308,
+        "casos_nuevos": 41,
+        "casos_activos": 304,
+        "casos_criticos": 10,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
         "recuperados_total": 1
@@ -2103,9 +2103,9 @@
     {
         "pais": "TT",
         "nombre": "Trinidad yTobago",
-        "casos_total": 66,
-        "casos_nuevos": 0,
-        "casos_activos": 63,
+        "casos_total": 74,
+        "casos_nuevos": 8,
+        "casos_activos": 71,
         "casos_criticos": 0,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
