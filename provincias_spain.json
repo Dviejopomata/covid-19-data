@@ -91,9 +91,9 @@
     },
     {
         "nombre": "Armenia",
-        "casos_total": 407,
-        "casos_nuevos": 0,
-        "casos_activos": 374,
+        "casos_total": 424,
+        "casos_nuevos": 17,
+        "casos_activos": 391,
         "casos_criticos": 6,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 2,
@@ -113,11 +113,11 @@
         "nombre": "Australia",
         "casos_total": 3969,
         "casos_nuevos": 334,
-        "casos_activos": 3783,
+        "casos_activos": 3727,
         "casos_criticos": 23,
         "fallecidos_total": 16,
         "fallecidos_nuevos": 2,
-        "recuperados_total": 170
+        "recuperados_total": 226
     },
     {
         "nombre": "Austria",
@@ -244,7 +244,7 @@
         "casos_total": 81,
         "casos_nuevos": 7,
         "casos_activos": 81,
-        "casos_criticos": 0,
+        "casos_criticos": 3,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
         "recuperados_total": 0
@@ -543,11 +543,11 @@
         "nombre": "Emiratos Arabes Unidos",
         "casos_total": 468,
         "casos_nuevos": 0,
-        "casos_activos": 414,
+        "casos_activos": 411,
         "casos_criticos": 2,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 52
+        "recuperados_total": 55
     },
     {
         "nombre": "Eritrea",
@@ -641,9 +641,9 @@
     },
     {
         "nombre": "Finlandia",
-        "casos_total": 1167,
-        "casos_nuevos": 0,
-        "casos_activos": 1148,
+        "casos_total": 1218,
+        "casos_nuevos": 51,
+        "casos_activos": 1199,
         "casos_criticos": 32,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
@@ -1091,9 +1091,9 @@
     },
     {
         "nombre": "Letonia",
-        "casos_total": 305,
-        "casos_nuevos": 0,
-        "casos_activos": 304,
+        "casos_total": 347,
+        "casos_nuevos": 42,
+        "casos_activos": 346,
         "casos_criticos": 3,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1441,12 +1441,12 @@
     },
     {
         "nombre": "Pakistan",
-        "casos_total": 1495,
-        "casos_nuevos": 0,
-        "casos_activos": 1454,
-        "casos_criticos": 7,
-        "fallecidos_total": 12,
-        "fallecidos_nuevos": 0,
+        "casos_total": 1526,
+        "casos_nuevos": 31,
+        "casos_activos": 1484,
+        "casos_criticos": 11,
+        "fallecidos_total": 13,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 29
     },
     {
@@ -1863,10 +1863,10 @@
         "nombre": "Tailandia",
         "casos_total": 1388,
         "casos_nuevos": 143,
-        "casos_activos": 1285,
+        "casos_activos": 1284,
         "casos_criticos": 11,
-        "fallecidos_total": 6,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 7,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 97
     },
     {
