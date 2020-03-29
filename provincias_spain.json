@@ -141,9 +141,9 @@
     },
     {
         "nombre": "Bahamas",
-        "casos_total": 11,
-        "casos_nuevos": 1,
-        "casos_activos": 10,
+        "casos_total": 14,
+        "casos_nuevos": 4,
+        "casos_activos": 13,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -343,11 +343,11 @@
         "nombre": "Canada",
         "casos_total": 6280,
         "casos_nuevos": 625,
-        "casos_activos": 5707,
+        "casos_activos": 5642,
         "casos_criticos": 120,
         "fallecidos_total": 65,
         "fallecidos_nuevos": 5,
-        "recuperados_total": 508
+        "recuperados_total": 573
     },
     {
         "nombre": "Catar",
@@ -601,12 +601,12 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 141169,
-        "casos_nuevos": 17591,
-        "casos_activos": 134276,
+        "casos_total": 141781,
+        "casos_nuevos": 18203,
+        "casos_activos": 134875,
         "casos_criticos": 2970,
-        "fallecidos_total": 2458,
-        "fallecidos_nuevos": 238,
+        "fallecidos_total": 2471,
+        "fallecidos_nuevos": 251,
         "recuperados_total": 4435
     },
     {
@@ -733,10 +733,10 @@
         "nombre": "Grecia",
         "casos_total": 1156,
         "casos_nuevos": 95,
-        "casos_activos": 1066,
+        "casos_activos": 1065,
         "casos_criticos": 66,
-        "fallecidos_total": 38,
-        "fallecidos_nuevos": 6,
+        "fallecidos_total": 39,
+        "fallecidos_nuevos": 7,
         "recuperados_total": 52
     },
     {
@@ -941,9 +941,9 @@
     },
     {
         "nombre": "Islas Caimanes",
-        "casos_total": 8,
-        "casos_nuevos": 0,
-        "casos_activos": 7,
+        "casos_total": 12,
+        "casos_nuevos": 4,
+        "casos_activos": 11,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -1424,7 +1424,7 @@
         "casos_total": 167,
         "casos_nuevos": 15,
         "casos_activos": 144,
-        "casos_criticos": 0,
+        "casos_criticos": 3,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
         "recuperados_total": 23
@@ -1454,7 +1454,7 @@
         "casos_total": 989,
         "casos_nuevos": 88,
         "casos_activos": 961,
-        "casos_criticos": 32,
+        "casos_criticos": 36,
         "fallecidos_total": 24,
         "fallecidos_nuevos": 7,
         "recuperados_total": 4
@@ -1573,10 +1573,10 @@
         "nombre": "Republica de Chipre",
         "casos_total": 214,
         "casos_nuevos": 35,
-        "casos_activos": 194,
+        "casos_activos": 193,
         "casos_criticos": 3,
-        "fallecidos_total": 5,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 6,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 15
     },
     {
@@ -1873,10 +1873,10 @@
         "nombre": "Taiwan",
         "casos_total": 298,
         "casos_nuevos": 15,
-        "casos_activos": 257,
+        "casos_activos": 256,
         "casos_criticos": 0,
-        "fallecidos_total": 2,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 3,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 39
     },
     {
