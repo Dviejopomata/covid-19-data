@@ -13,11 +13,11 @@
         "nombre": "Albania",
         "casos_total": 197,
         "casos_nuevos": 0,
-        "casos_activos": 156,
+        "casos_activos": 154,
         "casos_criticos": 3,
         "fallecidos_total": 10,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 31
+        "recuperados_total": 33
     },
     {
         "nombre": "Alemania",
@@ -121,9 +121,9 @@
     },
     {
         "nombre": "Austria",
-        "casos_total": 8271,
-        "casos_nuevos": 0,
-        "casos_activos": 7978,
+        "casos_total": 8346,
+        "casos_nuevos": 75,
+        "casos_activos": 8053,
         "casos_criticos": 135,
         "fallecidos_total": 68,
         "fallecidos_nuevos": 0,
@@ -363,10 +363,10 @@
         "nombre": "Chequia",
         "casos_total": 2663,
         "casos_nuevos": 32,
-        "casos_activos": 2641,
+        "casos_activos": 2639,
         "casos_criticos": 45,
-        "fallecidos_total": 11,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 13,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 11
     },
     {
@@ -1391,9 +1391,9 @@
     },
     {
         "nombre": "Noruega",
-        "casos_total": 4032,
-        "casos_nuevos": 17,
-        "casos_activos": 4002,
+        "casos_total": 4037,
+        "casos_nuevos": 22,
+        "casos_activos": 4007,
         "casos_criticos": 84,
         "fallecidos_total": 23,
         "fallecidos_nuevos": 0,
@@ -1641,13 +1641,13 @@
     },
     {
         "nombre": "Rusia",
-        "casos_total": 1264,
-        "casos_nuevos": 0,
-        "casos_activos": 1211,
+        "casos_total": 1534,
+        "casos_nuevos": 270,
+        "casos_activos": 1462,
         "casos_criticos": 8,
-        "fallecidos_total": 4,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 49
+        "fallecidos_total": 8,
+        "fallecidos_nuevos": 4,
+        "recuperados_total": 64
     },
     {
         "nombre": "San Bartolome",
@@ -1793,11 +1793,11 @@
         "nombre": "Sri Lanka",
         "casos_total": 115,
         "casos_nuevos": 2,
-        "casos_activos": 105,
+        "casos_activos": 104,
         "casos_criticos": 5,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 9
+        "recuperados_total": 10
     },
     {
         "nombre": "Suazilandia",
