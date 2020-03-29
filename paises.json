@@ -24,12 +24,12 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 61164,
-        "casos_nuevos": 3469,
-        "casos_activos": 51463,
+        "casos_total": 62095,
+        "casos_nuevos": 4400,
+        "casos_activos": 52359,
         "casos_criticos": 1979,
-        "fallecidos_total": 490,
-        "fallecidos_nuevos": 57,
+        "fallecidos_total": 525,
+        "fallecidos_nuevos": 92,
         "recuperados_total": 9211
     },
     {
@@ -486,13 +486,13 @@
     {
         "pais": "CI",
         "nombre": "Costa de Marfil",
-        "casos_total": 140,
-        "casos_nuevos": 39,
-        "casos_activos": 137,
+        "casos_total": 165,
+        "casos_nuevos": 64,
+        "casos_activos": 160,
         "casos_criticos": 0,
-        "fallecidos_total": 0,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 3
+        "fallecidos_total": 1,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 4
     },
     {
         "pais": "HR",
@@ -640,12 +640,12 @@
     {
         "pais": "ES",
         "nombre": "Espa\u00f1a",
-        "casos_total": 78898,
-        "casos_nuevos": 5663,
-        "casos_activos": 57571,
+        "casos_total": 80031,
+        "casos_nuevos": 6796,
+        "casos_activos": 58520,
         "casos_criticos": 4165,
-        "fallecidos_total": 6618,
-        "fallecidos_nuevos": 636,
+        "fallecidos_total": 6802,
+        "fallecidos_nuevos": 820,
         "recuperados_total": 14709
     },
     {
@@ -662,13 +662,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 138908,
-        "casos_nuevos": 15330,
-        "casos_activos": 132038,
+        "casos_total": 139217,
+        "casos_nuevos": 15639,
+        "casos_activos": 132342,
         "casos_criticos": 2948,
-        "fallecidos_total": 2438,
-        "fallecidos_nuevos": 218,
-        "recuperados_total": 4432
+        "fallecidos_total": 2440,
+        "fallecidos_nuevos": 220,
+        "recuperados_total": 4435
     },
     {
         "pais": "EE",
@@ -1344,9 +1344,9 @@
     {
         "pais": "MA",
         "nombre": "Marruecos",
-        "casos_total": 463,
-        "casos_nuevos": 61,
-        "casos_activos": 424,
+        "casos_total": 479,
+        "casos_nuevos": 77,
+        "casos_activos": 440,
         "casos_criticos": 1,
         "fallecidos_total": 26,
         "fallecidos_nuevos": 1,
