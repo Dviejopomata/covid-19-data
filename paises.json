@@ -662,9 +662,9 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 123351,
-        "casos_nuevos": 19225,
-        "casos_activos": 117909,
+        "casos_total": 123428,
+        "casos_nuevos": 19302,
+        "casos_activos": 117986,
         "casos_criticos": 2666,
         "fallecidos_total": 2211,
         "fallecidos_nuevos": 515,
@@ -1597,13 +1597,13 @@
     {
         "pais": "PA",
         "nombre": "Panama",
-        "casos_total": 786,
-        "casos_nuevos": 0,
-        "casos_activos": 770,
-        "casos_criticos": 20,
-        "fallecidos_total": 14,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 2
+        "casos_total": 901,
+        "casos_nuevos": 115,
+        "casos_activos": 880,
+        "casos_criticos": 32,
+        "fallecidos_total": 17,
+        "fallecidos_nuevos": 3,
+        "recuperados_total": 4
     },
     {
         "pais": "PG",
@@ -2160,10 +2160,10 @@
         "nombre": "Uruguay",
         "casos_total": 304,
         "casos_nuevos": 66,
-        "casos_activos": 304,
+        "casos_activos": 303,
         "casos_criticos": 9,
-        "fallecidos_total": 0,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 1,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 0
     },
     {
