@@ -113,10 +113,10 @@
         "nombre": "Australia",
         "casos_total": 4163,
         "casos_nuevos": 0,
-        "casos_activos": 3902,
+        "casos_activos": 3901,
         "casos_criticos": 28,
-        "fallecidos_total": 17,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 18,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 244
     },
     {
@@ -601,9 +601,9 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 142224,
+        "casos_total": 142637,
         "casos_nuevos": 177,
-        "casos_activos": 135180,
+        "casos_activos": 135593,
         "casos_criticos": 2970,
         "fallecidos_total": 2485,
         "fallecidos_nuevos": 1,
@@ -871,13 +871,13 @@
     },
     {
         "nombre": "India",
-        "casos_total": 1024,
-        "casos_nuevos": 0,
-        "casos_activos": 902,
+        "casos_total": 1071,
+        "casos_nuevos": 47,
+        "casos_activos": 942,
         "casos_criticos": 0,
-        "fallecidos_total": 27,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 95
+        "fallecidos_total": 29,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 100
     },
     {
         "nombre": "Indonesia",
