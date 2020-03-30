@@ -21,12 +21,12 @@
     },
     {
         "nombre": "Alemania",
-        "casos_total": 62435,
-        "casos_nuevos": 0,
-        "casos_activos": 52683,
+        "casos_total": 63079,
+        "casos_nuevos": 644,
+        "casos_activos": 53323,
         "casos_criticos": 1979,
-        "fallecidos_total": 541,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 545,
+        "fallecidos_nuevos": 4,
         "recuperados_total": 9211
     },
     {
@@ -83,10 +83,10 @@
         "nombre": "Argentina",
         "casos_total": 820,
         "casos_nuevos": 0,
-        "casos_activos": 709,
+        "casos_activos": 707,
         "casos_criticos": 0,
-        "fallecidos_total": 20,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 22,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 91
     },
     {
@@ -361,9 +361,9 @@
     },
     {
         "nombre": "Chequia",
-        "casos_total": 2866,
-        "casos_nuevos": 49,
-        "casos_activos": 2838,
+        "casos_total": 2878,
+        "casos_nuevos": 61,
+        "casos_activos": 2850,
         "casos_criticos": 52,
         "fallecidos_total": 17,
         "fallecidos_nuevos": 1,
@@ -453,11 +453,11 @@
         "nombre": "Croacia",
         "casos_total": 790,
         "casos_nuevos": 77,
-        "casos_activos": 729,
-        "casos_criticos": 26,
+        "casos_activos": 717,
+        "casos_criticos": 27,
         "fallecidos_total": 6,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 55
+        "recuperados_total": 67
     },
     {
         "nombre": "Crucero",
@@ -771,9 +771,9 @@
     },
     {
         "nombre": "Guatemala",
-        "casos_total": 34,
-        "casos_nuevos": 0,
-        "casos_activos": 23,
+        "casos_total": 36,
+        "casos_nuevos": 2,
+        "casos_activos": 25,
         "casos_criticos": 1,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -1011,9 +1011,9 @@
     },
     {
         "nombre": "Jamaica",
-        "casos_total": 32,
-        "casos_nuevos": 0,
-        "casos_activos": 29,
+        "casos_total": 34,
+        "casos_nuevos": 2,
+        "casos_activos": 31,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -1051,9 +1051,9 @@
     },
     {
         "nombre": "Kenia",
-        "casos_total": 42,
-        "casos_nuevos": 0,
-        "casos_activos": 40,
+        "casos_total": 50,
+        "casos_nuevos": 8,
+        "casos_activos": 48,
         "casos_criticos": 2,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -1434,7 +1434,7 @@
         "casos_total": 11750,
         "casos_nuevos": 884,
         "casos_activos": 10636,
-        "casos_criticos": 972,
+        "casos_criticos": 1053,
         "fallecidos_total": 864,
         "fallecidos_nuevos": 93,
         "recuperados_total": 250
@@ -1743,10 +1743,10 @@
         "nombre": "Serbia",
         "casos_total": 741,
         "casos_nuevos": 0,
-        "casos_activos": 685,
+        "casos_activos": 684,
         "casos_criticos": 25,
-        "fallecidos_total": 14,
-        "fallecidos_nuevos": 1,
+        "fallecidos_total": 15,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 42
     },
     {
@@ -1761,13 +1761,13 @@
     },
     {
         "nombre": "Singapur",
-        "casos_total": 844,
-        "casos_nuevos": 0,
-        "casos_activos": 629,
+        "casos_total": 879,
+        "casos_nuevos": 35,
+        "casos_activos": 648,
         "casos_criticos": 19,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 212
+        "recuperados_total": 228
     },
     {
         "nombre": "Siria",
@@ -1993,11 +1993,11 @@
         "nombre": "Vietnam",
         "casos_total": 203,
         "casos_nuevos": 9,
-        "casos_activos": 151,
+        "casos_activos": 148,
         "casos_criticos": 3,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 52
+        "recuperados_total": 55
     },
     {
         "nombre": "Zambia",
