@@ -136,11 +136,11 @@
         "nombre": "Austria",
         "casos_total": 9103,
         "casos_nuevos": 315,
-        "casos_activos": 8538,
-        "casos_criticos": 187,
-        "fallecidos_total": 86,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 479
+        "casos_activos": 8359,
+        "casos_criticos": 193,
+        "fallecidos_total": 108,
+        "fallecidos_nuevos": 22,
+        "recuperados_total": 636
     },
     {
         "pais": "AZ",
@@ -401,7 +401,7 @@
         "casos_total": 2859,
         "casos_nuevos": 42,
         "casos_activos": 2831,
-        "casos_criticos": 45,
+        "casos_criticos": 52,
         "fallecidos_total": 17,
         "fallecidos_nuevos": 1,
         "recuperados_total": 11
@@ -497,9 +497,9 @@
     {
         "pais": "HR",
         "nombre": "Croacia",
-        "casos_total": 713,
-        "casos_nuevos": 0,
-        "casos_activos": 652,
+        "casos_total": 715,
+        "casos_nuevos": 2,
+        "casos_activos": 654,
         "casos_criticos": 26,
         "fallecidos_total": 6,
         "fallecidos_nuevos": 0,
@@ -618,13 +618,13 @@
     {
         "pais": "SK",
         "nombre": "Eslovaquia",
-        "casos_total": 314,
-        "casos_nuevos": 0,
-        "casos_activos": 312,
+        "casos_total": 336,
+        "casos_nuevos": 22,
+        "casos_activos": 329,
         "casos_criticos": 1,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 2
+        "recuperados_total": 7
     },
     {
         "pais": "SI",
@@ -643,7 +643,7 @@
         "casos_total": 85195,
         "casos_nuevos": 5085,
         "casos_activos": 61075,
-        "casos_criticos": 4165,
+        "casos_criticos": 5231,
         "fallecidos_total": 7340,
         "fallecidos_nuevos": 537,
         "recuperados_total": 16780
@@ -1137,10 +1137,10 @@
         "nombre": "Jordania",
         "casos_total": 259,
         "casos_nuevos": 0,
-        "casos_activos": 238,
+        "casos_activos": 237,
         "casos_criticos": 3,
-        "fallecidos_total": 3,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 4,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 18
     },
     {
@@ -1333,9 +1333,9 @@
     {
         "pais": "MT",
         "nombre": "Malta",
-        "casos_total": 151,
-        "casos_nuevos": 0,
-        "casos_activos": 149,
+        "casos_total": 156,
+        "casos_nuevos": 5,
+        "casos_activos": 154,
         "casos_criticos": 4,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1388,13 +1388,13 @@
     {
         "pais": "YT",
         "nombre": "Mayotte",
-        "casos_total": 63,
-        "casos_nuevos": 0,
-        "casos_activos": 63,
-        "casos_criticos": 0,
+        "casos_total": 82,
+        "casos_nuevos": 19,
+        "casos_activos": 72,
+        "casos_criticos": 3,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 0
+        "recuperados_total": 10
     },
     {
         "pais": "MX",
@@ -1509,9 +1509,9 @@
     {
         "pais": "NE",
         "nombre": "Niger",
-        "casos_total": 18,
-        "casos_nuevos": 0,
-        "casos_activos": 15,
+        "casos_total": 22,
+        "casos_nuevos": 4,
+        "casos_activos": 19,
         "casos_criticos": 0,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 2,
@@ -1641,10 +1641,10 @@
     {
         "pais": "PF",
         "nombre": "Polinesia Francesa",
-        "casos_total": 30,
-        "casos_nuevos": 0,
-        "casos_activos": 30,
-        "casos_criticos": 0,
+        "casos_total": 35,
+        "casos_nuevos": 5,
+        "casos_activos": 35,
+        "casos_criticos": 2,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
         "recuperados_total": 0
@@ -1971,9 +1971,9 @@
     {
         "pais": "LK",
         "nombre": "Sri Lanka",
-        "casos_total": 120,
-        "casos_nuevos": 3,
-        "casos_activos": 104,
+        "casos_total": 122,
+        "casos_nuevos": 5,
+        "casos_activos": 106,
         "casos_criticos": 5,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -2136,12 +2136,12 @@
     {
         "pais": "UA",
         "nombre": "Ucrania",
-        "casos_total": 475,
-        "casos_nuevos": 0,
-        "casos_activos": 459,
+        "casos_total": 480,
+        "casos_nuevos": 5,
+        "casos_activos": 463,
         "casos_criticos": 0,
-        "fallecidos_total": 10,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 11,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 6
     },
     {
