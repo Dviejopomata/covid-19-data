@@ -70,11 +70,11 @@
         "nombre": "Arabia Saudita",
         "casos_total": 1453,
         "casos_nuevos": 154,
-        "casos_activos": 1379,
+        "casos_activos": 1330,
         "casos_criticos": 12,
         "fallecidos_total": 8,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 66
+        "recuperados_total": 115
     },
     {
         "pais": "DZ",
@@ -92,11 +92,11 @@
         "nombre": "Argentina",
         "casos_total": 820,
         "casos_nuevos": 0,
-        "casos_activos": 707,
+        "casos_activos": 570,
         "casos_criticos": 0,
         "fallecidos_total": 22,
         "fallecidos_nuevos": 2,
-        "recuperados_total": 91
+        "recuperados_total": 228
     },
     {
         "pais": "AM",
@@ -268,10 +268,10 @@
         "nombre": "Bolivia",
         "casos_total": 96,
         "casos_nuevos": 15,
-        "casos_activos": 93,
+        "casos_activos": 92,
         "casos_criticos": 3,
-        "fallecidos_total": 3,
-        "fallecidos_nuevos": 2,
+        "fallecidos_total": 4,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 0
     },
     {
@@ -288,12 +288,12 @@
     {
         "pais": "BR",
         "nombre": "Brasil",
-        "casos_total": 4316,
-        "casos_nuevos": 60,
-        "casos_activos": 4057,
+        "casos_total": 4330,
+        "casos_nuevos": 74,
+        "casos_activos": 4070,
         "casos_criticos": 296,
-        "fallecidos_total": 139,
-        "fallecidos_nuevos": 3,
+        "fallecidos_total": 140,
+        "fallecidos_nuevos": 4,
         "recuperados_total": 120
     },
     {
@@ -409,13 +409,13 @@
     {
         "pais": "CL",
         "nombre": "Chile",
-        "casos_total": 2139,
-        "casos_nuevos": 0,
-        "casos_activos": 2057,
-        "casos_criticos": 7,
-        "fallecidos_total": 7,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 75
+        "casos_total": 2449,
+        "casos_nuevos": 310,
+        "casos_activos": 2285,
+        "casos_criticos": 14,
+        "fallecidos_total": 8,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 156
     },
     {
         "pais": "CN",
@@ -588,7 +588,7 @@
         "casos_total": 30,
         "casos_nuevos": 6,
         "casos_activos": 30,
-        "casos_criticos": 0,
+        "casos_criticos": 5,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
         "recuperados_total": 0
@@ -598,11 +598,11 @@
         "nombre": "Emiratos Arabes Unidos",
         "casos_total": 611,
         "casos_nuevos": 41,
-        "casos_activos": 548,
+        "casos_activos": 545,
         "casos_criticos": 2,
         "fallecidos_total": 5,
         "fallecidos_nuevos": 2,
-        "recuperados_total": 58
+        "recuperados_total": 61
     },
     {
         "pais": "ER",
@@ -761,9 +761,9 @@
     {
         "pais": "GE",
         "nombre": "Georgia",
-        "casos_total": 98,
-        "casos_nuevos": 7,
-        "casos_activos": 80,
+        "casos_total": 100,
+        "casos_nuevos": 9,
+        "casos_activos": 82,
         "casos_criticos": 6,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1148,11 +1148,11 @@
         "nombre": "Kazajistan",
         "casos_total": 302,
         "casos_nuevos": 18,
-        "casos_activos": 281,
+        "casos_activos": 280,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 20
+        "recuperados_total": 21
     },
     {
         "pais": "KE",
@@ -1762,9 +1762,9 @@
     {
         "pais": "TD",
         "nombre": "Republica del Chad",
-        "casos_total": 3,
-        "casos_nuevos": 0,
-        "casos_activos": 3,
+        "casos_total": 5,
+        "casos_nuevos": 2,
+        "casos_activos": 5,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1919,7 +1919,7 @@
         "casos_total": 785,
         "casos_nuevos": 44,
         "casos_activos": 728,
-        "casos_criticos": 25,
+        "casos_criticos": 62,
         "fallecidos_total": 15,
         "fallecidos_nuevos": 2,
         "recuperados_total": 42
@@ -1973,10 +1973,10 @@
         "nombre": "Sri Lanka",
         "casos_total": 122,
         "casos_nuevos": 5,
-        "casos_activos": 106,
+        "casos_activos": 105,
         "casos_criticos": 5,
-        "fallecidos_total": 1,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 2,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 15
     },
     {
