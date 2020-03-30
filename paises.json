@@ -310,13 +310,13 @@
     {
         "pais": "BG",
         "nombre": "Bulgaria",
-        "casos_total": 346,
-        "casos_nuevos": 0,
-        "casos_activos": 324,
-        "casos_criticos": 8,
+        "casos_total": 354,
+        "casos_nuevos": 8,
+        "casos_activos": 331,
+        "casos_criticos": 13,
         "fallecidos_total": 8,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 14
+        "recuperados_total": 15
     },
     {
         "pais": "BF",
@@ -662,12 +662,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 142637,
-        "casos_nuevos": 177,
-        "casos_activos": 135593,
+        "casos_total": 142735,
+        "casos_nuevos": 275,
+        "casos_activos": 135688,
         "casos_criticos": 2970,
-        "fallecidos_total": 2485,
-        "fallecidos_nuevos": 1,
+        "fallecidos_total": 2488,
+        "fallecidos_nuevos": 4,
         "recuperados_total": 4559
     },
     {
@@ -926,9 +926,9 @@
     {
         "pais": "HN",
         "nombre": "Honduras",
-        "casos_total": 110,
-        "casos_nuevos": 0,
-        "casos_activos": 104,
+        "casos_total": 139,
+        "casos_nuevos": 29,
+        "casos_activos": 133,
         "casos_criticos": 4,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
@@ -1434,11 +1434,11 @@
         "nombre": "Mongolia",
         "casos_total": 12,
         "casos_nuevos": 0,
-        "casos_activos": 12,
+        "casos_activos": 10,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 0
+        "recuperados_total": 2
     },
     {
         "pais": "ME",
@@ -1586,12 +1586,12 @@
     {
         "pais": "PK",
         "nombre": "Pakistan",
-        "casos_total": 1597,
-        "casos_nuevos": 0,
-        "casos_activos": 1554,
+        "casos_total": 1625,
+        "casos_nuevos": 28,
+        "casos_activos": 1578,
         "casos_criticos": 11,
-        "fallecidos_total": 14,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 18,
+        "fallecidos_nuevos": 4,
         "recuperados_total": 29
     },
     {
@@ -2018,7 +2018,7 @@
         "casos_total": 3700,
         "casos_nuevos": 0,
         "casos_activos": 3574,
-        "casos_criticos": 255,
+        "casos_criticos": 281,
         "fallecidos_total": 110,
         "fallecidos_nuevos": 0,
         "recuperados_total": 16
