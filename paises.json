@@ -662,13 +662,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 146027,
-        "casos_nuevos": 2536,
-        "casos_activos": 138798,
-        "casos_criticos": 3087,
-        "fallecidos_total": 2650,
-        "fallecidos_nuevos": 67,
-        "recuperados_total": 4579
+        "casos_total": 152631,
+        "casos_nuevos": 9140,
+        "casos_activos": 144603,
+        "casos_criticos": 3402,
+        "fallecidos_total": 2817,
+        "fallecidos_nuevos": 234,
+        "recuperados_total": 5211
     },
     {
         "pais": "EE",
@@ -730,11 +730,11 @@
         "nombre": "Francia",
         "casos_total": 40174,
         "casos_nuevos": 0,
-        "casos_activos": 30366,
-        "casos_criticos": 4632,
-        "fallecidos_total": 2606,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 7202
+        "casos_activos": 29223,
+        "casos_criticos": 5056,
+        "fallecidos_total": 3024,
+        "fallecidos_nuevos": 418,
+        "recuperados_total": 7927
     },
     {
         "pais": "GA",
@@ -1091,10 +1091,10 @@
     {
         "pais": "IL",
         "nombre": "Israel",
-        "casos_total": 4347,
-        "casos_nuevos": 100,
-        "casos_activos": 4197,
-        "casos_criticos": 80,
+        "casos_total": 4695,
+        "casos_nuevos": 448,
+        "casos_activos": 4545,
+        "casos_criticos": 66,
         "fallecidos_total": 16,
         "fallecidos_nuevos": 1,
         "recuperados_total": 134
@@ -1135,13 +1135,13 @@
     {
         "pais": "JO",
         "nombre": "Jordania",
-        "casos_total": 259,
-        "casos_nuevos": 0,
+        "casos_total": 268,
+        "casos_nuevos": 9,
         "casos_activos": 237,
         "casos_criticos": 3,
-        "fallecidos_total": 4,
-        "fallecidos_nuevos": 1,
-        "recuperados_total": 18
+        "fallecidos_total": 5,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 26
     },
     {
         "pais": "KZ",
@@ -1993,12 +1993,12 @@
     {
         "pais": "ZA",
         "nombre": "Sudafrica",
-        "casos_total": 1280,
-        "casos_nuevos": 0,
-        "casos_activos": 1247,
+        "casos_total": 1326,
+        "casos_nuevos": 46,
+        "casos_activos": 1292,
         "casos_criticos": 7,
-        "fallecidos_total": 2,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 3,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 31
     },
     {
