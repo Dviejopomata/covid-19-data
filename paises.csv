@@ -1,5 +1,5 @@
 ,País,Casos totales,Nuevos casos,Casos activos,Recuperados,Casos críticos,Muertes hoy,Muertes
-0,Estados Unidos,142735,275,4559,135688,2970,4,2488
+0,Estados Unidos,142735,275,4562,135685,2970,4,2488
 1,Italia,97689,0,13030,73880,3906,0,10779
 2,China,81470,31,75700,2466,633,4,3304
 3,España,80110,0,14709,58598,4165,0,6803
@@ -12,7 +12,7 @@
 10,Belgica,10836,0,1359,9046,867,0,431
 11,Corea del Sur,9661,78,5228,4275,59,6,158
 12,Turquia,9217,0,105,8981,568,0,131
-13,Austria,8788,0,479,8223,187,0,86
+13,Austria,8813,25,479,8248,187,0,86
 14,Canada,6320,0,573,5682,120,0,65
 15,Portugal,5962,0,43,5800,89,0,119
 16,Noruega,4284,0,7,4251,91,0,26
@@ -60,7 +60,7 @@
 58,Emiratos Arabes Unidos,570,0,58,509,2,0,3
 59,Irak,547,0,143,362,0,0,42
 60,Argelia,511,0,31,449,0,0,31
-61,Barein,499,0,272,223,1,0,4
+61,Barein,500,1,272,224,1,0,4
 62,Marruecos,479,0,13,440,1,0,26
 63,Ucrania,475,0,6,459,0,0,10
 64,Lituania,460,0,1,452,2,0,7
@@ -69,14 +69,14 @@
 67,Armenia,424,0,30,391,6,0,3
 68,Bulgaria,354,8,15,331,13,0,8
 69,Letonia,347,0,1,346,3,0,0
-70,Principado de Andorra,334,0,1,327,10,0,6
-71,Bosnia y Herzegovina,323,0,8,309,1,0,6
+70,Bosnia y Herzegovina,340,17,8,326,1,0,6
+71,Principado de Andorra,334,0,6,322,10,0,6
 72,Eslovaquia,314,0,2,312,1,0,0
 73,Costa Rica,314,0,3,309,6,0,2
 74,Tunez,312,0,2,302,10,0,8
 75,Uruguay,304,0,0,303,9,0,1
 76,Taiwan,298,0,39,256,0,0,3
-77,Kazajistan,284,0,20,263,0,0,1
+77,Kazajistan,293,9,20,272,0,0,1
 78,Moldavia,263,0,2,259,33,0,2
 79,Republica de Macedonia,259,0,3,250,1,0,6
 80,Jordania,259,0,18,238,3,0,3
@@ -107,10 +107,10 @@
 105,Estado de Palestina,109,0,18,90,0,0,1
 106,Guadalupe,106,0,17,85,10,0,4
 107,Camboya,103,0,21,82,1,0,0
-108,Bolivia,96,15,0,95,3,0,1
-109,Bielorrusia,94,0,32,62,2,0,0
-110,Martinica,93,0,0,92,12,0,1
-111,Georgia,91,0,18,73,1,0,0
+108,Georgia,97,6,18,79,1,0,0
+109,Bolivia,96,15,0,95,3,0,1
+110,Bielorrusia,94,0,32,62,2,0,0
+111,Martinica,93,0,0,92,12,0,1
 112,Montenegro,85,0,0,84,1,0,1
 113,Kirguistan,84,0,0,84,0,0,0
 114,Consejo Danes para los Refugiados,81,0,2,71,0,0,8
