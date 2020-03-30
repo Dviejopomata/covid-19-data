@@ -1,12 +1,12 @@
 ,País,Casos totales,Nuevos casos,Casos activos,Recuperados,Casos críticos,Muertes hoy,Muertes
-0,Estados Unidos,142793,333,4562,135741,2970,6,2490
+0,Estados Unidos,144410,919,4573,137237,2970,18,2600
 1,Italia,97689,0,13030,73880,3906,0,10779
 2,España,85195,5085,16780,61075,5231,537,7340
 3,China,81470,31,75700,2466,633,4,3304
 4,Alemania,63929,1494,9211,54158,1979,19,560
 5,Iran,41495,3186,13911,24827,3511,117,2757
 6,Francia,40174,0,7202,30366,4632,0,2606
-7,Reino Unido,19522,0,135,18159,163,0,1228
+7,Reino Unido,19522,0,135,17972,163,187,1415
 8,Suiza,15526,697,1823,13370,301,33,333
 9,Belgica,11899,1063,1527,9859,927,82,513
 10,Paises Bajos,11750,884,250,10636,1053,93,864
@@ -38,13 +38,13 @@
 36,Indonesia,1414,129,75,1217,0,8,122
 37,Finlandia,1352,112,10,1329,49,2,13
 38,Sudafrica,1280,0,31,1247,7,0,2
-39,Grecia,1156,0,52,1065,66,0,39
+39,Grecia,1156,0,52,1063,66,2,41
 40,India,1071,47,100,942,0,2,29
 41,Islandia,1020,0,135,883,25,0,2
 42,Mexico,993,145,35,938,1,4,20
 43,Panama,989,0,4,961,36,0,24
-44,Singapur,879,35,228,648,19,0,3
-45,Republica Dominicana,859,0,3,817,0,0,39
+44,Republica Dominicana,901,42,4,855,0,3,42
+45,Singapur,879,35,228,648,19,0,3
 46,Peru,852,0,16,818,40,0,18
 47,Argentina,820,0,228,570,0,2,22
 48,Croacia,790,77,67,717,27,0,6
@@ -68,7 +68,7 @@
 66,Hungria,447,39,34,398,6,2,15
 67,Libano,446,8,32,403,3,1,11
 68,Letonia,376,29,1,375,3,0,0
-69,Bulgaria,354,8,15,331,13,0,8
+69,Bulgaria,354,8,17,329,13,0,8
 70,Bosnia y Herzegovina,354,31,17,329,1,2,8
 71,Eslovaquia,336,22,7,329,1,0,0
 72,Principado de Andorra,334,0,6,322,10,0,6
@@ -130,11 +130,11 @@
 128,Puerto Rico,39,0,1,36,0,0,2
 129,Macao,38,1,10,28,0,0,0
 130,Guatemala,36,2,10,25,1,0,1
-131,Polinesia Francesa,35,5,0,35,2,0,0
-132,Zambia,35,6,0,35,0,0,0
+131,Zambia,35,6,0,35,0,0,0
+132,Polinesia Francesa,35,5,0,35,2,0,0
 133,Jamaica,34,2,2,31,0,0,1
-134,Barbados,33,0,0,33,0,0,0
-135,Uganda,33,0,0,33,0,0,0
+134,Uganda,33,0,0,33,0,0,0
+135,Barbados,33,0,0,33,0,0,0
 136,Guam,32,0,0,31,0,0,1
 137,El Salvador,30,6,0,30,5,0,0
 138,Togo,30,5,1,28,0,0,1
@@ -159,45 +159,45 @@
 157,Mongolia,12,0,2,10,0,0,0
 158,Dominica,11,0,0,11,0,0,0
 159,Namibia,11,0,2,9,0,0,0
-160,Groenlandia,10,0,2,8,0,0,0
-161,Granada,9,0,0,9,0,0,0
-162,Suazilandia,9,0,0,9,0,0,0
-163,Santa Lucia,9,0,1,8,0,0,0
-164,Siria,9,0,0,8,0,0,1
-165,Laos,8,0,0,8,0,0,0
-166,Seychelles,8,0,0,8,0,0,0
-167,Surinam,8,0,0,8,0,0,0
-168,Mozambique,8,0,0,8,0,0,0
-169,Libia,8,0,0,8,0,0,0
-170,Guyana,8,0,0,7,0,0,1
-171,Curazao,8,0,2,5,0,0,1
-172,San Cristobal y Nieves,7,5,0,7,0,0,0
-173,Antigua y Barbuda,7,0,0,7,0,0,0
-174,Gabon,7,0,0,6,0,0,1
-175,Zimbabue,7,0,0,6,0,0,1
-176,Angola,7,0,0,5,0,0,2
-177,Santa Sede,6,0,0,6,0,0,0
+160,Curazao,11,3,2,8,0,0,1
+161,Groenlandia,10,0,2,8,0,0,0
+162,Granada,9,0,0,9,0,0,0
+163,Suazilandia,9,0,0,9,0,0,0
+164,Santa Lucia,9,0,1,8,0,0,0
+165,Siria,9,0,0,8,0,0,1
+166,Laos,8,0,0,8,0,0,0
+167,Seychelles,8,0,0,8,0,0,0
+168,Surinam,8,0,0,8,0,0,0
+169,Mozambique,8,0,0,8,0,0,0
+170,Libia,8,0,0,8,0,0,0
+171,Guinea-Bisau,8,6,0,8,0,0,0
+172,Guyana,8,0,0,7,0,0,1
+173,San Cristobal y Nieves,7,5,0,7,0,0,0
+174,Antigua y Barbuda,7,0,0,7,0,0,0
+175,Gabon,7,0,0,6,0,0,1
+176,Zimbabue,7,0,0,6,0,0,1
+177,Angola,7,0,0,5,0,0,2
 178,San Martin (Parte Holandesa),6,0,0,6,0,0,0
 179,Benin,6,0,0,6,0,0,0
-180,Cabo Verde,6,0,0,5,0,0,1
-181,Sudan,6,0,0,4,0,1,2
-182,San Bartolome,5,0,0,5,0,0,0
-183,Montserrat,5,0,0,5,0,0,0
-184,Fiyi,5,0,0,5,0,0,0
-185,Republica del Chad,5,2,0,5,0,0,0
-186,Nepal,5,0,1,4,0,0,0
-187,Mauritania,5,0,2,3,0,0,0
-188,Butan,4,0,0,4,0,0,0
-189,Islas Turcas y Caicos,4,0,0,4,0,0,0
-190,Gambia,4,0,0,3,0,0,1
+180,Santa Sede,6,0,0,6,0,0,0
+181,Cabo Verde,6,0,0,5,0,0,1
+182,Sudan,6,0,0,4,0,1,2
+183,San Bartolome,5,0,0,5,0,0,0
+184,Montserrat,5,0,0,5,0,0,0
+185,Fiyi,5,0,0,5,0,0,0
+186,Republica del Chad,5,2,0,5,0,0,0
+187,Nepal,5,0,1,4,0,0,0
+188,Mauritania,5,0,2,3,0,0,0
+189,Butan,4,0,0,4,0,0,0
+190,Islas Turcas y Caicos,4,0,0,4,0,0,0
 191,Nicaragua,4,0,0,3,0,0,1
-192,Republica de Africa Central,3,0,0,3,0,0,0
+192,Gambia,4,0,0,3,0,0,1
 193,Somalia,3,0,0,3,0,0,0
 194,Liberia,3,0,0,3,0,0,0
-195,Belice,2,0,0,2,0,0,0
+195,Republica de Africa Central,3,0,0,3,0,0,0
 196,Anguila,2,0,0,2,0,0,0
-197,Guinea-Bisau,2,0,0,2,0,0,0
-198,Islas Virgenes Britanicas,2,0,0,2,0,0,0
+197,Islas Virgenes Britanicas,2,0,0,2,0,0,0
+198,Belice,2,0,0,2,0,0,0
 199,Timor Oriental,1,0,0,1,0,0,0
 200,Papua Nueva Guinea,1,0,0,1,0,0,0
 201,San Vicente y las Granadinas,1,0,1,0,0,0,0
