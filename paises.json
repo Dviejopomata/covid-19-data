@@ -4,11 +4,11 @@
         "nombre": "Afganistan",
         "casos_total": 174,
         "casos_nuevos": 4,
-        "casos_activos": 168,
+        "casos_activos": 165,
         "casos_criticos": 0,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 2
+        "recuperados_total": 5
     },
     {
         "pais": "AL",
@@ -137,7 +137,7 @@
         "casos_total": 9772,
         "casos_nuevos": 154,
         "casos_activos": 9028,
-        "casos_criticos": 193,
+        "casos_criticos": 198,
         "fallecidos_total": 108,
         "fallecidos_nuevos": 0,
         "recuperados_total": 636
@@ -706,13 +706,13 @@
     {
         "pais": "PH",
         "nombre": "Filipinas",
-        "casos_total": 1546,
-        "casos_nuevos": 0,
-        "casos_activos": 1426,
+        "casos_total": 2084,
+        "casos_nuevos": 538,
+        "casos_activos": 1947,
         "casos_criticos": 1,
-        "fallecidos_total": 78,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 42
+        "fallecidos_total": 88,
+        "fallecidos_nuevos": 10,
+        "recuperados_total": 49
     },
     {
         "pais": "FI",
@@ -772,9 +772,9 @@
     {
         "pais": "GE",
         "nombre": "Georgia",
-        "casos_total": 108,
-        "casos_nuevos": 5,
-        "casos_activos": 87,
+        "casos_total": 110,
+        "casos_nuevos": 7,
+        "casos_activos": 89,
         "casos_criticos": 6,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -948,9 +948,9 @@
     {
         "pais": "HK",
         "nombre": "Hong Kong",
-        "casos_total": 683,
-        "casos_nuevos": 0,
-        "casos_activos": 561,
+        "casos_total": 714,
+        "casos_nuevos": 31,
+        "casos_activos": 592,
         "casos_criticos": 5,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
