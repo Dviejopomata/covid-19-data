@@ -21,12 +21,12 @@
     },
     {
         "nombre": "Alemania",
-        "casos_total": 66885,
-        "casos_nuevos": 0,
-        "casos_activos": 52740,
+        "casos_total": 67051,
+        "casos_nuevos": 166,
+        "casos_activos": 52901,
         "casos_criticos": 1979,
-        "fallecidos_total": 645,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 650,
+        "fallecidos_nuevos": 5,
         "recuperados_total": 13500
     },
     {
@@ -113,17 +113,17 @@
         "nombre": "Australia",
         "casos_total": 4557,
         "casos_nuevos": 97,
-        "casos_activos": 4294,
+        "casos_activos": 4201,
         "casos_criticos": 28,
         "fallecidos_total": 19,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 244
+        "recuperados_total": 337
     },
     {
         "nombre": "Austria",
-        "casos_total": 9634,
-        "casos_nuevos": 16,
-        "casos_activos": 8890,
+        "casos_total": 9705,
+        "casos_nuevos": 87,
+        "casos_activos": 8961,
         "casos_criticos": 193,
         "fallecidos_total": 108,
         "fallecidos_nuevos": 0,
@@ -223,11 +223,11 @@
         "nombre": "Bielorrusia",
         "casos_total": 152,
         "casos_nuevos": 0,
-        "casos_activos": 120,
+        "casos_activos": 105,
         "casos_criticos": 2,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 32
+        "recuperados_total": 47
     },
     {
         "nombre": "Birmania",
@@ -371,12 +371,12 @@
     },
     {
         "nombre": "Chequia",
-        "casos_total": 3001,
-        "casos_nuevos": 0,
+        "casos_total": 3002,
+        "casos_nuevos": 1,
         "casos_activos": 2953,
         "casos_criticos": 52,
-        "fallecidos_total": 23,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 24,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 25
     },
     {
@@ -871,13 +871,13 @@
     },
     {
         "nombre": "Hungria",
-        "casos_total": 447,
-        "casos_nuevos": 0,
-        "casos_activos": 398,
+        "casos_total": 492,
+        "casos_nuevos": 45,
+        "casos_activos": 439,
         "casos_criticos": 6,
-        "fallecidos_total": 15,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 34
+        "fallecidos_total": 16,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 37
     },
     {
         "nombre": "India",
@@ -1101,9 +1101,9 @@
     },
     {
         "nombre": "Letonia",
-        "casos_total": 376,
-        "casos_nuevos": 0,
-        "casos_activos": 375,
+        "casos_total": 398,
+        "casos_nuevos": 22,
+        "casos_activos": 397,
         "casos_criticos": 3,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1154,7 +1154,7 @@
         "casos_total": 533,
         "casos_nuevos": 42,
         "casos_activos": 519,
-        "casos_criticos": 5,
+        "casos_criticos": 27,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
         "recuperados_total": 7
@@ -1803,11 +1803,11 @@
         "nombre": "Sri Lanka",
         "casos_total": 122,
         "casos_nuevos": 0,
-        "casos_activos": 105,
+        "casos_activos": 104,
         "casos_criticos": 5,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 15
+        "recuperados_total": 16
     },
     {
         "nombre": "Suazilandia",
@@ -1873,11 +1873,11 @@
         "nombre": "Tailandia",
         "casos_total": 1651,
         "casos_nuevos": 127,
-        "casos_activos": 1412,
-        "casos_criticos": 11,
+        "casos_activos": 1299,
+        "casos_criticos": 23,
         "fallecidos_total": 10,
         "fallecidos_nuevos": 1,
-        "recuperados_total": 229
+        "recuperados_total": 342
     },
     {
         "nombre": "Taiwan",
@@ -1893,10 +1893,10 @@
         "nombre": "Tanzania",
         "casos_total": 19,
         "casos_nuevos": 0,
-        "casos_activos": 18,
+        "casos_activos": 17,
         "casos_criticos": 0,
-        "fallecidos_total": 0,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 1,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 1
     },
     {
@@ -1951,9 +1951,9 @@
     },
     {
         "nombre": "Ucrania",
-        "casos_total": 548,
-        "casos_nuevos": 0,
-        "casos_activos": 527,
+        "casos_total": 549,
+        "casos_nuevos": 1,
+        "casos_activos": 528,
         "casos_criticos": 0,
         "fallecidos_total": 13,
         "fallecidos_nuevos": 0,
@@ -1981,9 +1981,9 @@
     },
     {
         "nombre": "Uzbekistan",
-        "casos_total": 150,
-        "casos_nuevos": 1,
-        "casos_activos": 141,
+        "casos_total": 158,
+        "casos_nuevos": 9,
+        "casos_activos": 149,
         "casos_criticos": 8,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
@@ -2021,9 +2021,9 @@
     },
     {
         "nombre": "Zimbabue",
-        "casos_total": 7,
-        "casos_nuevos": 0,
-        "casos_activos": 6,
+        "casos_total": 8,
+        "casos_nuevos": 1,
+        "casos_activos": 7,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
