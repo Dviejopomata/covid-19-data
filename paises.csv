@@ -1,5 +1,5 @@
 ,País,Casos totales,Nuevos casos,Casos activos,Recuperados,Casos críticos,Muertes hoy,Muertes
-0,Estados Unidos,164248,404,5506,155578,3512,8,3164
+0,Estados Unidos,164253,409,5506,155582,3512,9,3165
 1,Italia,101739,0,14620,75528,3981,0,11591
 2,España,87956,0,16780,63460,5231,0,7716
 3,China,81518,79,76052,2161,528,5,3305
@@ -17,8 +17,8 @@
 15,Portugal,6408,0,43,6225,164,0,140
 16,Israel,4695,0,161,4518,79,0,16
 17,Brasil,4661,31,127,4369,296,2,165
-18,Noruega,4462,17,12,4418,97,0,32
-19,Australia,4460,0,244,4197,28,0,19
+18,Australia,4514,54,244,4251,28,0,19
+19,Noruega,4462,17,12,4418,97,0,32
 20,Suecia,4028,0,16,3866,306,0,146
 21,Chequia,3001,0,25,2953,52,0,23
 22,Irlanda,2910,0,5,2851,84,0,54
@@ -97,7 +97,7 @@
 95,Malta,156,0,2,154,4,0,0
 96,Ghana,152,0,2,145,1,0,5
 97,Bielorrusia,152,0,32,120,2,0,0
-98,Uzbekistan,149,0,7,140,8,0,2
+98,Uzbekistan,150,1,7,141,8,0,2
 99,Honduras,141,2,3,131,4,0,7
 100,Camerun,139,0,5,128,0,0,6
 101,Venezuela,135,0,39,93,6,0,3
@@ -113,7 +113,7 @@
 111,Kirguistan,94,0,3,91,0,0,0
 112,Martinica,93,0,0,92,12,0,1
 113,Montenegro,91,0,0,90,1,0,1
-114,Trinidad yTobago,83,0,1,79,0,0,3
+114,Trinidad yTobago,85,2,1,81,0,0,3
 115,Mayotte,82,0,10,72,3,0,0
 116,Consejo Danes para los Refugiados,81,0,2,71,0,0,8
 117,Ruanda,70,0,0,70,0,0,0
@@ -135,8 +135,8 @@
 133,Zambia,35,0,0,35,0,0,0
 134,Barbados,34,1,0,34,0,0,0
 135,Uganda,33,0,0,33,0,0,0
-136,Guam,32,0,0,31,0,0,1
-137,El Salvador,30,0,0,30,5,0,0
+136,El Salvador,32,2,0,32,5,0,0
+137,Guam,32,0,0,31,0,0,1
 138,Togo,30,0,1,28,0,0,1
 139,Bermudas,27,0,2,25,0,0,0
 140,Niger,27,0,0,24,0,0,3
@@ -193,11 +193,11 @@
 191,Nicaragua,4,0,0,3,0,0,1
 192,Gambia,4,0,0,3,0,0,1
 193,Botsuana,3,0,0,3,0,0,0
-194,Republica de Africa Central,3,0,0,3,0,0,0
-195,Somalia,3,0,0,3,0,0,0
+194,Islas Virgenes Britanicas,3,1,0,3,0,0,0
+195,Republica de Africa Central,3,0,0,3,0,0,0
 196,Liberia,3,0,0,3,0,0,0
 197,Belice,3,0,0,3,0,0,0
-198,Islas Virgenes Britanicas,3,1,0,3,0,0,0
+198,Somalia,3,0,1,2,0,0,0
 199,Anguila,2,0,0,2,0,0,0
 200,Timor Oriental,1,0,0,1,0,0,0
 201,Papua Nueva Guinea,1,0,0,1,0,0,0
