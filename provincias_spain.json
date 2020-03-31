@@ -121,9 +121,9 @@
     },
     {
         "nombre": "Austria",
-        "casos_total": 9772,
-        "casos_nuevos": 154,
-        "casos_activos": 8549,
+        "casos_total": 9851,
+        "casos_nuevos": 233,
+        "casos_activos": 8628,
         "casos_criticos": 198,
         "fallecidos_total": 128,
         "fallecidos_nuevos": 20,
@@ -151,13 +151,13 @@
     },
     {
         "nombre": "Banglades",
-        "casos_total": 49,
-        "casos_nuevos": 0,
-        "casos_activos": 25,
+        "casos_total": 51,
+        "casos_nuevos": 2,
+        "casos_activos": 21,
         "casos_criticos": 1,
         "fallecidos_total": 5,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 19
+        "recuperados_total": 25
     },
     {
         "nombre": "Barbados",
@@ -183,11 +183,11 @@
         "nombre": "Belgica",
         "casos_total": 12775,
         "casos_nuevos": 876,
-        "casos_activos": 10374,
+        "casos_activos": 10372,
         "casos_criticos": 1021,
         "fallecidos_total": 705,
         "fallecidos_nuevos": 192,
-        "recuperados_total": 1696
+        "recuperados_total": 1698
     },
     {
         "nombre": "Belice",
@@ -581,23 +581,23 @@
     },
     {
         "nombre": "Eslovenia",
-        "casos_total": 756,
-        "casos_nuevos": 0,
-        "casos_activos": 734,
-        "casos_criticos": 28,
-        "fallecidos_total": 12,
-        "fallecidos_nuevos": 1,
+        "casos_total": 802,
+        "casos_nuevos": 46,
+        "casos_activos": 777,
+        "casos_criticos": 24,
+        "fallecidos_total": 15,
+        "fallecidos_nuevos": 4,
         "recuperados_total": 10
     },
     {
         "nombre": "Espa\u00f1a",
-        "casos_total": 87956,
-        "casos_nuevos": 0,
-        "casos_activos": 63460,
-        "casos_criticos": 5231,
-        "fallecidos_total": 7716,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 16780
+        "casos_total": 94417,
+        "casos_nuevos": 6461,
+        "casos_activos": 66969,
+        "casos_criticos": 5607,
+        "fallecidos_total": 8189,
+        "fallecidos_nuevos": 473,
+        "recuperados_total": 19259
     },
     {
         "nombre": "Estado de Palestina",
@@ -651,9 +651,9 @@
     },
     {
         "nombre": "Finlandia",
-        "casos_total": 1384,
-        "casos_nuevos": 32,
-        "casos_activos": 1361,
+        "casos_total": 1418,
+        "casos_nuevos": 66,
+        "casos_activos": 1395,
         "casos_criticos": 49,
         "fallecidos_total": 13,
         "fallecidos_nuevos": 0,
@@ -911,13 +911,13 @@
     },
     {
         "nombre": "Iran",
-        "casos_total": 41495,
-        "casos_nuevos": 0,
-        "casos_activos": 24827,
-        "casos_criticos": 3511,
-        "fallecidos_total": 2757,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 13911
+        "casos_total": 44605,
+        "casos_nuevos": 3110,
+        "casos_activos": 27051,
+        "casos_criticos": 3703,
+        "fallecidos_total": 2898,
+        "fallecidos_nuevos": 141,
+        "recuperados_total": 14656
     },
     {
         "nombre": "Irlanda",
@@ -1054,7 +1054,7 @@
         "casos_total": 336,
         "casos_nuevos": 34,
         "casos_activos": 312,
-        "casos_criticos": 0,
+        "casos_criticos": 6,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 1,
         "recuperados_total": 22
@@ -1401,12 +1401,12 @@
     },
     {
         "nombre": "Noruega",
-        "casos_total": 4465,
-        "casos_nuevos": 20,
-        "casos_activos": 4421,
+        "casos_total": 4494,
+        "casos_nuevos": 49,
+        "casos_activos": 4448,
         "casos_criticos": 97,
-        "fallecidos_total": 32,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 34,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 12
     },
     {
@@ -1641,13 +1641,13 @@
     },
     {
         "nombre": "Rumania",
-        "casos_total": 2109,
-        "casos_nuevos": 0,
-        "casos_activos": 1831,
-        "casos_criticos": 33,
+        "casos_total": 2245,
+        "casos_nuevos": 136,
+        "casos_activos": 1956,
+        "casos_criticos": 36,
         "fallecidos_total": 69,
         "fallecidos_nuevos": 4,
-        "recuperados_total": 209
+        "recuperados_total": 220
     },
     {
         "nombre": "Rusia",
@@ -1801,9 +1801,9 @@
     },
     {
         "nombre": "Sri Lanka",
-        "casos_total": 122,
-        "casos_nuevos": 0,
-        "casos_activos": 104,
+        "casos_total": 129,
+        "casos_nuevos": 7,
+        "casos_activos": 111,
         "casos_criticos": 5,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
