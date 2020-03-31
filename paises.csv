@@ -1,5 +1,5 @@
 ,País,Casos totales,Nuevos casos,Casos activos,Recuperados,Casos críticos,Muertes hoy,Muertes
-0,Estados Unidos,164248,404,5506,155579,3512,7,3163
+0,Estados Unidos,164248,404,5506,155578,3512,8,3164
 1,Italia,101739,0,14620,75528,3981,0,11591
 2,España,87956,0,16780,63460,5231,0,7716
 3,China,81518,79,76052,2161,528,5,3305
@@ -13,7 +13,7 @@
 11,Turquia,10827,0,162,10497,568,0,168
 12,Corea del Sur,9786,125,5408,4216,55,4,162
 13,Austria,9618,0,636,8874,193,0,108
-14,Canada,7448,0,1093,6266,120,0,89
+14,Canada,7474,26,1114,6268,120,3,92
 15,Portugal,6408,0,43,6225,164,0,140
 16,Israel,4695,0,161,4518,79,0,16
 17,Brasil,4661,31,127,4369,296,2,165
@@ -70,7 +70,7 @@
 68,Letonia,376,0,1,375,3,0,0
 69,Principado de Andorra,370,0,10,352,10,0,8
 70,Bosnia y Herzegovina,368,0,17,341,1,0,10
-71,Tunez,362,0,3,349,10,0,10
+71,Tunez,362,0,3,350,10,0,9
 72,Bulgaria,359,0,17,334,13,0,8
 73,Eslovaquia,336,0,7,329,1,0,0
 74,Costa Rica,330,0,4,324,7,0,2
@@ -193,12 +193,12 @@
 191,Nicaragua,4,0,0,3,0,0,1
 192,Gambia,4,0,0,3,0,0,1
 193,Botsuana,3,0,0,3,0,0,0
-194,Belice,3,0,0,3,0,0,0
-195,Republica de Africa Central,3,0,0,3,0,0,0
-196,Somalia,3,0,0,3,0,0,0
-197,Liberia,3,0,0,3,0,0,0
-198,Anguila,2,0,0,2,0,0,0
-199,Islas Virgenes Britanicas,2,0,0,2,0,0,0
+194,Republica de Africa Central,3,0,0,3,0,0,0
+195,Somalia,3,0,0,3,0,0,0
+196,Liberia,3,0,0,3,0,0,0
+197,Belice,3,0,0,3,0,0,0
+198,Islas Virgenes Britanicas,3,1,0,3,0,0,0
+199,Anguila,2,0,0,2,0,0,0
 200,Timor Oriental,1,0,0,1,0,0,0
 201,Papua Nueva Guinea,1,0,0,1,0,0,0
 202,San Vicente y las Granadinas,1,0,1,0,0,0,0

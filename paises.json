@@ -387,13 +387,13 @@
     {
         "pais": "CA",
         "nombre": "Canada",
-        "casos_total": 7448,
-        "casos_nuevos": 0,
-        "casos_activos": 6266,
+        "casos_total": 7474,
+        "casos_nuevos": 26,
+        "casos_activos": 6268,
         "casos_criticos": 120,
-        "fallecidos_total": 89,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1093
+        "fallecidos_total": 92,
+        "fallecidos_nuevos": 3,
+        "recuperados_total": 1114
     },
     {
         "pais": "QA",
@@ -675,10 +675,10 @@
         "nombre": "Estados Unidos",
         "casos_total": 164248,
         "casos_nuevos": 404,
-        "casos_activos": 155579,
+        "casos_activos": 155578,
         "casos_criticos": 3512,
-        "fallecidos_total": 3163,
-        "fallecidos_nuevos": 7,
+        "fallecidos_total": 3164,
+        "fallecidos_nuevos": 8,
         "recuperados_total": 5506
     },
     {
@@ -1080,9 +1080,9 @@
     {
         "pais": "VG",
         "nombre": "Islas Virgenes Britanicas",
-        "casos_total": 2,
-        "casos_nuevos": 0,
-        "casos_activos": 2,
+        "casos_total": 3,
+        "casos_nuevos": 1,
+        "casos_activos": 3,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -2127,9 +2127,9 @@
         "nombre": "Tunez",
         "casos_total": 362,
         "casos_nuevos": 0,
-        "casos_activos": 349,
+        "casos_activos": 350,
         "casos_criticos": 10,
-        "fallecidos_total": 10,
+        "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
         "recuperados_total": 3
     },
