@@ -257,21 +257,21 @@
         "nombre": "Birmania",
         "casos_total": 14,
         "casos_nuevos": 0,
-        "casos_activos": 14,
+        "casos_activos": 13,
         "casos_criticos": 0,
-        "fallecidos_total": 0,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 1,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 0
     },
     {
         "pais": "BO",
         "nombre": "Bolivia",
-        "casos_total": 97,
-        "casos_nuevos": 0,
-        "casos_activos": 93,
+        "casos_total": 107,
+        "casos_nuevos": 10,
+        "casos_activos": 101,
         "casos_criticos": 3,
-        "fallecidos_total": 4,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 6,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 0
     },
     {
@@ -576,11 +576,11 @@
         "nombre": "Ecuador",
         "casos_total": 1966,
         "casos_nuevos": 0,
-        "casos_activos": 1901,
+        "casos_activos": 1850,
         "casos_criticos": 58,
         "fallecidos_total": 62,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 3
+        "recuperados_total": 54
     },
     {
         "pais": "EG",
@@ -675,11 +675,11 @@
         "nombre": "Estados Unidos",
         "casos_total": 164253,
         "casos_nuevos": 409,
-        "casos_activos": 155581,
+        "casos_activos": 155579,
         "casos_criticos": 3512,
-        "fallecidos_total": 3166,
-        "fallecidos_nuevos": 10,
-        "recuperados_total": 5506
+        "fallecidos_total": 3167,
+        "fallecidos_nuevos": 11,
+        "recuperados_total": 5507
     },
     {
         "pais": "EE",
