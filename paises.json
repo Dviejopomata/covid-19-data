@@ -134,9 +134,9 @@
     {
         "pais": "AT",
         "nombre": "Austria",
-        "casos_total": 9851,
-        "casos_nuevos": 233,
-        "casos_activos": 8628,
+        "casos_total": 9876,
+        "casos_nuevos": 258,
+        "casos_activos": 8653,
         "casos_criticos": 198,
         "fallecidos_total": 128,
         "fallecidos_nuevos": 20,
@@ -202,11 +202,11 @@
         "nombre": "Belgica",
         "casos_total": 12775,
         "casos_nuevos": 876,
-        "casos_activos": 10372,
+        "casos_activos": 10374,
         "casos_criticos": 1021,
         "fallecidos_total": 705,
         "fallecidos_nuevos": 192,
-        "recuperados_total": 1698
+        "recuperados_total": 1696
     },
     {
         "pais": "BZ",
@@ -554,10 +554,10 @@
         "nombre": "Dinamarca",
         "casos_total": 2815,
         "casos_nuevos": 238,
-        "casos_activos": 2737,
-        "casos_criticos": 137,
-        "fallecidos_total": 77,
-        "fallecidos_nuevos": 0,
+        "casos_activos": 2724,
+        "casos_criticos": 145,
+        "fallecidos_total": 90,
+        "fallecidos_nuevos": 13,
         "recuperados_total": 1
     },
     {
@@ -1149,7 +1149,7 @@
         "casos_total": 268,
         "casos_nuevos": 0,
         "casos_activos": 237,
-        "casos_criticos": 3,
+        "casos_criticos": 5,
         "fallecidos_total": 5,
         "fallecidos_nuevos": 0,
         "recuperados_total": 26
@@ -1347,7 +1347,7 @@
         "casos_total": 169,
         "casos_nuevos": 13,
         "casos_activos": 167,
-        "casos_criticos": 4,
+        "casos_criticos": 2,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
         "recuperados_total": 2
@@ -2037,12 +2037,12 @@
     {
         "pais": "CH",
         "nombre": "Suiza",
-        "casos_total": 15922,
-        "casos_nuevos": 0,
-        "casos_activos": 13740,
+        "casos_total": 16176,
+        "casos_nuevos": 254,
+        "casos_activos": 13980,
         "casos_criticos": 301,
-        "fallecidos_total": 359,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 373,
+        "fallecidos_nuevos": 14,
         "recuperados_total": 1823
     },
     {
@@ -2202,9 +2202,9 @@
     {
         "pais": "VN",
         "nombre": "Vietnam",
-        "casos_total": 204,
-        "casos_nuevos": 0,
-        "casos_activos": 149,
+        "casos_total": 207,
+        "casos_nuevos": 3,
+        "casos_activos": 152,
         "casos_criticos": 3,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
