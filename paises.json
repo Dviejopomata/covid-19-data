@@ -24,12 +24,12 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 71690,
-        "casos_nuevos": 4805,
-        "casos_activos": 54816,
+        "casos_total": 71808,
+        "casos_nuevos": 4923,
+        "casos_activos": 54933,
         "casos_criticos": 2675,
-        "fallecidos_total": 774,
-        "fallecidos_nuevos": 129,
+        "fallecidos_total": 775,
+        "fallecidos_nuevos": 130,
         "recuperados_total": 16100
     },
     {
@@ -123,12 +123,12 @@
     {
         "pais": "AU",
         "nombre": "Australia",
-        "casos_total": 4561,
-        "casos_nuevos": 101,
-        "casos_activos": 4205,
+        "casos_total": 4711,
+        "casos_nuevos": 251,
+        "casos_activos": 4354,
         "casos_criticos": 28,
-        "fallecidos_total": 19,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 20,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 337
     },
     {
@@ -443,11 +443,11 @@
         "pais": "CN",
         "nombre": "China",
         "casos_total": 81518,
-        "casos_nuevos": 79,
+        "casos_nuevos": 0,
         "casos_activos": 2161,
         "casos_criticos": 528,
         "fallecidos_total": 3305,
-        "fallecidos_nuevos": 5,
+        "fallecidos_nuevos": 0,
         "recuperados_total": 76052
     },
     {
