@@ -61,9 +61,9 @@
     },
     {
         "nombre": "Arabia Saudita",
-        "casos_total": 1453,
-        "casos_nuevos": 0,
-        "casos_activos": 1330,
+        "casos_total": 1563,
+        "casos_nuevos": 110,
+        "casos_activos": 1440,
         "casos_criticos": 12,
         "fallecidos_total": 8,
         "fallecidos_nuevos": 0,
@@ -131,12 +131,12 @@
     },
     {
         "nombre": "Azerbaiyan",
-        "casos_total": 273,
-        "casos_nuevos": 0,
-        "casos_activos": 243,
-        "casos_criticos": 23,
-        "fallecidos_total": 4,
-        "fallecidos_nuevos": 0,
+        "casos_total": 298,
+        "casos_nuevos": 25,
+        "casos_activos": 267,
+        "casos_criticos": 11,
+        "fallecidos_total": 5,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 26
     },
     {
@@ -253,10 +253,10 @@
         "nombre": "Bosnia y Herzegovina",
         "casos_total": 411,
         "casos_nuevos": 43,
-        "casos_activos": 384,
+        "casos_activos": 382,
         "casos_criticos": 1,
-        "fallecidos_total": 10,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 12,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 17
     },
     {
@@ -611,12 +611,12 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 164424,
-        "casos_nuevos": 580,
-        "casos_activos": 155743,
+        "casos_total": 164435,
+        "casos_nuevos": 591,
+        "casos_activos": 155753,
         "casos_criticos": 3512,
-        "fallecidos_total": 3174,
-        "fallecidos_nuevos": 18,
+        "fallecidos_total": 3175,
+        "fallecidos_nuevos": 19,
         "recuperados_total": 5507
     },
     {
@@ -1241,13 +1241,13 @@
     },
     {
         "nombre": "Martinica",
-        "casos_total": 93,
-        "casos_nuevos": 0,
-        "casos_activos": 92,
-        "casos_criticos": 12,
-        "fallecidos_total": 1,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 0
+        "casos_total": 119,
+        "casos_nuevos": 26,
+        "casos_activos": 90,
+        "casos_criticos": 15,
+        "fallecidos_total": 2,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 27
     },
     {
         "nombre": "Mauricio",
@@ -1271,12 +1271,12 @@
     },
     {
         "nombre": "Mayotte",
-        "casos_total": 82,
-        "casos_nuevos": 0,
-        "casos_activos": 72,
+        "casos_total": 94,
+        "casos_nuevos": 12,
+        "casos_activos": 83,
         "casos_criticos": 3,
-        "fallecidos_total": 0,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 1,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 10
     },
     {
@@ -1401,12 +1401,12 @@
     },
     {
         "nombre": "Noruega",
-        "casos_total": 4495,
-        "casos_nuevos": 50,
-        "casos_activos": 4448,
+        "casos_total": 4592,
+        "casos_nuevos": 147,
+        "casos_activos": 4544,
         "casos_criticos": 97,
-        "fallecidos_total": 34,
-        "fallecidos_nuevos": 2,
+        "fallecidos_total": 35,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 13
     },
     {
@@ -1511,12 +1511,12 @@
     },
     {
         "nombre": "Polonia",
-        "casos_total": 2132,
-        "casos_nuevos": 77,
-        "casos_activos": 2094,
+        "casos_total": 2215,
+        "casos_nuevos": 160,
+        "casos_activos": 2176,
         "casos_criticos": 50,
-        "fallecidos_total": 31,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 32,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 7
     },
     {
@@ -1624,7 +1624,7 @@
         "casos_total": 224,
         "casos_nuevos": 0,
         "casos_activos": 223,
-        "casos_criticos": 0,
+        "casos_criticos": 4,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
         "recuperados_total": 1
@@ -1643,10 +1643,10 @@
         "nombre": "Rumania",
         "casos_total": 2245,
         "casos_nuevos": 136,
-        "casos_activos": 1956,
+        "casos_activos": 1953,
         "casos_criticos": 62,
-        "fallecidos_total": 69,
-        "fallecidos_nuevos": 4,
+        "fallecidos_total": 72,
+        "fallecidos_nuevos": 7,
         "recuperados_total": 220
     },
     {
@@ -1781,10 +1781,10 @@
     },
     {
         "nombre": "Singapur",
-        "casos_total": 879,
-        "casos_nuevos": 0,
-        "casos_activos": 648,
-        "casos_criticos": 19,
+        "casos_total": 926,
+        "casos_nuevos": 47,
+        "casos_activos": 695,
+        "casos_criticos": 22,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
         "recuperados_total": 228
