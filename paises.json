@@ -156,12 +156,12 @@
     {
         "pais": "BS",
         "nombre": "Bahamas",
-        "casos_total": 15,
-        "casos_nuevos": 1,
-        "casos_activos": 14,
+        "casos_total": 21,
+        "casos_nuevos": 7,
+        "casos_activos": 19,
         "casos_criticos": 0,
-        "fallecidos_total": 0,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 1,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 1
     },
     {
@@ -310,12 +310,12 @@
     {
         "pais": "BR",
         "nombre": "Brasil",
-        "casos_total": 5923,
-        "casos_nuevos": 206,
-        "casos_activos": 5590,
+        "casos_total": 6836,
+        "casos_nuevos": 1119,
+        "casos_activos": 6469,
         "casos_criticos": 296,
-        "fallecidos_total": 206,
-        "fallecidos_nuevos": 5,
+        "fallecidos_total": 240,
+        "fallecidos_nuevos": 39,
         "recuperados_total": 127
     },
     {
@@ -695,12 +695,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 210714,
-        "casos_nuevos": 22184,
-        "casos_activos": 197212,
-        "casos_criticos": 4946,
-        "fallecidos_total": 4697,
-        "fallecidos_nuevos": 644,
+        "casos_total": 211143,
+        "casos_nuevos": 22613,
+        "casos_activos": 197625,
+        "casos_criticos": 5005,
+        "fallecidos_total": 4713,
+        "fallecidos_nuevos": 660,
         "recuperados_total": 8805
     },
     {
@@ -1148,10 +1148,10 @@
         "nombre": "Jamaica",
         "casos_total": 38,
         "casos_nuevos": 0,
-        "casos_activos": 34,
+        "casos_activos": 33,
         "casos_criticos": 0,
-        "fallecidos_total": 2,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 3,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 2
     },
     {
@@ -1377,13 +1377,13 @@
     {
         "pais": "MA",
         "nombre": "Marruecos",
-        "casos_total": 642,
-        "casos_nuevos": 25,
-        "casos_activos": 579,
+        "casos_total": 654,
+        "casos_nuevos": 37,
+        "casos_activos": 586,
         "casos_criticos": 1,
-        "fallecidos_total": 37,
-        "fallecidos_nuevos": 1,
-        "recuperados_total": 26
+        "fallecidos_total": 39,
+        "fallecidos_nuevos": 3,
+        "recuperados_total": 29
     },
     {
         "pais": "MQ",
@@ -1687,11 +1687,11 @@
         "nombre": "Polonia",
         "casos_total": 2554,
         "casos_nuevos": 243,
-        "casos_activos": 2504,
+        "casos_activos": 2464,
         "casos_criticos": 50,
         "fallecidos_total": 43,
         "fallecidos_nuevos": 10,
-        "recuperados_total": 7
+        "recuperados_total": 47
     },
     {
         "pais": "PT",
