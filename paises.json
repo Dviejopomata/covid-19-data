@@ -24,12 +24,12 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 71808,
-        "casos_nuevos": 0,
-        "casos_activos": 54933,
+        "casos_total": 71921,
+        "casos_nuevos": 113,
+        "casos_activos": 55040,
         "casos_criticos": 2675,
-        "fallecidos_total": 775,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 781,
+        "fallecidos_nuevos": 6,
         "recuperados_total": 16100
     },
     {
@@ -136,10 +136,10 @@
         "nombre": "Austria",
         "casos_total": 10366,
         "casos_nuevos": 186,
-        "casos_activos": 9143,
-        "casos_criticos": 198,
-        "fallecidos_total": 128,
-        "fallecidos_nuevos": 0,
+        "casos_activos": 9125,
+        "casos_criticos": 215,
+        "fallecidos_total": 146,
+        "fallecidos_nuevos": 18,
         "recuperados_total": 1095
     },
     {
@@ -651,9 +651,9 @@
     {
         "pais": "SK",
         "nombre": "Eslovaquia",
-        "casos_total": 363,
-        "casos_nuevos": 0,
-        "casos_activos": 360,
+        "casos_total": 400,
+        "casos_nuevos": 37,
+        "casos_activos": 397,
         "casos_criticos": 1,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -662,10 +662,10 @@
     {
         "pais": "SI",
         "nombre": "Eslovenia",
-        "casos_total": 802,
-        "casos_nuevos": 0,
-        "casos_activos": 777,
-        "casos_criticos": 24,
+        "casos_total": 841,
+        "casos_nuevos": 39,
+        "casos_activos": 816,
+        "casos_criticos": 31,
         "fallecidos_total": 15,
         "fallecidos_nuevos": 0,
         "recuperados_total": 10
@@ -673,13 +673,13 @@
     {
         "pais": "ES",
         "nombre": "Espa\u00f1a",
-        "casos_total": 95923,
-        "casos_nuevos": 0,
-        "casos_activos": 68200,
-        "casos_criticos": 5607,
-        "fallecidos_total": 8464,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 19259
+        "casos_total": 102136,
+        "casos_nuevos": 6213,
+        "casos_activos": 70436,
+        "casos_criticos": 5872,
+        "fallecidos_total": 9053,
+        "fallecidos_nuevos": 589,
+        "recuperados_total": 22647
     },
     {
         "pais": "PS",
@@ -796,11 +796,11 @@
         "nombre": "Georgia",
         "casos_total": 115,
         "casos_nuevos": 5,
-        "casos_activos": 93,
+        "casos_activos": 92,
         "casos_criticos": 6,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 22
+        "recuperados_total": 23
     },
     {
         "pais": "GH",
@@ -882,9 +882,9 @@
     {
         "pais": "GT",
         "nombre": "Guatemala",
-        "casos_total": 38,
-        "casos_nuevos": 0,
-        "casos_activos": 25,
+        "casos_total": 39,
+        "casos_nuevos": 1,
+        "casos_activos": 26,
         "casos_criticos": 1,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -970,13 +970,13 @@
     {
         "pais": "HK",
         "nombre": "Hong Kong",
-        "casos_total": 715,
-        "casos_nuevos": 0,
-        "casos_activos": 583,
+        "casos_total": 765,
+        "casos_nuevos": 50,
+        "casos_activos": 614,
         "casos_criticos": 5,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 128
+        "recuperados_total": 147
     },
     {
         "pais": "HU",
@@ -1212,9 +1212,9 @@
     {
         "pais": "KW",
         "nombre": "Kuwait",
-        "casos_total": 289,
-        "casos_nuevos": 0,
-        "casos_activos": 209,
+        "casos_total": 317,
+        "casos_nuevos": 28,
+        "casos_activos": 237,
         "casos_criticos": 13,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1245,9 +1245,9 @@
     {
         "pais": "LB",
         "nombre": "Libano",
-        "casos_total": 463,
-        "casos_nuevos": 0,
-        "casos_activos": 414,
+        "casos_total": 479,
+        "casos_nuevos": 16,
+        "casos_activos": 430,
         "casos_criticos": 7,
         "fallecidos_total": 12,
         "fallecidos_nuevos": 0,
@@ -1256,9 +1256,9 @@
     {
         "pais": "LR",
         "nombre": "Liberia",
-        "casos_total": 3,
-        "casos_nuevos": 0,
-        "casos_activos": 3,
+        "casos_total": 6,
+        "casos_nuevos": 3,
+        "casos_activos": 6,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
