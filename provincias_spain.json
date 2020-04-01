@@ -593,10 +593,10 @@
         "nombre": "Eslovaquia",
         "casos_total": 400,
         "casos_nuevos": 37,
-        "casos_activos": 397,
+        "casos_activos": 396,
         "casos_criticos": 1,
-        "fallecidos_total": 0,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 1,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 3
     },
     {
@@ -631,12 +631,12 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 189661,
-        "casos_nuevos": 1131,
-        "casos_activos": 178297,
+        "casos_total": 189711,
+        "casos_nuevos": 1181,
+        "casos_activos": 178345,
         "casos_criticos": 4576,
-        "fallecidos_total": 4097,
-        "fallecidos_nuevos": 44,
+        "fallecidos_total": 4099,
+        "fallecidos_nuevos": 46,
         "recuperados_total": 7267
     },
     {
@@ -1023,10 +1023,10 @@
         "nombre": "Israel",
         "casos_total": 5591,
         "casos_nuevos": 233,
-        "casos_activos": 5344,
+        "casos_activos": 5342,
         "casos_criticos": 97,
-        "fallecidos_total": 21,
-        "fallecidos_nuevos": 1,
+        "fallecidos_total": 23,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 226
     },
     {
@@ -1581,13 +1581,13 @@
     },
     {
         "nombre": "Republica Dominicana",
-        "casos_total": 1109,
-        "casos_nuevos": 0,
-        "casos_activos": 1053,
+        "casos_total": 1284,
+        "casos_nuevos": 175,
+        "casos_activos": 1218,
         "casos_criticos": 0,
-        "fallecidos_total": 51,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 5
+        "fallecidos_total": 57,
+        "fallecidos_nuevos": 6,
+        "recuperados_total": 9
     },
     {
         "nombre": "Republica de Africa Central",
@@ -1953,10 +1953,10 @@
         "nombre": "Trinidad yTobago",
         "casos_total": 89,
         "casos_nuevos": 2,
-        "casos_activos": 84,
+        "casos_activos": 83,
         "casos_criticos": 0,
-        "fallecidos_total": 4,
-        "fallecidos_nuevos": 1,
+        "fallecidos_total": 5,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 1
     },
     {
