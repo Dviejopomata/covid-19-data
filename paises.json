@@ -92,10 +92,10 @@
         "nombre": "Argentina",
         "casos_total": 1133,
         "casos_nuevos": 0,
-        "casos_activos": 853,
+        "casos_activos": 852,
         "casos_criticos": 0,
-        "fallecidos_total": 32,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 33,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 248
     },
     {
@@ -365,13 +365,13 @@
     {
         "pais": "BT",
         "nombre": "Butan",
-        "casos_total": 4,
-        "casos_nuevos": 0,
+        "casos_total": 5,
+        "casos_nuevos": 1,
         "casos_activos": 4,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 0
+        "recuperados_total": 1
     },
     {
         "pais": "CV",
@@ -387,13 +387,13 @@
     {
         "pais": "KH",
         "nombre": "Camboya",
-        "casos_total": 109,
-        "casos_nuevos": 0,
-        "casos_activos": 84,
+        "casos_total": 110,
+        "casos_nuevos": 1,
+        "casos_activos": 76,
         "casos_criticos": 1,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 25
+        "recuperados_total": 34
     },
     {
         "pais": "CM",
@@ -543,11 +543,11 @@
         "nombre": "Crucero",
         "casos_total": 712,
         "casos_nuevos": 0,
-        "casos_activos": 98,
+        "casos_activos": 82,
         "casos_criticos": 15,
         "fallecidos_total": 11,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 603
+        "recuperados_total": 619
     },
     {
         "pais": "CU",
@@ -695,12 +695,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 215081,
-        "casos_nuevos": 78,
-        "casos_activos": 201094,
+        "casos_total": 215086,
+        "casos_nuevos": 83,
+        "casos_activos": 201098,
         "casos_criticos": 5005,
-        "fallecidos_total": 5109,
-        "fallecidos_nuevos": 7,
+        "fallecidos_total": 5110,
+        "fallecidos_nuevos": 8,
         "recuperados_total": 8878
     },
     {
@@ -1432,12 +1432,12 @@
     {
         "pais": "MX",
         "nombre": "Mexico",
-        "casos_total": 1215,
-        "casos_nuevos": 0,
-        "casos_activos": 1151,
+        "casos_total": 1378,
+        "casos_nuevos": 163,
+        "casos_activos": 1306,
         "casos_criticos": 1,
-        "fallecidos_total": 29,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 37,
+        "fallecidos_nuevos": 8,
         "recuperados_total": 35
     },
     {
@@ -1665,10 +1665,10 @@
         "nombre": "Peru",
         "casos_total": 1323,
         "casos_nuevos": 0,
-        "casos_activos": 891,
+        "casos_activos": 882,
         "casos_criticos": 49,
-        "fallecidos_total": 38,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 47,
+        "fallecidos_nuevos": 9,
         "recuperados_total": 394
     },
     {
