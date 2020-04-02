@@ -81,9 +81,9 @@
     },
     {
         "nombre": "Argentina",
-        "casos_total": 1133,
-        "casos_nuevos": 0,
-        "casos_activos": 841,
+        "casos_total": 1265,
+        "casos_nuevos": 132,
+        "casos_activos": 973,
         "casos_criticos": 0,
         "fallecidos_total": 36,
         "fallecidos_nuevos": 4,
@@ -111,9 +111,9 @@
     },
     {
         "nombre": "Australia",
-        "casos_total": 5279,
-        "casos_nuevos": 231,
-        "casos_activos": 4666,
+        "casos_total": 5314,
+        "casos_nuevos": 266,
+        "casos_activos": 4701,
         "casos_criticos": 50,
         "fallecidos_total": 28,
         "fallecidos_nuevos": 5,
@@ -631,13 +631,13 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 243970,
-        "casos_nuevos": 28967,
-        "casos_activos": 227687,
+        "casos_total": 244230,
+        "casos_nuevos": 29227,
+        "casos_activos": 227944,
         "casos_criticos": 5421,
         "fallecidos_total": 5883,
         "fallecidos_nuevos": 781,
-        "recuperados_total": 10400
+        "recuperados_total": 10403
     },
     {
         "nombre": "Estonia",
@@ -1491,12 +1491,12 @@
     },
     {
         "nombre": "Panama",
-        "casos_total": 1317,
-        "casos_nuevos": 0,
-        "casos_activos": 1276,
+        "casos_total": 1475,
+        "casos_nuevos": 158,
+        "casos_activos": 1429,
         "casos_criticos": 50,
-        "fallecidos_total": 32,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 37,
+        "fallecidos_nuevos": 5,
         "recuperados_total": 9
     },
     {
@@ -2031,12 +2031,12 @@
     },
     {
         "nombre": "Venezuela",
-        "casos_total": 144,
-        "casos_nuevos": 0,
+        "casos_total": 146,
+        "casos_nuevos": 2,
         "casos_activos": 98,
         "casos_criticos": 6,
-        "fallecidos_total": 3,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 5,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 43
     },
     {
