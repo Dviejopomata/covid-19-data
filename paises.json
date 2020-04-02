@@ -4,11 +4,11 @@
         "nombre": "Afganistan",
         "casos_total": 239,
         "casos_nuevos": 2,
-        "casos_activos": 230,
+        "casos_activos": 225,
         "casos_criticos": 0,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 5
+        "recuperados_total": 10
     },
     {
         "pais": "AL",
@@ -24,12 +24,12 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 79465,
-        "casos_nuevos": 1484,
-        "casos_activos": 59331,
+        "casos_total": 80641,
+        "casos_nuevos": 2660,
+        "casos_activos": 60504,
         "casos_criticos": 3408,
-        "fallecidos_total": 959,
-        "fallecidos_nuevos": 28,
+        "fallecidos_total": 962,
+        "fallecidos_nuevos": 31,
         "recuperados_total": 19175
     },
     {
@@ -310,12 +310,12 @@
     {
         "pais": "BR",
         "nombre": "Brasil",
-        "casos_total": 6932,
-        "casos_nuevos": 52,
-        "casos_activos": 6558,
+        "casos_total": 6988,
+        "casos_nuevos": 108,
+        "casos_activos": 6611,
         "casos_criticos": 296,
-        "fallecidos_total": 247,
-        "fallecidos_nuevos": 5,
+        "fallecidos_total": 250,
+        "fallecidos_nuevos": 8,
         "recuperados_total": 127
     },
     {
@@ -442,13 +442,13 @@
     {
         "pais": "CL",
         "nombre": "Chile",
-        "casos_total": 3031,
-        "casos_nuevos": 0,
-        "casos_activos": 2781,
+        "casos_total": 3404,
+        "casos_nuevos": 373,
+        "casos_activos": 3051,
         "casos_criticos": 31,
-        "fallecidos_total": 16,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 234
+        "fallecidos_total": 18,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 335
     },
     {
         "pais": "CN",
@@ -477,11 +477,11 @@
         "nombre": "Congo",
         "casos_total": 22,
         "casos_nuevos": 0,
-        "casos_activos": 20,
+        "casos_activos": 18,
         "casos_criticos": 0,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 0
+        "recuperados_total": 2
     },
     {
         "pais": "",
@@ -695,9 +695,9 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 215357,
-        "casos_nuevos": 354,
-        "casos_activos": 201366,
+        "casos_total": 215362,
+        "casos_nuevos": 359,
+        "casos_activos": 201371,
         "casos_criticos": 5005,
         "fallecidos_total": 5113,
         "fallecidos_nuevos": 11,
@@ -1058,13 +1058,13 @@
     {
         "pais": "IS",
         "nombre": "Islandia",
-        "casos_total": 1220,
-        "casos_nuevos": 0,
-        "casos_activos": 982,
+        "casos_total": 1319,
+        "casos_nuevos": 99,
+        "casos_activos": 1047,
         "casos_criticos": 12,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 236
+        "recuperados_total": 270
     },
     {
         "pais": "KY",
@@ -1952,7 +1952,7 @@
         "casos_total": 1171,
         "casos_nuevos": 111,
         "casos_activos": 1098,
-        "casos_criticos": 62,
+        "casos_criticos": 81,
         "fallecidos_total": 31,
         "fallecidos_nuevos": 3,
         "recuperados_total": 42
@@ -1982,13 +1982,13 @@
     {
         "pais": "SG",
         "nombre": "Singapur",
-        "casos_total": 1000,
-        "casos_nuevos": 0,
-        "casos_activos": 751,
+        "casos_total": 1049,
+        "casos_nuevos": 49,
+        "casos_activos": 779,
         "casos_criticos": 24,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 1,
-        "recuperados_total": 245
+        "recuperados_total": 266
     },
     {
         "pais": "SY",
@@ -2204,10 +2204,10 @@
         "nombre": "Uruguay",
         "casos_total": 350,
         "casos_nuevos": 0,
-        "casos_activos": 286,
+        "casos_activos": 284,
         "casos_criticos": 15,
-        "fallecidos_total": 2,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 4,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 62
     },
     {
