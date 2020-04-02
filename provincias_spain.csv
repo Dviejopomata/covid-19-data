@@ -1,13 +1,13 @@
 ,Ciudad,Casos totales,Casos activos,Recuperados,Muertes
 0,Madrid,32155,12400,15580,4175
 1,Cataluña,19991,5701,12441,1849
-2,Bizkaia/Vizcaya,3382,2165,2289,168
+2,Bizkaia/Vizcaya,3682,2490,4415,187
 3,Valencia/Valencia,3291,232,2849,210
 4,Ciudad Real,2807,492,2340,272
 5,Castilla-La Mancha,2780,71,2446,263
 6,Navarra,2682,278,2263,141
-7,Alacant/Alicante,2320,172,1960,188
-8,Araba/Alava,2250,2165,1376,149
+7,Araba/Alava,2347,2490,4415,167
+8,Alacant/Alicante,2320,172,1960,188
 9,Albacete,2098,492,1806,170
 10,La Rioja,2083,641,1341,101
 11,Zaragoza,2068,259,1654,155
@@ -15,14 +15,14 @@
 13,Toledo,1673,492,1339,234
 14,Malaga,1644,93,1458,93
 15,Pontevedra,1536,333,1411,30
-16,Tenerife,1444,77,1241,68
+16,Tenerife,1444,94,1282,68
 17,Salamanca,1413,272,986,155
 18,Asturias,1384,135,1180,69
 19,Sevilla,1371,20,1294,57
-20,Cantabria,1268,60,1148,60
-21,Granada,1230,15,1129,86
-22,Caceres,1212,45,1012,155
-23,Gipuzkoa/Guipuzcoa,1206,2165,639,52
+20,Gipuzkoa/Guipuzcoa,1288,2490,4415,58
+21,Cantabria,1268,60,1148,60
+22,Granada,1230,15,1129,86
+23,Caceres,1212,45,1012,155
 24,Valladolid,1188,333,750,105
 25,Murcia,1084,45,997,42
 26,Leon,1066,276,663,127
@@ -39,7 +39,7 @@
 37,Badajoz,625,94,505,26
 38,Lugo,586,333,520,11
 39,Avila,560,151,345,64
-40,Gran Canaria,384,77,1241,354
+40,Gran Canaria,396,94,1282,19
 41,Palencia,383,59,300,24
 42,Huesca,349,35,296,18
 43,Cuenca,308,492,207,73
@@ -48,15 +48,15 @@
 46,Zamora,278,61,189,28
 47,Huelva,224,2,216,6
 48,Mallorca,210,18,194,12
-49,La Palma,68,77,1241,56
-50,Melilla,62,0,61,1
-51,Lanzarote,59,77,1241,46
+49,La Palma,69,94,1282,2
+50,Lanzarote,65,94,1282,3
+51,Melilla,62,0,61,1
 52,"Igualada, Vilanova del Cami, Santa Margarida de Montbui y Odena",58,0,58,3
 53,Ceuta,51,0,50,1
-54,Fuerteventura,32,77,1241,32
+54,Fuerteventura,33,94,1282,0
 55,Ibiza,21,18,20,1
 56,Menorca,15,18,13,0
-57,La Gomera,8,77,1241,1
+57,La Gomera,8,94,1282,0
 58,Arroyo de la Luz,7,0,7,0
-59,El Hierro,3,77,1241,3
+59,El Hierro,3,94,1282,0
 60,Formentera,0,10,0,8
