@@ -21,12 +21,12 @@
     },
     {
         "nombre": "Alemania",
-        "casos_total": 85063,
-        "casos_nuevos": 269,
-        "casos_activos": 61512,
+        "casos_total": 85903,
+        "casos_nuevos": 1109,
+        "casos_activos": 62341,
         "casos_criticos": 3936,
-        "fallecidos_total": 1111,
-        "fallecidos_nuevos": 4,
+        "fallecidos_total": 1122,
+        "fallecidos_nuevos": 15,
         "recuperados_total": 22440
     },
     {
@@ -121,9 +121,9 @@
     },
     {
         "nombre": "Austria",
-        "casos_total": 11301,
-        "casos_nuevos": 172,
-        "casos_activos": 9111,
+        "casos_total": 11350,
+        "casos_nuevos": 221,
+        "casos_activos": 9160,
         "casos_criticos": 245,
         "fallecidos_total": 168,
         "fallecidos_nuevos": 10,
@@ -281,9 +281,9 @@
     },
     {
         "nombre": "Brasil",
-        "casos_total": 8066,
-        "casos_nuevos": 22,
-        "casos_activos": 7612,
+        "casos_total": 8076,
+        "casos_nuevos": 32,
+        "casos_activos": 7622,
         "casos_criticos": 296,
         "fallecidos_total": 327,
         "fallecidos_nuevos": 3,
@@ -481,13 +481,13 @@
     },
     {
         "nombre": "Croacia",
-        "casos_total": 1011,
-        "casos_nuevos": 0,
-        "casos_activos": 916,
-        "casos_criticos": 34,
-        "fallecidos_total": 7,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 88
+        "casos_total": 1079,
+        "casos_nuevos": 68,
+        "casos_activos": 979,
+        "casos_criticos": 39,
+        "fallecidos_total": 8,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 92
     },
     {
         "nombre": "Crucero",
@@ -1071,12 +1071,12 @@
     },
     {
         "nombre": "Kazajistan",
-        "casos_total": 453,
-        "casos_nuevos": 18,
-        "casos_activos": 421,
+        "casos_total": 460,
+        "casos_nuevos": 25,
+        "casos_activos": 425,
         "casos_criticos": 6,
-        "fallecidos_total": 3,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 6,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 29
     },
     {
@@ -1431,9 +1431,9 @@
     },
     {
         "nombre": "Noruega",
-        "casos_total": 5255,
-        "casos_nuevos": 108,
-        "casos_activos": 5169,
+        "casos_total": 5296,
+        "casos_nuevos": 149,
+        "casos_activos": 5210,
         "casos_criticos": 96,
         "fallecidos_total": 54,
         "fallecidos_nuevos": 4,
@@ -1471,12 +1471,12 @@
     },
     {
         "nombre": "Paises Bajos",
-        "casos_total": 14697,
-        "casos_nuevos": 0,
-        "casos_activos": 13108,
-        "casos_criticos": 1053,
-        "fallecidos_total": 1339,
-        "fallecidos_nuevos": 0,
+        "casos_total": 15723,
+        "casos_nuevos": 1026,
+        "casos_activos": 13986,
+        "casos_criticos": 1273,
+        "fallecidos_total": 1487,
+        "fallecidos_nuevos": 148,
         "recuperados_total": 250
     },
     {
@@ -1551,23 +1551,23 @@
     },
     {
         "nombre": "Portugal",
-        "casos_total": 9034,
-        "casos_nuevos": 0,
-        "casos_activos": 8757,
-        "casos_criticos": 230,
-        "fallecidos_total": 209,
-        "fallecidos_nuevos": 0,
+        "casos_total": 9886,
+        "casos_nuevos": 852,
+        "casos_activos": 9572,
+        "casos_criticos": 245,
+        "fallecidos_total": 246,
+        "fallecidos_nuevos": 37,
         "recuperados_total": 68
     },
     {
         "nombre": "Principado de Andorra",
-        "casos_total": 428,
-        "casos_nuevos": 0,
-        "casos_activos": 403,
+        "casos_total": 439,
+        "casos_nuevos": 11,
+        "casos_activos": 407,
         "casos_criticos": 12,
-        "fallecidos_total": 15,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 10
+        "fallecidos_total": 16,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 16
     },
     {
         "nombre": "Puerto Rico",
@@ -1881,12 +1881,12 @@
     },
     {
         "nombre": "Suecia",
-        "casos_total": 5568,
-        "casos_nuevos": 0,
-        "casos_activos": 5157,
-        "casos_criticos": 429,
-        "fallecidos_total": 308,
-        "fallecidos_nuevos": 0,
+        "casos_total": 6078,
+        "casos_nuevos": 510,
+        "casos_activos": 5642,
+        "casos_criticos": 469,
+        "fallecidos_total": 333,
+        "fallecidos_nuevos": 25,
         "recuperados_total": 103
     },
     {
@@ -2053,11 +2053,11 @@
         "nombre": "Zambia",
         "casos_total": 39,
         "casos_nuevos": 0,
-        "casos_activos": 38,
+        "casos_activos": 36,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 0
+        "recuperados_total": 2
     },
     {
         "nombre": "Zimbabue",
