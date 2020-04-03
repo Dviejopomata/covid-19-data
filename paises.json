@@ -695,12 +695,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 272925,
-        "casos_nuevos": 28048,
-        "casos_activos": 253877,
+        "casos_total": 273984,
+        "casos_nuevos": 29107,
+        "casos_activos": 254900,
         "casos_criticos": 5787,
-        "fallecidos_total": 7004,
-        "fallecidos_nuevos": 934,
+        "fallecidos_total": 7040,
+        "fallecidos_nuevos": 970,
         "recuperados_total": 12044
     },
     {
@@ -827,10 +827,10 @@
     {
         "pais": "GD",
         "nombre": "Granada",
-        "casos_total": 10,
-        "casos_nuevos": 0,
-        "casos_activos": 10,
-        "casos_criticos": 0,
+        "casos_total": 12,
+        "casos_nuevos": 2,
+        "casos_activos": 12,
+        "casos_criticos": 2,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
         "recuperados_total": 0
@@ -926,9 +926,9 @@
     {
         "pais": "GW",
         "nombre": "Guinea-Bisau",
-        "casos_total": 9,
-        "casos_nuevos": 0,
-        "casos_activos": 9,
+        "casos_total": 15,
+        "casos_nuevos": 6,
+        "casos_activos": 15,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1089,6 +1089,17 @@
         "recuperados_total": 91
     },
     {
+        "pais": "FK",
+        "nombre": "Islas Malvinas",
+        "casos_total": 1,
+        "casos_nuevos": 1,
+        "casos_activos": 1,
+        "casos_criticos": 0,
+        "fallecidos_total": 0,
+        "fallecidos_nuevos": 0,
+        "recuperados_total": 0
+    },
+    {
         "pais": "TC",
         "nombre": "Islas Turcas y Caicos",
         "casos_total": 5,
@@ -1126,11 +1137,11 @@
         "nombre": "Israel",
         "casos_total": 7428,
         "casos_nuevos": 571,
-        "casos_activos": 7050,
+        "casos_activos": 6985,
         "casos_criticos": 113,
         "fallecidos_total": 40,
         "fallecidos_nuevos": 4,
-        "recuperados_total": 338
+        "recuperados_total": 403
     },
     {
         "pais": "IT",
@@ -1388,21 +1399,21 @@
     {
         "pais": "MA",
         "nombre": "Marruecos",
-        "casos_total": 761,
-        "casos_nuevos": 53,
-        "casos_activos": 658,
+        "casos_total": 791,
+        "casos_nuevos": 83,
+        "casos_activos": 686,
         "casos_criticos": 1,
-        "fallecidos_total": 47,
-        "fallecidos_nuevos": 3,
-        "recuperados_total": 56
+        "fallecidos_total": 48,
+        "fallecidos_nuevos": 4,
+        "recuperados_total": 57
     },
     {
         "pais": "MQ",
         "nombre": "Martinica",
-        "casos_total": 138,
-        "casos_nuevos": 0,
-        "casos_activos": 108,
-        "casos_criticos": 19,
+        "casos_total": 143,
+        "casos_nuevos": 5,
+        "casos_activos": 113,
+        "casos_criticos": 18,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
         "recuperados_total": 27
@@ -1564,13 +1575,13 @@
     {
         "pais": "NG",
         "nombre": "Nigeria",
-        "casos_total": 190,
-        "casos_nuevos": 6,
-        "casos_activos": 168,
+        "casos_total": 210,
+        "casos_nuevos": 26,
+        "casos_activos": 181,
         "casos_criticos": 0,
-        "fallecidos_total": 2,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 20
+        "fallecidos_total": 4,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 25
     },
     {
         "pais": "NO",
@@ -1630,9 +1641,9 @@
     {
         "pais": "PK",
         "nombre": "Pakistan",
-        "casos_total": 2684,
-        "casos_nuevos": 263,
-        "casos_activos": 2518,
+        "casos_total": 2686,
+        "casos_nuevos": 265,
+        "casos_activos": 2520,
         "casos_criticos": 10,
         "fallecidos_total": 40,
         "fallecidos_nuevos": 6,
@@ -1916,9 +1927,9 @@
     {
         "pais": "VC",
         "nombre": "San Vicente y las Granadinas",
-        "casos_total": 3,
-        "casos_nuevos": 1,
-        "casos_activos": 2,
+        "casos_total": 7,
+        "casos_nuevos": 5,
+        "casos_activos": 6,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
