@@ -158,10 +158,10 @@
         "nombre": "Bahamas",
         "casos_total": 24,
         "casos_nuevos": 0,
-        "casos_activos": 22,
+        "casos_activos": 20,
         "casos_criticos": 1,
-        "fallecidos_total": 1,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 3,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 1
     },
     {
@@ -695,13 +695,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 274987,
-        "casos_nuevos": 30110,
-        "casos_activos": 255878,
+        "casos_total": 275802,
+        "casos_nuevos": 30925,
+        "casos_activos": 256447,
         "casos_criticos": 5787,
-        "fallecidos_total": 7065,
-        "fallecidos_nuevos": 994,
-        "recuperados_total": 12044
+        "fallecidos_total": 7087,
+        "fallecidos_nuevos": 1016,
+        "recuperados_total": 12268
     },
     {
         "pais": "EE",
@@ -2246,13 +2246,13 @@
     {
         "pais": "VE",
         "nombre": "Venezuela",
-        "casos_total": 146,
-        "casos_nuevos": 0,
-        "casos_activos": 98,
+        "casos_total": 153,
+        "casos_nuevos": 7,
+        "casos_activos": 94,
         "casos_criticos": 6,
-        "fallecidos_total": 5,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 43
+        "fallecidos_total": 7,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 52
     },
     {
         "pais": "VN",
