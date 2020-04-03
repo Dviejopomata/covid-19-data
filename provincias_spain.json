@@ -83,10 +83,10 @@
         "nombre": "Argentina",
         "casos_total": 1265,
         "casos_nuevos": 0,
-        "casos_activos": 973,
+        "casos_activos": 972,
         "casos_criticos": 0,
-        "fallecidos_total": 36,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 37,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 256
     },
     {
@@ -144,7 +144,7 @@
         "casos_total": 24,
         "casos_nuevos": 0,
         "casos_activos": 22,
-        "casos_criticos": 0,
+        "casos_criticos": 1,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
         "recuperados_total": 1
@@ -631,12 +631,12 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 245088,
-        "casos_nuevos": 211,
-        "casos_activos": 228610,
+        "casos_total": 245184,
+        "casos_nuevos": 307,
+        "casos_activos": 228693,
         "casos_criticos": 5421,
-        "fallecidos_total": 6075,
-        "fallecidos_nuevos": 5,
+        "fallecidos_total": 6088,
+        "fallecidos_nuevos": 18,
         "recuperados_total": 10403
     },
     {
@@ -1431,9 +1431,9 @@
     },
     {
         "nombre": "Noruega",
-        "casos_total": 5192,
-        "casos_nuevos": 45,
-        "casos_activos": 5110,
+        "casos_total": 5218,
+        "casos_nuevos": 71,
+        "casos_activos": 5136,
         "casos_criticos": 96,
         "fallecidos_total": 50,
         "fallecidos_nuevos": 0,
