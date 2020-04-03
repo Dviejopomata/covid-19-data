@@ -125,10 +125,10 @@
         "nombre": "Australia",
         "casos_total": 5314,
         "casos_nuevos": 0,
-        "casos_activos": 4703,
+        "casos_activos": 4702,
         "casos_criticos": 50,
-        "fallecidos_total": 26,
-        "fallecidos_nuevos": 1,
+        "fallecidos_total": 27,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 585
     },
     {
@@ -695,9 +695,9 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 245184,
-        "casos_nuevos": 307,
-        "casos_activos": 228693,
+        "casos_total": 245193,
+        "casos_nuevos": 316,
+        "casos_activos": 228702,
         "casos_criticos": 5421,
         "fallecidos_total": 6088,
         "fallecidos_nuevos": 18,
@@ -1179,13 +1179,13 @@
     {
         "pais": "KZ",
         "nombre": "Kazajistan",
-        "casos_total": 435,
-        "casos_nuevos": 0,
-        "casos_activos": 405,
+        "casos_total": 444,
+        "casos_nuevos": 9,
+        "casos_activos": 413,
         "casos_criticos": 6,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 27
+        "recuperados_total": 28
     },
     {
         "pais": "KE",
@@ -1201,12 +1201,12 @@
     {
         "pais": "KG",
         "nombre": "Kirguistan",
-        "casos_total": 116,
-        "casos_nuevos": 0,
-        "casos_activos": 111,
+        "casos_total": 125,
+        "casos_nuevos": 9,
+        "casos_activos": 119,
         "casos_criticos": 5,
-        "fallecidos_total": 0,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 1,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 5
     },
     {
