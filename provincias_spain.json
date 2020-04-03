@@ -113,10 +113,10 @@
         "nombre": "Australia",
         "casos_total": 5314,
         "casos_nuevos": 0,
-        "casos_activos": 4702,
+        "casos_activos": 4701,
         "casos_criticos": 50,
-        "fallecidos_total": 27,
-        "fallecidos_nuevos": 2,
+        "fallecidos_total": 28,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 585
     },
     {
@@ -631,12 +631,12 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 245193,
-        "casos_nuevos": 316,
-        "casos_activos": 228702,
+        "casos_total": 245341,
+        "casos_nuevos": 464,
+        "casos_activos": 228843,
         "casos_criticos": 5421,
-        "fallecidos_total": 6088,
-        "fallecidos_nuevos": 18,
+        "fallecidos_total": 6095,
+        "fallecidos_nuevos": 25,
         "recuperados_total": 10403
     },
     {
@@ -891,23 +891,23 @@
     },
     {
         "nombre": "Hungria",
-        "casos_total": 585,
-        "casos_nuevos": 0,
-        "casos_activos": 522,
+        "casos_total": 623,
+        "casos_nuevos": 38,
+        "casos_activos": 554,
         "casos_criticos": 17,
-        "fallecidos_total": 21,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 42
+        "fallecidos_total": 26,
+        "fallecidos_nuevos": 5,
+        "recuperados_total": 43
     },
     {
         "nombre": "India",
-        "casos_total": 2543,
-        "casos_nuevos": 0,
-        "casos_activos": 2280,
+        "casos_total": 2567,
+        "casos_nuevos": 24,
+        "casos_activos": 2303,
         "casos_criticos": 0,
         "fallecidos_total": 72,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 191
+        "recuperados_total": 192
     },
     {
         "nombre": "Indonesia",
@@ -1091,9 +1091,9 @@
     },
     {
         "nombre": "Kirguistan",
-        "casos_total": 125,
-        "casos_nuevos": 9,
-        "casos_activos": 119,
+        "casos_total": 130,
+        "casos_nuevos": 14,
+        "casos_activos": 124,
         "casos_criticos": 5,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 1,
@@ -1171,9 +1171,9 @@
     },
     {
         "nombre": "Lituania",
-        "casos_total": 649,
-        "casos_nuevos": 0,
-        "casos_activos": 633,
+        "casos_total": 696,
+        "casos_nuevos": 47,
+        "casos_activos": 680,
         "casos_criticos": 11,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
@@ -1863,11 +1863,11 @@
         "nombre": "Sudafrica",
         "casos_total": 1462,
         "casos_nuevos": 0,
-        "casos_activos": 1407,
+        "casos_activos": 1362,
         "casos_criticos": 7,
         "fallecidos_total": 5,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 50
+        "recuperados_total": 95
     },
     {
         "nombre": "Sudan",
@@ -1911,13 +1911,13 @@
     },
     {
         "nombre": "Tailandia",
-        "casos_total": 1875,
-        "casos_nuevos": 0,
-        "casos_activos": 1355,
+        "casos_total": 1978,
+        "casos_nuevos": 103,
+        "casos_activos": 1378,
         "casos_criticos": 23,
-        "fallecidos_total": 15,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 505
+        "fallecidos_total": 19,
+        "fallecidos_nuevos": 4,
+        "recuperados_total": 581
     },
     {
         "nombre": "Taiwan",
@@ -2021,9 +2021,9 @@
     },
     {
         "nombre": "Uzbekistan",
-        "casos_total": 205,
-        "casos_nuevos": 0,
-        "casos_activos": 178,
+        "casos_total": 221,
+        "casos_nuevos": 16,
+        "casos_activos": 194,
         "casos_criticos": 8,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
@@ -2043,11 +2043,11 @@
         "nombre": "Vietnam",
         "casos_total": 233,
         "casos_nuevos": 0,
-        "casos_activos": 158,
+        "casos_activos": 148,
         "casos_criticos": 3,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 75
+        "recuperados_total": 85
     },
     {
         "nombre": "Zambia",
