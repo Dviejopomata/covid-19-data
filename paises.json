@@ -134,9 +134,9 @@
     {
         "pais": "AT",
         "nombre": "Austria",
-        "casos_total": 11199,
-        "casos_nuevos": 70,
-        "casos_activos": 9292,
+        "casos_total": 11224,
+        "casos_nuevos": 95,
+        "casos_activos": 9317,
         "casos_criticos": 227,
         "fallecidos_total": 158,
         "fallecidos_nuevos": 0,
@@ -574,9 +574,9 @@
     {
         "pais": "DK",
         "nombre": "Dinamarca",
-        "casos_total": 3386,
-        "casos_nuevos": 0,
-        "casos_activos": 2174,
+        "casos_total": 3672,
+        "casos_nuevos": 286,
+        "casos_activos": 2460,
         "casos_criticos": 153,
         "fallecidos_total": 123,
         "fallecidos_nuevos": 0,
@@ -1179,13 +1179,13 @@
     {
         "pais": "KZ",
         "nombre": "Kazajistan",
-        "casos_total": 448,
-        "casos_nuevos": 13,
-        "casos_activos": 417,
+        "casos_total": 453,
+        "casos_nuevos": 18,
+        "casos_activos": 421,
         "casos_criticos": 6,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 28
+        "recuperados_total": 29
     },
     {
         "pais": "KE",
@@ -1608,9 +1608,9 @@
     {
         "pais": "OM",
         "nombre": "Oman",
-        "casos_total": 231,
-        "casos_nuevos": 0,
-        "casos_activos": 173,
+        "casos_total": 252,
+        "casos_nuevos": 21,
+        "casos_activos": 194,
         "casos_criticos": 3,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -1696,12 +1696,12 @@
     {
         "pais": "PL",
         "nombre": "Polonia",
-        "casos_total": 2946,
-        "casos_nuevos": 0,
-        "casos_activos": 2833,
+        "casos_total": 3149,
+        "casos_nuevos": 203,
+        "casos_activos": 3034,
         "casos_criticos": 50,
-        "fallecidos_total": 57,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 59,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 56
     },
     {
@@ -2194,7 +2194,7 @@
         "casos_total": 942,
         "casos_nuevos": 45,
         "casos_activos": 900,
-        "casos_criticos": 0,
+        "casos_criticos": 16,
         "fallecidos_total": 23,
         "fallecidos_nuevos": 1,
         "recuperados_total": 19
