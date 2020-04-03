@@ -332,13 +332,13 @@
     {
         "pais": "BG",
         "nombre": "Bulgaria",
-        "casos_total": 457,
-        "casos_nuevos": 0,
-        "casos_activos": 422,
+        "casos_total": 477,
+        "casos_nuevos": 20,
+        "casos_activos": 435,
         "casos_criticos": 18,
-        "fallecidos_total": 10,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 25
+        "fallecidos_total": 12,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 30
     },
     {
         "pais": "BF",
@@ -695,9 +695,9 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 245341,
-        "casos_nuevos": 464,
-        "casos_activos": 228843,
+        "casos_total": 245373,
+        "casos_nuevos": 496,
+        "casos_activos": 228875,
         "casos_criticos": 5421,
         "fallecidos_total": 6095,
         "fallecidos_nuevos": 25,
@@ -1158,11 +1158,11 @@
         "pais": "JP",
         "nombre": "Japon",
         "casos_total": 2617,
-        "casos_nuevos": 122,
+        "casos_nuevos": 0,
         "casos_activos": 2082,
         "casos_criticos": 60,
         "fallecidos_total": 63,
-        "fallecidos_nuevos": 1,
+        "fallecidos_nuevos": 0,
         "recuperados_total": 472
     },
     {
@@ -1630,12 +1630,12 @@
     {
         "pais": "PK",
         "nombre": "Pakistan",
-        "casos_total": 2421,
-        "casos_nuevos": 0,
-        "casos_activos": 2262,
+        "casos_total": 2441,
+        "casos_nuevos": 20,
+        "casos_activos": 2281,
         "casos_criticos": 9,
-        "fallecidos_total": 34,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 35,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 125
     },
     {
@@ -1665,11 +1665,11 @@
         "nombre": "Paraguay",
         "casos_total": 92,
         "casos_nuevos": 15,
-        "casos_activos": 86,
+        "casos_activos": 85,
         "casos_criticos": 4,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 3
+        "recuperados_total": 4
     },
     {
         "pais": "PE",
