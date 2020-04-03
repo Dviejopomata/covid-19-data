@@ -1,62 +1,63 @@
 ,Ciudad,Casos totales,Casos activos,Recuperados,Muertes
-0,Madrid,32155,12400,15580,4175
+0,Madrid,34188,13850,15855,4483
 1,Cataluña,23460,7849,13276,2335
-2,Bizkaia/Vizcaya,3682,2490,4415,187
-3,Valencia/Valencia,3291,232,2849,210
-4,Ciudad Real,2807,492,2340,272
-5,Castilla-La Mancha,2780,71,2446,263
-6,Navarra,2682,278,2263,141
-7,Araba/Alava,2347,2490,4415,167
-8,Alacant/Alicante,2320,172,1960,188
-9,Albacete,2098,492,1806,170
-10,La Rioja,2083,641,1341,101
-11,Zaragoza,2068,259,1654,155
-12,A Coruña,1969,333,1788,67
-13,Toledo,1673,492,1339,234
-14,Malaga,1644,93,1458,93
-15,Pontevedra,1536,333,1411,30
-16,Tenerife,1490,94,1323,73
-17,Asturias,1433,154,1209,70
-18,Salamanca,1413,272,986,155
-19,Sevilla,1371,20,1294,57
-20,Gipuzkoa/Guipuzcoa,1288,2490,4415,58
-21,Cantabria,1268,60,1148,60
-22,Granada,1230,15,1129,86
-23,Caceres,1212,45,1012,155
-24,Valladolid,1188,333,750,105
+2,Galicia,5219,435,4635,149
+3,Bizkaia/Vizcaya,4024,2809,4574,205
+4,Valencia/Valencia,3439,348,2849,242
+5,Ciudad Real,3098,492,7028,291
+6,Navarra,2836,294,2391,151
+7,Castilla-La Mancha,2780,71,2446,263
+8,Araba/Alava,2447,2809,4574,176
+9,Alacant/Alicante,2445,209,2017,219
+10,Albacete,2386,492,7028,183
+11,La Rioja,2224,745,1370,109
+12,Zaragoza,2212,297,1742,173
+13,A Coruña,1969,333,1788,67
+14,Malaga,1905,110,1697,98
+15,Toledo,1848,492,7028,254
+16,Sevilla,1618,33,1520,65
+17,Pontevedra,1536,333,1411,30
+18,Salamanca,1489,301,1021,167
+19,Asturias,1433,154,1209,70
+20,Gipuzkoa/Guipuzcoa,1356,2809,4574,63
+21,Granada,1340,25,1222,93
+22,Cantabria,1321,74,1183,64
+23,Valladolid,1290,381,795,114
+24,Caceres,1248,57,1018,173
 25,Murcia,1145,90,1009,46
-26,Leon,1066,276,663,127
-27,Aragon,907,29,838,40
-28,Burgos,895,267,542,86
-29,Segovia,886,235,563,88
-30,Guadalajara,796,492,644,105
-31,Jaen,788,17,732,39
-32,Cordoba,782,4,753,25
-33,Ourense,751,333,660,22
-34,Cadiz,697,17,661,19
-35,Castello/Castellon,697,28,624,45
-36,Soria,686,95,545,46
-37,Badajoz,625,94,505,26
-38,Lugo,586,333,520,11
-39,Avila,560,151,345,64
-40,Gran Canaria,396,94,1323,19
-41,Palencia,383,59,300,24
-42,Huesca,349,35,296,18
-43,Cuenca,308,492,207,73
-44,Almeria,290,14,258,18
-45,Teruel,283,26,232,25
-46,Zamora,278,61,189,28
-47,Huelva,224,2,216,6
-48,Mallorca,210,18,194,12
-49,Melilla,70,4,64,2
-50,La Palma,69,94,1323,2
-51,Lanzarote,65,94,1323,3
-52,Ceuta,62,0,61,1
-53,"Igualada, Vilanova del Cami, Santa Margarida de Montbui y Odena",58,0,58,3
-54,Fuerteventura,33,94,1323,0
-55,Ibiza,21,18,20,1
-56,Menorca,15,18,13,0
-57,La Gomera,8,94,1323,0
-58,Arroyo de la Luz,7,0,7,0
-59,El Hierro,3,94,1323,0
-60,Formentera,0,10,0,8
+26,Leon,1125,339,642,144
+27,Segovia,966,271,600,95
+28,Burgos,940,296,552,92
+29,Aragon,907,29,838,40
+30,Tenerife,893,102,1315,48
+31,Cordoba,877,10,842,25
+32,Jaen,867,23,801,43
+33,Guadalajara,824,492,7028,109
+34,Cadiz,806,28,756,22
+35,Soria,752,111,592,49
+36,Ourense,751,333,660,22
+37,Castello/Castellon,740,35,655,50
+38,Badajoz,645,107,511,27
+39,Avila,590,170,354,66
+40,Lugo,586,333,520,11
+41,Palencia,427,85,313,29
+42,Gran Canaria,416,102,1315,19
+43,Huesca,368,43,301,24
+44,Cuenca,367,492,7028,79
+45,Almeria,329,25,284,20
+46,Teruel,319,38,256,25
+47,Zamora,296,67,199,30
+48,Huelva,266,4,252,10
+49,Mallorca,210,18,194,12
+50,Melilla,70,4,64,2
+51,La Palma,69,102,1315,3
+52,Lanzarote,67,102,1315,3
+53,Ceuta,62,2,59,1
+54,"Igualada, Vilanova del Cami, Santa Margarida de Montbui y Odena",58,0,58,3
+55,Fuerteventura,34,102,1315,0
+56,Ibiza,21,18,20,1
+57,Menorca,15,18,13,0
+58,La Gomera,8,102,1315,0
+59,Arroyo de la Luz,7,0,7,0
+60,El Hierro,3,102,1315,0
+61,Formentera,0,10,0,8
