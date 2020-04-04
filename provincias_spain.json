@@ -441,12 +441,12 @@
     },
     {
         "nombre": "Consejo Danes para los Refugiados",
-        "casos_total": 148,
-        "casos_nuevos": 0,
-        "casos_activos": 129,
+        "casos_total": 154,
+        "casos_nuevos": 6,
+        "casos_activos": 133,
         "casos_criticos": 0,
-        "fallecidos_total": 16,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 18,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 3
     },
     {
@@ -631,12 +631,12 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 309728,
-        "casos_nuevos": 32567,
-        "casos_activos": 286546,
+        "casos_total": 310133,
+        "casos_nuevos": 32972,
+        "casos_activos": 286950,
         "casos_criticos": 8206,
-        "fallecidos_total": 8441,
-        "fallecidos_nuevos": 1037,
+        "fallecidos_total": 8442,
+        "fallecidos_nuevos": 1038,
         "recuperados_total": 14741
     },
     {
@@ -1501,12 +1501,12 @@
     },
     {
         "nombre": "Panama",
-        "casos_total": 1673,
-        "casos_nuevos": 0,
-        "casos_activos": 1619,
+        "casos_total": 1801,
+        "casos_nuevos": 128,
+        "casos_activos": 1742,
         "casos_criticos": 50,
-        "fallecidos_total": 41,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 46,
+        "fallecidos_nuevos": 5,
         "recuperados_total": 13
     },
     {
@@ -1601,13 +1601,13 @@
     },
     {
         "nombre": "Republica Dominicana",
-        "casos_total": 1488,
-        "casos_nuevos": 0,
-        "casos_activos": 1404,
+        "casos_total": 1578,
+        "casos_nuevos": 90,
+        "casos_activos": 1484,
         "casos_criticos": 147,
-        "fallecidos_total": 68,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 16
+        "fallecidos_total": 77,
+        "fallecidos_nuevos": 9,
+        "recuperados_total": 17
     },
     {
         "nombre": "Republica de Africa Central",
@@ -1698,6 +1698,16 @@
         "fallecidos_total": 43,
         "fallecidos_nuevos": 9,
         "recuperados_total": 333
+    },
+    {
+        "nombre": "Sahara Occidental",
+        "casos_total": 4,
+        "casos_nuevos": 4,
+        "casos_activos": 4,
+        "casos_criticos": 0,
+        "fallecidos_total": 0,
+        "fallecidos_nuevos": 0,
+        "recuperados_total": 0
     },
     {
         "nombre": "San Bartolome",
@@ -2021,13 +2031,13 @@
     },
     {
         "nombre": "Uruguay",
-        "casos_total": 386,
-        "casos_nuevos": 0,
-        "casos_activos": 295,
+        "casos_total": 400,
+        "casos_nuevos": 14,
+        "casos_activos": 302,
         "casos_criticos": 13,
         "fallecidos_total": 5,
         "fallecidos_nuevos": 1,
-        "recuperados_total": 86
+        "recuperados_total": 93
     },
     {
         "nombre": "Uzbekistan",
