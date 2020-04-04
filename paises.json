@@ -35,13 +35,13 @@
     {
         "pais": "AO",
         "nombre": "Angola",
-        "casos_total": 8,
-        "casos_nuevos": 0,
-        "casos_activos": 5,
+        "casos_total": 10,
+        "casos_nuevos": 2,
+        "casos_activos": 6,
         "casos_criticos": 0,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1
+        "recuperados_total": 2
     },
     {
         "pais": "AI",
@@ -695,12 +695,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 300720,
-        "casos_nuevos": 23559,
-        "casos_activos": 278040,
-        "casos_criticos": 7869,
-        "fallecidos_total": 8162,
-        "fallecidos_nuevos": 758,
+        "casos_total": 301147,
+        "casos_nuevos": 23986,
+        "casos_activos": 278456,
+        "casos_criticos": 7973,
+        "fallecidos_total": 8173,
+        "fallecidos_nuevos": 769,
         "recuperados_total": 14518
     },
     {
@@ -794,13 +794,13 @@
     {
         "pais": "GE",
         "nombre": "Georgia",
-        "casos_total": 159,
-        "casos_nuevos": 4,
-        "casos_activos": 127,
+        "casos_total": 162,
+        "casos_nuevos": 7,
+        "casos_activos": 125,
         "casos_criticos": 6,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 1,
-        "recuperados_total": 31
+        "recuperados_total": 36
     },
     {
         "pais": "GH",
@@ -860,9 +860,9 @@
     {
         "pais": "GP",
         "nombre": "Guadalupe",
-        "casos_total": 130,
-        "casos_nuevos": 0,
-        "casos_activos": 99,
+        "casos_total": 134,
+        "casos_nuevos": 4,
+        "casos_activos": 103,
         "casos_criticos": 14,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
@@ -1269,11 +1269,11 @@
         "nombre": "Liberia",
         "casos_total": 10,
         "casos_nuevos": 3,
-        "casos_activos": 9,
+        "casos_activos": 6,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 1,
-        "recuperados_total": 0
+        "recuperados_total": 3
     },
     {
         "pais": "LY",
@@ -1302,10 +1302,10 @@
         "nombre": "Lituania",
         "casos_total": 771,
         "casos_nuevos": 75,
-        "casos_activos": 754,
+        "casos_activos": 753,
         "casos_criticos": 11,
-        "fallecidos_total": 10,
-        "fallecidos_nuevos": 1,
+        "fallecidos_total": 11,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 7
     },
     {
@@ -1687,11 +1687,11 @@
         "nombre": "Peru",
         "casos_total": 1746,
         "casos_nuevos": 151,
-        "casos_activos": 886,
+        "casos_activos": 771,
         "casos_criticos": 88,
         "fallecidos_total": 61,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 799
+        "recuperados_total": 914
     },
     {
         "pais": "PF",
