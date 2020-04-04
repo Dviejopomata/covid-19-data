@@ -695,13 +695,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 276931,
-        "casos_nuevos": 32054,
-        "casos_activos": 257272,
+        "casos_total": 276965,
+        "casos_nuevos": 32088,
+        "casos_activos": 257291,
         "casos_criticos": 5787,
         "fallecidos_total": 7391,
         "fallecidos_nuevos": 1320,
-        "recuperados_total": 12268
+        "recuperados_total": 12283
     },
     {
         "pais": "EE",
@@ -1038,11 +1038,11 @@
         "nombre": "Irlanda",
         "casos_total": 4273,
         "casos_nuevos": 424,
-        "casos_activos": 4148,
-        "casos_criticos": 109,
+        "casos_activos": 4128,
+        "casos_criticos": 148,
         "fallecidos_total": 120,
         "fallecidos_nuevos": 22,
-        "recuperados_total": 5
+        "recuperados_total": 25
     },
     {
         "pais": "IM",
@@ -1611,7 +1611,7 @@
         "casos_total": 868,
         "casos_nuevos": 71,
         "casos_activos": 764,
-        "casos_criticos": 2,
+        "casos_criticos": 1,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
         "recuperados_total": 103
