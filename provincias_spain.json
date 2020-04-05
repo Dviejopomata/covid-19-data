@@ -111,9 +111,9 @@
     },
     {
         "nombre": "Australia",
-        "casos_total": 5687,
-        "casos_nuevos": 137,
-        "casos_activos": 3335,
+        "casos_total": 5750,
+        "casos_nuevos": 200,
+        "casos_activos": 3398,
         "casos_criticos": 91,
         "fallecidos_total": 37,
         "fallecidos_nuevos": 7,
@@ -631,12 +631,12 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 336085,
-        "casos_nuevos": 24728,
-        "casos_activos": 309238,
+        "casos_total": 336327,
+        "casos_nuevos": 24970,
+        "casos_activos": 309477,
         "casos_criticos": 8702,
-        "fallecidos_total": 9602,
-        "fallecidos_nuevos": 1151,
+        "fallecidos_total": 9605,
+        "fallecidos_nuevos": 1154,
         "recuperados_total": 17245
     },
     {
@@ -801,23 +801,23 @@
     },
     {
         "nombre": "Guatemala",
-        "casos_total": 61,
-        "casos_nuevos": 0,
-        "casos_activos": 44,
-        "casos_criticos": 1,
-        "fallecidos_total": 2,
-        "fallecidos_nuevos": 0,
+        "casos_total": 70,
+        "casos_nuevos": 9,
+        "casos_activos": 52,
+        "casos_criticos": 3,
+        "fallecidos_total": 3,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 15
     },
     {
         "nombre": "Guayana Francesa",
-        "casos_total": 61,
-        "casos_nuevos": 0,
-        "casos_activos": 39,
+        "casos_total": 68,
+        "casos_nuevos": 7,
+        "casos_activos": 41,
         "casos_criticos": 1,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 22
+        "recuperados_total": 27
     },
     {
         "nombre": "Guinea",
@@ -901,13 +901,13 @@
     },
     {
         "nombre": "India",
-        "casos_total": 3588,
-        "casos_nuevos": 0,
-        "casos_activos": 3260,
+        "casos_total": 4288,
+        "casos_nuevos": 700,
+        "casos_activos": 3843,
         "casos_criticos": 0,
-        "fallecidos_total": 99,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 229
+        "fallecidos_total": 117,
+        "fallecidos_nuevos": 18,
+        "recuperados_total": 328
     },
     {
         "nombre": "Indonesia",
