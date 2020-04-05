@@ -21,12 +21,12 @@
     },
     {
         "nombre": "Alemania",
-        "casos_total": 97351,
-        "casos_nuevos": 1259,
-        "casos_activos": 69472,
+        "casos_total": 98737,
+        "casos_nuevos": 2645,
+        "casos_activos": 70814,
         "casos_criticos": 3936,
-        "fallecidos_total": 1479,
-        "fallecidos_nuevos": 35,
+        "fallecidos_total": 1523,
+        "fallecidos_nuevos": 79,
         "recuperados_total": 26400
     },
     {
@@ -71,12 +71,12 @@
     },
     {
         "nombre": "Argelia",
-        "casos_total": 1251,
-        "casos_nuevos": 0,
-        "casos_activos": 1031,
+        "casos_total": 1320,
+        "casos_nuevos": 69,
+        "casos_activos": 1078,
         "casos_criticos": 0,
-        "fallecidos_total": 130,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 152,
+        "fallecidos_nuevos": 22,
         "recuperados_total": 90
     },
     {
@@ -121,9 +121,9 @@
     },
     {
         "nombre": "Austria",
-        "casos_total": 12051,
-        "casos_nuevos": 270,
-        "casos_activos": 8849,
+        "casos_total": 11934,
+        "casos_nuevos": 153,
+        "casos_activos": 8732,
         "casos_criticos": 244,
         "fallecidos_total": 204,
         "fallecidos_nuevos": 18,
@@ -391,22 +391,22 @@
     },
     {
         "nombre": "Chequia",
-        "casos_total": 4475,
-        "casos_nuevos": 3,
-        "casos_activos": 4335,
+        "casos_total": 4543,
+        "casos_nuevos": 71,
+        "casos_activos": 4380,
         "casos_criticos": 86,
-        "fallecidos_total": 62,
-        "fallecidos_nuevos": 3,
-        "recuperados_total": 78
+        "fallecidos_total": 67,
+        "fallecidos_nuevos": 8,
+        "recuperados_total": 96
     },
     {
         "nombre": "Chile",
-        "casos_total": 4161,
-        "casos_nuevos": 0,
-        "casos_activos": 3606,
+        "casos_total": 4471,
+        "casos_nuevos": 310,
+        "casos_activos": 3909,
         "casos_criticos": 38,
-        "fallecidos_total": 27,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 34,
+        "fallecidos_nuevos": 7,
         "recuperados_total": 528
     },
     {
@@ -501,12 +501,12 @@
     },
     {
         "nombre": "Cuba",
-        "casos_total": 288,
-        "casos_nuevos": 0,
-        "casos_activos": 267,
+        "casos_total": 320,
+        "casos_nuevos": 32,
+        "casos_activos": 297,
         "casos_criticos": 11,
-        "fallecidos_total": 6,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 8,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 15
     },
     {
@@ -541,12 +541,12 @@
     },
     {
         "nombre": "Ecuador",
-        "casos_total": 3465,
-        "casos_nuevos": 0,
-        "casos_activos": 3193,
+        "casos_total": 3646,
+        "casos_nuevos": 181,
+        "casos_activos": 3366,
         "casos_criticos": 100,
-        "fallecidos_total": 172,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 180,
+        "fallecidos_nuevos": 8,
         "recuperados_total": 100
     },
     {
@@ -631,13 +631,13 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 321615,
-        "casos_nuevos": 10258,
-        "casos_activos": 295913,
-        "casos_criticos": 8468,
-        "fallecidos_total": 9132,
-        "fallecidos_nuevos": 680,
-        "recuperados_total": 16570
+        "casos_total": 323516,
+        "casos_nuevos": 12159,
+        "casos_activos": 297755,
+        "casos_criticos": 8474,
+        "fallecidos_total": 9171,
+        "fallecidos_nuevos": 719,
+        "recuperados_total": 16590
     },
     {
         "nombre": "Estonia",
@@ -1041,13 +1041,13 @@
     },
     {
         "nombre": "Italia",
-        "casos_total": 124632,
-        "casos_nuevos": 0,
-        "casos_activos": 88274,
-        "casos_criticos": 3994,
-        "fallecidos_total": 15362,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 20996
+        "casos_total": 128948,
+        "casos_nuevos": 4316,
+        "casos_activos": 91246,
+        "casos_criticos": 3977,
+        "fallecidos_total": 15887,
+        "fallecidos_nuevos": 525,
+        "recuperados_total": 21815
     },
     {
         "nombre": "Jamaica",
@@ -1444,7 +1444,7 @@
         "casos_total": 5686,
         "casos_nuevos": 136,
         "casos_activos": 5584,
-        "casos_criticos": 98,
+        "casos_criticos": 89,
         "fallecidos_total": 70,
         "fallecidos_nuevos": 8,
         "recuperados_total": 32
