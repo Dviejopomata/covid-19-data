@@ -398,9 +398,9 @@
     {
         "pais": "CM",
         "nombre": "Camerun",
-        "casos_total": 555,
-        "casos_nuevos": 0,
-        "casos_activos": 529,
+        "casos_total": 650,
+        "casos_nuevos": 95,
+        "casos_activos": 624,
         "casos_criticos": 0,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
@@ -519,13 +519,13 @@
     {
         "pais": "CI",
         "nombre": "Costa de Marfil",
-        "casos_total": 245,
-        "casos_nuevos": 0,
-        "casos_activos": 219,
+        "casos_total": 261,
+        "casos_nuevos": 16,
+        "casos_activos": 221,
         "casos_criticos": 0,
-        "fallecidos_total": 1,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 25
+        "fallecidos_total": 3,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 37
     },
     {
         "pais": "HR",
@@ -695,13 +695,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 331519,
-        "casos_nuevos": 20162,
-        "casos_activos": 304920,
-        "casos_criticos": 8573,
-        "fallecidos_total": 9484,
-        "fallecidos_nuevos": 1032,
-        "recuperados_total": 17115
+        "casos_total": 332993,
+        "casos_nuevos": 21636,
+        "casos_activos": 306447,
+        "casos_criticos": 8623,
+        "fallecidos_total": 9528,
+        "fallecidos_nuevos": 1076,
+        "recuperados_total": 17018
     },
     {
         "pais": "EE",
@@ -1399,13 +1399,13 @@
     {
         "pais": "MA",
         "nombre": "Marruecos",
-        "casos_total": 990,
-        "casos_nuevos": 71,
-        "casos_activos": 850,
+        "casos_total": 1021,
+        "casos_nuevos": 102,
+        "casos_activos": 875,
         "casos_criticos": 1,
-        "fallecidos_total": 69,
-        "fallecidos_nuevos": 10,
-        "recuperados_total": 71
+        "fallecidos_total": 70,
+        "fallecidos_nuevos": 11,
+        "recuperados_total": 76
     },
     {
         "pais": "MQ",
@@ -1564,13 +1564,13 @@
     {
         "pais": "NE",
         "nombre": "Niger",
-        "casos_total": 144,
-        "casos_nuevos": 0,
-        "casos_activos": 136,
+        "casos_total": 184,
+        "casos_nuevos": 40,
+        "casos_activos": 161,
         "casos_criticos": 0,
-        "fallecidos_total": 8,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 0
+        "fallecidos_total": 10,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 13
     },
     {
         "pais": "NG",
@@ -1929,11 +1929,11 @@
         "nombre": "San Martin (Parte Holandesa)",
         "casos_total": 25,
         "casos_nuevos": 2,
-        "casos_activos": 15,
+        "casos_activos": 20,
         "casos_criticos": 0,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 6
+        "recuperados_total": 1
     },
     {
         "pais": "PM",
