@@ -125,18 +125,18 @@
         "nombre": "Australia",
         "casos_total": 5687,
         "casos_nuevos": 137,
-        "casos_activos": 5068,
+        "casos_activos": 3338,
         "casos_criticos": 85,
         "fallecidos_total": 34,
         "fallecidos_nuevos": 4,
-        "recuperados_total": 585
+        "recuperados_total": 2315
     },
     {
         "pais": "AT",
         "nombre": "Austria",
-        "casos_total": 11831,
-        "casos_nuevos": 50,
-        "casos_activos": 8629,
+        "casos_total": 11850,
+        "casos_nuevos": 69,
+        "casos_activos": 8648,
         "casos_criticos": 244,
         "fallecidos_total": 204,
         "fallecidos_nuevos": 18,
@@ -288,9 +288,9 @@
     {
         "pais": "BA",
         "nombre": "Bosnia y Herzegovina",
-        "casos_total": 632,
-        "casos_nuevos": 8,
-        "casos_activos": 581,
+        "casos_total": 634,
+        "casos_nuevos": 10,
+        "casos_activos": 583,
         "casos_criticos": 4,
         "fallecidos_total": 21,
         "fallecidos_nuevos": 0,
@@ -676,7 +676,7 @@
         "casos_total": 130759,
         "casos_nuevos": 4591,
         "casos_activos": 80261,
-        "casos_criticos": 6532,
+        "casos_criticos": 6861,
         "fallecidos_total": 12418,
         "fallecidos_nuevos": 471,
         "recuperados_total": 38080
@@ -1025,12 +1025,12 @@
     {
         "pais": "IR",
         "nombre": "Iran",
-        "casos_total": 55743,
-        "casos_nuevos": 0,
-        "casos_activos": 32555,
+        "casos_total": 58226,
+        "casos_nuevos": 2483,
+        "casos_activos": 34887,
         "casos_criticos": 4103,
-        "fallecidos_total": 3452,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 3603,
+        "fallecidos_nuevos": 151,
         "recuperados_total": 19736
     },
     {
@@ -1850,13 +1850,13 @@
     {
         "pais": "RO",
         "nombre": "Rumania",
-        "casos_total": 3613,
-        "casos_nuevos": 0,
-        "casos_activos": 3136,
-        "casos_criticos": 119,
+        "casos_total": 3864,
+        "casos_nuevos": 251,
+        "casos_activos": 3342,
+        "casos_criticos": 141,
         "fallecidos_total": 148,
         "fallecidos_nuevos": 2,
-        "recuperados_total": 329
+        "recuperados_total": 374
     },
     {
         "pais": "RU",
@@ -2088,6 +2088,17 @@
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
         "recuperados_total": 2
+    },
+    {
+        "pais": "SS",
+        "nombre": "Sudan del Sur",
+        "casos_total": 1,
+        "casos_nuevos": 1,
+        "casos_activos": 1,
+        "casos_criticos": 0,
+        "fallecidos_total": 0,
+        "fallecidos_nuevos": 0,
+        "recuperados_total": 0
     },
     {
         "pais": "SE",
