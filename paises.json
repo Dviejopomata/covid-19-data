@@ -125,10 +125,10 @@
         "nombre": "Australia",
         "casos_total": 5635,
         "casos_nuevos": 85,
-        "casos_activos": 5020,
+        "casos_activos": 5016,
         "casos_criticos": 85,
-        "fallecidos_total": 30,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 34,
+        "fallecidos_nuevos": 4,
         "recuperados_total": 585
     },
     {
@@ -266,13 +266,13 @@
     {
         "pais": "BO",
         "nombre": "Bolivia",
-        "casos_total": 139,
-        "casos_nuevos": 0,
-        "casos_activos": 128,
+        "casos_total": 157,
+        "casos_nuevos": 18,
+        "casos_activos": 145,
         "casos_criticos": 3,
         "fallecidos_total": 10,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1
+        "recuperados_total": 2
     },
     {
         "pais": "BQ",
@@ -948,9 +948,9 @@
     {
         "pais": "HT",
         "nombre": "Haiti",
-        "casos_total": 20,
-        "casos_nuevos": 0,
-        "casos_activos": 19,
+        "casos_total": 21,
+        "casos_nuevos": 1,
+        "casos_activos": 20,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -959,13 +959,13 @@
     {
         "pais": "HN",
         "nombre": "Honduras",
-        "casos_total": 264,
-        "casos_nuevos": 0,
-        "casos_activos": 246,
+        "casos_total": 268,
+        "casos_nuevos": 4,
+        "casos_activos": 240,
         "casos_criticos": 10,
-        "fallecidos_total": 15,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 3
+        "fallecidos_total": 22,
+        "fallecidos_nuevos": 7,
+        "recuperados_total": 6
     },
     {
         "pais": "HK",
@@ -1674,9 +1674,9 @@
     {
         "pais": "PY",
         "nombre": "Paraguay",
-        "casos_total": 96,
-        "casos_nuevos": 0,
-        "casos_activos": 81,
+        "casos_total": 104,
+        "casos_nuevos": 8,
+        "casos_activos": 89,
         "casos_criticos": 2,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
