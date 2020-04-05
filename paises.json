@@ -24,12 +24,12 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 96471,
-        "casos_nuevos": 379,
-        "casos_activos": 68624,
+        "casos_total": 97052,
+        "casos_nuevos": 960,
+        "casos_activos": 69174,
         "casos_criticos": 3936,
-        "fallecidos_total": 1447,
-        "fallecidos_nuevos": 3,
+        "fallecidos_total": 1478,
+        "fallecidos_nuevos": 34,
         "recuperados_total": 26400
     },
     {
@@ -134,9 +134,9 @@
     {
         "pais": "AT",
         "nombre": "Austria",
-        "casos_total": 11897,
-        "casos_nuevos": 116,
-        "casos_activos": 8695,
+        "casos_total": 11907,
+        "casos_nuevos": 126,
+        "casos_activos": 8705,
         "casos_criticos": 244,
         "fallecidos_total": 204,
         "fallecidos_nuevos": 18,
@@ -169,11 +169,11 @@
         "nombre": "Banglades",
         "casos_total": 88,
         "casos_nuevos": 18,
-        "casos_activos": 49,
+        "casos_activos": 46,
         "casos_criticos": 1,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 1,
-        "recuperados_total": 30
+        "recuperados_total": 33
     },
     {
         "pais": "BB",
@@ -1259,7 +1259,7 @@
         "casos_total": 527,
         "casos_nuevos": 7,
         "casos_activos": 455,
-        "casos_criticos": 26,
+        "casos_criticos": 28,
         "fallecidos_total": 18,
         "fallecidos_nuevos": 1,
         "recuperados_total": 54
@@ -1641,9 +1641,9 @@
     {
         "pais": "PK",
         "nombre": "Pakistan",
-        "casos_total": 2897,
-        "casos_nuevos": 79,
-        "casos_activos": 2644,
+        "casos_total": 2899,
+        "casos_nuevos": 81,
+        "casos_activos": 2646,
         "casos_criticos": 18,
         "fallecidos_total": 45,
         "fallecidos_nuevos": 4,
@@ -1806,13 +1806,13 @@
     {
         "pais": "DJ",
         "nombre": "Republica de Yibuti",
-        "casos_total": 50,
-        "casos_nuevos": 0,
-        "casos_activos": 42,
+        "casos_total": 59,
+        "casos_nuevos": 9,
+        "casos_activos": 50,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 8
+        "recuperados_total": 9
     },
     {
         "pais": "TD",
