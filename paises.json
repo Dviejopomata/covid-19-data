@@ -136,11 +136,11 @@
         "nombre": "Austria",
         "casos_total": 11781,
         "casos_nuevos": 0,
-        "casos_activos": 9088,
+        "casos_activos": 8579,
         "casos_criticos": 245,
-        "fallecidos_total": 186,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 2507
+        "fallecidos_total": 204,
+        "fallecidos_nuevos": 18,
+        "recuperados_total": 2998
     },
     {
         "pais": "AZ",
@@ -434,7 +434,7 @@
         "casos_total": 4475,
         "casos_nuevos": 3,
         "casos_activos": 4335,
-        "casos_criticos": 87,
+        "casos_criticos": 86,
         "fallecidos_total": 62,
         "fallecidos_nuevos": 3,
         "recuperados_total": 78
@@ -1421,9 +1421,9 @@
     {
         "pais": "MU",
         "nombre": "Mauricio",
-        "casos_total": 196,
-        "casos_nuevos": 0,
-        "casos_activos": 182,
+        "casos_total": 227,
+        "casos_nuevos": 31,
+        "casos_activos": 213,
         "casos_criticos": 1,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
@@ -1586,9 +1586,9 @@
     {
         "pais": "NO",
         "nombre": "Noruega",
-        "casos_total": 5550,
-        "casos_nuevos": 0,
-        "casos_activos": 5456,
+        "casos_total": 5645,
+        "casos_nuevos": 95,
+        "casos_activos": 5551,
         "casos_criticos": 98,
         "fallecidos_total": 62,
         "fallecidos_nuevos": 0,
@@ -2050,11 +2050,11 @@
         "nombre": "Sri Lanka",
         "casos_total": 166,
         "casos_nuevos": 0,
-        "casos_activos": 134,
+        "casos_activos": 132,
         "casos_criticos": 5,
         "fallecidos_total": 5,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 27
+        "recuperados_total": 29
     },
     {
         "pais": "SZ",
