@@ -3,11 +3,11 @@
         "nombre": "Afganistan",
         "casos_total": 367,
         "casos_nuevos": 18,
-        "casos_activos": 345,
+        "casos_activos": 343,
         "casos_criticos": 0,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 15
+        "recuperados_total": 17
     },
     {
         "nombre": "Albania",
@@ -111,10 +111,10 @@
     },
     {
         "nombre": "Australia",
-        "casos_total": 5773,
-        "casos_nuevos": 23,
-        "casos_activos": 3419,
-        "casos_criticos": 91,
+        "casos_total": 5788,
+        "casos_nuevos": 38,
+        "casos_activos": 3434,
+        "casos_criticos": 95,
         "fallecidos_total": 39,
         "fallecidos_nuevos": 2,
         "recuperados_total": 2315
@@ -193,10 +193,10 @@
         "nombre": "Belice",
         "casos_total": 5,
         "casos_nuevos": 0,
-        "casos_activos": 5,
+        "casos_activos": 4,
         "casos_criticos": 1,
-        "fallecidos_total": 0,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 1,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 0
     },
     {
@@ -661,9 +661,9 @@
     },
     {
         "nombre": "Filipinas",
-        "casos_total": 3246,
-        "casos_nuevos": 0,
-        "casos_activos": 3030,
+        "casos_total": 3414,
+        "casos_nuevos": 168,
+        "casos_activos": 3198,
         "casos_criticos": 1,
         "fallecidos_total": 152,
         "fallecidos_nuevos": 0,
@@ -901,9 +901,9 @@
     },
     {
         "nombre": "India",
-        "casos_total": 4289,
-        "casos_nuevos": 0,
-        "casos_activos": 3843,
+        "casos_total": 4298,
+        "casos_nuevos": 9,
+        "casos_activos": 3852,
         "casos_criticos": 0,
         "fallecidos_total": 118,
         "fallecidos_nuevos": 0,
@@ -1103,11 +1103,11 @@
         "nombre": "Kirguistan",
         "casos_total": 216,
         "casos_nuevos": 69,
-        "casos_activos": 206,
+        "casos_activos": 179,
         "casos_criticos": 5,
-        "fallecidos_total": 1,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 9
+        "fallecidos_total": 4,
+        "fallecidos_nuevos": 3,
+        "recuperados_total": 33
     },
     {
         "nombre": "Kuwait",
@@ -1494,7 +1494,7 @@
         "casos_total": 3277,
         "casos_nuevos": 120,
         "casos_activos": 2970,
-        "casos_criticos": 18,
+        "casos_criticos": 17,
         "fallecidos_total": 50,
         "fallecidos_nuevos": 3,
         "recuperados_total": 257
