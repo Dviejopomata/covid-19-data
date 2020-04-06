@@ -24,9 +24,9 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 101089,
-        "casos_nuevos": 966,
-        "casos_activos": 70777,
+        "casos_total": 101178,
+        "casos_nuevos": 1055,
+        "casos_activos": 70866,
         "casos_criticos": 3936,
         "fallecidos_total": 1612,
         "fallecidos_nuevos": 28,
@@ -211,9 +211,9 @@
     {
         "pais": "BZ",
         "nombre": "Belice",
-        "casos_total": 5,
-        "casos_nuevos": 0,
-        "casos_activos": 4,
+        "casos_total": 7,
+        "casos_nuevos": 2,
+        "casos_activos": 6,
         "casos_criticos": 1,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 1,
@@ -596,12 +596,12 @@
     {
         "pais": "EC",
         "nombre": "Ecuador",
-        "casos_total": 3646,
-        "casos_nuevos": 0,
-        "casos_activos": 3366,
-        "casos_criticos": 100,
-        "fallecidos_total": 180,
-        "fallecidos_nuevos": 0,
+        "casos_total": 3747,
+        "casos_nuevos": 101,
+        "casos_activos": 3456,
+        "casos_criticos": 156,
+        "fallecidos_total": 191,
+        "fallecidos_nuevos": 11,
         "recuperados_total": 100
     },
     {
@@ -695,13 +695,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 349885,
-        "casos_nuevos": 13212,
-        "casos_activos": 320339,
+        "casos_total": 350013,
+        "casos_nuevos": 13340,
+        "casos_activos": 320439,
         "casos_criticos": 8830,
         "fallecidos_total": 10327,
         "fallecidos_nuevos": 711,
-        "recuperados_total": 19219
+        "recuperados_total": 19247
     },
     {
         "pais": "EE",
@@ -851,11 +851,11 @@
         "nombre": "Groenlandia",
         "casos_total": 11,
         "casos_nuevos": 0,
-        "casos_activos": 8,
+        "casos_activos": 7,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 3
+        "recuperados_total": 4
     },
     {
         "pais": "GP",
@@ -948,13 +948,13 @@
     {
         "pais": "HT",
         "nombre": "Haiti",
-        "casos_total": 21,
-        "casos_nuevos": 0,
-        "casos_activos": 19,
+        "casos_total": 24,
+        "casos_nuevos": 3,
+        "casos_activos": 23,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1
+        "recuperados_total": 0
     },
     {
         "pais": "HN",
@@ -1190,9 +1190,9 @@
     {
         "pais": "KZ",
         "nombre": "Kazajistan",
-        "casos_total": 629,
-        "casos_nuevos": 45,
-        "casos_activos": 578,
+        "casos_total": 651,
+        "casos_nuevos": 67,
+        "casos_activos": 600,
         "casos_criticos": 16,
         "fallecidos_total": 6,
         "fallecidos_nuevos": 0,
@@ -1424,7 +1424,7 @@
         "casos_total": 244,
         "casos_nuevos": 17,
         "casos_activos": 230,
-        "casos_criticos": 1,
+        "casos_criticos": 2,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
         "recuperados_total": 7
@@ -2138,10 +2138,10 @@
         "nombre": "Suiza",
         "casos_total": 21652,
         "casos_nuevos": 552,
-        "casos_activos": 13620,
+        "casos_activos": 13592,
         "casos_criticos": 391,
-        "fallecidos_total": 734,
-        "fallecidos_nuevos": 19,
+        "fallecidos_total": 762,
+        "fallecidos_nuevos": 47,
         "recuperados_total": 7298
     },
     {
@@ -2235,13 +2235,13 @@
     {
         "pais": "TR",
         "nombre": "Turquia",
-        "casos_total": 27069,
-        "casos_nuevos": 0,
-        "casos_activos": 25453,
+        "casos_total": 30217,
+        "casos_nuevos": 3148,
+        "casos_activos": 28242,
         "casos_criticos": 1381,
-        "fallecidos_total": 574,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1042
+        "fallecidos_total": 649,
+        "fallecidos_nuevos": 75,
+        "recuperados_total": 1326
     },
     {
         "pais": "UA",
