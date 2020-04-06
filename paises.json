@@ -134,9 +134,9 @@
     {
         "pais": "AT",
         "nombre": "Austria",
-        "casos_total": 12293,
-        "casos_nuevos": 242,
-        "casos_activos": 8610,
+        "casos_total": 12297,
+        "casos_nuevos": 246,
+        "casos_activos": 8614,
         "casos_criticos": 250,
         "fallecidos_total": 220,
         "fallecidos_nuevos": 16,
@@ -233,13 +233,13 @@
     {
         "pais": "BM",
         "nombre": "Bermudas",
-        "casos_total": 37,
-        "casos_nuevos": 0,
-        "casos_activos": 23,
+        "casos_total": 39,
+        "casos_nuevos": 2,
+        "casos_activos": 20,
         "casos_criticos": 0,
-        "fallecidos_total": 0,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 14
+        "fallecidos_total": 2,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 17
     },
     {
         "pais": "BY",
@@ -343,13 +343,13 @@
     {
         "pais": "BF",
         "nombre": "Burkina Faso",
-        "casos_total": 345,
-        "casos_nuevos": 0,
+        "casos_total": 364,
+        "casos_nuevos": 19,
         "casos_activos": 238,
         "casos_criticos": 0,
-        "fallecidos_total": 17,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 90
+        "fallecidos_total": 18,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 108
     },
     {
         "pais": "BI",
@@ -695,12 +695,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 362573,
-        "casos_nuevos": 25900,
-        "casos_activos": 332540,
-        "casos_criticos": 8871,
-        "fallecidos_total": 10720,
-        "fallecidos_nuevos": 1104,
+        "casos_total": 363408,
+        "casos_nuevos": 26735,
+        "casos_activos": 333332,
+        "casos_criticos": 8879,
+        "fallecidos_total": 10763,
+        "fallecidos_nuevos": 1147,
         "recuperados_total": 19313
     },
     {
@@ -744,7 +744,7 @@
         "casos_activos": 1849,
         "casos_criticos": 81,
         "fallecidos_total": 27,
-        "fallecidos_nuevos": 1,
+        "fallecidos_nuevos": 0,
         "recuperados_total": 300
     },
     {
