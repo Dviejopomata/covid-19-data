@@ -1,5 +1,5 @@
 ,País,Casos totales,Nuevos casos,Casos activos,Recuperados,Casos críticos,Muertes hoy,Muertes
-0,Estados Unidos,360901,24228,19308,330902,8876,1075,10691
+0,Estados Unidos,362326,25653,19313,332299,8871,1098,10714
 1,España,135032,3386,40437,81426,6931,528,13169
 2,Italia,132547,3599,22837,93187,3898,636,16523
 3,Alemania,102024,1901,28700,71629,3936,111,1695
@@ -47,9 +47,9 @@
 45,Republica Dominicana,1828,83,33,1709,147,4,86
 46,Grecia,1755,20,269,1407,90,6,79
 47,Sudafrica,1686,31,95,1579,7,1,12
-48,Islandia,1562,76,460,1096,11,2,6
-49,Argentina,1554,0,325,1181,94,2,48
-50,Colombia,1485,0,88,1362,50,0,35
+48,Colombia,1579,94,88,1445,50,11,46
+49,Islandia,1562,76,460,1096,11,2,6
+50,Argentina,1554,0,325,1181,94,2,48
 51,Argelia,1423,103,90,1160,46,21,173
 52,Singapur,1375,66,344,1025,25,0,6
 53,Egipto,1322,149,259,978,0,7,85
@@ -96,23 +96,23 @@
 94,Honduras,298,30,6,270,10,0,22
 95,San Marino,266,0,35,199,14,0,32
 96,Estado de Palestina,253,16,25,227,0,0,1
-97,Vietnam,245,4,95,150,8,0,0
-98,Mauricio,244,17,7,230,2,0,7
-99,Malta,241,14,5,236,3,0,0
-100,Montenegro,233,19,1,230,4,0,2
-101,Nigeria,232,0,33,194,2,0,5
-102,Senegal,226,4,92,132,1,0,2
-103,Kirguistan,216,69,33,179,5,3,4
-104,Ghana,214,0,31,178,2,0,5
-105,Georgia,188,14,39,147,6,0,2
-106,Niger,184,0,13,161,0,0,10
+97,Niger,253,69,26,217,0,0,10
+98,Vietnam,245,4,95,150,8,0,0
+99,Mauricio,244,17,7,230,2,0,7
+100,Malta,241,14,5,236,3,0,0
+101,Nigeria,238,6,35,198,2,0,5
+102,Montenegro,233,19,1,230,4,0,2
+103,Senegal,226,4,92,132,1,0,2
+104,Kirguistan,216,69,33,179,5,3,4
+105,Ghana,214,0,31,178,2,0,5
+106,Georgia,188,14,39,147,6,0,2
 107,Bolivia,183,26,2,170,3,1,11
 108,Islas Feroe,183,2,107,76,1,0,0
 109,Sri Lanka,178,2,38,135,5,0,5
 110,Consejo Danes para los Refugiados,161,7,5,138,0,0,18
 111,Venezuela,159,0,52,100,6,0,7
 112,Kenia,158,16,4,148,2,2,6
-113,Martinica,149,0,50,95,21,0,4
+113,Martinica,151,2,50,97,20,0,4
 114,Mayotte,147,0,14,131,3,0,2
 115,Isla de Man,139,12,55,83,0,0,1
 116,Guadalupe,135,0,31,97,14,0,7
@@ -167,23 +167,23 @@
 165,Angola,16,2,2,12,0,0,2
 166,Antigua y Barbuda,15,0,0,15,1,0,0
 167,Mongolia,15,1,2,13,0,0,0
-168,Fiyi,14,2,0,14,0,0,0
-169,Dominica,14,0,0,14,0,0,0
+168,Dominica,14,0,0,14,0,0,0
+169,Fiyi,14,2,0,14,0,0,0
 170,Santa Lucia,14,0,1,13,0,0,0
 171,Liberia,14,1,3,8,0,0,3
 172,Curazao,13,2,5,7,0,0,1
-173,Granada,12,0,0,12,2,0,0
-174,Laos,12,1,0,12,0,0,0
+173,Laos,12,1,0,12,0,0,0
+174,Granada,12,0,0,12,2,0,0
 175,Sudan,12,0,2,8,0,0,2
 176,Seychelles,11,1,0,11,0,0,0
 177,Groenlandia,11,0,4,7,0,0,0
 178,San Cristobal y Nieves,10,0,0,10,0,0,0
 179,Mozambique,10,0,1,9,0,0,0
-180,Surinam,10,0,0,9,0,0,1
-181,Suazilandia,10,1,4,6,0,0,0
-182,Republica del Chad,9,0,0,9,0,0,0
-183,Nepal,9,0,1,8,0,0,0
-184,Zimbabue,9,0,0,8,0,0,1
+180,Zimbabue,10,1,0,9,0,0,1
+181,Surinam,10,0,0,9,0,0,1
+182,Suazilandia,10,1,4,6,0,0,0
+183,Republica del Chad,9,0,0,9,0,0,0
+184,Nepal,9,0,1,8,0,0,0
 185,Montserrat,9,0,0,7,0,0,2
 186,Republica de Africa Central,8,0,0,8,0,0,0
 187,Santa Sede,7,0,0,7,0,0,0
@@ -192,9 +192,9 @@
 190,Somalia,7,0,1,6,0,0,0
 191,Cabo Verde,7,0,1,5,0,0,1
 192,Sierra Leona,6,0,0,6,0,0,0
-193,Nicaragua,6,0,0,5,0,0,1
-194,Botsuana,6,0,0,5,0,0,1
-195,San Bartolome,6,0,1,5,0,0,0
+193,San Bartolome,6,0,1,5,0,0,0
+194,Nicaragua,6,0,0,5,0,0,1
+195,Botsuana,6,0,0,5,0,0,1
 196,Mauritania,6,0,2,3,0,0,1
 197,Malaui,5,1,0,5,1,0,0
 198,Islas Turcas y Caicos,5,0,0,4,0,0,1
@@ -202,12 +202,12 @@
 200,Santo Tome y Principe,4,4,0,4,0,0,0
 201,Sahara Occidental,4,0,0,4,0,0,0
 202,Gambia,4,0,2,1,0,0,1
-203,Burundi,3,0,0,3,0,0,0
-204,Anguila,3,0,0,3,0,0,0
+203,Anguila,3,0,0,3,0,0,0
+204,Burundi,3,0,0,3,0,0,0
 205,Islas Virgenes Britanicas,3,0,0,3,0,0,0
 206,Papua Nueva Guinea,2,1,0,2,0,0,0
-207,"Bonaire, San Eustaquio y Saba",2,0,0,2,0,0,0
-208,Islas Malvinas,2,0,0,2,0,0,0
-209,Timor Oriental,1,0,0,1,0,0,0
-210,Sudan del Sur,1,0,0,1,0,0,0
-211,San Pedro y Miquelon,1,0,0,1,0,0,0
+207,Islas Malvinas,2,0,0,2,0,0,0
+208,"Bonaire, San Eustaquio y Saba",2,0,0,2,0,0,0
+209,San Pedro y Miquelon,1,0,0,1,0,0,0
+210,Timor Oriental,1,0,0,1,0,0,0
+211,Sudan del Sur,1,0,0,1,0,0,0

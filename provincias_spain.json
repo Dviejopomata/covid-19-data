@@ -421,12 +421,12 @@
     },
     {
         "nombre": "Colombia",
-        "casos_total": 1485,
-        "casos_nuevos": 0,
-        "casos_activos": 1362,
+        "casos_total": 1579,
+        "casos_nuevos": 94,
+        "casos_activos": 1445,
         "casos_criticos": 50,
-        "fallecidos_total": 35,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 46,
+        "fallecidos_nuevos": 11,
         "recuperados_total": 88
     },
     {
@@ -631,13 +631,13 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 360901,
-        "casos_nuevos": 24228,
-        "casos_activos": 330902,
-        "casos_criticos": 8876,
-        "fallecidos_total": 10691,
-        "fallecidos_nuevos": 1075,
-        "recuperados_total": 19308
+        "casos_total": 362326,
+        "casos_nuevos": 25653,
+        "casos_activos": 332299,
+        "casos_criticos": 8871,
+        "fallecidos_total": 10714,
+        "fallecidos_nuevos": 1098,
+        "recuperados_total": 19313
     },
     {
         "nombre": "Estonia",
@@ -1281,10 +1281,10 @@
     },
     {
         "nombre": "Martinica",
-        "casos_total": 149,
-        "casos_nuevos": 0,
-        "casos_activos": 95,
-        "casos_criticos": 21,
+        "casos_total": 151,
+        "casos_nuevos": 2,
+        "casos_activos": 97,
+        "casos_criticos": 20,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
         "recuperados_total": 50
@@ -1421,23 +1421,23 @@
     },
     {
         "nombre": "Niger",
-        "casos_total": 184,
-        "casos_nuevos": 0,
-        "casos_activos": 161,
+        "casos_total": 253,
+        "casos_nuevos": 69,
+        "casos_activos": 217,
         "casos_criticos": 0,
         "fallecidos_total": 10,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 13
+        "recuperados_total": 26
     },
     {
         "nombre": "Nigeria",
-        "casos_total": 232,
-        "casos_nuevos": 0,
-        "casos_activos": 194,
+        "casos_total": 238,
+        "casos_nuevos": 6,
+        "casos_activos": 198,
         "casos_criticos": 2,
         "fallecidos_total": 5,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 33
+        "recuperados_total": 35
     },
     {
         "nombre": "Noruega",
@@ -2111,9 +2111,9 @@
     },
     {
         "nombre": "Zimbabue",
-        "casos_total": 9,
-        "casos_nuevos": 0,
-        "casos_activos": 8,
+        "casos_total": 10,
+        "casos_nuevos": 1,
+        "casos_activos": 9,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
