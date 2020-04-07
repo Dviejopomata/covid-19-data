@@ -24,12 +24,12 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 103717,
-        "casos_nuevos": 342,
-        "casos_activos": 65814,
+        "casos_total": 104199,
+        "casos_nuevos": 824,
+        "casos_activos": 66276,
         "casos_criticos": 4895,
-        "fallecidos_total": 1822,
-        "fallecidos_nuevos": 12,
+        "fallecidos_total": 1842,
+        "fallecidos_nuevos": 32,
         "recuperados_total": 36081
     },
     {
@@ -653,11 +653,11 @@
         "nombre": "Eslovaquia",
         "casos_total": 581,
         "casos_nuevos": 47,
-        "casos_activos": 570,
+        "casos_activos": 566,
         "casos_criticos": 3,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 9
+        "recuperados_total": 13
     },
     {
         "pais": "SI",
@@ -665,7 +665,7 @@
         "casos_total": 1059,
         "casos_nuevos": 38,
         "casos_activos": 927,
-        "casos_criticos": 114,
+        "casos_criticos": 30,
         "fallecidos_total": 30,
         "fallecidos_nuevos": 0,
         "recuperados_total": 102
@@ -1058,13 +1058,13 @@
     {
         "pais": "IS",
         "nombre": "Islandia",
-        "casos_total": 1562,
-        "casos_nuevos": 0,
-        "casos_activos": 1096,
+        "casos_total": 1586,
+        "casos_nuevos": 24,
+        "casos_activos": 1021,
         "casos_criticos": 11,
         "fallecidos_total": 6,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 460
+        "recuperados_total": 559
     },
     {
         "pais": "KY",
@@ -1082,11 +1082,11 @@
         "nombre": "Islas Feroe",
         "casos_total": 184,
         "casos_nuevos": 1,
-        "casos_activos": 55,
+        "casos_activos": 64,
         "casos_criticos": 2,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 129
+        "recuperados_total": 120
     },
     {
         "pais": "FK",
@@ -1641,9 +1641,9 @@
     {
         "pais": "PK",
         "nombre": "Pakistan",
-        "casos_total": 4004,
-        "casos_nuevos": 238,
-        "casos_activos": 3520,
+        "casos_total": 4005,
+        "casos_nuevos": 239,
+        "casos_activos": 3521,
         "casos_criticos": 28,
         "fallecidos_total": 55,
         "fallecidos_nuevos": 2,
@@ -1852,10 +1852,10 @@
         "nombre": "Rumania",
         "casos_total": 4417,
         "casos_nuevos": 360,
-        "casos_activos": 3773,
+        "casos_activos": 3760,
         "casos_criticos": 274,
-        "fallecidos_total": 184,
-        "fallecidos_nuevos": 8,
+        "fallecidos_total": 197,
+        "fallecidos_nuevos": 21,
         "recuperados_total": 460
     },
     {
@@ -2314,11 +2314,11 @@
         "nombre": "Zambia",
         "casos_total": 39,
         "casos_nuevos": 0,
-        "casos_activos": 33,
+        "casos_activos": 31,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 5
+        "recuperados_total": 7
     },
     {
         "pais": "ZW",
