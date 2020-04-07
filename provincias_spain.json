@@ -143,10 +143,10 @@
         "nombre": "Bahamas",
         "casos_total": 33,
         "casos_nuevos": 0,
-        "casos_activos": 23,
+        "casos_activos": 22,
         "casos_criticos": 1,
-        "fallecidos_total": 5,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 6,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 5
     },
     {
@@ -363,11 +363,11 @@
         "nombre": "Camerun",
         "casos_total": 658,
         "casos_nuevos": 0,
-        "casos_activos": 632,
+        "casos_activos": 606,
         "casos_criticos": 0,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 17
+        "recuperados_total": 43
     },
     {
         "nombre": "Canada",
@@ -631,13 +631,13 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 388757,
-        "casos_nuevos": 21753,
-        "casos_activos": 354926,
-        "casos_criticos": 9165,
-        "fallecidos_total": 12400,
-        "fallecidos_nuevos": 1529,
-        "recuperados_total": 21431
+        "casos_total": 390387,
+        "casos_nuevos": 23383,
+        "casos_activos": 356425,
+        "casos_criticos": 9169,
+        "fallecidos_total": 12474,
+        "fallecidos_nuevos": 1603,
+        "recuperados_total": 21488
     },
     {
         "nombre": "Estonia",
@@ -1211,9 +1211,9 @@
     },
     {
         "nombre": "Madagascar",
-        "casos_total": 82,
-        "casos_nuevos": 0,
-        "casos_activos": 80,
+        "casos_total": 88,
+        "casos_nuevos": 6,
+        "casos_activos": 86,
         "casos_criticos": 6,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1281,9 +1281,9 @@
     },
     {
         "nombre": "Martinica",
-        "casos_total": 151,
-        "casos_nuevos": 0,
-        "casos_activos": 97,
+        "casos_total": 152,
+        "casos_nuevos": 1,
+        "casos_activos": 98,
         "casos_criticos": 20,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
@@ -1571,13 +1571,13 @@
     },
     {
         "nombre": "Principado de Andorra",
-        "casos_total": 525,
-        "casos_nuevos": 0,
-        "casos_activos": 473,
-        "casos_criticos": 12,
-        "fallecidos_total": 21,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 31
+        "casos_total": 545,
+        "casos_nuevos": 20,
+        "casos_activos": 484,
+        "casos_criticos": 17,
+        "fallecidos_total": 22,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 39
     },
     {
         "nombre": "Puerto Rico",
@@ -1603,11 +1603,11 @@
         "nombre": "Republica Dominicana",
         "casos_total": 1956,
         "casos_nuevos": 128,
-        "casos_activos": 1825,
+        "casos_activos": 1822,
         "casos_criticos": 147,
         "fallecidos_total": 98,
         "fallecidos_nuevos": 12,
-        "recuperados_total": 33
+        "recuperados_total": 36
     },
     {
         "nombre": "Republica de Africa Central",
