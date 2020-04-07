@@ -266,12 +266,12 @@
     {
         "pais": "BO",
         "nombre": "Bolivia",
-        "casos_total": 183,
-        "casos_nuevos": 0,
-        "casos_activos": 170,
+        "casos_total": 194,
+        "casos_nuevos": 11,
+        "casos_activos": 178,
         "casos_criticos": 3,
-        "fallecidos_total": 11,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 14,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 2
     },
     {
@@ -312,10 +312,10 @@
         "nombre": "Brasil",
         "casos_total": 12232,
         "casos_nuevos": 49,
-        "casos_activos": 11540,
+        "casos_activos": 11539,
         "casos_criticos": 296,
-        "fallecidos_total": 565,
-        "fallecidos_nuevos": 1,
+        "fallecidos_total": 566,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 127
     },
     {
@@ -497,13 +497,13 @@
     {
         "pais": "KR",
         "nombre": "Corea del Sur",
-        "casos_total": 10284,
-        "casos_nuevos": 0,
-        "casos_activos": 3500,
+        "casos_total": 10331,
+        "casos_nuevos": 47,
+        "casos_activos": 3445,
         "casos_criticos": 55,
-        "fallecidos_total": 186,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 6598
+        "fallecidos_total": 192,
+        "fallecidos_nuevos": 6,
+        "recuperados_total": 6694
     },
     {
         "pais": "CR",
@@ -805,9 +805,9 @@
     {
         "pais": "GH",
         "nombre": "Ghana",
-        "casos_total": 214,
-        "casos_nuevos": 0,
-        "casos_activos": 178,
+        "casos_total": 287,
+        "casos_nuevos": 73,
+        "casos_activos": 251,
         "casos_criticos": 2,
         "fallecidos_total": 5,
         "fallecidos_nuevos": 0,
@@ -939,10 +939,10 @@
         "nombre": "Guyana",
         "casos_total": 31,
         "casos_nuevos": 0,
-        "casos_activos": 19,
+        "casos_activos": 18,
         "casos_criticos": 8,
-        "fallecidos_total": 4,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 5,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 8
     },
     {
@@ -1457,7 +1457,7 @@
         "casos_total": 2439,
         "casos_nuevos": 296,
         "casos_activos": 1681,
-        "casos_criticos": 419,
+        "casos_criticos": 89,
         "fallecidos_total": 125,
         "fallecidos_nuevos": 31,
         "recuperados_total": 633
@@ -1608,13 +1608,13 @@
     {
         "pais": "NZ",
         "nombre": "Nueva Zelanda",
-        "casos_total": 1106,
-        "casos_nuevos": 0,
-        "casos_activos": 929,
-        "casos_criticos": 3,
+        "casos_total": 1160,
+        "casos_nuevos": 54,
+        "casos_activos": 918,
+        "casos_criticos": 4,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 176
+        "recuperados_total": 241
     },
     {
         "pais": "OM",
