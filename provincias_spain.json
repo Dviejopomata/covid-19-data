@@ -421,13 +421,13 @@
     },
     {
         "nombre": "Colombia",
-        "casos_total": 1579,
-        "casos_nuevos": 0,
-        "casos_activos": 1445,
+        "casos_total": 1780,
+        "casos_nuevos": 201,
+        "casos_activos": 1630,
         "casos_criticos": 76,
-        "fallecidos_total": 46,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 88
+        "fallecidos_total": 50,
+        "fallecidos_nuevos": 4,
+        "recuperados_total": 100
     },
     {
         "nombre": "Congo",
@@ -631,13 +631,13 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 391475,
-        "casos_nuevos": 24471,
-        "casos_activos": 357435,
+        "casos_total": 391665,
+        "casos_nuevos": 24661,
+        "casos_activos": 357543,
         "casos_criticos": 9169,
-        "fallecidos_total": 12552,
-        "fallecidos_nuevos": 1681,
-        "recuperados_total": 21488
+        "fallecidos_total": 12561,
+        "fallecidos_nuevos": 1690,
+        "recuperados_total": 21561
     },
     {
         "nombre": "Estonia",
@@ -973,11 +973,11 @@
         "nombre": "Islas Caimanes",
         "casos_total": 45,
         "casos_nuevos": 6,
-        "casos_activos": 43,
+        "casos_activos": 38,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1
+        "recuperados_total": 6
     },
     {
         "nombre": "Islas Feroe",
@@ -1441,9 +1441,9 @@
     },
     {
         "nombre": "Noruega",
-        "casos_total": 5903,
-        "casos_nuevos": 38,
-        "casos_activos": 5782,
+        "casos_total": 5907,
+        "casos_nuevos": 42,
+        "casos_activos": 5786,
         "casos_criticos": 78,
         "fallecidos_total": 89,
         "fallecidos_nuevos": 13,
@@ -2111,12 +2111,12 @@
     },
     {
         "nombre": "Zimbabue",
-        "casos_total": 10,
-        "casos_nuevos": 0,
+        "casos_total": 11,
+        "casos_nuevos": 1,
         "casos_activos": 9,
         "casos_criticos": 0,
-        "fallecidos_total": 1,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 2,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 0
     }
 ]
