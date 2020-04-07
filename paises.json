@@ -125,11 +125,11 @@
         "nombre": "Australia",
         "casos_total": 5895,
         "casos_nuevos": 0,
-        "casos_activos": 3418,
+        "casos_activos": 4770,
         "casos_criticos": 96,
         "fallecidos_total": 45,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 2432
+        "recuperados_total": 1080
     },
     {
         "pais": "AT",
@@ -552,9 +552,9 @@
     {
         "pais": "CU",
         "nombre": "Cuba",
-        "casos_total": 350,
-        "casos_nuevos": 0,
-        "casos_activos": 323,
+        "casos_total": 363,
+        "casos_nuevos": 13,
+        "casos_activos": 336,
         "casos_criticos": 12,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
@@ -1171,7 +1171,7 @@
         "casos_total": 3906,
         "casos_nuevos": 0,
         "casos_activos": 3222,
-        "casos_criticos": 64,
+        "casos_criticos": 79,
         "fallecidos_total": 92,
         "fallecidos_nuevos": 0,
         "recuperados_total": 592
@@ -1611,7 +1611,7 @@
         "casos_total": 1160,
         "casos_nuevos": 54,
         "casos_activos": 918,
-        "casos_criticos": 4,
+        "casos_criticos": 14,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
         "recuperados_total": 241
@@ -1641,12 +1641,12 @@
     {
         "pais": "PK",
         "nombre": "Pakistan",
-        "casos_total": 3766,
-        "casos_nuevos": 0,
-        "casos_activos": 3454,
+        "casos_total": 3861,
+        "casos_nuevos": 95,
+        "casos_activos": 3548,
         "casos_criticos": 17,
-        "fallecidos_total": 53,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 54,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 259
     },
     {
@@ -2072,10 +2072,10 @@
         "nombre": "Sri Lanka",
         "casos_total": 178,
         "casos_nuevos": 0,
-        "casos_activos": 135,
+        "casos_activos": 134,
         "casos_criticos": 5,
-        "fallecidos_total": 5,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 6,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 38
     },
     {
