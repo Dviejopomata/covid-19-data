@@ -1,5 +1,5 @@
 ,País,Casos totales,Nuevos casos,Casos activos,Recuperados,Casos críticos,Muertes hoy,Muertes
-0,Estados Unidos,367004,0,19671,336462,8879,0,10871
+0,Estados Unidos,367385,381,19671,336838,8879,5,10876
 1,España,136675,0,40437,82897,6931,0,13341
 2,Italia,132547,0,22837,93187,3898,0,16523
 3,Alemania,103375,0,28700,72865,4895,0,1810
@@ -69,8 +69,8 @@
 67,Crucero,712,0,619,82,10,0,11
 68,Bielorrusia,700,0,53,634,11,0,13
 69,Bosnia y Herzegovina,674,0,47,598,4,0,29
-70,Kuwait,665,0,103,561,20,0,1
-71,Kazajistan,662,0,46,610,16,0,6
+70,Kazajistan,670,8,46,618,16,0,6
+71,Kuwait,665,0,103,561,20,0,1
 72,Camerun,658,0,17,632,0,0,9
 73,Azerbaiyan,641,0,44,590,11,0,7
 74,Tunez,596,0,5,569,39,0,22
@@ -93,7 +93,7 @@
 91,Jordania,349,0,126,217,5,0,6
 92,Oman,331,0,61,268,3,0,2
 93,Costa de Marfil,323,0,41,279,0,0,3
-94,Honduras,298,0,6,270,10,0,22
+94,Honduras,305,7,6,277,10,0,22
 95,Ghana,287,73,31,251,2,0,5
 96,San Marino,277,0,35,210,14,0,32
 97,Estado de Palestina,254,0,24,229,0,0,1
@@ -119,19 +119,19 @@
 117,Brunei,135,0,82,52,3,0,1
 118,Guinea,128,0,5,123,0,0,0
 119,Banglades,123,0,33,78,1,0,12
-120,Camboya,114,0,53,61,1,0,0
-121,Paraguay,113,0,12,96,8,0,5
+120,Paraguay,115,2,15,95,1,0,5
+121,Camboya,114,0,53,61,1,0,0
 122,Gibraltar,109,0,52,57,0,0,0
 123,Ruanda,105,0,4,101,0,0,0
 124,Trinidad yTobago,105,0,1,96,0,0,8
 125,Republica de Yibuti,90,0,9,81,0,0,0
 126,Madagascar,82,0,2,80,6,0,0
-127,Monaco,77,0,4,72,4,0,1
-128,Liechtenstein,77,0,55,21,0,0,1
-129,Guayana Francesa,72,0,34,38,1,0,0
-130,Aruba,71,0,2,69,0,0,0
-131,Guatemala,70,0,15,52,3,0,3
-132,El Salvador,69,0,5,60,4,0,4
+127,El Salvador,78,9,5,69,4,0,4
+128,Monaco,77,0,4,72,4,0,1
+129,Liechtenstein,77,0,55,21,0,0,1
+130,Guayana Francesa,72,0,34,38,1,0,0
+131,Aruba,71,0,2,69,0,0,0
+132,Guatemala,70,0,15,52,3,0,3
 133,Barbados,60,0,6,52,4,0,2
 134,Jamaica,59,0,8,48,0,0,3
 135,Togo,58,0,23,32,0,0,3
@@ -162,13 +162,13 @@
 160,Guinea-Bisau,18,0,0,18,0,0,0
 161,Nueva Caledonia,18,0,1,17,0,0,0
 162,Islas Virgenes de los Estados Unidos,17,0,0,17,0,0,0
-163,Namibia,16,0,3,13,0,0,0
-164,Guinea Ecuatorial,16,0,3,13,0,0,0
+163,Guinea Ecuatorial,16,0,3,13,0,0,0
+164,Namibia,16,0,3,13,0,0,0
 165,Angola,16,0,2,12,0,0,2
-166,Antigua y Barbuda,15,0,0,15,1,0,0
-167,Dominica,15,0,1,14,0,0,0
-168,Mongolia,15,0,2,13,0,0,0
-169,Fiyi,14,0,0,14,0,0,0
+166,Fiyi,15,1,0,15,0,0,0
+167,Antigua y Barbuda,15,0,0,15,1,0,0
+168,Dominica,15,0,1,14,0,0,0
+169,Mongolia,15,0,2,13,0,0,0
 170,Santa Lucia,14,0,1,13,0,0,0
 171,Liberia,14,0,3,8,0,0,3
 172,Curazao,13,0,5,7,0,0,1
