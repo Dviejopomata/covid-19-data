@@ -125,10 +125,10 @@
         "nombre": "Australia",
         "casos_total": 5908,
         "casos_nuevos": 13,
-        "casos_activos": 3315,
+        "casos_activos": 3313,
         "casos_criticos": 93,
-        "fallecidos_total": 46,
-        "fallecidos_nuevos": 1,
+        "fallecidos_total": 48,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 2547
     },
     {
@@ -288,9 +288,9 @@
     {
         "pais": "BA",
         "nombre": "Bosnia y Herzegovina",
-        "casos_total": 744,
-        "casos_nuevos": 70,
-        "casos_activos": 643,
+        "casos_total": 754,
+        "casos_nuevos": 80,
+        "casos_activos": 653,
         "casos_criticos": 4,
         "fallecidos_total": 33,
         "fallecidos_nuevos": 4,
@@ -695,13 +695,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 367650,
-        "casos_nuevos": 646,
-        "casos_activos": 336897,
+        "casos_total": 367659,
+        "casos_nuevos": 655,
+        "casos_activos": 336902,
         "casos_criticos": 8983,
         "fallecidos_total": 10943,
         "fallecidos_nuevos": 72,
-        "recuperados_total": 19810
+        "recuperados_total": 19814
     },
     {
         "pais": "EE",
@@ -840,10 +840,10 @@
         "nombre": "Grecia",
         "casos_total": 1755,
         "casos_nuevos": 0,
-        "casos_activos": 1407,
+        "casos_activos": 1405,
         "casos_criticos": 90,
-        "fallecidos_total": 79,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 81,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 269
     },
     {
@@ -1137,10 +1137,10 @@
         "nombre": "Israel",
         "casos_total": 9006,
         "casos_nuevos": 102,
-        "casos_activos": 8264,
+        "casos_activos": 8263,
         "casos_criticos": 153,
-        "fallecidos_total": 59,
-        "fallecidos_nuevos": 2,
+        "fallecidos_total": 60,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 683
     },
     {
@@ -1500,11 +1500,11 @@
         "nombre": "Montenegro",
         "casos_total": 239,
         "casos_nuevos": 6,
-        "casos_activos": 236,
-        "casos_criticos": 4,
+        "casos_activos": 234,
+        "casos_criticos": 7,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1
+        "recuperados_total": 3
     },
     {
         "pais": "MS",
@@ -1894,9 +1894,9 @@
     {
         "pais": "KN",
         "nombre": "San Cristobal y Nieves",
-        "casos_total": 10,
-        "casos_nuevos": 0,
-        "casos_activos": 10,
+        "casos_total": 11,
+        "casos_nuevos": 1,
+        "casos_activos": 11,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -2301,9 +2301,9 @@
     {
         "pais": "VN",
         "nombre": "Vietnam",
-        "casos_total": 245,
-        "casos_nuevos": 0,
-        "casos_activos": 122,
+        "casos_total": 249,
+        "casos_nuevos": 4,
+        "casos_activos": 126,
         "casos_criticos": 8,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
