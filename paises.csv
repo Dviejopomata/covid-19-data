@@ -1,8 +1,8 @@
 ,País,Casos totales,Nuevos casos,Casos activos,Recuperados,Casos críticos,Muertes hoy,Muertes
-0,Estados Unidos,367385,381,19671,336838,8879,5,10876
+0,Estados Unidos,367629,625,19810,336878,8983,70,10941
 1,España,136675,0,40437,82897,6931,0,13341
 2,Italia,132547,0,22837,93187,3898,0,16523
-3,Alemania,103375,0,28700,72865,4895,0,1810
+3,Alemania,103375,0,36081,65484,4895,0,1810
 4,Francia,98010,0,17250,71849,7072,0,8911
 5,China,81740,32,77167,1242,211,0,3331
 6,Iran,60500,0,24236,32525,4083,0,3739
@@ -24,7 +24,7 @@
 22,Irlanda,5364,0,25,5165,165,0,174
 23,Chequia,4822,0,121,4623,84,0,78
 24,Chile,4815,0,728,4050,327,0,37
-25,India,4778,0,375,4267,0,0,136
+25,India,4778,0,382,4260,0,0,136
 26,Dinamarca,4681,0,1378,3116,144,0,187
 27,Polonia,4413,0,162,4144,50,0,107
 28,Rumania,4057,0,406,3475,179,0,176
@@ -103,8 +103,8 @@
 101,Malta,241,0,5,236,3,0,0
 102,Nigeria,238,0,35,198,2,0,5
 103,Montenegro,233,0,1,230,4,0,2
-104,Senegal,226,0,92,132,1,0,2
-105,Kirguistan,216,0,33,179,5,0,4
+104,Kirguistan,228,12,33,191,5,0,4
+105,Senegal,226,0,92,132,1,0,2
 106,Bolivia,194,11,2,178,3,3,14
 107,Georgia,188,0,39,147,6,0,2
 108,Islas Feroe,183,0,107,76,1,0,0
@@ -120,7 +120,7 @@
 118,Guinea,128,0,5,123,0,0,0
 119,Banglades,123,0,33,78,1,0,12
 120,Paraguay,115,2,15,95,1,0,5
-121,Camboya,114,0,53,61,1,0,0
+121,Camboya,115,1,58,57,1,0,0
 122,Gibraltar,109,0,52,57,0,0,0
 123,Ruanda,105,0,4,101,0,0,0
 124,Trinidad yTobago,105,0,1,96,0,0,8
@@ -129,9 +129,9 @@
 127,El Salvador,78,9,5,69,4,0,4
 128,Monaco,77,0,4,72,4,0,1
 129,Liechtenstein,77,0,55,21,0,0,1
-130,Guayana Francesa,72,0,34,38,1,0,0
-131,Aruba,71,0,2,69,0,0,0
-132,Guatemala,70,0,15,52,3,0,3
+130,Guatemala,74,4,17,54,3,0,3
+131,Guayana Francesa,72,0,34,38,1,0,0
+132,Aruba,71,0,2,69,0,0,0
 133,Barbados,60,0,6,52,4,0,2
 134,Jamaica,59,0,8,48,0,0,3
 135,Togo,58,0,23,32,0,0,3
@@ -162,13 +162,13 @@
 160,Guinea-Bisau,18,0,0,18,0,0,0
 161,Nueva Caledonia,18,0,1,17,0,0,0
 162,Islas Virgenes de los Estados Unidos,17,0,0,17,0,0,0
-163,Guinea Ecuatorial,16,0,3,13,0,0,0
-164,Namibia,16,0,3,13,0,0,0
+163,Namibia,16,0,3,13,0,0,0
+164,Guinea Ecuatorial,16,0,3,13,0,0,0
 165,Angola,16,0,2,12,0,0,2
-166,Fiyi,15,1,0,15,0,0,0
-167,Antigua y Barbuda,15,0,0,15,1,0,0
+166,Antigua y Barbuda,15,0,0,15,1,0,0
+167,Fiyi,15,1,0,15,0,0,0
 168,Dominica,15,0,1,14,0,0,0
-169,Mongolia,15,0,2,13,0,0,0
+169,Mongolia,15,0,4,11,0,0,0
 170,Santa Lucia,14,0,1,13,0,0,0
 171,Liberia,14,0,3,8,0,0,3
 172,Curazao,13,0,5,7,0,0,1
@@ -178,8 +178,8 @@
 176,Seychelles,11,0,0,11,0,0,0
 177,Groenlandia,11,0,4,7,0,0,0
 178,San Cristobal y Nieves,10,0,0,10,0,0,0
-179,Zimbabue,10,0,0,9,0,0,1
-180,Surinam,10,0,0,9,0,0,1
+179,Surinam,10,0,0,9,0,0,1
+180,Zimbabue,10,0,0,9,0,0,1
 181,Mozambique,10,0,1,9,0,0,0
 182,Suazilandia,10,0,4,6,0,0,0
 183,Republica del Chad,9,0,0,9,0,0,0
@@ -189,25 +189,25 @@
 187,Islas Turcas y Caicos,8,0,0,7,0,0,1
 188,Santa Sede,7,0,0,7,0,0,0
 189,San Vicente y las Granadinas,7,0,1,6,0,0,0
-190,Belice,7,0,0,6,1,0,1
-191,Somalia,7,0,1,6,0,0,0
+190,Somalia,7,0,1,6,0,0,0
+191,Belice,7,0,0,6,1,0,1
 192,Cabo Verde,7,0,1,5,0,0,1
 193,Sierra Leona,6,0,0,6,0,0,0
 194,Nicaragua,6,0,0,5,0,0,1
-195,Botsuana,6,0,0,5,0,0,1
-196,San Bartolome,6,0,1,5,0,0,0
+195,San Bartolome,6,0,1,5,0,0,0
+196,Botsuana,6,0,0,5,0,0,1
 197,Mauritania,6,0,2,3,0,0,1
 198,Malaui,5,0,0,5,1,0,0
 199,Butan,5,0,2,3,0,0,0
 200,Santo Tome y Principe,4,0,0,4,0,0,0
 201,Sahara Occidental,4,0,0,4,0,0,0
 202,Gambia,4,0,2,1,0,0,1
-203,Burundi,3,0,0,3,0,0,0
-204,Anguila,3,0,0,3,0,0,0
-205,Islas Virgenes Britanicas,3,0,0,3,0,0,0
+203,Anguila,3,0,0,3,0,0,0
+204,Islas Virgenes Britanicas,3,0,0,3,0,0,0
+205,Burundi,3,0,0,3,0,0,0
 206,Islas Malvinas,2,0,0,2,0,0,0
-207,"Bonaire, San Eustaquio y Saba",2,0,0,2,0,0,0
-208,Papua Nueva Guinea,2,0,0,2,0,0,0
-209,Timor Oriental,1,0,0,1,0,0,0
-210,Sudan del Sur,1,0,0,1,0,0,0
-211,San Pedro y Miquelon,1,0,0,1,0,0,0
+207,Papua Nueva Guinea,2,0,0,2,0,0,0
+208,"Bonaire, San Eustaquio y Saba",2,0,0,2,0,0,0
+209,Sudan del Sur,1,0,0,1,0,0,0
+210,San Pedro y Miquelon,1,0,0,1,0,0,0
+211,Timor Oriental,1,0,0,1,0,0,0
