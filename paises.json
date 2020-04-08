@@ -134,9 +134,9 @@
     {
         "pais": "AT",
         "nombre": "Austria",
-        "casos_total": 12709,
-        "casos_nuevos": 70,
-        "casos_activos": 8420,
+        "casos_total": 12721,
+        "casos_nuevos": 82,
+        "casos_activos": 8432,
         "casos_criticos": 243,
         "fallecidos_total": 243,
         "fallecidos_nuevos": 0,
@@ -574,9 +574,9 @@
     {
         "pais": "DK",
         "nombre": "Dinamarca",
-        "casos_total": 5071,
-        "casos_nuevos": 0,
-        "casos_activos": 3377,
+        "casos_total": 5386,
+        "casos_nuevos": 315,
+        "casos_activos": 3692,
         "casos_criticos": 127,
         "fallecidos_total": 203,
         "fallecidos_nuevos": 0,
@@ -684,9 +684,9 @@
     {
         "pais": "PS",
         "nombre": "Estado de Palestina",
-        "casos_total": 261,
-        "casos_nuevos": 0,
-        "casos_activos": 218,
+        "casos_total": 263,
+        "casos_nuevos": 2,
+        "casos_activos": 220,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -695,9 +695,9 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 400546,
-        "casos_nuevos": 211,
-        "casos_activos": 365978,
+        "casos_total": 400549,
+        "casos_nuevos": 214,
+        "casos_activos": 365981,
         "casos_criticos": 9169,
         "fallecidos_total": 12857,
         "fallecidos_nuevos": 16,
@@ -728,13 +728,13 @@
     {
         "pais": "PH",
         "nombre": "Filipinas",
-        "casos_total": 3764,
-        "casos_nuevos": 0,
-        "casos_activos": 3503,
+        "casos_total": 3870,
+        "casos_nuevos": 106,
+        "casos_activos": 3592,
         "casos_criticos": 1,
-        "fallecidos_total": 177,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 84
+        "fallecidos_total": 182,
+        "fallecidos_nuevos": 5,
+        "recuperados_total": 96
     },
     {
         "pais": "FI",
@@ -1190,13 +1190,13 @@
     {
         "pais": "KZ",
         "nombre": "Kazajistan",
-        "casos_total": 704,
-        "casos_nuevos": 7,
-        "casos_activos": 647,
+        "casos_total": 709,
+        "casos_nuevos": 12,
+        "casos_activos": 649,
         "casos_criticos": 21,
-        "fallecidos_total": 6,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 51
+        "fallecidos_total": 7,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 53
     },
     {
         "pais": "KE",
@@ -1707,12 +1707,12 @@
     {
         "pais": "PL",
         "nombre": "Polonia",
-        "casos_total": 4848,
-        "casos_nuevos": 0,
-        "casos_activos": 4528,
+        "casos_total": 5000,
+        "casos_nuevos": 152,
+        "casos_activos": 4673,
         "casos_criticos": 50,
-        "fallecidos_total": 129,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 136,
+        "fallecidos_nuevos": 7,
         "recuperados_total": 191
     },
     {
