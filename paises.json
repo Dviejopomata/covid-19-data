@@ -310,12 +310,12 @@
     {
         "pais": "BR",
         "nombre": "Brasil",
-        "casos_total": 14034,
-        "casos_nuevos": 0,
-        "casos_activos": 13221,
+        "casos_total": 14049,
+        "casos_nuevos": 15,
+        "casos_activos": 13234,
         "casos_criticos": 296,
-        "fallecidos_total": 686,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 688,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 127
     },
     {
@@ -387,13 +387,13 @@
     {
         "pais": "KH",
         "nombre": "Camboya",
-        "casos_total": 115,
-        "casos_nuevos": 0,
-        "casos_activos": 57,
+        "casos_total": 117,
+        "casos_nuevos": 2,
+        "casos_activos": 54,
         "casos_criticos": 1,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 58
+        "recuperados_total": 63
     },
     {
         "pais": "CM",
@@ -1654,10 +1654,10 @@
         "nombre": "Panama",
         "casos_total": 2249,
         "casos_nuevos": 149,
-        "casos_activos": 2178,
-        "casos_criticos": 88,
-        "fallecidos_total": 55,
-        "fallecidos_nuevos": 0,
+        "casos_activos": 2174,
+        "casos_criticos": 91,
+        "fallecidos_total": 59,
+        "fallecidos_nuevos": 4,
         "recuperados_total": 16
     },
     {
