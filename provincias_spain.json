@@ -871,9 +871,9 @@
     },
     {
         "nombre": "Honduras",
-        "casos_total": 305,
-        "casos_nuevos": 0,
-        "casos_activos": 277,
+        "casos_total": 312,
+        "casos_nuevos": 7,
+        "casos_activos": 284,
         "casos_criticos": 10,
         "fallecidos_total": 22,
         "fallecidos_nuevos": 0,
@@ -1323,10 +1323,10 @@
         "nombre": "Mexico",
         "casos_total": 2785,
         "casos_nuevos": 346,
-        "casos_activos": 2027,
+        "casos_activos": 2011,
         "casos_criticos": 89,
-        "fallecidos_total": 125,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 141,
+        "fallecidos_nuevos": 16,
         "recuperados_total": 633
     },
     {
@@ -1501,13 +1501,13 @@
     },
     {
         "nombre": "Panama",
-        "casos_total": 2100,
-        "casos_nuevos": 0,
-        "casos_activos": 2031,
+        "casos_total": 2249,
+        "casos_nuevos": 149,
+        "casos_activos": 2178,
         "casos_criticos": 88,
         "fallecidos_total": 55,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 14
+        "recuperados_total": 16
     },
     {
         "nombre": "Papua Nueva Guinea",
@@ -1953,11 +1953,11 @@
         "nombre": "Surinam",
         "casos_total": 10,
         "casos_nuevos": 0,
-        "casos_activos": 9,
+        "casos_activos": 6,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 0
+        "recuperados_total": 3
     },
     {
         "nombre": "Tailandia",
