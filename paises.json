@@ -695,13 +695,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 400412,
-        "casos_nuevos": 77,
-        "casos_activos": 365884,
+        "casos_total": 400540,
+        "casos_nuevos": 205,
+        "casos_activos": 365972,
         "casos_criticos": 9169,
-        "fallecidos_total": 12854,
-        "fallecidos_nuevos": 13,
-        "recuperados_total": 21674
+        "fallecidos_total": 12857,
+        "fallecidos_nuevos": 16,
+        "recuperados_total": 21711
     },
     {
         "pais": "EE",
@@ -981,20 +981,20 @@
     {
         "pais": "HU",
         "nombre": "Hungria",
-        "casos_total": 817,
-        "casos_nuevos": 0,
-        "casos_activos": 699,
+        "casos_total": 895,
+        "casos_nuevos": 78,
+        "casos_activos": 754,
         "casos_criticos": 17,
         "fallecidos_total": 47,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 71
+        "recuperados_total": 94
     },
     {
         "pais": "IN",
         "nombre": "India",
-        "casos_total": 5351,
-        "casos_nuevos": 0,
-        "casos_activos": 4723,
+        "casos_total": 5356,
+        "casos_nuevos": 5,
+        "casos_activos": 4728,
         "casos_criticos": 0,
         "fallecidos_total": 160,
         "fallecidos_nuevos": 0,
@@ -2303,11 +2303,11 @@
         "nombre": "Vietnam",
         "casos_total": 251,
         "casos_nuevos": 0,
-        "casos_activos": 128,
+        "casos_activos": 129,
         "casos_criticos": 8,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 123
+        "recuperados_total": 122
     },
     {
         "pais": "ZM",
