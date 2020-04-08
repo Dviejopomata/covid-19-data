@@ -673,10 +673,10 @@
         "nombre": "Finlandia",
         "casos_total": 2487,
         "casos_nuevos": 179,
-        "casos_activos": 2153,
-        "casos_criticos": 81,
-        "fallecidos_total": 34,
-        "fallecidos_nuevos": 0,
+        "casos_activos": 2147,
+        "casos_criticos": 82,
+        "fallecidos_total": 40,
+        "fallecidos_nuevos": 6,
         "recuperados_total": 300
     },
     {
@@ -1083,11 +1083,11 @@
         "nombre": "Kazajistan",
         "casos_total": 709,
         "casos_nuevos": 12,
-        "casos_activos": 649,
+        "casos_activos": 648,
         "casos_criticos": 21,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 1,
-        "recuperados_total": 53
+        "recuperados_total": 54
     },
     {
         "nombre": "Kenia",
@@ -1554,7 +1554,7 @@
         "casos_total": 5000,
         "casos_nuevos": 152,
         "casos_activos": 4642,
-        "casos_criticos": 50,
+        "casos_criticos": 160,
         "fallecidos_total": 136,
         "fallecidos_nuevos": 7,
         "recuperados_total": 222
@@ -1841,9 +1841,9 @@
     },
     {
         "nombre": "Sierra Leona",
-        "casos_total": 6,
-        "casos_nuevos": 0,
-        "casos_activos": 6,
+        "casos_total": 7,
+        "casos_nuevos": 1,
+        "casos_activos": 7,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
