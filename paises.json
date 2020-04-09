@@ -134,9 +134,9 @@
     {
         "pais": "AT",
         "nombre": "Austria",
-        "casos_total": 13011,
-        "casos_nuevos": 69,
-        "casos_activos": 7476,
+        "casos_total": 13028,
+        "casos_nuevos": 86,
+        "casos_activos": 7493,
         "casos_criticos": 266,
         "fallecidos_total": 295,
         "fallecidos_nuevos": 22,
@@ -651,9 +651,9 @@
     {
         "pais": "SK",
         "nombre": "Eslovaquia",
-        "casos_total": 682,
-        "casos_nuevos": 0,
-        "casos_activos": 664,
+        "casos_total": 701,
+        "casos_nuevos": 19,
+        "casos_activos": 683,
         "casos_criticos": 3,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
@@ -673,13 +673,13 @@
     {
         "pais": "ES",
         "nombre": "Espa\u00f1a",
-        "casos_total": 148220,
-        "casos_nuevos": 0,
-        "casos_activos": 85407,
+        "casos_total": 152446,
+        "casos_nuevos": 4226,
+        "casos_activos": 85043,
         "casos_criticos": 7069,
-        "fallecidos_total": 14792,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 48021
+        "fallecidos_total": 15238,
+        "fallecidos_nuevos": 446,
+        "recuperados_total": 52165
     },
     {
         "pais": "PS",
@@ -1850,13 +1850,13 @@
     {
         "pais": "RO",
         "nombre": "Rumania",
-        "casos_total": 4761,
-        "casos_nuevos": 0,
-        "casos_activos": 4004,
-        "casos_criticos": 162,
+        "casos_total": 5202,
+        "casos_nuevos": 441,
+        "casos_activos": 4326,
+        "casos_criticos": 178,
         "fallecidos_total": 229,
         "fallecidos_nuevos": 9,
-        "recuperados_total": 528
+        "recuperados_total": 647
     },
     {
         "pais": "RU",
