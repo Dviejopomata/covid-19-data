@@ -984,7 +984,7 @@
         "casos_total": 184,
         "casos_nuevos": 0,
         "casos_activos": 48,
-        "casos_criticos": 1,
+        "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
         "recuperados_total": 136
@@ -1683,21 +1683,21 @@
         "nombre": "Rumania",
         "casos_total": 4761,
         "casos_nuevos": 0,
-        "casos_activos": 4006,
+        "casos_activos": 4004,
         "casos_criticos": 162,
-        "fallecidos_total": 227,
-        "fallecidos_nuevos": 7,
+        "fallecidos_total": 229,
+        "fallecidos_nuevos": 9,
         "recuperados_total": 528
     },
     {
         "nombre": "Rusia",
-        "casos_total": 8672,
-        "casos_nuevos": 0,
-        "casos_activos": 8029,
+        "casos_total": 10131,
+        "casos_nuevos": 1459,
+        "casos_activos": 9357,
         "casos_criticos": 8,
-        "fallecidos_total": 63,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 580
+        "fallecidos_total": 76,
+        "fallecidos_nuevos": 13,
+        "recuperados_total": 698
     },
     {
         "nombre": "Sahara Occidental",
@@ -1883,11 +1883,11 @@
         "nombre": "Sri Lanka",
         "casos_total": 189,
         "casos_nuevos": 0,
-        "casos_activos": 138,
+        "casos_activos": 135,
         "casos_criticos": 5,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 44
+        "recuperados_total": 47
     },
     {
         "nombre": "Suazilandia",
