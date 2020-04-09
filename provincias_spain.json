@@ -83,11 +83,11 @@
         "nombre": "Argentina",
         "casos_total": 1795,
         "casos_nuevos": 0,
-        "casos_activos": 1367,
+        "casos_activos": 1360,
         "casos_criticos": 96,
         "fallecidos_total": 70,
         "fallecidos_nuevos": 5,
-        "recuperados_total": 358
+        "recuperados_total": 365
     },
     {
         "nombre": "Armenia",
@@ -261,9 +261,9 @@
     },
     {
         "nombre": "Bosnia y Herzegovina",
-        "casos_total": 841,
-        "casos_nuevos": 37,
-        "casos_activos": 705,
+        "casos_total": 846,
+        "casos_nuevos": 42,
+        "casos_activos": 710,
         "casos_criticos": 4,
         "fallecidos_total": 35,
         "fallecidos_nuevos": 1,
@@ -281,12 +281,12 @@
     },
     {
         "nombre": "Brasil",
-        "casos_total": 16275,
-        "casos_nuevos": 87,
-        "casos_activos": 15276,
+        "casos_total": 16474,
+        "casos_nuevos": 286,
+        "casos_activos": 15462,
         "casos_criticos": 296,
-        "fallecidos_total": 826,
-        "fallecidos_nuevos": 6,
+        "fallecidos_total": 839,
+        "fallecidos_nuevos": 19,
         "recuperados_total": 173
     },
     {
@@ -371,13 +371,13 @@
     },
     {
         "nombre": "Canada",
-        "casos_total": 19438,
-        "casos_nuevos": 0,
-        "casos_activos": 14350,
+        "casos_total": 19805,
+        "casos_nuevos": 367,
+        "casos_activos": 14459,
         "casos_criticos": 518,
-        "fallecidos_total": 435,
-        "fallecidos_nuevos": 8,
-        "recuperados_total": 4653
+        "fallecidos_total": 462,
+        "fallecidos_nuevos": 35,
+        "recuperados_total": 4884
     },
     {
         "nombre": "Catar",
@@ -391,13 +391,13 @@
     },
     {
         "nombre": "Chequia",
-        "casos_total": 5335,
-        "casos_nuevos": 23,
-        "casos_activos": 4988,
+        "casos_total": 5467,
+        "casos_nuevos": 155,
+        "casos_activos": 5054,
         "casos_criticos": 96,
-        "fallecidos_total": 104,
-        "fallecidos_nuevos": 5,
-        "recuperados_total": 243
+        "fallecidos_total": 112,
+        "fallecidos_nuevos": 13,
+        "recuperados_total": 301
     },
     {
         "nombre": "Chile",
@@ -501,13 +501,13 @@
     },
     {
         "nombre": "Cuba",
-        "casos_total": 457,
-        "casos_nuevos": 0,
-        "casos_activos": 418,
+        "casos_total": 515,
+        "casos_nuevos": 58,
+        "casos_activos": 472,
         "casos_criticos": 15,
-        "fallecidos_total": 12,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 27
+        "fallecidos_total": 15,
+        "fallecidos_nuevos": 3,
+        "recuperados_total": 28
     },
     {
         "nombre": "Curazao",
@@ -631,13 +631,13 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 435941,
-        "casos_nuevos": 1014,
-        "casos_activos": 398135,
+        "casos_total": 436969,
+        "casos_nuevos": 2042,
+        "casos_activos": 396870,
         "casos_criticos": 9281,
-        "fallecidos_total": 14865,
-        "fallecidos_nuevos": 77,
-        "recuperados_total": 22941
+        "fallecidos_total": 15708,
+        "fallecidos_nuevos": 920,
+        "recuperados_total": 24391
     },
     {
         "nombre": "Estonia",
@@ -721,9 +721,9 @@
     },
     {
         "nombre": "Georgia",
-        "casos_total": 214,
-        "casos_nuevos": 3,
-        "casos_activos": 161,
+        "casos_total": 218,
+        "casos_nuevos": 7,
+        "casos_activos": 165,
         "casos_criticos": 6,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
@@ -961,13 +961,13 @@
     },
     {
         "nombre": "Islandia",
-        "casos_total": 1616,
-        "casos_nuevos": 0,
-        "casos_activos": 977,
-        "casos_criticos": 13,
+        "casos_total": 1648,
+        "casos_nuevos": 32,
+        "casos_activos": 954,
+        "casos_criticos": 11,
         "fallecidos_total": 6,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 633
+        "recuperados_total": 688
     },
     {
         "nombre": "Islas Caimanes",
@@ -1133,10 +1133,10 @@
         "nombre": "Letonia",
         "casos_total": 589,
         "casos_nuevos": 12,
-        "casos_activos": 571,
+        "casos_activos": 570,
         "casos_criticos": 3,
-        "fallecidos_total": 2,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 3,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 16
     },
     {
@@ -1191,12 +1191,12 @@
     },
     {
         "nombre": "Luxemburgo",
-        "casos_total": 3034,
-        "casos_nuevos": 0,
-        "casos_activos": 2488,
-        "casos_criticos": 34,
-        "fallecidos_total": 46,
-        "fallecidos_nuevos": 0,
+        "casos_total": 3115,
+        "casos_nuevos": 81,
+        "casos_activos": 2563,
+        "casos_criticos": 30,
+        "fallecidos_total": 52,
+        "fallecidos_nuevos": 6,
         "recuperados_total": 500
     },
     {
@@ -1491,9 +1491,9 @@
     },
     {
         "nombre": "Pakistan",
-        "casos_total": 4462,
-        "casos_nuevos": 199,
-        "casos_activos": 3827,
+        "casos_total": 4489,
+        "casos_nuevos": 226,
+        "casos_activos": 3854,
         "casos_criticos": 31,
         "fallecidos_total": 63,
         "fallecidos_nuevos": 2,
@@ -1621,13 +1621,13 @@
     },
     {
         "nombre": "Republica de Chipre",
-        "casos_total": 526,
-        "casos_nuevos": 0,
-        "casos_activos": 465,
+        "casos_total": 564,
+        "casos_nuevos": 38,
+        "casos_activos": 501,
         "casos_criticos": 13,
-        "fallecidos_total": 9,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 52
+        "fallecidos_total": 10,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 53
     },
     {
         "nombre": "Republica de Macedonia",
@@ -1683,10 +1683,10 @@
         "nombre": "Rumania",
         "casos_total": 5202,
         "casos_nuevos": 441,
-        "casos_activos": 4326,
+        "casos_activos": 4309,
         "casos_criticos": 178,
-        "fallecidos_total": 229,
-        "fallecidos_nuevos": 9,
+        "fallecidos_total": 246,
+        "fallecidos_nuevos": 26,
         "recuperados_total": 647
     },
     {
