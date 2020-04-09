@@ -24,12 +24,12 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 114257,
-        "casos_nuevos": 961,
-        "casos_activos": 65608,
+        "casos_total": 115104,
+        "casos_nuevos": 1808,
+        "casos_activos": 66373,
         "casos_criticos": 4895,
-        "fallecidos_total": 2349,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 2431,
+        "fallecidos_nuevos": 82,
         "recuperados_total": 46300
     },
     {
@@ -409,13 +409,13 @@
     {
         "pais": "CA",
         "nombre": "Canada",
-        "casos_total": 19809,
-        "casos_nuevos": 371,
-        "casos_activos": 14463,
+        "casos_total": 20690,
+        "casos_nuevos": 1252,
+        "casos_activos": 14991,
         "casos_criticos": 518,
-        "fallecidos_total": 462,
-        "fallecidos_nuevos": 35,
-        "recuperados_total": 4884
+        "fallecidos_total": 503,
+        "fallecidos_nuevos": 76,
+        "recuperados_total": 5196
     },
     {
         "pais": "QA",
@@ -796,11 +796,11 @@
         "nombre": "Georgia",
         "casos_total": 218,
         "casos_nuevos": 7,
-        "casos_activos": 165,
+        "casos_activos": 164,
         "casos_criticos": 6,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 50
+        "recuperados_total": 51
     },
     {
         "pais": "GH",
@@ -840,10 +840,10 @@
         "nombre": "Grecia",
         "casos_total": 1955,
         "casos_nuevos": 71,
-        "casos_activos": 1600,
+        "casos_activos": 1599,
         "casos_criticos": 79,
-        "fallecidos_total": 86,
-        "fallecidos_nuevos": 3,
+        "fallecidos_total": 87,
+        "fallecidos_nuevos": 4,
         "recuperados_total": 269
     },
     {
@@ -904,13 +904,13 @@
     {
         "pais": "GN",
         "nombre": "Guinea",
-        "casos_total": 164,
-        "casos_nuevos": 0,
-        "casos_activos": 159,
+        "casos_total": 194,
+        "casos_nuevos": 30,
+        "casos_activos": 183,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 5
+        "recuperados_total": 11
     },
     {
         "pais": "GQ",
@@ -926,9 +926,9 @@
     {
         "pais": "GW",
         "nombre": "Guinea-Bisau",
-        "casos_total": 33,
-        "casos_nuevos": 0,
-        "casos_activos": 33,
+        "casos_total": 36,
+        "casos_nuevos": 3,
+        "casos_activos": 36,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1036,9 +1036,9 @@
     {
         "pais": "IE",
         "nombre": "Irlanda",
-        "casos_total": 6074,
-        "casos_nuevos": 0,
-        "casos_activos": 5786,
+        "casos_total": 6574,
+        "casos_nuevos": 500,
+        "casos_activos": 6286,
         "casos_criticos": 165,
         "fallecidos_total": 263,
         "fallecidos_nuevos": 28,
@@ -2224,12 +2224,12 @@
     {
         "pais": "TN",
         "nombre": "Tunez",
-        "casos_total": 628,
-        "casos_nuevos": 0,
-        "casos_activos": 579,
+        "casos_total": 643,
+        "casos_nuevos": 15,
+        "casos_activos": 593,
         "casos_criticos": 78,
-        "fallecidos_total": 24,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 25,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 25
     },
     {
