@@ -26,11 +26,11 @@
         "nombre": "Alemania",
         "casos_total": 115523,
         "casos_nuevos": 2227,
-        "casos_activos": 66772,
+        "casos_activos": 62515,
         "casos_criticos": 4895,
         "fallecidos_total": 2451,
         "fallecidos_nuevos": 102,
-        "recuperados_total": 46300
+        "recuperados_total": 50557
     },
     {
         "pais": "AO",
@@ -409,13 +409,13 @@
     {
         "pais": "CA",
         "nombre": "Canada",
-        "casos_total": 20690,
-        "casos_nuevos": 1252,
-        "casos_activos": 14991,
+        "casos_total": 20696,
+        "casos_nuevos": 1258,
+        "casos_activos": 14987,
         "casos_criticos": 518,
         "fallecidos_total": 503,
         "fallecidos_nuevos": 76,
-        "recuperados_total": 5196
+        "recuperados_total": 5206
     },
     {
         "pais": "QA",
@@ -695,13 +695,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 456820,
-        "casos_nuevos": 21893,
-        "casos_activos": 416010,
+        "casos_total": 457101,
+        "casos_nuevos": 22174,
+        "casos_activos": 415945,
         "casos_criticos": 9813,
-        "fallecidos_total": 16231,
-        "fallecidos_nuevos": 1443,
-        "recuperados_total": 24579
+        "fallecidos_total": 16246,
+        "fallecidos_nuevos": 1458,
+        "recuperados_total": 24910
     },
     {
         "pais": "EE",
@@ -772,9 +772,9 @@
     {
         "pais": "GA",
         "nombre": "Gabon",
-        "casos_total": 34,
-        "casos_nuevos": 0,
-        "casos_activos": 32,
+        "casos_total": 44,
+        "casos_nuevos": 10,
+        "casos_activos": 42,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -1586,9 +1586,9 @@
     {
         "pais": "NO",
         "nombre": "Noruega",
-        "casos_total": 6160,
-        "casos_nuevos": 118,
-        "casos_activos": 6020,
+        "casos_total": 6162,
+        "casos_nuevos": 120,
+        "casos_activos": 6022,
         "casos_criticos": 78,
         "fallecidos_total": 108,
         "fallecidos_nuevos": 7,
@@ -1905,13 +1905,13 @@
     {
         "pais": "SM",
         "nombre": "San Marino",
-        "casos_total": 308,
-        "casos_nuevos": 0,
-        "casos_activos": 229,
+        "casos_total": 333,
+        "casos_nuevos": 25,
+        "casos_activos": 250,
         "casos_criticos": 14,
         "fallecidos_total": 34,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 45
+        "recuperados_total": 49
     },
     {
         "pais": "MF",
