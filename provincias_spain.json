@@ -1,13 +1,13 @@
 [
     {
         "nombre": "Afganistan",
-        "casos_total": 444,
-        "casos_nuevos": 0,
-        "casos_activos": 401,
+        "casos_total": 484,
+        "casos_nuevos": 40,
+        "casos_activos": 437,
         "casos_criticos": 0,
-        "fallecidos_total": 14,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 29
+        "fallecidos_total": 15,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 32
     },
     {
         "nombre": "Albania",
@@ -381,13 +381,13 @@
     },
     {
         "nombre": "Catar",
-        "casos_total": 2210,
-        "casos_nuevos": 0,
-        "casos_activos": 2026,
+        "casos_total": 2376,
+        "casos_nuevos": 166,
+        "casos_activos": 2164,
         "casos_criticos": 37,
         "fallecidos_total": 6,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 178
+        "recuperados_total": 206
     },
     {
         "nombre": "Chequia",
@@ -651,10 +651,10 @@
     },
     {
         "nombre": "Etiopia",
-        "casos_total": 55,
-        "casos_nuevos": 0,
-        "casos_activos": 49,
-        "casos_criticos": 1,
+        "casos_total": 56,
+        "casos_nuevos": 1,
+        "casos_activos": 50,
+        "casos_criticos": 2,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
         "recuperados_total": 4
@@ -1141,9 +1141,9 @@
     },
     {
         "nombre": "Libano",
-        "casos_total": 576,
-        "casos_nuevos": 0,
-        "casos_activos": 495,
+        "casos_total": 582,
+        "casos_nuevos": 6,
+        "casos_activos": 501,
         "casos_criticos": 29,
         "fallecidos_total": 19,
         "fallecidos_nuevos": 0,
@@ -1261,9 +1261,9 @@
     },
     {
         "nombre": "Malta",
-        "casos_total": 299,
-        "casos_nuevos": 0,
-        "casos_activos": 281,
+        "casos_total": 337,
+        "casos_nuevos": 38,
+        "casos_activos": 319,
         "casos_criticos": 4,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 1,
@@ -1941,12 +1941,12 @@
     },
     {
         "nombre": "Suiza",
-        "casos_total": 23404,
-        "casos_nuevos": 124,
-        "casos_activos": 12695,
+        "casos_total": 23514,
+        "casos_nuevos": 234,
+        "casos_activos": 12801,
         "casos_criticos": 391,
-        "fallecidos_total": 909,
-        "fallecidos_nuevos": 14,
+        "fallecidos_total": 913,
+        "fallecidos_nuevos": 18,
         "recuperados_total": 9800
     },
     {
