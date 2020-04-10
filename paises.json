@@ -90,12 +90,12 @@
     {
         "pais": "AR",
         "nombre": "Argentina",
-        "casos_total": 1894,
-        "casos_nuevos": 0,
-        "casos_activos": 1438,
+        "casos_total": 1975,
+        "casos_nuevos": 81,
+        "casos_activos": 1518,
         "casos_criticos": 96,
-        "fallecidos_total": 81,
-        "fallecidos_nuevos": 2,
+        "fallecidos_total": 82,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 375
     },
     {
@@ -156,9 +156,9 @@
     {
         "pais": "BS",
         "nombre": "Bahamas",
-        "casos_total": 41,
-        "casos_nuevos": 0,
-        "casos_activos": 28,
+        "casos_total": 42,
+        "casos_nuevos": 1,
+        "casos_activos": 29,
         "casos_criticos": 1,
         "fallecidos_total": 8,
         "fallecidos_nuevos": 0,
@@ -431,9 +431,9 @@
     {
         "pais": "CZ",
         "nombre": "Chequia",
-        "casos_total": 5674,
-        "casos_nuevos": 105,
-        "casos_activos": 5209,
+        "casos_total": 5732,
+        "casos_nuevos": 163,
+        "casos_activos": 5267,
         "casos_criticos": 98,
         "fallecidos_total": 119,
         "fallecidos_nuevos": 7,
@@ -695,12 +695,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 500879,
-        "casos_nuevos": 32313,
-        "casos_activos": 455003,
+        "casos_total": 501272,
+        "casos_nuevos": 32706,
+        "casos_activos": 455369,
         "casos_criticos": 10916,
-        "fallecidos_total": 18637,
-        "fallecidos_nuevos": 1946,
+        "fallecidos_total": 18664,
+        "fallecidos_nuevos": 1973,
         "recuperados_total": 27239
     },
     {
@@ -904,13 +904,13 @@
     {
         "pais": "GN",
         "nombre": "Guinea",
-        "casos_total": 194,
-        "casos_nuevos": 0,
-        "casos_activos": 183,
+        "casos_total": 212,
+        "casos_nuevos": 18,
+        "casos_activos": 197,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 11
+        "recuperados_total": 15
     },
     {
         "pais": "GQ",
@@ -1894,9 +1894,9 @@
     {
         "pais": "KN",
         "nombre": "San Cristobal y Nieves",
-        "casos_total": 11,
-        "casos_nuevos": 0,
-        "casos_activos": 11,
+        "casos_total": 12,
+        "casos_nuevos": 1,
+        "casos_activos": 12,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
