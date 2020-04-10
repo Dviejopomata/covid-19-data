@@ -621,7 +621,7 @@
         "casos_total": 117,
         "casos_nuevos": 14,
         "casos_activos": 96,
-        "casos_criticos": 3,
+        "casos_criticos": 4,
         "fallecidos_total": 6,
         "fallecidos_nuevos": 0,
         "recuperados_total": 15
@@ -741,10 +741,10 @@
         "nombre": "Finlandia",
         "casos_total": 2769,
         "casos_nuevos": 164,
-        "casos_activos": 2427,
+        "casos_activos": 2421,
         "casos_criticos": 82,
-        "fallecidos_total": 42,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 48,
+        "fallecidos_nuevos": 6,
         "recuperados_total": 300
     },
     {
@@ -992,13 +992,13 @@
     {
         "pais": "IN",
         "nombre": "India",
-        "casos_total": 6771,
-        "casos_nuevos": 46,
-        "casos_activos": 5908,
+        "casos_total": 6725,
+        "casos_nuevos": 0,
+        "casos_activos": 5855,
         "casos_criticos": 0,
-        "fallecidos_total": 228,
-        "fallecidos_nuevos": 1,
-        "recuperados_total": 635
+        "fallecidos_total": 229,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 641
     },
     {
         "pais": "ID",
@@ -1302,11 +1302,11 @@
         "nombre": "Lituania",
         "casos_total": 999,
         "casos_nuevos": 44,
-        "casos_activos": 974,
-        "casos_criticos": 21,
-        "fallecidos_total": 17,
-        "fallecidos_nuevos": 1,
-        "recuperados_total": 8
+        "casos_activos": 923,
+        "casos_criticos": 14,
+        "fallecidos_total": 22,
+        "fallecidos_nuevos": 6,
+        "recuperados_total": 54
     },
     {
         "pais": "LU",
@@ -1852,10 +1852,10 @@
         "nombre": "Rumania",
         "casos_total": 5467,
         "casos_nuevos": 265,
-        "casos_activos": 4481,
+        "casos_activos": 4473,
         "casos_criticos": 183,
-        "fallecidos_total": 257,
-        "fallecidos_nuevos": 9,
+        "fallecidos_total": 265,
+        "fallecidos_nuevos": 17,
         "recuperados_total": 729
     },
     {
@@ -2301,9 +2301,9 @@
     {
         "pais": "VN",
         "nombre": "Vietnam",
-        "casos_total": 255,
-        "casos_nuevos": 0,
-        "casos_activos": 111,
+        "casos_total": 257,
+        "casos_nuevos": 2,
+        "casos_activos": 113,
         "casos_criticos": 8,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -2325,10 +2325,10 @@
         "nombre": "Zambia",
         "casos_total": 39,
         "casos_nuevos": 0,
-        "casos_activos": 14,
+        "casos_activos": 13,
         "casos_criticos": 1,
-        "fallecidos_total": 1,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 2,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 24
     },
     {
