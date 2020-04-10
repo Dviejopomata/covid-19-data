@@ -2,9 +2,9 @@
     {
         "pais": "AF",
         "nombre": "Afganistan",
-        "casos_total": 484,
-        "casos_nuevos": 0,
-        "casos_activos": 437,
+        "casos_total": 521,
+        "casos_nuevos": 37,
+        "casos_activos": 474,
         "casos_criticos": 0,
         "fallecidos_total": 15,
         "fallecidos_nuevos": 0,
@@ -134,9 +134,9 @@
     {
         "pais": "AT",
         "nombre": "Austria",
-        "casos_total": 13244,
-        "casos_nuevos": 0,
-        "casos_activos": 7709,
+        "casos_total": 13271,
+        "casos_nuevos": 27,
+        "casos_activos": 7736,
         "casos_criticos": 266,
         "fallecidos_total": 295,
         "fallecidos_nuevos": 0,
@@ -1302,10 +1302,10 @@
         "nombre": "Lituania",
         "casos_total": 999,
         "casos_nuevos": 44,
-        "casos_activos": 975,
+        "casos_activos": 974,
         "casos_criticos": 21,
-        "fallecidos_total": 16,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 17,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 8
     },
     {
@@ -1443,9 +1443,9 @@
     {
         "pais": "YT",
         "nombre": "Mayotte",
-        "casos_total": 184,
-        "casos_nuevos": 0,
-        "casos_activos": 156,
+        "casos_total": 186,
+        "casos_nuevos": 2,
+        "casos_activos": 158,
         "casos_criticos": 4,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
@@ -2169,13 +2169,13 @@
     {
         "pais": "TW",
         "nombre": "Taiwan",
-        "casos_total": 380,
-        "casos_nuevos": 0,
-        "casos_activos": 295,
+        "casos_total": 382,
+        "casos_nuevos": 2,
+        "casos_activos": 285,
         "casos_criticos": 0,
-        "fallecidos_total": 5,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 80
+        "fallecidos_total": 6,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 91
     },
     {
         "pais": "TZ",
@@ -2303,11 +2303,11 @@
         "nombre": "Vietnam",
         "casos_total": 255,
         "casos_nuevos": 0,
-        "casos_activos": 127,
+        "casos_activos": 111,
         "casos_criticos": 8,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 128
+        "recuperados_total": 144
     },
     {
         "pais": "YE",
