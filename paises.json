@@ -125,10 +125,10 @@
         "nombre": "Australia",
         "casos_total": 6152,
         "casos_nuevos": 0,
-        "casos_activos": 3114,
+        "casos_activos": 3113,
         "casos_criticos": 81,
-        "fallecidos_total": 51,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 52,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 2987
     },
     {
@@ -236,7 +236,7 @@
         "casos_total": 48,
         "casos_nuevos": 0,
         "casos_activos": 19,
-        "casos_criticos": 0,
+        "casos_criticos": 2,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
         "recuperados_total": 25
@@ -255,9 +255,9 @@
     {
         "pais": "MM",
         "nombre": "Birmania",
-        "casos_total": 23,
-        "casos_nuevos": 0,
-        "casos_activos": 18,
+        "casos_total": 27,
+        "casos_nuevos": 4,
+        "casos_activos": 22,
         "casos_criticos": 0,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
@@ -1168,9 +1168,9 @@
     {
         "pais": "JP",
         "nombre": "Japon",
-        "casos_total": 4768,
+        "casos_total": 4979,
         "casos_nuevos": 0,
-        "casos_activos": 3984,
+        "casos_activos": 4195,
         "casos_criticos": 109,
         "fallecidos_total": 99,
         "fallecidos_nuevos": 0,
@@ -1674,12 +1674,12 @@
     {
         "pais": "PY",
         "nombre": "Paraguay",
-        "casos_total": 124,
-        "casos_nuevos": 0,
-        "casos_activos": 101,
+        "casos_total": 129,
+        "casos_nuevos": 5,
+        "casos_activos": 105,
         "casos_criticos": 1,
-        "fallecidos_total": 5,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 6,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 18
     },
     {
