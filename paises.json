@@ -26,11 +26,11 @@
         "nombre": "Alemania",
         "casos_total": 123878,
         "casos_nuevos": 1707,
-        "casos_activos": 67229,
+        "casos_activos": 63742,
         "casos_criticos": 4895,
         "fallecidos_total": 2736,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 53913
+        "recuperados_total": 57400
     },
     {
         "pais": "AO",
@@ -134,9 +134,9 @@
     {
         "pais": "AT",
         "nombre": "Austria",
-        "casos_total": 13798,
-        "casos_nuevos": 238,
-        "casos_activos": 6857,
+        "casos_total": 13799,
+        "casos_nuevos": 239,
+        "casos_activos": 6858,
         "casos_criticos": 246,
         "fallecidos_total": 337,
         "fallecidos_nuevos": 18,
@@ -508,13 +508,13 @@
     {
         "pais": "CR",
         "nombre": "Costa Rica",
-        "casos_total": 558,
-        "casos_nuevos": 0,
-        "casos_activos": 513,
+        "casos_total": 577,
+        "casos_nuevos": 19,
+        "casos_activos": 525,
         "casos_criticos": 13,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 42
+        "recuperados_total": 49
     },
     {
         "pais": "CI",
@@ -675,10 +675,10 @@
         "nombre": "Espa\u00f1a",
         "casos_total": 161852,
         "casos_nuevos": 3579,
-        "casos_activos": 86390,
+        "casos_activos": 86263,
         "casos_criticos": 7371,
-        "fallecidos_total": 16353,
-        "fallecidos_nuevos": 272,
+        "fallecidos_total": 16480,
+        "fallecidos_nuevos": 399,
         "recuperados_total": 59109
     },
     {
@@ -695,13 +695,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 522320,
-        "casos_nuevos": 19444,
-        "casos_activos": 473647,
-        "casos_criticos": 10966,
-        "fallecidos_total": 20086,
-        "fallecidos_nuevos": 1339,
-        "recuperados_total": 28587
+        "casos_total": 524242,
+        "casos_nuevos": 21366,
+        "casos_activos": 475264,
+        "casos_criticos": 11053,
+        "fallecidos_total": 20223,
+        "fallecidos_nuevos": 1476,
+        "recuperados_total": 28755
     },
     {
         "pais": "EE",
@@ -992,9 +992,9 @@
     {
         "pais": "IN",
         "nombre": "India",
-        "casos_total": 8439,
-        "casos_nuevos": 839,
-        "casos_activos": 7182,
+        "casos_total": 8446,
+        "casos_nuevos": 846,
+        "casos_activos": 7189,
         "casos_criticos": 0,
         "fallecidos_total": 288,
         "fallecidos_nuevos": 39,
@@ -1049,10 +1049,10 @@
         "nombre": "Isla de Man",
         "casos_total": 226,
         "casos_nuevos": 25,
-        "casos_activos": 113,
+        "casos_activos": 112,
         "casos_criticos": 11,
-        "fallecidos_total": 1,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 2,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 112
     },
     {
@@ -1586,9 +1586,9 @@
     {
         "pais": "NO",
         "nombre": "Noruega",
-        "casos_total": 6403,
-        "casos_nuevos": 89,
-        "casos_activos": 6253,
+        "casos_total": 6408,
+        "casos_nuevos": 94,
+        "casos_activos": 6258,
         "casos_criticos": 67,
         "fallecidos_total": 118,
         "fallecidos_nuevos": 5,
@@ -1643,10 +1643,10 @@
         "nombre": "Pakistan",
         "casos_total": 5011,
         "casos_nuevos": 316,
-        "casos_activos": 4164,
+        "casos_activos": 4163,
         "casos_criticos": 50,
-        "fallecidos_total": 85,
-        "fallecidos_nuevos": 19,
+        "fallecidos_total": 86,
+        "fallecidos_nuevos": 20,
         "recuperados_total": 762
     },
     {
@@ -2050,10 +2050,10 @@
         "nombre": "Siria",
         "casos_total": 25,
         "casos_nuevos": 6,
-        "casos_activos": 15,
+        "casos_activos": 18,
         "casos_criticos": 0,
-        "fallecidos_total": 5,
-        "fallecidos_nuevos": 3,
+        "fallecidos_total": 2,
+        "fallecidos_nuevos": 0,
         "recuperados_total": 5
     },
     {
