@@ -121,9 +121,9 @@
     },
     {
         "nombre": "Austria",
-        "casos_total": 13586,
-        "casos_nuevos": 26,
-        "casos_activos": 7203,
+        "casos_total": 13667,
+        "casos_nuevos": 107,
+        "casos_activos": 7284,
         "casos_criticos": 261,
         "fallecidos_total": 319,
         "fallecidos_nuevos": 0,
@@ -261,13 +261,13 @@
     },
     {
         "nombre": "Bosnia y Herzegovina",
-        "casos_total": 901,
-        "casos_nuevos": 0,
-        "casos_activos": 736,
+        "casos_total": 917,
+        "casos_nuevos": 16,
+        "casos_activos": 743,
         "casos_criticos": 4,
-        "fallecidos_total": 36,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 129
+        "fallecidos_total": 37,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 137
     },
     {
         "nombre": "Botsuana",
@@ -661,13 +661,13 @@
     },
     {
         "nombre": "Filipinas",
-        "casos_total": 4195,
-        "casos_nuevos": 0,
-        "casos_activos": 3834,
+        "casos_total": 4428,
+        "casos_nuevos": 233,
+        "casos_activos": 4024,
         "casos_criticos": 1,
-        "fallecidos_total": 221,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 140
+        "fallecidos_total": 247,
+        "fallecidos_nuevos": 26,
+        "recuperados_total": 157
     },
     {
         "nombre": "Finlandia",
@@ -1131,10 +1131,10 @@
     },
     {
         "nombre": "Letonia",
-        "casos_total": 612,
-        "casos_nuevos": 0,
-        "casos_activos": 593,
-        "casos_criticos": 3,
+        "casos_total": 630,
+        "casos_nuevos": 18,
+        "casos_activos": 611,
+        "casos_criticos": 2,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
         "recuperados_total": 16
@@ -1263,10 +1263,10 @@
         "nombre": "Malta",
         "casos_total": 350,
         "casos_nuevos": 0,
-        "casos_activos": 332,
+        "casos_activos": 331,
         "casos_criticos": 4,
-        "fallecidos_total": 2,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 3,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 16
     },
     {
@@ -1363,11 +1363,11 @@
         "nombre": "Montenegro",
         "casos_total": 262,
         "casos_nuevos": 5,
-        "casos_activos": 256,
+        "casos_activos": 255,
         "casos_criticos": 7,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 4
+        "recuperados_total": 5
     },
     {
         "nombre": "Montserrat",
@@ -1551,12 +1551,12 @@
     },
     {
         "nombre": "Polonia",
-        "casos_total": 5955,
-        "casos_nuevos": 0,
-        "casos_activos": 5399,
+        "casos_total": 6088,
+        "casos_nuevos": 133,
+        "casos_activos": 5518,
         "casos_criticos": 160,
-        "fallecidos_total": 181,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 195,
+        "fallecidos_nuevos": 14,
         "recuperados_total": 375
     },
     {
@@ -1691,13 +1691,13 @@
     },
     {
         "nombre": "Rusia",
-        "casos_total": 11917,
-        "casos_nuevos": 0,
-        "casos_activos": 11028,
+        "casos_total": 13584,
+        "casos_nuevos": 1667,
+        "casos_activos": 12433,
         "casos_criticos": 8,
-        "fallecidos_total": 94,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 795
+        "fallecidos_total": 106,
+        "fallecidos_nuevos": 12,
+        "recuperados_total": 1045
     },
     {
         "nombre": "Sahara Occidental",
@@ -2023,11 +2023,11 @@
         "nombre": "Tunez",
         "casos_total": 671,
         "casos_nuevos": 0,
-        "casos_activos": 621,
-        "casos_criticos": 78,
+        "casos_activos": 603,
+        "casos_criticos": 85,
         "fallecidos_total": 25,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 25
+        "recuperados_total": 43
     },
     {
         "nombre": "Turquia",
@@ -2044,7 +2044,7 @@
         "casos_total": 2511,
         "casos_nuevos": 308,
         "casos_activos": 2359,
-        "casos_criticos": 33,
+        "casos_criticos": 45,
         "fallecidos_total": 73,
         "fallecidos_nuevos": 4,
         "recuperados_total": 79
