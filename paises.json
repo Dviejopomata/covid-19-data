@@ -651,9 +651,9 @@
     {
         "pais": "SK",
         "nombre": "Eslovaquia",
-        "casos_total": 715,
-        "casos_nuevos": 0,
-        "casos_activos": 690,
+        "casos_total": 728,
+        "casos_nuevos": 13,
+        "casos_activos": 703,
         "casos_criticos": 5,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
@@ -717,13 +717,13 @@
     {
         "pais": "ET",
         "nombre": "Etiopia",
-        "casos_total": 65,
-        "casos_nuevos": 0,
-        "casos_activos": 58,
-        "casos_criticos": 1,
+        "casos_total": 69,
+        "casos_nuevos": 4,
+        "casos_activos": 56,
+        "casos_criticos": 0,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 4
+        "recuperados_total": 10
     },
     {
         "pais": "PH",
@@ -1192,11 +1192,11 @@
         "nombre": "Kazajistan",
         "casos_total": 859,
         "casos_nuevos": 47,
-        "casos_activos": 770,
+        "casos_activos": 768,
         "casos_criticos": 21,
         "fallecidos_total": 10,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 79
+        "recuperados_total": 81
     },
     {
         "pais": "KE",
@@ -1388,9 +1388,9 @@
     {
         "pais": "MT",
         "nombre": "Malta",
-        "casos_total": 350,
-        "casos_nuevos": 0,
-        "casos_activos": 331,
+        "casos_total": 370,
+        "casos_nuevos": 20,
+        "casos_activos": 351,
         "casos_criticos": 4,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 1,
@@ -1641,12 +1641,12 @@
     {
         "pais": "PK",
         "nombre": "Pakistan",
-        "casos_total": 4788,
-        "casos_nuevos": 93,
-        "casos_activos": 3955,
+        "casos_total": 4892,
+        "casos_nuevos": 197,
+        "casos_activos": 4053,
         "casos_criticos": 50,
-        "fallecidos_total": 71,
-        "fallecidos_nuevos": 5,
+        "fallecidos_total": 77,
+        "fallecidos_nuevos": 11,
         "recuperados_total": 762
     },
     {
@@ -2279,9 +2279,9 @@
     {
         "pais": "UZ",
         "nombre": "Uzbekistan",
-        "casos_total": 694,
-        "casos_nuevos": 70,
-        "casos_activos": 649,
+        "casos_total": 729,
+        "casos_nuevos": 105,
+        "casos_activos": 684,
         "casos_criticos": 8,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
