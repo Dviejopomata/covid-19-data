@@ -21,9 +21,9 @@
     },
     {
         "nombre": "Alemania",
-        "casos_total": 122171,
-        "casos_nuevos": 0,
-        "casos_activos": 65522,
+        "casos_total": 122530,
+        "casos_nuevos": 359,
+        "casos_activos": 65881,
         "casos_criticos": 4895,
         "fallecidos_total": 2736,
         "fallecidos_nuevos": 0,
@@ -83,11 +83,11 @@
         "nombre": "Argentina",
         "casos_total": 1975,
         "casos_nuevos": 0,
-        "casos_activos": 1518,
+        "casos_activos": 1452,
         "casos_criticos": 96,
-        "fallecidos_total": 82,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 375
+        "fallecidos_total": 83,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 440
     },
     {
         "nombre": "Armenia",
@@ -121,9 +121,9 @@
     },
     {
         "nombre": "Austria",
-        "casos_total": 13767,
-        "casos_nuevos": 207,
-        "casos_activos": 6826,
+        "casos_total": 13776,
+        "casos_nuevos": 216,
+        "casos_activos": 6835,
         "casos_criticos": 246,
         "fallecidos_total": 337,
         "fallecidos_nuevos": 18,
@@ -261,9 +261,9 @@
     },
     {
         "nombre": "Bosnia y Herzegovina",
-        "casos_total": 917,
-        "casos_nuevos": 16,
-        "casos_activos": 743,
+        "casos_total": 935,
+        "casos_nuevos": 34,
+        "casos_activos": 761,
         "casos_criticos": 4,
         "fallecidos_total": 37,
         "fallecidos_nuevos": 1,
@@ -341,9 +341,9 @@
     },
     {
         "nombre": "Cabo Verde",
-        "casos_total": 7,
-        "casos_nuevos": 0,
-        "casos_activos": 5,
+        "casos_total": 8,
+        "casos_nuevos": 1,
+        "casos_activos": 6,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -571,13 +571,13 @@
     },
     {
         "nombre": "Emiratos Arabes Unidos",
-        "casos_total": 3360,
-        "casos_nuevos": 0,
-        "casos_activos": 2926,
+        "casos_total": 3736,
+        "casos_nuevos": 376,
+        "casos_activos": 3128,
         "casos_criticos": 1,
-        "fallecidos_total": 16,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 418
+        "fallecidos_total": 20,
+        "fallecidos_nuevos": 4,
+        "recuperados_total": 588
     },
     {
         "nombre": "Eritrea",
@@ -731,9 +731,9 @@
     },
     {
         "nombre": "Ghana",
-        "casos_total": 378,
-        "casos_nuevos": 0,
-        "casos_activos": 368,
+        "casos_total": 408,
+        "casos_nuevos": 30,
+        "casos_activos": 398,
         "casos_criticos": 2,
         "fallecidos_total": 6,
         "fallecidos_nuevos": 0,
@@ -951,13 +951,13 @@
     },
     {
         "nombre": "Isla de Man",
-        "casos_total": 201,
-        "casos_nuevos": 0,
-        "casos_activos": 97,
+        "casos_total": 204,
+        "casos_nuevos": 3,
+        "casos_activos": 91,
         "casos_criticos": 11,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 103
+        "recuperados_total": 112
     },
     {
         "nombre": "Islandia",
@@ -1091,13 +1091,13 @@
     },
     {
         "nombre": "Kenia",
-        "casos_total": 189,
-        "casos_nuevos": 0,
+        "casos_total": 191,
+        "casos_nuevos": 2,
         "casos_activos": 160,
         "casos_criticos": 2,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 22
+        "recuperados_total": 24
     },
     {
         "nombre": "Kirguistan",
@@ -1731,13 +1731,13 @@
     },
     {
         "nombre": "San Marino",
-        "casos_total": 344,
-        "casos_nuevos": 0,
-        "casos_activos": 260,
+        "casos_total": 356,
+        "casos_nuevos": 12,
+        "casos_activos": 268,
         "casos_criticos": 14,
-        "fallecidos_total": 34,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 50
+        "fallecidos_total": 35,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 53
     },
     {
         "nombre": "San Martin (Parte Francesa)",
@@ -1821,12 +1821,12 @@
     },
     {
         "nombre": "Serbia",
-        "casos_total": 3105,
-        "casos_nuevos": 0,
-        "casos_activos": 2916,
-        "casos_criticos": 136,
-        "fallecidos_total": 71,
-        "fallecidos_nuevos": 0,
+        "casos_total": 3380,
+        "casos_nuevos": 275,
+        "casos_activos": 3188,
+        "casos_criticos": 145,
+        "fallecidos_total": 74,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 118
     },
     {
@@ -2053,11 +2053,11 @@
         "nombre": "Uganda",
         "casos_total": 53,
         "casos_nuevos": 0,
-        "casos_activos": 53,
+        "casos_activos": 50,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 0
+        "recuperados_total": 3
     },
     {
         "nombre": "Uruguay",
@@ -2113,11 +2113,11 @@
         "nombre": "Zambia",
         "casos_total": 40,
         "casos_nuevos": 0,
-        "casos_activos": 13,
+        "casos_activos": 10,
         "casos_criticos": 1,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 25
+        "recuperados_total": 28
     },
     {
         "nombre": "Zimbabue",
