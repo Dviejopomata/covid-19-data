@@ -111,13 +111,13 @@
     },
     {
         "nombre": "Australia",
-        "casos_total": 6238,
-        "casos_nuevos": 0,
-        "casos_activos": 3043,
-        "casos_criticos": 74,
-        "fallecidos_total": 54,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 3141
+        "casos_total": 6292,
+        "casos_nuevos": 54,
+        "casos_activos": 2971,
+        "casos_criticos": 80,
+        "fallecidos_total": 56,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 3265
     },
     {
         "nombre": "Austria",
@@ -641,10 +641,10 @@
     },
     {
         "nombre": "Estonia",
-        "casos_total": 1258,
-        "casos_nuevos": 0,
-        "casos_activos": 1141,
-        "casos_criticos": 9,
+        "casos_total": 1304,
+        "casos_nuevos": 46,
+        "casos_activos": 1187,
+        "casos_criticos": 11,
         "fallecidos_total": 24,
         "fallecidos_nuevos": 0,
         "recuperados_total": 93
@@ -1333,11 +1333,11 @@
         "nombre": "Moldavia",
         "casos_total": 1438,
         "casos_nuevos": 0,
-        "casos_activos": 1353,
+        "casos_activos": 1334,
         "casos_criticos": 80,
         "fallecidos_total": 29,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 56
+        "recuperados_total": 75
     },
     {
         "nombre": "Monaco",
@@ -1553,11 +1553,11 @@
         "nombre": "Polonia",
         "casos_total": 5955,
         "casos_nuevos": 0,
-        "casos_activos": 5456,
+        "casos_activos": 5399,
         "casos_criticos": 160,
         "fallecidos_total": 181,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 318
+        "recuperados_total": 375
     },
     {
         "nombre": "Portugal",
@@ -1683,10 +1683,10 @@
         "nombre": "Rumania",
         "casos_total": 5467,
         "casos_nuevos": 0,
-        "casos_activos": 4468,
+        "casos_activos": 4456,
         "casos_criticos": 183,
-        "fallecidos_total": 270,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 282,
+        "fallecidos_nuevos": 12,
         "recuperados_total": 729
     },
     {
