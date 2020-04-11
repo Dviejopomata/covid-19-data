@@ -343,13 +343,13 @@
     {
         "pais": "BF",
         "nombre": "Burkina Faso",
-        "casos_total": 448,
-        "casos_nuevos": 0,
-        "casos_activos": 273,
+        "casos_total": 484,
+        "casos_nuevos": 36,
+        "casos_activos": 302,
         "casos_criticos": 0,
-        "fallecidos_total": 26,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 149
+        "fallecidos_total": 27,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 155
     },
     {
         "pais": "BI",
@@ -409,12 +409,12 @@
     {
         "pais": "CA",
         "nombre": "Canada",
-        "casos_total": 23195,
-        "casos_nuevos": 1047,
-        "casos_activos": 16238,
+        "casos_total": 23318,
+        "casos_nuevos": 1170,
+        "casos_activos": 16356,
         "casos_criticos": 557,
-        "fallecidos_total": 648,
-        "fallecidos_nuevos": 79,
+        "fallecidos_total": 653,
+        "fallecidos_nuevos": 84,
         "recuperados_total": 6309
     },
     {
@@ -519,13 +519,13 @@
     {
         "pais": "CI",
         "nombre": "Costa de Marfil",
-        "casos_total": 480,
-        "casos_nuevos": 0,
-        "casos_activos": 423,
+        "casos_total": 533,
+        "casos_nuevos": 53,
+        "casos_activos": 471,
         "casos_criticos": 0,
-        "fallecidos_total": 3,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 54
+        "fallecidos_total": 4,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 58
     },
     {
         "pais": "HR",
@@ -673,12 +673,12 @@
     {
         "pais": "ES",
         "nombre": "Espa\u00f1a",
-        "casos_total": 161852,
-        "casos_nuevos": 3579,
-        "casos_activos": 86263,
+        "casos_total": 163027,
+        "casos_nuevos": 4754,
+        "casos_activos": 87312,
         "casos_criticos": 7371,
-        "fallecidos_total": 16480,
-        "fallecidos_nuevos": 399,
+        "fallecidos_total": 16606,
+        "fallecidos_nuevos": 525,
         "recuperados_total": 59109
     },
     {
@@ -695,12 +695,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 528992,
-        "casos_nuevos": 26116,
-        "casos_activos": 479094,
+        "casos_total": 529154,
+        "casos_nuevos": 26278,
+        "casos_activos": 479252,
         "casos_criticos": 11059,
-        "fallecidos_total": 20456,
-        "fallecidos_nuevos": 1709,
+        "fallecidos_total": 20460,
+        "fallecidos_nuevos": 1713,
         "recuperados_total": 29442
     },
     {
@@ -1586,9 +1586,9 @@
     {
         "pais": "NO",
         "nombre": "Noruega",
-        "casos_total": 6408,
-        "casos_nuevos": 94,
-        "casos_activos": 6257,
+        "casos_total": 6409,
+        "casos_nuevos": 95,
+        "casos_activos": 6258,
         "casos_criticos": 67,
         "fallecidos_total": 119,
         "fallecidos_nuevos": 6,
