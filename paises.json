@@ -134,9 +134,9 @@
     {
         "pais": "AT",
         "nombre": "Austria",
-        "casos_total": 13806,
-        "casos_nuevos": 0,
-        "casos_activos": 6865,
+        "casos_total": 13810,
+        "casos_nuevos": 4,
+        "casos_activos": 6869,
         "casos_criticos": 246,
         "fallecidos_total": 337,
         "fallecidos_nuevos": 0,
@@ -335,7 +335,7 @@
         "casos_total": 669,
         "casos_nuevos": 8,
         "casos_activos": 573,
-        "casos_criticos": 32,
+        "casos_criticos": 35,
         "fallecidos_total": 28,
         "fallecidos_nuevos": 0,
         "recuperados_total": 68
@@ -983,10 +983,10 @@
         "nombre": "Hungria",
         "casos_total": 1410,
         "casos_nuevos": 100,
-        "casos_activos": 1207,
-        "casos_criticos": 17,
-        "fallecidos_total": 85,
-        "fallecidos_nuevos": 0,
+        "casos_activos": 1193,
+        "casos_criticos": 58,
+        "fallecidos_total": 99,
+        "fallecidos_nuevos": 14,
         "recuperados_total": 118
     },
     {
@@ -1135,13 +1135,13 @@
     {
         "pais": "IL",
         "nombre": "Israel",
-        "casos_total": 10743,
-        "casos_nuevos": 0,
-        "casos_activos": 9301,
-        "casos_criticos": 175,
-        "fallecidos_total": 101,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1341
+        "casos_total": 10878,
+        "casos_nuevos": 135,
+        "casos_activos": 9387,
+        "casos_criticos": 174,
+        "fallecidos_total": 103,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 1388
     },
     {
         "pais": "IT",
@@ -2081,9 +2081,9 @@
     {
         "pais": "SZ",
         "nombre": "Suazilandia",
-        "casos_total": 12,
-        "casos_nuevos": 0,
-        "casos_activos": 5,
+        "casos_total": 14,
+        "casos_nuevos": 2,
+        "casos_activos": 7,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -2169,13 +2169,13 @@
     {
         "pais": "TW",
         "nombre": "Taiwan",
-        "casos_total": 385,
-        "casos_nuevos": 0,
-        "casos_activos": 280,
+        "casos_total": 388,
+        "casos_nuevos": 3,
+        "casos_activos": 273,
         "casos_criticos": 0,
         "fallecidos_total": 6,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 99
+        "recuperados_total": 109
     },
     {
         "pais": "TZ",
