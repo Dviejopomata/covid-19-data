@@ -74,19 +74,19 @@
         "casos_total": 1825,
         "casos_nuevos": 64,
         "casos_activos": 1090,
-        "casos_criticos": 46,
+        "casos_criticos": 60,
         "fallecidos_total": 275,
         "fallecidos_nuevos": 19,
         "recuperados_total": 460
     },
     {
         "nombre": "Argentina",
-        "casos_total": 1975,
-        "casos_nuevos": 0,
-        "casos_activos": 1452,
+        "casos_total": 2142,
+        "casos_nuevos": 167,
+        "casos_activos": 1613,
         "casos_criticos": 115,
-        "fallecidos_total": 83,
-        "fallecidos_nuevos": 1,
+        "fallecidos_total": 89,
+        "fallecidos_nuevos": 7,
         "recuperados_total": 440
     },
     {
@@ -631,13 +631,13 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 531943,
-        "casos_nuevos": 29067,
-        "casos_activos": 481570,
-        "casos_criticos": 11320,
-        "fallecidos_total": 20555,
-        "fallecidos_nuevos": 1808,
-        "recuperados_total": 29818
+        "casos_total": 532855,
+        "casos_nuevos": 29979,
+        "casos_activos": 481825,
+        "casos_criticos": 11471,
+        "fallecidos_total": 20577,
+        "fallecidos_nuevos": 1830,
+        "recuperados_total": 30453
     },
     {
         "nombre": "Estonia",
@@ -811,13 +811,13 @@
     },
     {
         "nombre": "Guayana Francesa",
-        "casos_total": 83,
-        "casos_nuevos": 0,
-        "casos_activos": 40,
+        "casos_total": 86,
+        "casos_nuevos": 3,
+        "casos_activos": 35,
         "casos_criticos": 1,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 43
+        "recuperados_total": 51
     },
     {
         "nombre": "Guinea",
@@ -1841,9 +1841,9 @@
     },
     {
         "nombre": "Sierra Leona",
-        "casos_total": 8,
-        "casos_nuevos": 0,
-        "casos_activos": 8,
+        "casos_total": 10,
+        "casos_nuevos": 2,
+        "casos_activos": 10,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -2064,7 +2064,7 @@
         "casos_total": 494,
         "casos_nuevos": 21,
         "casos_activos": 273,
-        "casos_criticos": 15,
+        "casos_criticos": 16,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
         "recuperados_total": 214
