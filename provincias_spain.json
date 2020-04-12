@@ -113,10 +113,10 @@
         "nombre": "Australia",
         "casos_total": 6303,
         "casos_nuevos": 0,
-        "casos_activos": 2981,
+        "casos_activos": 2979,
         "casos_criticos": 80,
-        "fallecidos_total": 57,
-        "fallecidos_nuevos": 1,
+        "fallecidos_total": 59,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 3265
     },
     {
@@ -281,12 +281,12 @@
     },
     {
         "nombre": "Brasil",
-        "casos_total": 20962,
-        "casos_nuevos": 0,
-        "casos_activos": 19649,
+        "casos_total": 20964,
+        "casos_nuevos": 2,
+        "casos_activos": 19650,
         "casos_criticos": 296,
-        "fallecidos_total": 1140,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 1141,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 173
     },
     {
@@ -1101,9 +1101,9 @@
     },
     {
         "nombre": "Kirguistan",
-        "casos_total": 339,
-        "casos_nuevos": 0,
-        "casos_activos": 290,
+        "casos_total": 377,
+        "casos_nuevos": 38,
+        "casos_activos": 328,
         "casos_criticos": 5,
         "fallecidos_total": 5,
         "fallecidos_nuevos": 0,
@@ -1401,9 +1401,9 @@
     },
     {
         "nombre": "Nepal",
-        "casos_total": 9,
-        "casos_nuevos": 0,
-        "casos_activos": 8,
+        "casos_total": 12,
+        "casos_nuevos": 3,
+        "casos_activos": 11,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1873,11 +1873,11 @@
         "nombre": "Somalia",
         "casos_total": 21,
         "casos_nuevos": 0,
-        "casos_activos": 19,
-        "casos_criticos": 0,
+        "casos_activos": 18,
+        "casos_criticos": 2,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1
+        "recuperados_total": 2
     },
     {
         "nombre": "Sri Lanka",
@@ -1961,13 +1961,13 @@
     },
     {
         "nombre": "Tailandia",
-        "casos_total": 2518,
-        "casos_nuevos": 0,
-        "casos_activos": 1348,
+        "casos_total": 2551,
+        "casos_nuevos": 33,
+        "casos_activos": 1295,
         "casos_criticos": 61,
-        "fallecidos_total": 35,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1135
+        "fallecidos_total": 38,
+        "fallecidos_nuevos": 3,
+        "recuperados_total": 1218
     },
     {
         "nombre": "Taiwan",
