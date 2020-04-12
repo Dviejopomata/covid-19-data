@@ -323,11 +323,11 @@
         "nombre": "Brunei",
         "casos_total": 136,
         "casos_nuevos": 0,
-        "casos_activos": 31,
+        "casos_activos": 29,
         "casos_criticos": 2,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 104
+        "recuperados_total": 106
     },
     {
         "pais": "BG",
@@ -651,9 +651,9 @@
     {
         "pais": "SK",
         "nombre": "Eslovaquia",
-        "casos_total": 728,
-        "casos_nuevos": 0,
-        "casos_activos": 703,
+        "casos_total": 742,
+        "casos_nuevos": 14,
+        "casos_activos": 717,
         "casos_criticos": 5,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
@@ -717,9 +717,9 @@
     {
         "pais": "ET",
         "nombre": "Etiopia",
-        "casos_total": 69,
-        "casos_nuevos": 0,
-        "casos_activos": 56,
+        "casos_total": 71,
+        "casos_nuevos": 2,
+        "casos_activos": 58,
         "casos_criticos": 0,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
@@ -970,13 +970,13 @@
     {
         "pais": "HK",
         "nombre": "Hong Kong",
-        "casos_total": 1001,
-        "casos_nuevos": 0,
-        "casos_activos": 661,
-        "casos_criticos": 14,
+        "casos_total": 1005,
+        "casos_nuevos": 4,
+        "casos_activos": 641,
+        "casos_criticos": 13,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 336
+        "recuperados_total": 360
     },
     {
         "pais": "HU",
@@ -1850,13 +1850,13 @@
     {
         "pais": "RO",
         "nombre": "Rumania",
-        "casos_total": 5990,
-        "casos_nuevos": 0,
-        "casos_activos": 4926,
-        "casos_criticos": 208,
+        "casos_total": 6300,
+        "casos_nuevos": 310,
+        "casos_activos": 5142,
+        "casos_criticos": 204,
         "fallecidos_total": 306,
         "fallecidos_nuevos": 15,
-        "recuperados_total": 758
+        "recuperados_total": 852
     },
     {
         "pais": "RU",
