@@ -596,13 +596,13 @@
     {
         "pais": "EC",
         "nombre": "Ecuador",
-        "casos_total": 7257,
-        "casos_nuevos": 0,
-        "casos_activos": 6531,
+        "casos_total": 7466,
+        "casos_nuevos": 209,
+        "casos_activos": 6632,
         "casos_criticos": 184,
-        "fallecidos_total": 315,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 411
+        "fallecidos_total": 333,
+        "fallecidos_nuevos": 18,
+        "recuperados_total": 501
     },
     {
         "pais": "EG",
@@ -695,13 +695,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 537210,
-        "casos_nuevos": 4331,
-        "casos_activos": 484715,
+        "casos_total": 537356,
+        "casos_nuevos": 4477,
+        "casos_activos": 484834,
         "casos_criticos": 11665,
-        "fallecidos_total": 21428,
-        "fallecidos_nuevos": 851,
-        "recuperados_total": 31067
+        "fallecidos_total": 21435,
+        "fallecidos_nuevos": 858,
+        "recuperados_total": 31087
     },
     {
         "pais": "EE",
@@ -2006,11 +2006,11 @@
         "nombre": "Serbia",
         "casos_total": 3630,
         "casos_nuevos": 250,
-        "casos_activos": 3432,
+        "casos_activos": 3150,
         "casos_criticos": 146,
         "fallecidos_total": 80,
         "fallecidos_nuevos": 6,
-        "recuperados_total": 118
+        "recuperados_total": 400
     },
     {
         "pais": "SC",
@@ -2136,9 +2136,9 @@
     {
         "pais": "CH",
         "nombre": "Suiza",
-        "casos_total": 25328,
-        "casos_nuevos": 221,
-        "casos_activos": 12139,
+        "casos_total": 25407,
+        "casos_nuevos": 300,
+        "casos_activos": 12218,
         "casos_criticos": 386,
         "fallecidos_total": 1089,
         "fallecidos_nuevos": 53,
@@ -2235,13 +2235,13 @@
     {
         "pais": "TR",
         "nombre": "Turquia",
-        "casos_total": 52167,
-        "casos_nuevos": 0,
-        "casos_activos": 48101,
-        "casos_criticos": 1626,
-        "fallecidos_total": 1101,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 2965
+        "casos_total": 56956,
+        "casos_nuevos": 4789,
+        "casos_activos": 52312,
+        "casos_criticos": 1665,
+        "fallecidos_total": 1198,
+        "fallecidos_nuevos": 97,
+        "recuperados_total": 3446
     },
     {
         "pais": "UA",
