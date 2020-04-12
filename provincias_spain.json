@@ -131,13 +131,13 @@
     },
     {
         "nombre": "Azerbaiyan",
-        "casos_total": 1058,
-        "casos_nuevos": 0,
-        "casos_activos": 847,
+        "casos_total": 1098,
+        "casos_nuevos": 40,
+        "casos_activos": 837,
         "casos_criticos": 27,
         "fallecidos_total": 11,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 200
+        "recuperados_total": 250
     },
     {
         "nombre": "Bahamas",
@@ -1081,9 +1081,9 @@
     },
     {
         "nombre": "Kazajistan",
-        "casos_total": 897,
-        "casos_nuevos": 32,
-        "casos_activos": 801,
+        "casos_total": 911,
+        "casos_nuevos": 46,
+        "casos_activos": 815,
         "casos_criticos": 21,
         "fallecidos_total": 10,
         "fallecidos_nuevos": 0,
@@ -1571,13 +1571,13 @@
     },
     {
         "nombre": "Principado de Andorra",
-        "casos_total": 622,
-        "casos_nuevos": 21,
-        "casos_activos": 523,
+        "casos_total": 638,
+        "casos_nuevos": 37,
+        "casos_activos": 481,
         "casos_criticos": 17,
-        "fallecidos_total": 28,
-        "fallecidos_nuevos": 2,
-        "recuperados_total": 71
+        "fallecidos_total": 29,
+        "fallecidos_nuevos": 3,
+        "recuperados_total": 128
     },
     {
         "nombre": "Puerto Rico",
@@ -1821,12 +1821,12 @@
     },
     {
         "nombre": "Serbia",
-        "casos_total": 3380,
-        "casos_nuevos": 0,
-        "casos_activos": 3188,
-        "casos_criticos": 145,
-        "fallecidos_total": 74,
-        "fallecidos_nuevos": 0,
+        "casos_total": 3630,
+        "casos_nuevos": 250,
+        "casos_activos": 3432,
+        "casos_criticos": 146,
+        "fallecidos_total": 80,
+        "fallecidos_nuevos": 6,
         "recuperados_total": 118
     },
     {
@@ -2073,11 +2073,11 @@
         "nombre": "Uzbekistan",
         "casos_total": 833,
         "casos_nuevos": 66,
-        "casos_activos": 787,
+        "casos_activos": 768,
         "casos_criticos": 8,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 42
+        "recuperados_total": 61
     },
     {
         "nombre": "Venezuela",
