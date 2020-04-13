@@ -161,13 +161,13 @@
     },
     {
         "nombre": "Barbados",
-        "casos_total": 71,
-        "casos_nuevos": 0,
-        "casos_activos": 56,
+        "casos_total": 72,
+        "casos_nuevos": 1,
+        "casos_activos": 55,
         "casos_criticos": 4,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 11
+        "recuperados_total": 13
     },
     {
         "nombre": "Barein",
@@ -373,11 +373,11 @@
         "nombre": "Canada",
         "casos_total": 25552,
         "casos_nuevos": 1169,
-        "casos_activos": 17119,
+        "casos_activos": 17029,
         "casos_criticos": 557,
         "fallecidos_total": 767,
         "fallecidos_nuevos": 50,
-        "recuperados_total": 7666
+        "recuperados_total": 7756
     },
     {
         "nombre": "Catar",
@@ -421,13 +421,13 @@
     },
     {
         "nombre": "Colombia",
-        "casos_total": 2776,
-        "casos_nuevos": 0,
-        "casos_activos": 2397,
+        "casos_total": 2852,
+        "casos_nuevos": 76,
+        "casos_activos": 2421,
         "casos_criticos": 92,
-        "fallecidos_total": 109,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 270
+        "fallecidos_total": 112,
+        "fallecidos_nuevos": 3,
+        "recuperados_total": 319
     },
     {
         "nombre": "Congo",
@@ -631,13 +631,13 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 583870,
-        "casos_nuevos": 23570,
-        "casos_activos": 524630,
+        "casos_total": 584862,
+        "casos_nuevos": 24562,
+        "casos_activos": 525102,
         "casos_criticos": 12772,
-        "fallecidos_total": 23485,
-        "fallecidos_nuevos": 1380,
-        "recuperados_total": 35755
+        "fallecidos_total": 23555,
+        "fallecidos_nuevos": 1450,
+        "recuperados_total": 36205
     },
     {
         "nombre": "Estonia",
@@ -1051,13 +1051,13 @@
     },
     {
         "nombre": "Jamaica",
-        "casos_total": 72,
-        "casos_nuevos": 0,
-        "casos_activos": 52,
+        "casos_total": 73,
+        "casos_nuevos": 1,
+        "casos_activos": 50,
         "casos_criticos": 0,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 16
+        "recuperados_total": 19
     },
     {
         "nombre": "Japon",
@@ -1441,9 +1441,9 @@
     },
     {
         "nombre": "Noruega",
-        "casos_total": 6565,
-        "casos_nuevos": 40,
-        "casos_activos": 6399,
+        "casos_total": 6603,
+        "casos_nuevos": 78,
+        "casos_activos": 6437,
         "casos_criticos": 59,
         "fallecidos_total": 134,
         "fallecidos_nuevos": 6,
