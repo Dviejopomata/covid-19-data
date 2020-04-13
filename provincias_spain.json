@@ -591,13 +591,13 @@
     },
     {
         "nombre": "Eslovaquia",
-        "casos_total": 742,
-        "casos_nuevos": 0,
-        "casos_activos": 717,
+        "casos_total": 769,
+        "casos_nuevos": 27,
+        "casos_activos": 660,
         "casos_criticos": 5,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 23
+        "recuperados_total": 107
     },
     {
         "nombre": "Eslovenia",
@@ -1153,11 +1153,11 @@
         "nombre": "Liberia",
         "casos_total": 50,
         "casos_nuevos": 0,
-        "casos_activos": 42,
+        "casos_activos": 41,
         "casos_criticos": 0,
         "fallecidos_total": 5,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 3
+        "recuperados_total": 4
     },
     {
         "nombre": "Libia",
@@ -1333,10 +1333,10 @@
         "nombre": "Moldavia",
         "casos_total": 1662,
         "casos_nuevos": 0,
-        "casos_activos": 1522,
+        "casos_activos": 1520,
         "casos_criticos": 80,
-        "fallecidos_total": 33,
-        "fallecidos_nuevos": 2,
+        "fallecidos_total": 35,
+        "fallecidos_nuevos": 4,
         "recuperados_total": 107
     },
     {
@@ -1561,12 +1561,12 @@
     },
     {
         "nombre": "Portugal",
-        "casos_total": 16585,
-        "casos_nuevos": 0,
-        "casos_activos": 15804,
-        "casos_criticos": 228,
-        "fallecidos_total": 504,
-        "fallecidos_nuevos": 0,
+        "casos_total": 16934,
+        "casos_nuevos": 349,
+        "casos_activos": 16122,
+        "casos_criticos": 188,
+        "fallecidos_total": 535,
+        "fallecidos_nuevos": 31,
         "recuperados_total": 277
     },
     {
@@ -1631,13 +1631,13 @@
     },
     {
         "nombre": "Republica de Macedonia",
-        "casos_total": 828,
-        "casos_nuevos": 0,
-        "casos_activos": 753,
+        "casos_total": 854,
+        "casos_nuevos": 26,
+        "casos_activos": 772,
         "casos_criticos": 15,
-        "fallecidos_total": 34,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 41
+        "fallecidos_total": 38,
+        "fallecidos_nuevos": 4,
+        "recuperados_total": 44
     },
     {
         "nombre": "Republica de Yibuti",
@@ -1913,11 +1913,11 @@
         "nombre": "Sudan",
         "casos_total": 19,
         "casos_nuevos": 0,
-        "casos_activos": 15,
+        "casos_activos": 13,
         "casos_criticos": 0,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 2
+        "recuperados_total": 4
     },
     {
         "nombre": "Sudan del Sur",
@@ -2073,11 +2073,11 @@
         "nombre": "Uzbekistan",
         "casos_total": 896,
         "casos_nuevos": 31,
-        "casos_activos": 824,
+        "casos_activos": 822,
         "casos_criticos": 8,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 68
+        "recuperados_total": 70
     },
     {
         "nombre": "Venezuela",
