@@ -121,9 +121,9 @@
     },
     {
         "nombre": "Austria",
-        "casos_total": 13984,
-        "casos_nuevos": 39,
-        "casos_activos": 6273,
+        "casos_total": 13998,
+        "casos_nuevos": 53,
+        "casos_activos": 6287,
         "casos_criticos": 239,
         "fallecidos_total": 368,
         "fallecidos_nuevos": 18,
@@ -283,10 +283,10 @@
         "nombre": "Brasil",
         "casos_total": 22318,
         "casos_nuevos": 126,
-        "casos_activos": 20915,
+        "casos_activos": 20904,
         "casos_criticos": 296,
-        "fallecidos_total": 1230,
-        "fallecidos_nuevos": 7,
+        "fallecidos_total": 1241,
+        "fallecidos_nuevos": 18,
         "recuperados_total": 173
     },
     {
@@ -481,13 +481,13 @@
     },
     {
         "nombre": "Croacia",
-        "casos_total": 1600,
-        "casos_nuevos": 0,
-        "casos_activos": 1204,
+        "casos_total": 1650,
+        "casos_nuevos": 50,
+        "casos_activos": 1225,
         "casos_criticos": 34,
-        "fallecidos_total": 23,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 373
+        "fallecidos_total": 25,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 400
     },
     {
         "nombre": "Crucero",
@@ -521,13 +521,13 @@
     },
     {
         "nombre": "Dinamarca",
-        "casos_total": 6174,
-        "casos_nuevos": 0,
-        "casos_activos": 3778,
-        "casos_criticos": 104,
-        "fallecidos_total": 273,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 2123
+        "casos_total": 6318,
+        "casos_nuevos": 144,
+        "casos_activos": 3798,
+        "casos_criticos": 100,
+        "fallecidos_total": 285,
+        "fallecidos_nuevos": 12,
+        "recuperados_total": 2235
     },
     {
         "nombre": "Dominica",
@@ -1131,9 +1131,9 @@
     },
     {
         "nombre": "Letonia",
-        "casos_total": 653,
-        "casos_nuevos": 2,
-        "casos_activos": 632,
+        "casos_total": 655,
+        "casos_nuevos": 4,
+        "casos_activos": 634,
         "casos_criticos": 2,
         "fallecidos_total": 5,
         "fallecidos_nuevos": 0,
@@ -1481,12 +1481,12 @@
     },
     {
         "nombre": "Paises Bajos",
-        "casos_total": 25587,
-        "casos_nuevos": 0,
-        "casos_activos": 22600,
+        "casos_total": 26551,
+        "casos_nuevos": 964,
+        "casos_activos": 23478,
         "casos_criticos": 1384,
-        "fallecidos_total": 2737,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 2823,
+        "fallecidos_nuevos": 86,
         "recuperados_total": 250
     },
     {
@@ -1931,12 +1931,12 @@
     },
     {
         "nombre": "Suecia",
-        "casos_total": 10483,
-        "casos_nuevos": 0,
-        "casos_activos": 9203,
-        "casos_criticos": 839,
-        "fallecidos_total": 899,
-        "fallecidos_nuevos": 0,
+        "casos_total": 10948,
+        "casos_nuevos": 465,
+        "casos_activos": 9648,
+        "casos_criticos": 859,
+        "fallecidos_total": 919,
+        "fallecidos_nuevos": 20,
         "recuperados_total": 381
     },
     {
@@ -2024,7 +2024,7 @@
         "casos_total": 707,
         "casos_nuevos": 0,
         "casos_activos": 633,
-        "casos_criticos": 85,
+        "casos_criticos": 89,
         "fallecidos_total": 31,
         "fallecidos_nuevos": 0,
         "recuperados_total": 43
