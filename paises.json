@@ -57,9 +57,9 @@
     {
         "pais": "AG",
         "nombre": "Antigua y Barbuda",
-        "casos_total": 21,
-        "casos_nuevos": 0,
-        "casos_activos": 19,
+        "casos_total": 23,
+        "casos_nuevos": 2,
+        "casos_activos": 21,
         "casos_criticos": 1,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
@@ -134,9 +134,9 @@
     {
         "pais": "AT",
         "nombre": "Austria",
-        "casos_total": 13962,
-        "casos_nuevos": 17,
-        "casos_activos": 6251,
+        "casos_total": 13972,
+        "casos_nuevos": 27,
+        "casos_activos": 6261,
         "casos_criticos": 239,
         "fallecidos_total": 368,
         "fallecidos_nuevos": 18,
@@ -200,13 +200,13 @@
     {
         "pais": "BE",
         "nombre": "Belgica",
-        "casos_total": 29647,
-        "casos_nuevos": 0,
-        "casos_activos": 19584,
-        "casos_criticos": 1223,
-        "fallecidos_total": 3600,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 6463
+        "casos_total": 30589,
+        "casos_nuevos": 942,
+        "casos_activos": 19979,
+        "casos_criticos": 1234,
+        "fallecidos_total": 3903,
+        "fallecidos_nuevos": 303,
+        "recuperados_total": 6707
     },
     {
         "pais": "BZ",
@@ -486,13 +486,13 @@
     {
         "pais": "",
         "nombre": "Consejo Danes para los Refugiados",
-        "casos_total": 234,
-        "casos_nuevos": 0,
+        "casos_total": 235,
+        "casos_nuevos": 1,
         "casos_activos": 198,
         "casos_criticos": 0,
         "fallecidos_total": 20,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 16
+        "recuperados_total": 17
     },
     {
         "pais": "KR",
@@ -739,9 +739,9 @@
     {
         "pais": "FI",
         "nombre": "Finlandia",
-        "casos_total": 2974,
-        "casos_nuevos": 0,
-        "casos_activos": 2618,
+        "casos_total": 3064,
+        "casos_nuevos": 90,
+        "casos_activos": 2708,
         "casos_criticos": 80,
         "fallecidos_total": 56,
         "fallecidos_nuevos": 0,
@@ -1003,13 +1003,13 @@
     {
         "pais": "ID",
         "nombre": "Indonesia",
-        "casos_total": 4241,
-        "casos_nuevos": 0,
-        "casos_activos": 3509,
+        "casos_total": 4557,
+        "casos_nuevos": 316,
+        "casos_activos": 3778,
         "casos_criticos": 0,
-        "fallecidos_total": 373,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 359
+        "fallecidos_total": 399,
+        "fallecidos_nuevos": 26,
+        "recuperados_total": 380
     },
     {
         "pais": "IQ",
@@ -1399,13 +1399,13 @@
     {
         "pais": "MA",
         "nombre": "Marruecos",
-        "casos_total": 1661,
-        "casos_nuevos": 0,
-        "casos_activos": 1366,
+        "casos_total": 1746,
+        "casos_nuevos": 85,
+        "casos_activos": 1430,
         "casos_criticos": 1,
-        "fallecidos_total": 118,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 177
+        "fallecidos_total": 120,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 196
     },
     {
         "pais": "MQ",
@@ -1773,13 +1773,13 @@
     {
         "pais": "CF",
         "nombre": "Republica de Africa Central",
-        "casos_total": 8,
-        "casos_nuevos": 0,
+        "casos_total": 11,
+        "casos_nuevos": 3,
         "casos_activos": 8,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 0
+        "recuperados_total": 3
     },
     {
         "pais": "CY",
@@ -2136,12 +2136,12 @@
     {
         "pais": "CH",
         "nombre": "Suiza",
-        "casos_total": 25415,
-        "casos_nuevos": 0,
-        "casos_activos": 11609,
+        "casos_total": 25449,
+        "casos_nuevos": 34,
+        "casos_activos": 11634,
         "casos_criticos": 386,
-        "fallecidos_total": 1106,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 1115,
+        "fallecidos_nuevos": 9,
         "recuperados_total": 12700
     },
     {
@@ -2191,9 +2191,9 @@
     {
         "pais": "TL",
         "nombre": "Timor Oriental",
-        "casos_total": 2,
-        "casos_nuevos": 0,
-        "casos_activos": 1,
+        "casos_total": 4,
+        "casos_nuevos": 2,
+        "casos_activos": 3,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
