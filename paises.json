@@ -211,9 +211,9 @@
     {
         "pais": "BZ",
         "nombre": "Belice",
-        "casos_total": 14,
-        "casos_nuevos": 0,
-        "casos_activos": 12,
+        "casos_total": 18,
+        "casos_nuevos": 4,
+        "casos_activos": 16,
         "casos_criticos": 1,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
@@ -310,12 +310,12 @@
     {
         "pais": "BR",
         "nombre": "Brasil",
-        "casos_total": 22720,
-        "casos_nuevos": 528,
-        "casos_activos": 21277,
+        "casos_total": 23430,
+        "casos_nuevos": 1238,
+        "casos_activos": 21929,
         "casos_criticos": 296,
-        "fallecidos_total": 1270,
-        "fallecidos_nuevos": 47,
+        "fallecidos_total": 1328,
+        "fallecidos_nuevos": 105,
         "recuperados_total": 173
     },
     {
@@ -673,12 +673,12 @@
     {
         "pais": "ES",
         "nombre": "Espa\u00f1a",
-        "casos_total": 169496,
-        "casos_nuevos": 2665,
-        "casos_activos": 87280,
+        "casos_total": 169628,
+        "casos_nuevos": 2797,
+        "casos_activos": 87273,
         "casos_criticos": 7371,
-        "fallecidos_total": 17489,
-        "fallecidos_nuevos": 280,
+        "fallecidos_total": 17628,
+        "fallecidos_nuevos": 419,
         "recuperados_total": 64727
     },
     {
@@ -695,12 +695,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 579486,
-        "casos_nuevos": 19186,
-        "casos_activos": 521570,
+        "casos_total": 583411,
+        "casos_nuevos": 23111,
+        "casos_activos": 525285,
         "casos_criticos": 12772,
-        "fallecidos_total": 23252,
-        "fallecidos_nuevos": 1147,
+        "fallecidos_total": 23462,
+        "fallecidos_nuevos": 1357,
         "recuperados_total": 34664
     },
     {
