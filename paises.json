@@ -71,7 +71,7 @@
         "casos_total": 4934,
         "casos_nuevos": 472,
         "casos_activos": 4064,
-        "casos_criticos": 67,
+        "casos_criticos": 59,
         "fallecidos_total": 65,
         "fallecidos_nuevos": 6,
         "recuperados_total": 805
@@ -134,9 +134,9 @@
     {
         "pais": "AT",
         "nombre": "Austria",
-        "casos_total": 13998,
-        "casos_nuevos": 53,
-        "casos_activos": 6287,
+        "casos_total": 13999,
+        "casos_nuevos": 54,
+        "casos_activos": 6288,
         "casos_criticos": 239,
         "fallecidos_total": 368,
         "fallecidos_nuevos": 18,
@@ -1267,12 +1267,12 @@
     {
         "pais": "LR",
         "nombre": "Liberia",
-        "casos_total": 50,
-        "casos_nuevos": 0,
+        "casos_total": 51,
+        "casos_nuevos": 1,
         "casos_activos": 41,
         "casos_criticos": 0,
-        "fallecidos_total": 5,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 6,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 4
     },
     {
@@ -1586,12 +1586,12 @@
     {
         "pais": "NO",
         "nombre": "Noruega",
-        "casos_total": 6525,
-        "casos_nuevos": 0,
-        "casos_activos": 6365,
+        "casos_total": 6527,
+        "casos_nuevos": 2,
+        "casos_activos": 6364,
         "casos_criticos": 59,
-        "fallecidos_total": 128,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 131,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 32
     },
     {
