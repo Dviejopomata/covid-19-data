@@ -376,9 +376,9 @@
     {
         "pais": "CV",
         "nombre": "Cabo Verde",
-        "casos_total": 8,
-        "casos_nuevos": 0,
-        "casos_activos": 6,
+        "casos_total": 10,
+        "casos_nuevos": 2,
+        "casos_activos": 8,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -673,13 +673,13 @@
     {
         "pais": "ES",
         "nombre": "Espa\u00f1a",
-        "casos_total": 166831,
-        "casos_nuevos": 0,
-        "casos_activos": 87231,
+        "casos_total": 169496,
+        "casos_nuevos": 2665,
+        "casos_activos": 87280,
         "casos_criticos": 7371,
-        "fallecidos_total": 17209,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 62391
+        "fallecidos_total": 17489,
+        "fallecidos_nuevos": 280,
+        "recuperados_total": 64727
     },
     {
         "pais": "PS",
@@ -717,13 +717,13 @@
     {
         "pais": "ET",
         "nombre": "Etiopia",
-        "casos_total": 71,
-        "casos_nuevos": 0,
-        "casos_activos": 58,
+        "casos_total": 74,
+        "casos_nuevos": 3,
+        "casos_activos": 57,
         "casos_criticos": 0,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 10
+        "recuperados_total": 14
     },
     {
         "pais": "PH",
@@ -1223,13 +1223,13 @@
     {
         "pais": "KW",
         "nombre": "Kuwait",
-        "casos_total": 1234,
-        "casos_nuevos": 0,
-        "casos_activos": 1091,
-        "casos_criticos": 29,
-        "fallecidos_total": 1,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 142
+        "casos_total": 1300,
+        "casos_nuevos": 66,
+        "casos_activos": 1148,
+        "casos_criticos": 26,
+        "fallecidos_total": 2,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 150
     },
     {
         "pais": "LA",
@@ -1256,9 +1256,9 @@
     {
         "pais": "LB",
         "nombre": "Libano",
-        "casos_total": 630,
-        "casos_nuevos": 0,
-        "casos_activos": 530,
+        "casos_total": 632,
+        "casos_nuevos": 2,
+        "casos_activos": 532,
         "casos_criticos": 34,
         "fallecidos_total": 20,
         "fallecidos_nuevos": 0,
@@ -1344,13 +1344,13 @@
     {
         "pais": "MY",
         "nombre": "Malasia",
-        "casos_total": 4683,
-        "casos_nuevos": 0,
-        "casos_activos": 2499,
+        "casos_total": 4817,
+        "casos_nuevos": 134,
+        "casos_activos": 2464,
         "casos_criticos": 66,
-        "fallecidos_total": 76,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 2108
+        "fallecidos_total": 77,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 2276
     },
     {
         "pais": "MW",
