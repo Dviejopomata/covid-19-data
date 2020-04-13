@@ -433,11 +433,11 @@
         "nombre": "Chequia",
         "casos_total": 5991,
         "casos_nuevos": 0,
-        "casos_activos": 5389,
+        "casos_activos": 5385,
         "casos_criticos": 87,
-        "fallecidos_total": 138,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 464
+        "fallecidos_total": 139,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 467
     },
     {
         "pais": "CL",
@@ -772,9 +772,9 @@
     {
         "pais": "GA",
         "nombre": "Gabon",
-        "casos_total": 49,
-        "casos_nuevos": 0,
-        "casos_activos": 47,
+        "casos_total": 57,
+        "casos_nuevos": 8,
+        "casos_activos": 55,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -794,9 +794,9 @@
     {
         "pais": "GE",
         "nombre": "Georgia",
-        "casos_total": 257,
-        "casos_nuevos": 0,
-        "casos_activos": 187,
+        "casos_total": 266,
+        "casos_nuevos": 9,
+        "casos_activos": 196,
         "casos_criticos": 6,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
@@ -1135,13 +1135,13 @@
     {
         "pais": "IL",
         "nombre": "Israel",
-        "casos_total": 11145,
-        "casos_nuevos": 0,
-        "casos_activos": 9415,
-        "casos_criticos": 183,
-        "fallecidos_total": 103,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1627
+        "casos_total": 11235,
+        "casos_nuevos": 90,
+        "casos_activos": 9436,
+        "casos_criticos": 181,
+        "fallecidos_total": 110,
+        "fallecidos_nuevos": 7,
+        "recuperados_total": 1689
     },
     {
         "pais": "IT",
@@ -1498,9 +1498,9 @@
     {
         "pais": "ME",
         "nombre": "Montenegro",
-        "casos_total": 272,
-        "casos_nuevos": 0,
-        "casos_activos": 264,
+        "casos_total": 273,
+        "casos_nuevos": 1,
+        "casos_activos": 265,
         "casos_criticos": 7,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
@@ -2061,10 +2061,10 @@
         "nombre": "Somalia",
         "casos_total": 25,
         "casos_nuevos": 0,
-        "casos_activos": 22,
+        "casos_activos": 21,
         "casos_criticos": 2,
-        "fallecidos_total": 1,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 2,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 2
     },
     {
