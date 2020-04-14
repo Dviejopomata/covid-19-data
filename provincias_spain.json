@@ -111,9 +111,9 @@
     },
     {
         "nombre": "Australia",
-        "casos_total": 6359,
-        "casos_nuevos": 0,
-        "casos_activos": 2804,
+        "casos_total": 6366,
+        "casos_nuevos": 7,
+        "casos_activos": 2811,
         "casos_criticos": 79,
         "fallecidos_total": 61,
         "fallecidos_nuevos": 0,
@@ -631,12 +631,12 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 586941,
-        "casos_nuevos": 0,
-        "casos_activos": 526353,
+        "casos_total": 587155,
+        "casos_nuevos": 214,
+        "casos_activos": 526563,
         "casos_criticos": 12772,
-        "fallecidos_total": 23640,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 23644,
+        "fallecidos_nuevos": 4,
         "recuperados_total": 36948
     },
     {
@@ -1061,9 +1061,9 @@
     },
     {
         "nombre": "Japon",
-        "casos_total": 7618,
-        "casos_nuevos": 0,
-        "casos_activos": 6676,
+        "casos_total": 7645,
+        "casos_nuevos": 27,
+        "casos_activos": 6703,
         "casos_criticos": 135,
         "fallecidos_total": 143,
         "fallecidos_nuevos": 0,
@@ -1491,13 +1491,13 @@
     },
     {
         "nombre": "Pakistan",
-        "casos_total": 5496,
-        "casos_nuevos": 0,
-        "casos_activos": 4308,
+        "casos_total": 5707,
+        "casos_nuevos": 211,
+        "casos_activos": 4514,
         "casos_criticos": 44,
-        "fallecidos_total": 93,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1095
+        "fallecidos_total": 96,
+        "fallecidos_nuevos": 3,
+        "recuperados_total": 1097
     },
     {
         "nombre": "Panama",
@@ -2093,11 +2093,11 @@
         "nombre": "Vietnam",
         "casos_total": 265,
         "casos_nuevos": 0,
-        "casos_activos": 119,
+        "casos_activos": 110,
         "casos_criticos": 8,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 146
+        "recuperados_total": 155
     },
     {
         "nombre": "Yemen",
