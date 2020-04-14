@@ -59,11 +59,11 @@
         "nombre": "Antigua y Barbuda",
         "casos_total": 23,
         "casos_nuevos": 2,
-        "casos_activos": 21,
+        "casos_activos": 18,
         "casos_criticos": 1,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 0
+        "recuperados_total": 3
     },
     {
         "pais": "SA",
@@ -695,12 +695,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 586377,
-        "casos_nuevos": 26077,
-        "casos_activos": 526549,
+        "casos_total": 586748,
+        "casos_nuevos": 26448,
+        "casos_activos": 526912,
         "casos_criticos": 12772,
-        "fallecidos_total": 23610,
-        "fallecidos_nuevos": 1505,
+        "fallecidos_total": 23618,
+        "fallecidos_nuevos": 1513,
         "recuperados_total": 36218
     },
     {
@@ -1069,9 +1069,9 @@
     {
         "pais": "KY",
         "nombre": "Islas Caimanes",
-        "casos_total": 53,
-        "casos_nuevos": 0,
-        "casos_activos": 46,
+        "casos_total": 54,
+        "casos_nuevos": 1,
+        "casos_activos": 47,
         "casos_criticos": 3,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
