@@ -24,12 +24,12 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 131170,
-        "casos_nuevos": 1098,
-        "casos_activos": 59698,
+        "casos_total": 131359,
+        "casos_nuevos": 1287,
+        "casos_activos": 59865,
         "casos_criticos": 4288,
-        "fallecidos_total": 3272,
-        "fallecidos_nuevos": 78,
+        "fallecidos_total": 3294,
+        "fallecidos_nuevos": 100,
         "recuperados_total": 68200
     },
     {
@@ -134,9 +134,9 @@
     {
         "pais": "AT",
         "nombre": "Austria",
-        "casos_total": 14224,
-        "casos_nuevos": 183,
-        "casos_activos": 6207,
+        "casos_total": 14226,
+        "casos_nuevos": 185,
+        "casos_activos": 6209,
         "casos_criticos": 243,
         "fallecidos_total": 384,
         "fallecidos_nuevos": 16,
@@ -508,13 +508,13 @@
     {
         "pais": "CR",
         "nombre": "Costa Rica",
-        "casos_total": 612,
-        "casos_nuevos": 0,
-        "casos_activos": 547,
+        "casos_total": 618,
+        "casos_nuevos": 6,
+        "casos_activos": 549,
         "casos_criticos": 14,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 62
+        "recuperados_total": 66
     },
     {
         "pais": "CI",
@@ -1313,9 +1313,9 @@
         "nombre": "Luxemburgo",
         "casos_total": 3307,
         "casos_nuevos": 15,
-        "casos_activos": 2738,
+        "casos_activos": 2740,
         "casos_criticos": 30,
-        "fallecidos_total": 69,
+        "fallecidos_total": 67,
         "fallecidos_nuevos": 0,
         "recuperados_total": 500
     },
@@ -1687,11 +1687,11 @@
         "nombre": "Peru",
         "casos_total": 10303,
         "casos_nuevos": 519,
-        "casos_activos": 7431,
-        "casos_criticos": 143,
+        "casos_activos": 7204,
+        "casos_criticos": 132,
         "fallecidos_total": 230,
         "fallecidos_nuevos": 14,
-        "recuperados_total": 2642
+        "recuperados_total": 2869
     },
     {
         "pais": "PF",
