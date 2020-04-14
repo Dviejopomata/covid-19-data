@@ -2,13 +2,13 @@
     {
         "pais": "AF",
         "nombre": "Afganistan",
-        "casos_total": 665,
-        "casos_nuevos": 0,
-        "casos_activos": 612,
+        "casos_total": 714,
+        "casos_nuevos": 49,
+        "casos_activos": 651,
         "casos_criticos": 0,
-        "fallecidos_total": 21,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 32
+        "fallecidos_total": 23,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 40
     },
     {
         "pais": "AL",
@@ -134,13 +134,13 @@
     {
         "pais": "AT",
         "nombre": "Austria",
-        "casos_total": 14083,
-        "casos_nuevos": 42,
-        "casos_activos": 6372,
+        "casos_total": 14102,
+        "casos_nuevos": 61,
+        "casos_activos": 6085,
         "casos_criticos": 239,
-        "fallecidos_total": 368,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 7343
+        "fallecidos_total": 384,
+        "fallecidos_nuevos": 16,
+        "recuperados_total": 7633
     },
     {
         "pais": "AZ",
@@ -167,12 +167,12 @@
     {
         "pais": "BD",
         "nombre": "Banglades",
-        "casos_total": 803,
-        "casos_nuevos": 0,
-        "casos_activos": 722,
+        "casos_total": 1012,
+        "casos_nuevos": 209,
+        "casos_activos": 924,
         "casos_criticos": 1,
-        "fallecidos_total": 39,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 46,
+        "fallecidos_nuevos": 7,
         "recuperados_total": 42
     },
     {
@@ -244,12 +244,12 @@
     {
         "pais": "BY",
         "nombre": "Bielorrusia",
-        "casos_total": 2919,
-        "casos_nuevos": 0,
-        "casos_activos": 2687,
-        "casos_criticos": 55,
-        "fallecidos_total": 29,
-        "fallecidos_nuevos": 0,
+        "casos_total": 3281,
+        "casos_nuevos": 362,
+        "casos_activos": 3045,
+        "casos_criticos": 57,
+        "fallecidos_total": 33,
+        "fallecidos_nuevos": 4,
         "recuperados_total": 203
     },
     {
@@ -1852,10 +1852,10 @@
         "nombre": "Rumania",
         "casos_total": 6633,
         "casos_nuevos": 0,
-        "casos_activos": 5388,
+        "casos_activos": 5387,
         "casos_criticos": 231,
-        "fallecidos_total": 331,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 332,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 914
     },
     {
