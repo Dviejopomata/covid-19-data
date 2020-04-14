@@ -156,9 +156,9 @@
     {
         "pais": "BS",
         "nombre": "Bahamas",
-        "casos_total": 47,
-        "casos_nuevos": 1,
-        "casos_activos": 33,
+        "casos_total": 49,
+        "casos_nuevos": 3,
+        "casos_activos": 35,
         "casos_criticos": 1,
         "fallecidos_total": 8,
         "fallecidos_nuevos": 0,
@@ -453,13 +453,13 @@
     {
         "pais": "CN",
         "nombre": "China",
-        "casos_total": 82160,
-        "casos_nuevos": 0,
-        "casos_activos": 1156,
-        "casos_criticos": 121,
+        "casos_total": 82249,
+        "casos_nuevos": 89,
+        "casos_activos": 1170,
+        "casos_criticos": 116,
         "fallecidos_total": 3341,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 77663
+        "recuperados_total": 77738
     },
     {
         "pais": "CO",
@@ -543,11 +543,11 @@
         "nombre": "Crucero",
         "casos_total": 712,
         "casos_nuevos": 0,
-        "casos_activos": 82,
-        "casos_criticos": 10,
-        "fallecidos_total": 11,
+        "casos_activos": 61,
+        "casos_criticos": 7,
+        "fallecidos_total": 12,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 619
+        "recuperados_total": 639
     },
     {
         "pais": "CU",
@@ -695,13 +695,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 586748,
-        "casos_nuevos": 26448,
-        "casos_activos": 526912,
+        "casos_total": 586941,
+        "casos_nuevos": 26641,
+        "casos_activos": 526353,
         "casos_criticos": 12772,
-        "fallecidos_total": 23618,
-        "fallecidos_nuevos": 1513,
-        "recuperados_total": 36218
+        "fallecidos_total": 23640,
+        "fallecidos_nuevos": 1535,
+        "recuperados_total": 36948
     },
     {
         "pais": "EE",
