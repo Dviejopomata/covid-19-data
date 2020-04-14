@@ -24,12 +24,12 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 130434,
-        "casos_nuevos": 362,
-        "casos_activos": 59014,
+        "casos_total": 130694,
+        "casos_nuevos": 622,
+        "casos_activos": 59233,
         "casos_criticos": 4288,
-        "fallecidos_total": 3220,
-        "fallecidos_nuevos": 26,
+        "fallecidos_total": 3261,
+        "fallecidos_nuevos": 67,
         "recuperados_total": 68200
     },
     {
@@ -224,11 +224,11 @@
         "nombre": "Benin",
         "casos_total": 35,
         "casos_nuevos": 0,
-        "casos_activos": 29,
+        "casos_activos": 16,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 5
+        "recuperados_total": 18
     },
     {
         "pais": "BM",
@@ -255,9 +255,9 @@
     {
         "pais": "MM",
         "nombre": "Birmania",
-        "casos_total": 62,
-        "casos_nuevos": 0,
-        "casos_activos": 56,
+        "casos_total": 63,
+        "casos_nuevos": 1,
+        "casos_activos": 57,
         "casos_criticos": 0,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
@@ -442,13 +442,13 @@
     {
         "pais": "CL",
         "nombre": "Chile",
-        "casos_total": 7525,
-        "casos_nuevos": 0,
-        "casos_activos": 5076,
+        "casos_total": 7917,
+        "casos_nuevos": 392,
+        "casos_activos": 5179,
         "casos_criticos": 387,
-        "fallecidos_total": 82,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 2367
+        "fallecidos_total": 92,
+        "fallecidos_nuevos": 10,
+        "recuperados_total": 2646
     },
     {
         "pais": "CN",
@@ -552,13 +552,13 @@
     {
         "pais": "CU",
         "nombre": "Cuba",
-        "casos_total": 726,
-        "casos_nuevos": 0,
-        "casos_activos": 584,
+        "casos_total": 766,
+        "casos_nuevos": 40,
+        "casos_activos": 613,
         "casos_criticos": 11,
         "fallecidos_total": 21,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 121
+        "recuperados_total": 132
     },
     {
         "pais": "CW",
@@ -838,12 +838,12 @@
     {
         "pais": "GR",
         "nombre": "Grecia",
-        "casos_total": 2145,
-        "casos_nuevos": 0,
-        "casos_activos": 1777,
+        "casos_total": 2170,
+        "casos_nuevos": 25,
+        "casos_activos": 1800,
         "casos_criticos": 73,
-        "fallecidos_total": 99,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 101,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 269
     },
     {
@@ -1423,11 +1423,11 @@
         "nombre": "Mauricio",
         "casos_total": 324,
         "casos_nuevos": 0,
-        "casos_activos": 273,
+        "casos_activos": 264,
         "casos_criticos": 3,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 42
+        "recuperados_total": 51
     },
     {
         "pais": "MR",
@@ -1520,9 +1520,9 @@
     {
         "pais": "MZ",
         "nombre": "Mozambique",
-        "casos_total": 21,
-        "casos_nuevos": 0,
-        "casos_activos": 19,
+        "casos_total": 28,
+        "casos_nuevos": 7,
+        "casos_activos": 26,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1784,9 +1784,9 @@
     {
         "pais": "CY",
         "nombre": "Republica de Chipre",
-        "casos_total": 662,
-        "casos_nuevos": 0,
-        "casos_activos": 585,
+        "casos_total": 695,
+        "casos_nuevos": 33,
+        "casos_activos": 618,
         "casos_criticos": 8,
         "fallecidos_total": 12,
         "fallecidos_nuevos": 0,
@@ -2048,9 +2048,9 @@
     {
         "pais": "SY",
         "nombre": "Siria",
-        "casos_total": 25,
-        "casos_nuevos": 0,
-        "casos_activos": 18,
+        "casos_total": 29,
+        "casos_nuevos": 4,
+        "casos_activos": 22,
         "casos_criticos": 0,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
