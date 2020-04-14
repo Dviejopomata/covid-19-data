@@ -412,7 +412,7 @@
     {
         "nombre": "China",
         "casos_total": 82249,
-        "casos_nuevos": 89,
+        "casos_nuevos": 0,
         "casos_activos": 1170,
         "casos_criticos": 116,
         "fallecidos_total": 3341,
@@ -421,13 +421,13 @@
     },
     {
         "nombre": "Colombia",
-        "casos_total": 2852,
-        "casos_nuevos": 0,
-        "casos_activos": 2421,
+        "casos_total": 2979,
+        "casos_nuevos": 127,
+        "casos_activos": 2498,
         "casos_criticos": 106,
-        "fallecidos_total": 112,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 319
+        "fallecidos_total": 127,
+        "fallecidos_nuevos": 15,
+        "recuperados_total": 354
     },
     {
         "nombre": "Congo",
@@ -631,13 +631,13 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 610467,
-        "casos_nuevos": 23526,
-        "casos_activos": 546093,
+        "casos_total": 610632,
+        "casos_nuevos": 23691,
+        "casos_activos": 546214,
         "casos_criticos": 13438,
-        "fallecidos_total": 25854,
-        "fallecidos_nuevos": 2214,
-        "recuperados_total": 38520
+        "fallecidos_total": 25856,
+        "fallecidos_nuevos": 2216,
+        "recuperados_total": 38562
     },
     {
         "nombre": "Estonia",
