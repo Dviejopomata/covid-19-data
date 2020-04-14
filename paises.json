@@ -376,9 +376,9 @@
     {
         "pais": "CV",
         "nombre": "Cabo Verde",
-        "casos_total": 10,
-        "casos_nuevos": 0,
-        "casos_activos": 8,
+        "casos_total": 11,
+        "casos_nuevos": 1,
+        "casos_activos": 9,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -695,13 +695,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 605354,
-        "casos_nuevos": 18413,
-        "casos_activos": 541794,
-        "casos_criticos": 12828,
-        "fallecidos_total": 25394,
-        "fallecidos_nuevos": 1754,
-        "recuperados_total": 38166
+        "casos_total": 608988,
+        "casos_nuevos": 22047,
+        "casos_activos": 544838,
+        "casos_criticos": 12829,
+        "fallecidos_total": 25671,
+        "fallecidos_nuevos": 2031,
+        "recuperados_total": 38479
     },
     {
         "pais": "EE",
@@ -1467,10 +1467,10 @@
         "nombre": "Moldavia",
         "casos_total": 1934,
         "casos_nuevos": 222,
-        "casos_activos": 1762,
+        "casos_activos": 1760,
         "casos_criticos": 80,
-        "fallecidos_total": 38,
-        "fallecidos_nuevos": 3,
+        "fallecidos_total": 40,
+        "fallecidos_nuevos": 5,
         "recuperados_total": 134
     },
     {
