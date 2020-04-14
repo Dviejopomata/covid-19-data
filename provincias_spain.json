@@ -24,7 +24,7 @@
         "casos_total": 130072,
         "casos_nuevos": 0,
         "casos_activos": 62578,
-        "casos_criticos": 4895,
+        "casos_criticos": 4288,
         "fallecidos_total": 3194,
         "fallecidos_nuevos": 0,
         "recuperados_total": 64300
@@ -283,11 +283,11 @@
         "nombre": "Brasil",
         "casos_total": 23723,
         "casos_nuevos": 293,
-        "casos_activos": 22195,
+        "casos_activos": 19397,
         "casos_criticos": 296,
         "fallecidos_total": 1355,
         "fallecidos_nuevos": 27,
-        "recuperados_total": 173
+        "recuperados_total": 2971
     },
     {
         "nombre": "Brunei",
@@ -903,11 +903,11 @@
         "nombre": "India",
         "casos_total": 10453,
         "casos_nuevos": 0,
-        "casos_activos": 8914,
+        "casos_activos": 8902,
         "casos_criticos": 0,
         "fallecidos_total": 358,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1181
+        "recuperados_total": 1193
     },
     {
         "nombre": "Indonesia",
@@ -1083,10 +1083,10 @@
         "nombre": "Kazajistan",
         "casos_total": 1091,
         "casos_nuevos": 0,
-        "casos_activos": 941,
+        "casos_activos": 939,
         "casos_criticos": 21,
-        "fallecidos_total": 12,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 14,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 138
     },
     {
@@ -1101,9 +1101,9 @@
     },
     {
         "nombre": "Kirguistan",
-        "casos_total": 419,
-        "casos_nuevos": 0,
-        "casos_activos": 347,
+        "casos_total": 430,
+        "casos_nuevos": 11,
+        "casos_activos": 358,
         "casos_criticos": 5,
         "fallecidos_total": 5,
         "fallecidos_nuevos": 0,
