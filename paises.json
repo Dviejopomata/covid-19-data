@@ -101,13 +101,13 @@
     {
         "pais": "AM",
         "nombre": "Armenia",
-        "casos_total": 1067,
-        "casos_nuevos": 0,
-        "casos_activos": 786,
+        "casos_total": 1111,
+        "casos_nuevos": 44,
+        "casos_activos": 797,
         "casos_criticos": 30,
-        "fallecidos_total": 16,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 265
+        "fallecidos_total": 17,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 297
     },
     {
         "pais": "AW",
@@ -1190,12 +1190,12 @@
     {
         "pais": "KZ",
         "nombre": "Kazajistan",
-        "casos_total": 1267,
-        "casos_nuevos": 35,
-        "casos_activos": 1050,
+        "casos_total": 1275,
+        "casos_nuevos": 43,
+        "casos_activos": 1057,
         "casos_criticos": 20,
-        "fallecidos_total": 14,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 15,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 203
     },
     {
@@ -1861,13 +1861,13 @@
     {
         "pais": "RU",
         "nombre": "Rusia",
-        "casos_total": 21102,
-        "casos_nuevos": 0,
-        "casos_activos": 19238,
+        "casos_total": 24490,
+        "casos_nuevos": 3388,
+        "casos_activos": 22306,
         "casos_criticos": 8,
-        "fallecidos_total": 170,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1694
+        "fallecidos_total": 198,
+        "fallecidos_nuevos": 28,
+        "recuperados_total": 1986
     },
     {
         "pais": "EH",
