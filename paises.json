@@ -574,9 +574,9 @@
     {
         "pais": "DK",
         "nombre": "Dinamarca",
-        "casos_total": 6511,
-        "casos_nuevos": 0,
-        "casos_activos": 3697,
+        "casos_total": 6681,
+        "casos_nuevos": 170,
+        "casos_activos": 3867,
         "casos_criticos": 100,
         "fallecidos_total": 299,
         "fallecidos_nuevos": 0,
@@ -728,13 +728,13 @@
     {
         "pais": "PH",
         "nombre": "Filipinas",
-        "casos_total": 5223,
-        "casos_nuevos": 0,
-        "casos_activos": 4593,
+        "casos_total": 5453,
+        "casos_nuevos": 230,
+        "casos_activos": 4751,
         "casos_criticos": 1,
-        "fallecidos_total": 335,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 295
+        "fallecidos_total": 349,
+        "fallecidos_nuevos": 14,
+        "recuperados_total": 353
     },
     {
         "pais": "FI",
@@ -1258,11 +1258,11 @@
         "nombre": "Libano",
         "casos_total": 641,
         "casos_nuevos": 0,
-        "casos_activos": 540,
+        "casos_activos": 539,
         "casos_criticos": 33,
         "fallecidos_total": 21,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 80
+        "recuperados_total": 81
     },
     {
         "pais": "LR",
@@ -1707,12 +1707,12 @@
     {
         "pais": "PL",
         "nombre": "Polonia",
-        "casos_total": 7202,
-        "casos_nuevos": 0,
-        "casos_activos": 6271,
+        "casos_total": 7408,
+        "casos_nuevos": 206,
+        "casos_activos": 6472,
         "casos_criticos": 160,
-        "fallecidos_total": 263,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 268,
+        "fallecidos_nuevos": 5,
         "recuperados_total": 668
     },
     {
