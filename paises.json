@@ -134,9 +134,9 @@
     {
         "pais": "AT",
         "nombre": "Austria",
-        "casos_total": 14280,
-        "casos_nuevos": 54,
-        "casos_activos": 5789,
+        "casos_total": 14286,
+        "casos_nuevos": 60,
+        "casos_activos": 5795,
         "casos_criticos": 232,
         "fallecidos_total": 393,
         "fallecidos_nuevos": 9,
@@ -653,11 +653,11 @@
         "nombre": "Eslovaquia",
         "casos_total": 863,
         "casos_nuevos": 28,
-        "casos_activos": 748,
+        "casos_activos": 710,
         "casos_criticos": 5,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 113
+        "recuperados_total": 151
     },
     {
         "pais": "SI",
@@ -818,11 +818,11 @@
         "nombre": "Gibraltar",
         "casos_total": 129,
         "casos_nuevos": 0,
-        "casos_activos": 36,
+        "casos_activos": 25,
         "casos_criticos": 1,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 93
+        "recuperados_total": 104
     },
     {
         "pais": "GD",
@@ -1047,13 +1047,13 @@
     {
         "pais": "IM",
         "nombre": "Isla de Man",
-        "casos_total": 254,
-        "casos_nuevos": 0,
-        "casos_activos": 111,
+        "casos_total": 256,
+        "casos_nuevos": 2,
+        "casos_activos": 101,
         "casos_criticos": 13,
-        "fallecidos_total": 2,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 141
+        "fallecidos_total": 4,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 151
     },
     {
         "pais": "IS",
@@ -1467,10 +1467,10 @@
         "nombre": "Moldavia",
         "casos_total": 1934,
         "casos_nuevos": 0,
-        "casos_activos": 1722,
+        "casos_activos": 1720,
         "casos_criticos": 80,
-        "fallecidos_total": 41,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 43,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 171
     },
     {
@@ -2323,9 +2323,9 @@
     {
         "pais": "ZM",
         "nombre": "Zambia",
-        "casos_total": 45,
-        "casos_nuevos": 0,
-        "casos_activos": 13,
+        "casos_total": 48,
+        "casos_nuevos": 3,
+        "casos_activos": 16,
         "casos_criticos": 1,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
