@@ -123,12 +123,12 @@
     {
         "pais": "AU",
         "nombre": "Australia",
-        "casos_total": 6416,
-        "casos_nuevos": 16,
-        "casos_activos": 2757,
-        "casos_criticos": 80,
-        "fallecidos_total": 61,
-        "fallecidos_nuevos": 0,
+        "casos_total": 6440,
+        "casos_nuevos": 40,
+        "casos_activos": 2779,
+        "casos_criticos": 78,
+        "fallecidos_total": 63,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 3598
     },
     {
@@ -255,9 +255,9 @@
     {
         "pais": "MM",
         "nombre": "Birmania",
-        "casos_total": 63,
-        "casos_nuevos": 0,
-        "casos_activos": 57,
+        "casos_total": 74,
+        "casos_nuevos": 11,
+        "casos_activos": 68,
         "casos_criticos": 0,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
@@ -695,12 +695,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 614117,
-        "casos_nuevos": 231,
-        "casos_activos": 549238,
+        "casos_total": 614211,
+        "casos_nuevos": 325,
+        "casos_activos": 549327,
         "casos_criticos": 13473,
-        "fallecidos_total": 26059,
-        "fallecidos_nuevos": 12,
+        "fallecidos_total": 26064,
+        "fallecidos_nuevos": 17,
         "recuperados_total": 38820
     },
     {
@@ -1168,9 +1168,9 @@
     {
         "pais": "JP",
         "nombre": "Japon",
-        "casos_total": 7885,
-        "casos_nuevos": 0,
-        "casos_activos": 6886,
+        "casos_total": 8100,
+        "casos_nuevos": 215,
+        "casos_activos": 7101,
         "casos_criticos": 152,
         "fallecidos_total": 146,
         "fallecidos_nuevos": 0,
@@ -1190,10 +1190,10 @@
     {
         "pais": "KZ",
         "nombre": "Kazajistan",
-        "casos_total": 1261,
-        "casos_nuevos": 29,
-        "casos_activos": 1044,
-        "casos_criticos": 21,
+        "casos_total": 1267,
+        "casos_nuevos": 35,
+        "casos_activos": 1050,
+        "casos_criticos": 20,
         "fallecidos_total": 14,
         "fallecidos_nuevos": 0,
         "recuperados_total": 203
@@ -1641,12 +1641,12 @@
     {
         "pais": "PK",
         "nombre": "Pakistan",
-        "casos_total": 5837,
-        "casos_nuevos": 0,
-        "casos_activos": 4363,
+        "casos_total": 5983,
+        "casos_nuevos": 146,
+        "casos_activos": 4498,
         "casos_criticos": 46,
-        "fallecidos_total": 96,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 107,
+        "fallecidos_nuevos": 11,
         "recuperados_total": 1378
     },
     {
@@ -2290,9 +2290,9 @@
     {
         "pais": "VE",
         "nombre": "Venezuela",
-        "casos_total": 193,
-        "casos_nuevos": 4,
-        "casos_activos": 73,
+        "casos_total": 197,
+        "casos_nuevos": 8,
+        "casos_activos": 77,
         "casos_criticos": 6,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
