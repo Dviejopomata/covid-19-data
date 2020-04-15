@@ -24,12 +24,12 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 132500,
-        "casos_nuevos": 290,
-        "casos_activos": 56379,
+        "casos_total": 132553,
+        "casos_nuevos": 343,
+        "casos_activos": 56425,
         "casos_criticos": 4288,
-        "fallecidos_total": 3521,
-        "fallecidos_nuevos": 26,
+        "fallecidos_total": 3528,
+        "fallecidos_nuevos": 33,
         "recuperados_total": 72600
     },
     {
@@ -576,11 +576,11 @@
         "nombre": "Dinamarca",
         "casos_total": 6681,
         "casos_nuevos": 170,
-        "casos_activos": 3857,
-        "casos_criticos": 100,
+        "casos_activos": 3624,
+        "casos_criticos": 89,
         "fallecidos_total": 309,
         "fallecidos_nuevos": 10,
-        "recuperados_total": 2515
+        "recuperados_total": 2748
     },
     {
         "pais": "DM",
@@ -1762,13 +1762,13 @@
     {
         "pais": "DO",
         "nombre": "Republica Dominicana",
-        "casos_total": 3286,
-        "casos_nuevos": 0,
-        "casos_activos": 2941,
+        "casos_total": 3614,
+        "casos_nuevos": 328,
+        "casos_activos": 3217,
         "casos_criticos": 143,
-        "fallecidos_total": 183,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 162
+        "fallecidos_total": 189,
+        "fallecidos_nuevos": 6,
+        "recuperados_total": 208
     },
     {
         "pais": "CF",
@@ -2213,13 +2213,13 @@
     {
         "pais": "TT",
         "nombre": "Trinidad yTobago",
-        "casos_total": 113,
-        "casos_nuevos": 0,
-        "casos_activos": 88,
+        "casos_total": 114,
+        "casos_nuevos": 1,
+        "casos_activos": 87,
         "casos_criticos": 0,
         "fallecidos_total": 8,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 17
+        "recuperados_total": 19
     },
     {
         "pais": "TN",
