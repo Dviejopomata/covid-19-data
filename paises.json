@@ -26,10 +26,10 @@
         "nombre": "Alemania",
         "casos_total": 136569,
         "casos_nuevos": 1816,
-        "casos_activos": 55626,
+        "casos_activos": 55517,
         "casos_criticos": 4288,
-        "fallecidos_total": 3943,
-        "fallecidos_nuevos": 139,
+        "fallecidos_total": 4052,
+        "fallecidos_nuevos": 248,
         "recuperados_total": 77000
     },
     {
@@ -454,7 +454,7 @@
         "pais": "CN",
         "nombre": "China",
         "casos_total": 82341,
-        "casos_nuevos": 46,
+        "casos_nuevos": 0,
         "casos_activos": 1107,
         "casos_criticos": 95,
         "fallecidos_total": 3342,
@@ -464,13 +464,13 @@
     {
         "pais": "CO",
         "nombre": "Colombia",
-        "casos_total": 3105,
-        "casos_nuevos": 0,
-        "casos_activos": 2522,
-        "casos_criticos": 106,
-        "fallecidos_total": 131,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 452
+        "casos_total": 3233,
+        "casos_nuevos": 128,
+        "casos_activos": 2539,
+        "casos_criticos": 98,
+        "fallecidos_total": 144,
+        "fallecidos_nuevos": 13,
+        "recuperados_total": 550
     },
     {
         "pais": "CG",
@@ -673,12 +673,12 @@
     {
         "pais": "ES",
         "nombre": "Espa\u00f1a",
-        "casos_total": 182816,
-        "casos_nuevos": 2157,
-        "casos_activos": 88889,
+        "casos_total": 184948,
+        "casos_nuevos": 4289,
+        "casos_activos": 90836,
         "casos_criticos": 7371,
-        "fallecidos_total": 19130,
-        "fallecidos_nuevos": 318,
+        "fallecidos_total": 19315,
+        "fallecidos_nuevos": 503,
         "recuperados_total": 74797
     },
     {
@@ -695,13 +695,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 674829,
-        "casos_nuevos": 26826,
-        "casos_activos": 583098,
+        "casos_total": 675527,
+        "casos_nuevos": 27524,
+        "casos_activos": 583734,
         "casos_criticos": 13369,
-        "fallecidos_total": 34475,
-        "fallecidos_nuevos": 2032,
-        "recuperados_total": 57256
+        "fallecidos_total": 34522,
+        "fallecidos_nuevos": 2079,
+        "recuperados_total": 57271
     },
     {
         "pais": "EE",
@@ -2128,7 +2128,7 @@
         "casos_total": 12540,
         "casos_nuevos": 613,
         "casos_activos": 10657,
-        "casos_criticos": 996,
+        "casos_criticos": 522,
         "fallecidos_total": 1333,
         "fallecidos_nuevos": 130,
         "recuperados_total": 550
