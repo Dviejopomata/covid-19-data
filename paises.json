@@ -431,13 +431,13 @@
     {
         "pais": "CZ",
         "nombre": "Chequia",
-        "casos_total": 6301,
-        "casos_nuevos": 0,
-        "casos_activos": 5316,
-        "casos_criticos": 84,
+        "casos_total": 6303,
+        "casos_nuevos": 2,
+        "casos_activos": 5306,
+        "casos_criticos": 75,
         "fallecidos_total": 166,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 819
+        "recuperados_total": 831
     },
     {
         "pais": "CL",
@@ -1135,13 +1135,13 @@
     {
         "pais": "IL",
         "nombre": "Israel",
-        "casos_total": 12501,
-        "casos_nuevos": 0,
-        "casos_activos": 9806,
-        "casos_criticos": 180,
-        "fallecidos_total": 132,
-        "fallecidos_nuevos": 2,
-        "recuperados_total": 2563
+        "casos_total": 12591,
+        "casos_nuevos": 90,
+        "casos_activos": 9827,
+        "casos_criticos": 174,
+        "fallecidos_total": 140,
+        "fallecidos_nuevos": 10,
+        "recuperados_total": 2624
     },
     {
         "pais": "IT",
@@ -1709,11 +1709,11 @@
         "nombre": "Polonia",
         "casos_total": 7582,
         "casos_nuevos": 0,
-        "casos_activos": 6628,
+        "casos_activos": 6522,
         "casos_criticos": 160,
         "fallecidos_total": 286,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 668
+        "recuperados_total": 774
     },
     {
         "pais": "PT",
@@ -2191,9 +2191,9 @@
     {
         "pais": "TL",
         "nombre": "Timor Oriental",
-        "casos_total": 8,
-        "casos_nuevos": 0,
-        "casos_activos": 7,
+        "casos_total": 18,
+        "casos_nuevos": 10,
+        "casos_activos": 17,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
