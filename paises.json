@@ -24,12 +24,12 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 135633,
-        "casos_nuevos": 880,
-        "casos_activos": 54777,
+        "casos_total": 135663,
+        "casos_nuevos": 910,
+        "casos_activos": 54796,
         "casos_criticos": 4288,
-        "fallecidos_total": 3856,
-        "fallecidos_nuevos": 52,
+        "fallecidos_total": 3867,
+        "fallecidos_nuevos": 63,
         "recuperados_total": 77000
     },
     {
@@ -134,9 +134,9 @@
     {
         "pais": "AT",
         "nombre": "Austria",
-        "casos_total": 14453,
-        "casos_nuevos": 103,
-        "casos_activos": 5074,
+        "casos_total": 14462,
+        "casos_nuevos": 112,
+        "casos_activos": 5083,
         "casos_criticos": 232,
         "fallecidos_total": 393,
         "fallecidos_nuevos": 0,
@@ -189,9 +189,9 @@
     {
         "pais": "BH",
         "nombre": "Barein",
-        "casos_total": 1698,
-        "casos_nuevos": 27,
-        "casos_activos": 988,
+        "casos_total": 1700,
+        "casos_nuevos": 29,
+        "casos_activos": 990,
         "casos_criticos": 3,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
@@ -409,9 +409,9 @@
     {
         "pais": "CA",
         "nombre": "Canada",
-        "casos_total": 28893,
-        "casos_nuevos": 514,
-        "casos_activos": 18574,
+        "casos_total": 28923,
+        "casos_nuevos": 544,
+        "casos_activos": 18604,
         "casos_criticos": 557,
         "fallecidos_total": 1048,
         "fallecidos_nuevos": 38,
@@ -596,13 +596,13 @@
     {
         "pais": "EC",
         "nombre": "Ecuador",
-        "casos_total": 7858,
-        "casos_nuevos": 0,
-        "casos_activos": 6690,
-        "casos_criticos": 135,
-        "fallecidos_total": 388,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 780
+        "casos_total": 8225,
+        "casos_nuevos": 367,
+        "casos_activos": 6984,
+        "casos_criticos": 168,
+        "fallecidos_total": 403,
+        "fallecidos_nuevos": 15,
+        "recuperados_total": 838
     },
     {
         "pais": "EG",
@@ -695,12 +695,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 653397,
-        "casos_nuevos": 5249,
-        "casos_activos": 563374,
-        "casos_criticos": 13516,
-        "fallecidos_total": 33405,
-        "fallecidos_nuevos": 817,
+        "casos_total": 653751,
+        "casos_nuevos": 5603,
+        "casos_activos": 563699,
+        "casos_criticos": 13536,
+        "fallecidos_total": 33434,
+        "fallecidos_nuevos": 846,
         "recuperados_total": 56618
     },
     {
@@ -1102,9 +1102,9 @@
     {
         "pais": "TC",
         "nombre": "Islas Turcas y Caicos",
-        "casos_total": 10,
-        "casos_nuevos": 0,
-        "casos_activos": 9,
+        "casos_total": 11,
+        "casos_nuevos": 1,
+        "casos_activos": 10,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -1146,13 +1146,13 @@
     {
         "pais": "IT",
         "nombre": "Italia",
-        "casos_total": 165155,
-        "casos_nuevos": 0,
-        "casos_activos": 105418,
-        "casos_criticos": 3079,
-        "fallecidos_total": 21645,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 38092
+        "casos_total": 168941,
+        "casos_nuevos": 3786,
+        "casos_activos": 106607,
+        "casos_criticos": 2936,
+        "fallecidos_total": 22170,
+        "fallecidos_nuevos": 525,
+        "recuperados_total": 40164
     },
     {
         "pais": "JM",
@@ -1302,19 +1302,19 @@
         "nombre": "Lituania",
         "casos_total": 1128,
         "casos_nuevos": 37,
-        "casos_activos": 919,
+        "casos_activos": 918,
         "casos_criticos": 14,
-        "fallecidos_total": 31,
-        "fallecidos_nuevos": 1,
+        "fallecidos_total": 32,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 178
     },
     {
         "pais": "LU",
         "nombre": "Luxemburgo",
-        "casos_total": 3373,
-        "casos_nuevos": 0,
-        "casos_activos": 2778,
-        "casos_criticos": 33,
+        "casos_total": 3444,
+        "casos_nuevos": 71,
+        "casos_activos": 2849,
+        "casos_criticos": 35,
         "fallecidos_total": 69,
         "fallecidos_nuevos": 0,
         "recuperados_total": 526
@@ -1765,7 +1765,7 @@
         "casos_total": 3755,
         "casos_nuevos": 141,
         "casos_activos": 3344,
-        "casos_criticos": 143,
+        "casos_criticos": 121,
         "fallecidos_total": 196,
         "fallecidos_nuevos": 7,
         "recuperados_total": 215
@@ -2235,13 +2235,13 @@
     {
         "pais": "TR",
         "nombre": "Turquia",
-        "casos_total": 69392,
-        "casos_nuevos": 0,
-        "casos_activos": 62200,
-        "casos_criticos": 1820,
-        "fallecidos_total": 1518,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 5674
+        "casos_total": 74193,
+        "casos_nuevos": 4801,
+        "casos_activos": 65461,
+        "casos_criticos": 1854,
+        "fallecidos_total": 1643,
+        "fallecidos_nuevos": 125,
+        "recuperados_total": 7089
     },
     {
         "pais": "UA",
