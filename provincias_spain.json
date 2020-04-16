@@ -301,13 +301,13 @@
     },
     {
         "nombre": "Bulgaria",
-        "casos_total": 747,
-        "casos_nuevos": 0,
-        "casos_activos": 606,
+        "casos_total": 783,
+        "casos_nuevos": 36,
+        "casos_activos": 624,
         "casos_criticos": 31,
-        "fallecidos_total": 36,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 105
+        "fallecidos_total": 37,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 122
     },
     {
         "nombre": "Burkina Faso",
@@ -631,12 +631,12 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 644089,
-        "casos_nuevos": 0,
-        "casos_activos": 566852,
+        "casos_total": 644348,
+        "casos_nuevos": 259,
+        "casos_activos": 567086,
         "casos_criticos": 13487,
-        "fallecidos_total": 28529,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 28554,
+        "fallecidos_nuevos": 25,
         "recuperados_total": 48708
     },
     {
@@ -891,22 +891,22 @@
     },
     {
         "nombre": "Hungria",
-        "casos_total": 1579,
-        "casos_nuevos": 0,
-        "casos_activos": 1253,
+        "casos_total": 1652,
+        "casos_nuevos": 73,
+        "casos_activos": 1311,
         "casos_criticos": 58,
-        "fallecidos_total": 134,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 192
+        "fallecidos_total": 142,
+        "fallecidos_nuevos": 8,
+        "recuperados_total": 199
     },
     {
         "nombre": "India",
         "casos_total": 12456,
         "casos_nuevos": 86,
-        "casos_activos": 10521,
+        "casos_activos": 10520,
         "casos_criticos": 0,
-        "fallecidos_total": 422,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 423,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 1513
     },
     {
@@ -1033,10 +1033,10 @@
         "nombre": "Israel",
         "casos_total": 12501,
         "casos_nuevos": 0,
-        "casos_activos": 9808,
+        "casos_activos": 9806,
         "casos_criticos": 180,
-        "fallecidos_total": 130,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 132,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 2563
     },
     {
@@ -2071,9 +2071,9 @@
     },
     {
         "nombre": "Uzbekistan",
-        "casos_total": 1302,
-        "casos_nuevos": 0,
-        "casos_activos": 1191,
+        "casos_total": 1349,
+        "casos_nuevos": 47,
+        "casos_activos": 1238,
         "casos_criticos": 8,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
