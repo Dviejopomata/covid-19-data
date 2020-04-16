@@ -24,9 +24,9 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 135383,
-        "casos_nuevos": 630,
-        "casos_activos": 54533,
+        "casos_total": 135549,
+        "casos_nuevos": 796,
+        "casos_activos": 54699,
         "casos_criticos": 4288,
         "fallecidos_total": 3850,
         "fallecidos_nuevos": 46,
@@ -134,13 +134,13 @@
     {
         "pais": "AT",
         "nombre": "Austria",
-        "casos_total": 14412,
-        "casos_nuevos": 62,
-        "casos_activos": 5921,
+        "casos_total": 14451,
+        "casos_nuevos": 101,
+        "casos_activos": 5072,
         "casos_criticos": 232,
         "fallecidos_total": 393,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 8098
+        "recuperados_total": 8986
     },
     {
         "pais": "AZ",
@@ -695,12 +695,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 644806,
-        "casos_nuevos": 717,
-        "casos_activos": 567524,
+        "casos_total": 644823,
+        "casos_nuevos": 734,
+        "casos_activos": 567533,
         "casos_criticos": 13487,
-        "fallecidos_total": 28572,
-        "fallecidos_nuevos": 43,
+        "fallecidos_total": 28580,
+        "fallecidos_nuevos": 51,
         "recuperados_total": 48710
     },
     {
@@ -1467,10 +1467,10 @@
         "nombre": "Moldavia",
         "casos_total": 2049,
         "casos_nuevos": 0,
-        "casos_activos": 1763,
+        "casos_activos": 1761,
         "casos_criticos": 80,
-        "fallecidos_total": 51,
-        "fallecidos_nuevos": 5,
+        "fallecidos_total": 53,
+        "fallecidos_nuevos": 7,
         "recuperados_total": 235
     },
     {
@@ -1993,13 +1993,13 @@
     {
         "pais": "SN",
         "nombre": "Senegal",
-        "casos_total": 314,
-        "casos_nuevos": 0,
-        "casos_activos": 122,
+        "casos_total": 335,
+        "casos_nuevos": 21,
+        "casos_activos": 139,
         "casos_criticos": 1,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 190
+        "recuperados_total": 194
     },
     {
         "pais": "RS",
@@ -2204,11 +2204,11 @@
         "nombre": "Togo",
         "casos_total": 81,
         "casos_nuevos": 0,
-        "casos_activos": 43,
+        "casos_activos": 31,
         "casos_criticos": 0,
-        "fallecidos_total": 3,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 35
+        "fallecidos_total": 5,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 45
     },
     {
         "pais": "TT",
