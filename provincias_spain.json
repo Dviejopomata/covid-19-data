@@ -1,13 +1,13 @@
 [
     {
         "nombre": "Afganistan",
-        "casos_total": 840,
-        "casos_nuevos": 0,
-        "casos_activos": 756,
+        "casos_total": 906,
+        "casos_nuevos": 66,
+        "casos_activos": 777,
         "casos_criticos": 0,
         "fallecidos_total": 30,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 54
+        "recuperados_total": 99
     },
     {
         "nombre": "Albania",
@@ -91,13 +91,13 @@
     },
     {
         "nombre": "Armenia",
-        "casos_total": 1159,
-        "casos_nuevos": 0,
-        "casos_activos": 783,
+        "casos_total": 1201,
+        "casos_nuevos": 42,
+        "casos_activos": 780,
         "casos_criticos": 30,
-        "fallecidos_total": 18,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 358
+        "fallecidos_total": 19,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 402
     },
     {
         "nombre": "Aruba",
@@ -983,11 +983,11 @@
         "nombre": "Islas Feroe",
         "casos_total": 184,
         "casos_nuevos": 0,
-        "casos_activos": 15,
+        "casos_activos": 13,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 169
+        "recuperados_total": 171
     },
     {
         "nombre": "Islas Malvinas",
@@ -1131,10 +1131,10 @@
     },
     {
         "nombre": "Letonia",
-        "casos_total": 675,
-        "casos_nuevos": 0,
-        "casos_activos": 613,
-        "casos_criticos": 3,
+        "casos_total": 682,
+        "casos_nuevos": 7,
+        "casos_activos": 620,
+        "casos_criticos": 5,
         "fallecidos_total": 5,
         "fallecidos_nuevos": 0,
         "recuperados_total": 57
@@ -1553,11 +1553,11 @@
         "nombre": "Polonia",
         "casos_total": 7918,
         "casos_nuevos": 0,
-        "casos_activos": 6830,
+        "casos_activos": 6738,
         "casos_criticos": 160,
         "fallecidos_total": 314,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 774
+        "recuperados_total": 866
     },
     {
         "nombre": "Portugal",
@@ -1833,11 +1833,11 @@
         "nombre": "Seychelles",
         "casos_total": 11,
         "casos_nuevos": 0,
-        "casos_activos": 11,
+        "casos_activos": 6,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 0
+        "recuperados_total": 5
     },
     {
         "nombre": "Sierra Leona",
