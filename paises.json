@@ -123,9 +123,9 @@
     {
         "pais": "AU",
         "nombre": "Australia",
-        "casos_total": 6468,
-        "casos_nuevos": 0,
-        "casos_activos": 2658,
+        "casos_total": 6497,
+        "casos_nuevos": 29,
+        "casos_activos": 2687,
         "casos_criticos": 66,
         "fallecidos_total": 63,
         "fallecidos_nuevos": 0,
@@ -332,13 +332,13 @@
     {
         "pais": "BG",
         "nombre": "Bulgaria",
-        "casos_total": 800,
-        "casos_nuevos": 0,
-        "casos_activos": 640,
+        "casos_total": 825,
+        "casos_nuevos": 25,
+        "casos_activos": 644,
         "casos_criticos": 37,
-        "fallecidos_total": 38,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 122
+        "fallecidos_total": 40,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 141
     },
     {
         "pais": "BF",
@@ -543,9 +543,9 @@
         "nombre": "Crucero",
         "casos_total": 712,
         "casos_nuevos": 0,
-        "casos_activos": 56,
+        "casos_activos": 55,
         "casos_criticos": 7,
-        "fallecidos_total": 12,
+        "fallecidos_total": 13,
         "fallecidos_nuevos": 0,
         "recuperados_total": 644
     },
@@ -695,9 +695,9 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 678144,
-        "casos_nuevos": 574,
-        "casos_activos": 585659,
+        "casos_total": 678210,
+        "casos_nuevos": 640,
+        "casos_activos": 585725,
         "casos_criticos": 13369,
         "fallecidos_total": 34641,
         "fallecidos_nuevos": 24,
@@ -981,24 +981,24 @@
     {
         "pais": "HU",
         "nombre": "Hungria",
-        "casos_total": 1652,
-        "casos_nuevos": 0,
-        "casos_activos": 1311,
-        "casos_criticos": 60,
-        "fallecidos_total": 142,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 199
+        "casos_total": 1763,
+        "casos_nuevos": 111,
+        "casos_activos": 1400,
+        "casos_criticos": 63,
+        "fallecidos_total": 156,
+        "fallecidos_nuevos": 14,
+        "recuperados_total": 207
     },
     {
         "pais": "IN",
         "nombre": "India",
-        "casos_total": 13430,
-        "casos_nuevos": 0,
-        "casos_activos": 11214,
+        "casos_total": 13495,
+        "casos_nuevos": 65,
+        "casos_activos": 11270,
         "casos_criticos": 0,
         "fallecidos_total": 448,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1768
+        "recuperados_total": 1777
     },
     {
         "pais": "ID",
