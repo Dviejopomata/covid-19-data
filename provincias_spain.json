@@ -23,10 +23,10 @@
         "nombre": "Alemania",
         "casos_total": 138273,
         "casos_nuevos": 575,
-        "casos_activos": 52372,
+        "casos_activos": 52368,
         "casos_criticos": 4288,
-        "fallecidos_total": 4101,
-        "fallecidos_nuevos": 49,
+        "fallecidos_total": 4105,
+        "fallecidos_nuevos": 53,
         "recuperados_total": 81800
     },
     {
@@ -61,13 +61,13 @@
     },
     {
         "nombre": "Arabia Saudita",
-        "casos_total": 6380,
-        "casos_nuevos": 0,
-        "casos_activos": 5307,
+        "casos_total": 7142,
+        "casos_nuevos": 762,
+        "casos_activos": 6006,
         "casos_criticos": 71,
-        "fallecidos_total": 83,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 990
+        "fallecidos_total": 87,
+        "fallecidos_nuevos": 4,
+        "recuperados_total": 1049
     },
     {
         "nombre": "Argelia",
@@ -901,12 +901,12 @@
     },
     {
         "nombre": "India",
-        "casos_total": 13495,
-        "casos_nuevos": 65,
-        "casos_activos": 11270,
+        "casos_total": 13835,
+        "casos_nuevos": 405,
+        "casos_activos": 11606,
         "casos_criticos": 0,
-        "fallecidos_total": 448,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 452,
+        "fallecidos_nuevos": 4,
         "recuperados_total": 1777
     },
     {
@@ -1053,11 +1053,11 @@
         "nombre": "Jamaica",
         "casos_total": 143,
         "casos_nuevos": 0,
-        "casos_activos": 117,
+        "casos_activos": 113,
         "casos_criticos": 0,
         "fallecidos_total": 5,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 21
+        "recuperados_total": 25
     },
     {
         "nombre": "Japon",
@@ -1081,9 +1081,9 @@
     },
     {
         "nombre": "Kazajistan",
-        "casos_total": 1480,
-        "casos_nuevos": 78,
-        "casos_activos": 1157,
+        "casos_total": 1498,
+        "casos_nuevos": 96,
+        "casos_activos": 1175,
         "casos_criticos": 22,
         "fallecidos_total": 17,
         "fallecidos_nuevos": 0,
@@ -1151,13 +1151,13 @@
     },
     {
         "nombre": "Liberia",
-        "casos_total": 73,
-        "casos_nuevos": 14,
-        "casos_activos": 63,
+        "casos_total": 76,
+        "casos_nuevos": 17,
+        "casos_activos": 62,
         "casos_criticos": 0,
-        "fallecidos_total": 6,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 4
+        "fallecidos_total": 7,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 7
     },
     {
         "nombre": "Libia",
@@ -1481,12 +1481,12 @@
     },
     {
         "nombre": "Paises Bajos",
-        "casos_total": 29214,
-        "casos_nuevos": 0,
-        "casos_activos": 25649,
+        "casos_total": 30449,
+        "casos_nuevos": 1235,
+        "casos_activos": 26740,
         "casos_criticos": 1279,
-        "fallecidos_total": 3315,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 3459,
+        "fallecidos_nuevos": 144,
         "recuperados_total": 250
     },
     {
@@ -1571,13 +1571,13 @@
     },
     {
         "nombre": "Principado de Andorra",
-        "casos_total": 682,
-        "casos_nuevos": 9,
-        "casos_activos": 480,
+        "casos_total": 696,
+        "casos_nuevos": 23,
+        "casos_activos": 470,
         "casos_criticos": 17,
-        "fallecidos_total": 33,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 169
+        "fallecidos_total": 35,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 191
     },
     {
         "nombre": "Puerto Rico",
@@ -1881,13 +1881,13 @@
     },
     {
         "nombre": "Sri Lanka",
-        "casos_total": 241,
-        "casos_nuevos": 3,
-        "casos_activos": 164,
+        "casos_total": 242,
+        "casos_nuevos": 4,
+        "casos_activos": 158,
         "casos_criticos": 1,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 70
+        "recuperados_total": 77
     },
     {
         "nombre": "Suazilandia",
