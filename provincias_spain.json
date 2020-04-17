@@ -971,13 +971,13 @@
     },
     {
         "nombre": "Islas Caimanes",
-        "casos_total": 60,
-        "casos_nuevos": 0,
+        "casos_total": 61,
+        "casos_nuevos": 1,
         "casos_activos": 53,
         "casos_criticos": 3,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 6
+        "recuperados_total": 7
     },
     {
         "nombre": "Islas Feroe",
@@ -1321,12 +1321,12 @@
     },
     {
         "nombre": "Mexico",
-        "casos_total": 5847,
-        "casos_nuevos": 0,
-        "casos_activos": 3273,
+        "casos_total": 6297,
+        "casos_nuevos": 450,
+        "casos_activos": 3686,
         "casos_criticos": 207,
-        "fallecidos_total": 449,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 486,
+        "fallecidos_nuevos": 37,
         "recuperados_total": 2125
     },
     {
@@ -1421,13 +1421,13 @@
     },
     {
         "nombre": "Niger",
-        "casos_total": 584,
-        "casos_nuevos": 0,
-        "casos_activos": 480,
+        "casos_total": 609,
+        "casos_nuevos": 25,
+        "casos_activos": 489,
         "casos_criticos": 0,
-        "fallecidos_total": 14,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 90
+        "fallecidos_total": 15,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 105
     },
     {
         "nombre": "Nigeria",
@@ -1461,13 +1461,13 @@
     },
     {
         "nombre": "Nueva Zelanda",
-        "casos_total": 1401,
-        "casos_nuevos": 0,
-        "casos_activos": 622,
-        "casos_criticos": 3,
-        "fallecidos_total": 9,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 770
+        "casos_total": 1409,
+        "casos_nuevos": 8,
+        "casos_activos": 582,
+        "casos_criticos": 2,
+        "fallecidos_total": 11,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 816
     },
     {
         "nombre": "Oman",
@@ -1501,13 +1501,13 @@
     },
     {
         "nombre": "Panama",
-        "casos_total": 3751,
-        "casos_nuevos": 0,
-        "casos_activos": 3573,
-        "casos_criticos": 106,
-        "fallecidos_total": 103,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 75
+        "casos_total": 4016,
+        "casos_nuevos": 265,
+        "casos_activos": 3809,
+        "casos_criticos": 99,
+        "fallecidos_total": 109,
+        "fallecidos_nuevos": 6,
+        "recuperados_total": 98
     },
     {
         "nombre": "Papua Nueva Guinea",
@@ -2121,12 +2121,12 @@
     },
     {
         "nombre": "Zimbabue",
-        "casos_total": 23,
-        "casos_nuevos": 0,
+        "casos_total": 24,
+        "casos_nuevos": 1,
         "casos_activos": 19,
         "casos_criticos": 0,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1
+        "recuperados_total": 2
     }
 ]
