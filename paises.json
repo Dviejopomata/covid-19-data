@@ -71,7 +71,7 @@
         "casos_total": 7142,
         "casos_nuevos": 762,
         "casos_activos": 6006,
-        "casos_criticos": 71,
+        "casos_criticos": 74,
         "fallecidos_total": 87,
         "fallecidos_nuevos": 4,
         "recuperados_total": 1049
@@ -134,9 +134,9 @@
     {
         "pais": "AT",
         "nombre": "Austria",
-        "casos_total": 14540,
-        "casos_nuevos": 64,
-        "casos_activos": 4426,
+        "casos_total": 14553,
+        "casos_nuevos": 77,
+        "casos_activos": 4439,
         "casos_criticos": 227,
         "fallecidos_total": 410,
         "fallecidos_nuevos": 0,
@@ -741,10 +741,10 @@
         "nombre": "Finlandia",
         "casos_total": 3489,
         "casos_nuevos": 120,
-        "casos_activos": 1714,
-        "casos_criticos": 76,
-        "fallecidos_total": 75,
-        "fallecidos_nuevos": 0,
+        "casos_activos": 1707,
+        "casos_criticos": 73,
+        "fallecidos_total": 82,
+        "fallecidos_nuevos": 7,
         "recuperados_total": 1700
     },
     {
@@ -1333,9 +1333,9 @@
     {
         "pais": "MG",
         "nombre": "Madagascar",
-        "casos_total": 111,
-        "casos_nuevos": 0,
-        "casos_activos": 78,
+        "casos_total": 117,
+        "casos_nuevos": 6,
+        "casos_activos": 84,
         "casos_criticos": 1,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1751,12 +1751,12 @@
     {
         "pais": "GB",
         "nombre": "Reino Unido",
-        "casos_total": 103093,
-        "casos_nuevos": 0,
-        "casos_activos": 89020,
+        "casos_total": 108692,
+        "casos_nuevos": 5599,
+        "casos_activos": 93772,
         "casos_criticos": 1559,
-        "fallecidos_total": 13729,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 14576,
+        "fallecidos_nuevos": 847,
         "recuperados_total": 0
     },
     {
@@ -1795,13 +1795,13 @@
     {
         "pais": "MK",
         "nombre": "Republica de Macedonia",
-        "casos_total": 1081,
-        "casos_nuevos": 0,
-        "casos_activos": 914,
+        "casos_total": 1117,
+        "casos_nuevos": 36,
+        "casos_activos": 929,
         "casos_criticos": 15,
-        "fallecidos_total": 46,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 121
+        "fallecidos_total": 49,
+        "fallecidos_nuevos": 3,
+        "recuperados_total": 139
     },
     {
         "pais": "DJ",
@@ -2138,10 +2138,10 @@
         "nombre": "Suiza",
         "casos_total": 27078,
         "casos_nuevos": 346,
-        "casos_activos": 9890,
+        "casos_activos": 9863,
         "casos_criticos": 386,
-        "fallecidos_total": 1288,
-        "fallecidos_nuevos": 7,
+        "fallecidos_total": 1315,
+        "fallecidos_nuevos": 34,
         "recuperados_total": 15900
     },
     {
