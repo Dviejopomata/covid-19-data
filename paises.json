@@ -90,12 +90,12 @@
     {
         "pais": "AR",
         "nombre": "Argentina",
-        "casos_total": 2571,
-        "casos_nuevos": 0,
-        "casos_activos": 1825,
+        "casos_total": 2669,
+        "casos_nuevos": 98,
+        "casos_activos": 1916,
         "casos_criticos": 121,
-        "fallecidos_total": 115,
-        "fallecidos_nuevos": 3,
+        "fallecidos_total": 122,
+        "fallecidos_nuevos": 10,
         "recuperados_total": 631
     },
     {
@@ -1168,13 +1168,13 @@
     {
         "pais": "JP",
         "nombre": "Japon",
-        "casos_total": 8626,
-        "casos_nuevos": 0,
-        "casos_activos": 7547,
-        "casos_criticos": 168,
-        "fallecidos_total": 178,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 901
+        "casos_total": 9231,
+        "casos_nuevos": 605,
+        "casos_activos": 8106,
+        "casos_criticos": 193,
+        "fallecidos_total": 190,
+        "fallecidos_nuevos": 12,
+        "recuperados_total": 935
     },
     {
         "pais": "JO",
@@ -1586,9 +1586,9 @@
     {
         "pais": "NO",
         "nombre": "Noruega",
-        "casos_total": 6896,
-        "casos_nuevos": 99,
-        "casos_activos": 6712,
+        "casos_total": 6905,
+        "casos_nuevos": 108,
+        "casos_activos": 6721,
         "casos_criticos": 64,
         "fallecidos_total": 152,
         "fallecidos_nuevos": 2,
