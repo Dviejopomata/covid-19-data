@@ -413,11 +413,11 @@
         "nombre": "China",
         "casos_total": 82719,
         "casos_nuevos": 27,
-        "casos_activos": 93,
+        "casos_activos": 1058,
         "casos_criticos": 85,
         "fallecidos_total": 4632,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 77994
+        "recuperados_total": 77029
     },
     {
         "nombre": "Colombia",
@@ -871,12 +871,12 @@
     },
     {
         "nombre": "Honduras",
-        "casos_total": 442,
-        "casos_nuevos": 0,
-        "casos_activos": 391,
+        "casos_total": 457,
+        "casos_nuevos": 15,
+        "casos_activos": 401,
         "casos_criticos": 10,
-        "fallecidos_total": 41,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 46,
+        "fallecidos_nuevos": 5,
         "recuperados_total": 10
     },
     {
@@ -2051,9 +2051,9 @@
     },
     {
         "nombre": "Uganda",
-        "casos_total": 56,
+        "casos_total": 55,
         "casos_nuevos": 0,
-        "casos_activos": 36,
+        "casos_activos": 35,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
