@@ -191,11 +191,11 @@
         "nombre": "Barein",
         "casos_total": 1773,
         "casos_nuevos": 33,
-        "casos_activos": 1025,
+        "casos_activos": 1011,
         "casos_criticos": 3,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 741
+        "recuperados_total": 755
     },
     {
         "pais": "BE",
@@ -310,12 +310,12 @@
     {
         "pais": "BR",
         "nombre": "Brasil",
-        "casos_total": 35025,
-        "casos_nuevos": 1343,
-        "casos_activos": 18796,
+        "casos_total": 36599,
+        "casos_nuevos": 2917,
+        "casos_activos": 20226,
         "casos_criticos": 6634,
-        "fallecidos_total": 2203,
-        "fallecidos_nuevos": 62,
+        "fallecidos_total": 2347,
+        "fallecidos_nuevos": 206,
         "recuperados_total": 14026
     },
     {
@@ -642,11 +642,11 @@
         "nombre": "Eritrea",
         "casos_total": 39,
         "casos_nuevos": 4,
-        "casos_activos": 39,
+        "casos_activos": 36,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 0
+        "recuperados_total": 3
     },
     {
         "pais": "SK",
@@ -794,13 +794,13 @@
     {
         "pais": "GE",
         "nombre": "Georgia",
-        "casos_total": 385,
-        "casos_nuevos": 15,
+        "casos_total": 388,
+        "casos_nuevos": 18,
         "casos_activos": 298,
         "casos_criticos": 6,
-        "fallecidos_total": 3,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 84
+        "fallecidos_total": 4,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 86
     },
     {
         "pais": "GH",
@@ -1588,10 +1588,10 @@
         "nombre": "Noruega",
         "casos_total": 7036,
         "casos_nuevos": 99,
-        "casos_activos": 6841,
+        "casos_activos": 6840,
         "casos_criticos": 63,
-        "fallecidos_total": 163,
-        "fallecidos_nuevos": 2,
+        "fallecidos_total": 164,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 32
     },
     {
@@ -2092,9 +2092,9 @@
     {
         "pais": "ZA",
         "nombre": "Sudafrica",
-        "casos_total": 2783,
-        "casos_nuevos": 0,
-        "casos_activos": 1830,
+        "casos_total": 3034,
+        "casos_nuevos": 251,
+        "casos_activos": 2081,
         "casos_criticos": 7,
         "fallecidos_total": 50,
         "fallecidos_nuevos": 0,
@@ -2138,10 +2138,10 @@
         "nombre": "Suiza",
         "casos_total": 27404,
         "casos_nuevos": 326,
-        "casos_activos": 8938,
+        "casos_activos": 8936,
         "casos_criticos": 386,
-        "fallecidos_total": 1366,
-        "fallecidos_nuevos": 39,
+        "fallecidos_total": 1368,
+        "fallecidos_nuevos": 41,
         "recuperados_total": 17100
     },
     {
