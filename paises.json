@@ -24,12 +24,12 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 141397,
-        "casos_nuevos": 0,
-        "casos_activos": 51645,
+        "casos_total": 141483,
+        "casos_nuevos": 86,
+        "casos_activos": 51721,
         "casos_criticos": 5013,
-        "fallecidos_total": 4352,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 4362,
+        "fallecidos_nuevos": 10,
         "recuperados_total": 85400
     },
     {
@@ -68,13 +68,13 @@
     {
         "pais": "SA",
         "nombre": "Arabia Saudita",
-        "casos_total": 7142,
-        "casos_nuevos": 0,
-        "casos_activos": 6006,
+        "casos_total": 8274,
+        "casos_nuevos": 1132,
+        "casos_activos": 6853,
         "casos_criticos": 74,
-        "fallecidos_total": 87,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1049
+        "fallecidos_total": 92,
+        "fallecidos_nuevos": 5,
+        "recuperados_total": 1329
     },
     {
         "pais": "DZ",
@@ -992,9 +992,9 @@
     {
         "pais": "IN",
         "nombre": "India",
-        "casos_total": 14425,
-        "casos_nuevos": 73,
-        "casos_activos": 11892,
+        "casos_total": 14792,
+        "casos_nuevos": 440,
+        "casos_activos": 12259,
         "casos_criticos": 0,
         "fallecidos_total": 488,
         "fallecidos_nuevos": 2,
@@ -1190,13 +1190,13 @@
     {
         "pais": "KZ",
         "nombre": "Kazajistan",
-        "casos_total": 1591,
-        "casos_nuevos": 45,
-        "casos_activos": 1227,
+        "casos_total": 1615,
+        "casos_nuevos": 69,
+        "casos_activos": 1221,
         "casos_criticos": 22,
         "fallecidos_total": 17,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 347
+        "recuperados_total": 377
     },
     {
         "pais": "KE",
@@ -1641,9 +1641,9 @@
     {
         "pais": "PK",
         "nombre": "Pakistan",
-        "casos_total": 7481,
-        "casos_nuevos": 456,
-        "casos_activos": 5506,
+        "casos_total": 7638,
+        "casos_nuevos": 613,
+        "casos_activos": 5663,
         "casos_criticos": 46,
         "fallecidos_total": 143,
         "fallecidos_nuevos": 8,
