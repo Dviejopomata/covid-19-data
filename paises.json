@@ -13,13 +13,13 @@
     {
         "pais": "AL",
         "nombre": "Albania",
-        "casos_total": 539,
-        "casos_nuevos": 0,
-        "casos_activos": 230,
+        "casos_total": 548,
+        "casos_nuevos": 9,
+        "casos_activos": 220,
         "casos_criticos": 5,
         "fallecidos_total": 26,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 283
+        "recuperados_total": 302
     },
     {
         "pais": "DE",
@@ -742,7 +742,7 @@
         "casos_total": 3681,
         "casos_nuevos": 192,
         "casos_activos": 1891,
-        "casos_criticos": 73,
+        "casos_criticos": 70,
         "fallecidos_total": 90,
         "fallecidos_nuevos": 8,
         "recuperados_total": 1700
@@ -1388,13 +1388,13 @@
     {
         "pais": "MT",
         "nombre": "Malta",
-        "casos_total": 422,
-        "casos_nuevos": 0,
-        "casos_activos": 328,
+        "casos_total": 426,
+        "casos_nuevos": 4,
+        "casos_activos": 324,
         "casos_criticos": 4,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 91
+        "recuperados_total": 99
     },
     {
         "pais": "MA",
@@ -1993,13 +1993,13 @@
     {
         "pais": "SN",
         "nombre": "Senegal",
-        "casos_total": 342,
-        "casos_nuevos": 0,
-        "casos_activos": 142,
+        "casos_total": 350,
+        "casos_nuevos": 8,
+        "casos_activos": 136,
         "casos_criticos": 1,
-        "fallecidos_total": 2,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 198
+        "fallecidos_total": 3,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 211
     },
     {
         "pais": "RS",
@@ -2227,7 +2227,7 @@
         "casos_total": 864,
         "casos_nuevos": 0,
         "casos_activos": 784,
-        "casos_criticos": 89,
+        "casos_criticos": 33,
         "fallecidos_total": 37,
         "fallecidos_nuevos": 0,
         "recuperados_total": 43
