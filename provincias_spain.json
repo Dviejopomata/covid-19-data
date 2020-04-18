@@ -104,20 +104,20 @@
         "casos_total": 96,
         "casos_nuevos": 0,
         "casos_activos": 50,
-        "casos_criticos": 1,
+        "casos_criticos": 4,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
         "recuperados_total": 44
     },
     {
         "nombre": "Australia",
-        "casos_total": 6565,
-        "casos_nuevos": 32,
-        "casos_activos": 2333,
+        "casos_total": 6577,
+        "casos_nuevos": 44,
+        "casos_activos": 2340,
         "casos_criticos": 55,
-        "fallecidos_total": 69,
-        "fallecidos_nuevos": 4,
-        "recuperados_total": 4163
+        "fallecidos_total": 70,
+        "fallecidos_nuevos": 5,
+        "recuperados_total": 4167
     },
     {
         "nombre": "Austria",
@@ -371,13 +371,13 @@
     },
     {
         "nombre": "Canada",
-        "casos_total": 33218,
-        "casos_nuevos": 1291,
-        "casos_activos": 20581,
+        "casos_total": 33383,
+        "casos_nuevos": 1456,
+        "casos_activos": 20706,
         "casos_criticos": 557,
-        "fallecidos_total": 1469,
-        "fallecidos_nuevos": 159,
-        "recuperados_total": 11168
+        "fallecidos_total": 1470,
+        "fallecidos_nuevos": 160,
+        "recuperados_total": 11207
     },
     {
         "nombre": "Catar",
@@ -631,12 +631,12 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 736790,
-        "casos_nuevos": 27055,
-        "casos_activos": 630432,
+        "casos_total": 737217,
+        "casos_nuevos": 27482,
+        "casos_activos": 630847,
         "casos_criticos": 13536,
-        "fallecidos_total": 38920,
-        "fallecidos_nuevos": 1766,
+        "fallecidos_total": 38932,
+        "fallecidos_nuevos": 1778,
         "recuperados_total": 67438
     },
     {
