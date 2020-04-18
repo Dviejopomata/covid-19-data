@@ -125,11 +125,11 @@
         "nombre": "Australia",
         "casos_total": 6560,
         "casos_nuevos": 27,
-        "casos_activos": 2672,
+        "casos_activos": 2361,
         "casos_criticos": 57,
         "fallecidos_total": 67,
         "fallecidos_nuevos": 2,
-        "recuperados_total": 3821
+        "recuperados_total": 4132
     },
     {
         "pais": "AT",
@@ -497,13 +497,13 @@
     {
         "pais": "KR",
         "nombre": "Corea del Sur",
-        "casos_total": 10635,
-        "casos_nuevos": 0,
-        "casos_activos": 2576,
+        "casos_total": 10653,
+        "casos_nuevos": 18,
+        "casos_activos": 2484,
         "casos_criticos": 55,
-        "fallecidos_total": 230,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 7829
+        "fallecidos_total": 232,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 7937
     },
     {
         "pais": "CR",
@@ -1608,13 +1608,13 @@
     {
         "pais": "NZ",
         "nombre": "Nueva Zelanda",
-        "casos_total": 1409,
-        "casos_nuevos": 0,
-        "casos_activos": 582,
-        "casos_criticos": 2,
+        "casos_total": 1422,
+        "casos_nuevos": 13,
+        "casos_activos": 544,
+        "casos_criticos": 3,
         "fallecidos_total": 11,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 816
+        "recuperados_total": 867
     },
     {
         "pais": "OM",
@@ -1652,13 +1652,13 @@
     {
         "pais": "PA",
         "nombre": "Panama",
-        "casos_total": 4016,
-        "casos_nuevos": 0,
-        "casos_activos": 3809,
-        "casos_criticos": 99,
-        "fallecidos_total": 109,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 98
+        "casos_total": 4210,
+        "casos_nuevos": 194,
+        "casos_activos": 3972,
+        "casos_criticos": 96,
+        "fallecidos_total": 116,
+        "fallecidos_nuevos": 7,
+        "recuperados_total": 122
     },
     {
         "pais": "PG",
@@ -1674,13 +1674,13 @@
     {
         "pais": "PY",
         "nombre": "Paraguay",
-        "casos_total": 199,
-        "casos_nuevos": 0,
-        "casos_activos": 161,
+        "casos_total": 202,
+        "casos_nuevos": 3,
+        "casos_activos": 159,
         "casos_criticos": 1,
         "fallecidos_total": 8,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 30
+        "recuperados_total": 35
     },
     {
         "pais": "PE",
@@ -2128,7 +2128,7 @@
         "casos_total": 13216,
         "casos_nuevos": 0,
         "casos_activos": 11266,
-        "casos_criticos": 482,
+        "casos_criticos": 523,
         "fallecidos_total": 1400,
         "fallecidos_nuevos": 0,
         "recuperados_total": 550
@@ -2290,9 +2290,9 @@
     {
         "pais": "VE",
         "nombre": "Venezuela",
-        "casos_total": 204,
-        "casos_nuevos": 0,
-        "casos_activos": 84,
+        "casos_total": 227,
+        "casos_nuevos": 23,
+        "casos_activos": 107,
         "casos_criticos": 4,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
