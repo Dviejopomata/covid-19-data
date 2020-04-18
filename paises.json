@@ -24,12 +24,12 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 142872,
-        "casos_nuevos": 1475,
-        "casos_activos": 53046,
+        "casos_total": 143160,
+        "casos_nuevos": 1763,
+        "casos_activos": 53309,
         "casos_criticos": 2922,
-        "fallecidos_total": 4426,
-        "fallecidos_nuevos": 74,
+        "fallecidos_total": 4451,
+        "fallecidos_nuevos": 99,
         "recuperados_total": 85400
     },
     {
@@ -409,13 +409,13 @@
     {
         "pais": "CA",
         "nombre": "Canada",
-        "casos_total": 33180,
-        "casos_nuevos": 1253,
-        "casos_activos": 20573,
+        "casos_total": 33218,
+        "casos_nuevos": 1291,
+        "casos_activos": 20581,
         "casos_criticos": 557,
-        "fallecidos_total": 1466,
-        "fallecidos_nuevos": 156,
-        "recuperados_total": 11141
+        "fallecidos_total": 1469,
+        "fallecidos_nuevos": 159,
+        "recuperados_total": 11168
     },
     {
         "pais": "QA",
@@ -695,13 +695,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 728293,
-        "casos_nuevos": 18558,
-        "casos_activos": 626094,
+        "casos_total": 734525,
+        "casos_nuevos": 24790,
+        "casos_activos": 629008,
         "casos_criticos": 13544,
-        "fallecidos_total": 38244,
-        "fallecidos_nuevos": 1090,
-        "recuperados_total": 63955
+        "fallecidos_total": 38768,
+        "fallecidos_nuevos": 1614,
+        "recuperados_total": 66749
     },
     {
         "pais": "EE",
@@ -992,13 +992,13 @@
     {
         "pais": "IN",
         "nombre": "India",
-        "casos_total": 14792,
-        "casos_nuevos": 440,
-        "casos_activos": 12259,
+        "casos_total": 15722,
+        "casos_nuevos": 1370,
+        "casos_activos": 12738,
         "casos_criticos": 0,
-        "fallecidos_total": 488,
-        "fallecidos_nuevos": 2,
-        "recuperados_total": 2045
+        "fallecidos_total": 521,
+        "fallecidos_nuevos": 35,
+        "recuperados_total": 2463
     },
     {
         "pais": "ID",
@@ -2094,10 +2094,10 @@
         "nombre": "Sudafrica",
         "casos_total": 3034,
         "casos_nuevos": 251,
-        "casos_activos": 2081,
+        "casos_activos": 2079,
         "casos_criticos": 7,
-        "fallecidos_total": 50,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 52,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 903
     },
     {
