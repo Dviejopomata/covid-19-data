@@ -24,12 +24,12 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 143160,
-        "casos_nuevos": 1763,
-        "casos_activos": 53309,
+        "casos_total": 143172,
+        "casos_nuevos": 1775,
+        "casos_activos": 53320,
         "casos_criticos": 2922,
-        "fallecidos_total": 4451,
-        "fallecidos_nuevos": 99,
+        "fallecidos_total": 4452,
+        "fallecidos_nuevos": 100,
         "recuperados_total": 85400
     },
     {
@@ -180,11 +180,11 @@
         "nombre": "Barbados",
         "casos_total": 75,
         "casos_nuevos": 0,
-        "casos_activos": 55,
+        "casos_activos": 53,
         "casos_criticos": 4,
         "fallecidos_total": 5,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 15
+        "recuperados_total": 17
     },
     {
         "pais": "BH",
@@ -508,13 +508,13 @@
     {
         "pais": "CR",
         "nombre": "Costa Rica",
-        "casos_total": 649,
-        "casos_nuevos": 0,
-        "casos_activos": 557,
+        "casos_total": 655,
+        "casos_nuevos": 6,
+        "casos_activos": 554,
         "casos_criticos": 10,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 88
+        "recuperados_total": 97
     },
     {
         "pais": "CI",
@@ -695,13 +695,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 734525,
-        "casos_nuevos": 24790,
-        "casos_activos": 629008,
-        "casos_criticos": 13544,
-        "fallecidos_total": 38768,
-        "fallecidos_nuevos": 1614,
-        "recuperados_total": 66749
+        "casos_total": 734631,
+        "casos_nuevos": 24896,
+        "casos_activos": 628700,
+        "casos_criticos": 13536,
+        "fallecidos_total": 38773,
+        "fallecidos_nuevos": 1619,
+        "recuperados_total": 67158
     },
     {
         "pais": "EE",
@@ -1168,13 +1168,13 @@
     {
         "pais": "JP",
         "nombre": "Japon",
-        "casos_total": 9787,
-        "casos_nuevos": 0,
-        "casos_activos": 8662,
-        "casos_criticos": 193,
-        "fallecidos_total": 190,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 935
+        "casos_total": 10296,
+        "casos_nuevos": 509,
+        "casos_activos": 9005,
+        "casos_criticos": 221,
+        "fallecidos_total": 222,
+        "fallecidos_nuevos": 32,
+        "recuperados_total": 1069
     },
     {
         "pais": "JO",
@@ -1366,9 +1366,9 @@
     {
         "pais": "MV",
         "nombre": "Maldivas",
-        "casos_total": 34,
-        "casos_nuevos": 5,
-        "casos_activos": 18,
+        "casos_total": 35,
+        "casos_nuevos": 6,
+        "casos_activos": 19,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -2095,7 +2095,7 @@
         "casos_total": 3034,
         "casos_nuevos": 251,
         "casos_activos": 2079,
-        "casos_criticos": 7,
+        "casos_criticos": 36,
         "fallecidos_total": 52,
         "fallecidos_nuevos": 2,
         "recuperados_total": 903
