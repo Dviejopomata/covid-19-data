@@ -251,9 +251,9 @@
     },
     {
         "nombre": "Bonaire, San Eustaquio y Saba",
-        "casos_total": 3,
-        "casos_nuevos": 0,
-        "casos_activos": 3,
+        "casos_total": 5,
+        "casos_nuevos": 2,
+        "casos_activos": 5,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1013,10 +1013,10 @@
         "nombre": "Islas Virgenes Britanicas",
         "casos_total": 4,
         "casos_nuevos": 0,
-        "casos_activos": 2,
+        "casos_activos": 1,
         "casos_criticos": 0,
-        "fallecidos_total": 0,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 1,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 2
     },
     {
@@ -1183,10 +1183,10 @@
         "nombre": "Lituania",
         "casos_total": 1298,
         "casos_nuevos": 59,
-        "casos_activos": 1022,
+        "casos_activos": 1021,
         "casos_criticos": 14,
-        "fallecidos_total": 34,
-        "fallecidos_nuevos": 1,
+        "fallecidos_total": 35,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 242
     },
     {
@@ -1381,13 +1381,13 @@
     },
     {
         "nombre": "Mozambique",
-        "casos_total": 35,
-        "casos_nuevos": 0,
+        "casos_total": 39,
+        "casos_nuevos": 4,
         "casos_activos": 31,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 4
+        "recuperados_total": 8
     },
     {
         "nombre": "Namibia",
@@ -1881,9 +1881,9 @@
     },
     {
         "nombre": "Sri Lanka",
-        "casos_total": 256,
-        "casos_nuevos": 2,
-        "casos_activos": 158,
+        "casos_total": 269,
+        "casos_nuevos": 15,
+        "casos_activos": 171,
         "casos_criticos": 1,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
@@ -2073,11 +2073,11 @@
         "nombre": "Uzbekistan",
         "casos_total": 1495,
         "casos_nuevos": 5,
-        "casos_activos": 1276,
+        "casos_activos": 1265,
         "casos_criticos": 8,
         "fallecidos_total": 5,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 214
+        "recuperados_total": 225
     },
     {
         "nombre": "Venezuela",
