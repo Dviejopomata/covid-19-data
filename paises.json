@@ -71,7 +71,7 @@
         "casos_total": 9362,
         "casos_nuevos": 1088,
         "casos_activos": 7867,
-        "casos_criticos": 78,
+        "casos_criticos": 97,
         "fallecidos_total": 97,
         "fallecidos_nuevos": 5,
         "recuperados_total": 1398
@@ -255,13 +255,13 @@
     {
         "pais": "MM",
         "nombre": "Birmania",
-        "casos_total": 107,
-        "casos_nuevos": 9,
-        "casos_activos": 97,
+        "casos_total": 108,
+        "casos_nuevos": 10,
+        "casos_activos": 96,
         "casos_criticos": 0,
         "fallecidos_total": 5,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 5
+        "recuperados_total": 7
     },
     {
         "pais": "BO",
@@ -332,10 +332,10 @@
     {
         "pais": "BG",
         "nombre": "Bulgaria",
-        "casos_total": 884,
-        "casos_nuevos": 6,
-        "casos_activos": 681,
-        "casos_criticos": 35,
+        "casos_total": 894,
+        "casos_nuevos": 16,
+        "casos_activos": 691,
+        "casos_criticos": 36,
         "fallecidos_total": 42,
         "fallecidos_nuevos": 1,
         "recuperados_total": 161
@@ -1421,13 +1421,13 @@
     {
         "pais": "MU",
         "nombre": "Mauricio",
-        "casos_total": 325,
-        "casos_nuevos": 0,
-        "casos_activos": 136,
+        "casos_total": 328,
+        "casos_nuevos": 3,
+        "casos_activos": 111,
         "casos_criticos": 3,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 180
+        "recuperados_total": 208
     },
     {
         "pais": "MR",
@@ -2325,10 +2325,10 @@
         "nombre": "Zambia",
         "casos_total": 61,
         "casos_nuevos": 4,
-        "casos_activos": 26,
+        "casos_activos": 25,
         "casos_criticos": 1,
-        "fallecidos_total": 2,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 3,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 33
     },
     {
