@@ -353,11 +353,11 @@
         "nombre": "Camboya",
         "casos_total": 122,
         "casos_nuevos": 0,
-        "casos_activos": 19,
+        "casos_activos": 17,
         "casos_criticos": 1,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 103
+        "recuperados_total": 105
     },
     {
         "nombre": "Camerun",
@@ -661,13 +661,13 @@
     },
     {
         "nombre": "Filipinas",
-        "casos_total": 6087,
-        "casos_nuevos": 0,
-        "casos_activos": 5174,
+        "casos_total": 6259,
+        "casos_nuevos": 172,
+        "casos_activos": 5278,
         "casos_criticos": 1,
-        "fallecidos_total": 397,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 516
+        "fallecidos_total": 409,
+        "fallecidos_nuevos": 12,
+        "recuperados_total": 572
     },
     {
         "nombre": "Finlandia",
@@ -721,9 +721,9 @@
     },
     {
         "nombre": "Georgia",
-        "casos_total": 388,
-        "casos_nuevos": 0,
-        "casos_activos": 298,
+        "casos_total": 394,
+        "casos_nuevos": 6,
+        "casos_activos": 304,
         "casos_criticos": 6,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
@@ -1551,12 +1551,12 @@
     },
     {
         "nombre": "Polonia",
-        "casos_total": 8742,
-        "casos_nuevos": 0,
-        "casos_activos": 7355,
+        "casos_total": 9082,
+        "casos_nuevos": 340,
+        "casos_activos": 7692,
         "casos_criticos": 160,
-        "fallecidos_total": 347,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 350,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 1040
     },
     {
@@ -1683,21 +1683,21 @@
         "nombre": "Rumania",
         "casos_total": 8418,
         "casos_nuevos": 0,
-        "casos_activos": 6267,
+        "casos_activos": 6254,
         "casos_criticos": 248,
-        "fallecidos_total": 421,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 434,
+        "fallecidos_nuevos": 13,
         "recuperados_total": 1730
     },
     {
         "nombre": "Rusia",
-        "casos_total": 36793,
-        "casos_nuevos": 0,
-        "casos_activos": 33423,
+        "casos_total": 42853,
+        "casos_nuevos": 6060,
+        "casos_activos": 39201,
         "casos_criticos": 8,
-        "fallecidos_total": 313,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 3057
+        "fallecidos_total": 361,
+        "fallecidos_nuevos": 48,
+        "recuperados_total": 3291
     },
     {
         "nombre": "Sahara Occidental",
