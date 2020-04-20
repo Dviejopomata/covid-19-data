@@ -24,9 +24,9 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 146398,
-        "casos_nuevos": 656,
-        "casos_activos": 50192,
+        "casos_total": 146653,
+        "casos_nuevos": 911,
+        "casos_activos": 50447,
         "casos_criticos": 2889,
         "fallecidos_total": 4706,
         "fallecidos_nuevos": 64,
@@ -310,12 +310,12 @@
     {
         "pais": "BR",
         "nombre": "Brasil",
-        "casos_total": 39681,
-        "casos_nuevos": 1027,
-        "casos_activos": 15039,
+        "casos_total": 40581,
+        "casos_nuevos": 1927,
+        "casos_activos": 15606,
         "casos_criticos": 7919,
-        "fallecidos_total": 2512,
-        "fallecidos_nuevos": 50,
+        "fallecidos_total": 2845,
+        "fallecidos_nuevos": 383,
         "recuperados_total": 22130
     },
     {
@@ -695,12 +695,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 784201,
-        "casos_nuevos": 19565,
-        "casos_activos": 670594,
+        "casos_total": 784560,
+        "casos_nuevos": 19924,
+        "casos_activos": 670946,
         "casos_criticos": 13634,
-        "fallecidos_total": 41837,
-        "fallecidos_nuevos": 1262,
+        "fallecidos_total": 41844,
+        "fallecidos_nuevos": 1269,
         "recuperados_total": 71770
     },
     {
@@ -1366,9 +1366,9 @@
     {
         "pais": "MV",
         "nombre": "Maldivas",
-        "casos_total": 67,
-        "casos_nuevos": 15,
-        "casos_activos": 51,
+        "casos_total": 69,
+        "casos_nuevos": 17,
+        "casos_activos": 53,
         "casos_criticos": 1,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1731,10 +1731,10 @@
         "nombre": "Principado de Andorra",
         "casos_total": 717,
         "casos_nuevos": 4,
-        "casos_activos": 433,
+        "casos_activos": 432,
         "casos_criticos": 17,
-        "fallecidos_total": 36,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 37,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 248
     },
     {
@@ -2224,10 +2224,10 @@
     {
         "pais": "TN",
         "nombre": "Tunez",
-        "casos_total": 879,
-        "casos_nuevos": 0,
-        "casos_activos": 693,
-        "casos_criticos": 33,
+        "casos_total": 884,
+        "casos_nuevos": 5,
+        "casos_activos": 698,
+        "casos_criticos": 34,
         "fallecidos_total": 38,
         "fallecidos_nuevos": 0,
         "recuperados_total": 148
