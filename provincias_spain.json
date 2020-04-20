@@ -91,13 +91,13 @@
     },
     {
         "nombre": "Armenia",
-        "casos_total": 1291,
-        "casos_nuevos": 0,
-        "casos_activos": 726,
+        "casos_total": 1339,
+        "casos_nuevos": 48,
+        "casos_activos": 737,
         "casos_criticos": 30,
-        "fallecidos_total": 20,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 545
+        "fallecidos_total": 22,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 580
     },
     {
         "nombre": "Aruba",
@@ -111,13 +111,13 @@
     },
     {
         "nombre": "Australia",
-        "casos_total": 6612,
-        "casos_nuevos": 0,
-        "casos_activos": 2311,
-        "casos_criticos": 48,
+        "casos_total": 6619,
+        "casos_nuevos": 7,
+        "casos_activos": 2290,
+        "casos_criticos": 49,
         "fallecidos_total": 71,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 4230
+        "recuperados_total": 4258
     },
     {
         "nombre": "Austria",
@@ -1553,11 +1553,11 @@
         "nombre": "Polonia",
         "casos_total": 9287,
         "casos_nuevos": 0,
-        "casos_activos": 7887,
+        "casos_activos": 7794,
         "casos_criticos": 160,
         "fallecidos_total": 360,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1040
+        "recuperados_total": 1133
     },
     {
         "nombre": "Portugal",
@@ -1851,9 +1851,9 @@
     },
     {
         "nombre": "Singapur",
-        "casos_total": 6588,
-        "casos_nuevos": 0,
-        "casos_activos": 5809,
+        "casos_total": 8014,
+        "casos_nuevos": 1426,
+        "casos_activos": 7235,
         "casos_criticos": 22,
         "fallecidos_total": 11,
         "fallecidos_nuevos": 0,
