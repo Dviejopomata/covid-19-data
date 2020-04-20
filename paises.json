@@ -24,12 +24,12 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 146777,
-        "casos_nuevos": 1035,
-        "casos_activos": 50475,
+        "casos_total": 147065,
+        "casos_nuevos": 1323,
+        "casos_activos": 50703,
         "casos_criticos": 2889,
-        "fallecidos_total": 4802,
-        "fallecidos_nuevos": 160,
+        "fallecidos_total": 4862,
+        "fallecidos_nuevos": 220,
         "recuperados_total": 91500
     },
     {
@@ -310,12 +310,12 @@
     {
         "pais": "BR",
         "nombre": "Brasil",
-        "casos_total": 40581,
-        "casos_nuevos": 1927,
-        "casos_activos": 15876,
+        "casos_total": 40743,
+        "casos_nuevos": 2089,
+        "casos_activos": 16026,
         "casos_criticos": 7919,
-        "fallecidos_total": 2575,
-        "fallecidos_nuevos": 113,
+        "fallecidos_total": 2587,
+        "fallecidos_nuevos": 125,
         "recuperados_total": 22130
     },
     {
@@ -695,13 +695,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 789383,
-        "casos_nuevos": 24747,
-        "casos_activos": 675248,
-        "casos_criticos": 13634,
-        "fallecidos_total": 42303,
-        "fallecidos_nuevos": 1728,
-        "recuperados_total": 71832
+        "casos_total": 791625,
+        "casos_nuevos": 26989,
+        "casos_activos": 677272,
+        "casos_criticos": 13908,
+        "fallecidos_total": 42458,
+        "fallecidos_nuevos": 1883,
+        "recuperados_total": 71895
     },
     {
         "pais": "EE",
@@ -772,10 +772,10 @@
     {
         "pais": "GA",
         "nombre": "Gabon",
-        "casos_total": 109,
-        "casos_nuevos": 0,
-        "casos_activos": 101,
-        "casos_criticos": 0,
+        "casos_total": 120,
+        "casos_nuevos": 11,
+        "casos_activos": 112,
+        "casos_criticos": 2,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
         "recuperados_total": 7
@@ -1157,9 +1157,9 @@
     {
         "pais": "JM",
         "nombre": "Jamaica",
-        "casos_total": 196,
-        "casos_nuevos": 23,
-        "casos_activos": 164,
+        "casos_total": 223,
+        "casos_nuevos": 50,
+        "casos_activos": 191,
         "casos_criticos": 0,
         "fallecidos_total": 5,
         "fallecidos_nuevos": 0,
@@ -1280,11 +1280,11 @@
         "nombre": "Libia",
         "casos_total": 51,
         "casos_nuevos": 0,
-        "casos_activos": 39,
+        "casos_activos": 35,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 11
+        "recuperados_total": 15
     },
     {
         "pais": "LI",
@@ -2103,9 +2103,9 @@
     {
         "pais": "SD",
         "nombre": "Sudan",
-        "casos_total": 92,
-        "casos_nuevos": 26,
-        "casos_activos": 72,
+        "casos_total": 107,
+        "casos_nuevos": 41,
+        "casos_activos": 87,
         "casos_criticos": 0,
         "fallecidos_total": 12,
         "fallecidos_nuevos": 2,
