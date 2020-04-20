@@ -4,11 +4,11 @@
         "nombre": "Afganistan",
         "casos_total": 1026,
         "casos_nuevos": 30,
-        "casos_activos": 862,
+        "casos_activos": 855,
         "casos_criticos": 7,
-        "fallecidos_total": 33,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 131
+        "fallecidos_total": 36,
+        "fallecidos_nuevos": 3,
+        "recuperados_total": 135
     },
     {
         "pais": "AL",
@@ -79,13 +79,13 @@
     {
         "pais": "DZ",
         "nombre": "Argelia",
-        "casos_total": 2629,
-        "casos_nuevos": 0,
-        "casos_activos": 1207,
+        "casos_total": 2718,
+        "casos_nuevos": 89,
+        "casos_activos": 1235,
         "casos_criticos": 40,
-        "fallecidos_total": 375,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1047
+        "fallecidos_total": 384,
+        "fallecidos_nuevos": 9,
+        "recuperados_total": 1099
     },
     {
         "pais": "AR",
@@ -310,12 +310,12 @@
     {
         "pais": "BR",
         "nombre": "Brasil",
-        "casos_total": 39144,
-        "casos_nuevos": 490,
-        "casos_activos": 14530,
+        "casos_total": 39384,
+        "casos_nuevos": 730,
+        "casos_activos": 14750,
         "casos_criticos": 7919,
-        "fallecidos_total": 2484,
-        "fallecidos_nuevos": 22,
+        "fallecidos_total": 2504,
+        "fallecidos_nuevos": 42,
         "recuperados_total": 22130
     },
     {
@@ -409,13 +409,13 @@
     {
         "pais": "CA",
         "nombre": "Canada",
-        "casos_total": 35662,
-        "casos_nuevos": 606,
-        "casos_activos": 21895,
+        "casos_total": 35708,
+        "casos_nuevos": 652,
+        "casos_activos": 21893,
         "casos_criticos": 557,
         "fallecidos_total": 1618,
         "fallecidos_nuevos": 31,
-        "recuperados_total": 12149
+        "recuperados_total": 12197
     },
     {
         "pais": "QA",
@@ -695,13 +695,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 767402,
-        "casos_nuevos": 2766,
-        "casos_activos": 654777,
+        "casos_total": 770076,
+        "casos_nuevos": 5440,
+        "casos_activos": 657271,
         "casos_criticos": 13566,
-        "fallecidos_total": 41229,
-        "fallecidos_nuevos": 654,
-        "recuperados_total": 71396
+        "fallecidos_total": 41316,
+        "fallecidos_nuevos": 741,
+        "recuperados_total": 71489
     },
     {
         "pais": "EE",
@@ -1060,10 +1060,10 @@
         "nombre": "Islandia",
         "casos_total": 1773,
         "casos_nuevos": 2,
-        "casos_activos": 402,
+        "casos_activos": 401,
         "casos_criticos": 4,
-        "fallecidos_total": 9,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 10,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 1362
     },
     {
@@ -1311,13 +1311,13 @@
     {
         "pais": "LU",
         "nombre": "Luxemburgo",
-        "casos_total": 3550,
-        "casos_nuevos": 0,
-        "casos_activos": 2850,
-        "casos_criticos": 31,
-        "fallecidos_total": 73,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 627
+        "casos_total": 3558,
+        "casos_nuevos": 8,
+        "casos_activos": 2846,
+        "casos_criticos": 32,
+        "fallecidos_total": 75,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 637
     },
     {
         "pais": "MO",
@@ -1864,7 +1864,7 @@
         "casos_total": 47121,
         "casos_nuevos": 4268,
         "casos_activos": 43270,
-        "casos_criticos": 8,
+        "casos_criticos": 700,
         "fallecidos_total": 405,
         "fallecidos_nuevos": 44,
         "recuperados_total": 3446
@@ -2138,10 +2138,10 @@
         "nombre": "Suiza",
         "casos_total": 27944,
         "casos_nuevos": 204,
-        "casos_activos": 8738,
+        "casos_activos": 8717,
         "casos_criticos": 386,
-        "fallecidos_total": 1406,
-        "fallecidos_nuevos": 13,
+        "fallecidos_total": 1427,
+        "fallecidos_nuevos": 34,
         "recuperados_total": 17800
     },
     {
