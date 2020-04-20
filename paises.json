@@ -409,12 +409,12 @@
     {
         "pais": "CA",
         "nombre": "Canada",
-        "casos_total": 35708,
-        "casos_nuevos": 652,
-        "casos_activos": 21893,
+        "casos_total": 36670,
+        "casos_nuevos": 1614,
+        "casos_activos": 22793,
         "casos_criticos": 557,
-        "fallecidos_total": 1618,
-        "fallecidos_nuevos": 31,
+        "fallecidos_total": 1680,
+        "fallecidos_nuevos": 93,
         "recuperados_total": 12197
     },
     {
@@ -695,13 +695,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 771214,
-        "casos_nuevos": 6578,
-        "casos_activos": 658369,
-        "casos_criticos": 13566,
-        "fallecidos_total": 41356,
-        "fallecidos_nuevos": 781,
-        "recuperados_total": 71489
+        "casos_total": 777854,
+        "casos_nuevos": 13218,
+        "casos_activos": 664687,
+        "casos_criticos": 13576,
+        "fallecidos_total": 41397,
+        "fallecidos_nuevos": 822,
+        "recuperados_total": 71770
     },
     {
         "pais": "EE",
@@ -895,10 +895,10 @@
         "nombre": "Guayana Francesa",
         "casos_total": 97,
         "casos_nuevos": 1,
-        "casos_activos": 28,
+        "casos_activos": 27,
         "casos_criticos": 2,
-        "fallecidos_total": 0,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 1,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 69
     },
     {
@@ -992,9 +992,9 @@
     {
         "pais": "IN",
         "nombre": "India",
-        "casos_total": 17615,
-        "casos_nuevos": 0,
-        "casos_activos": 14202,
+        "casos_total": 17655,
+        "casos_nuevos": 40,
+        "casos_activos": 14242,
         "casos_criticos": 0,
         "fallecidos_total": 559,
         "fallecidos_nuevos": 0,
@@ -1399,13 +1399,13 @@
     {
         "pais": "MA",
         "nombre": "Marruecos",
-        "casos_total": 2990,
-        "casos_nuevos": 135,
-        "casos_activos": 2507,
+        "casos_total": 3046,
+        "casos_nuevos": 191,
+        "casos_activos": 2553,
         "casos_criticos": 1,
         "fallecidos_total": 143,
         "fallecidos_nuevos": 2,
-        "recuperados_total": 340
+        "recuperados_total": 350
     },
     {
         "pais": "MQ",
@@ -1467,10 +1467,10 @@
         "nombre": "Moldavia",
         "casos_total": 2548,
         "casos_nuevos": 76,
-        "casos_activos": 2023,
+        "casos_activos": 2021,
         "casos_criticos": 212,
-        "fallecidos_total": 68,
-        "fallecidos_nuevos": 1,
+        "fallecidos_total": 70,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 457
     },
     {
@@ -1685,13 +1685,13 @@
     {
         "pais": "PE",
         "nombre": "Peru",
-        "casos_total": 15628,
-        "casos_nuevos": 0,
-        "casos_activos": 8417,
-        "casos_criticos": 167,
-        "fallecidos_total": 400,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 6811
+        "casos_total": 16325,
+        "casos_nuevos": 697,
+        "casos_activos": 8912,
+        "casos_criticos": 385,
+        "fallecidos_total": 445,
+        "fallecidos_nuevos": 45,
+        "recuperados_total": 6968
     },
     {
         "pais": "PF",
@@ -2039,11 +2039,11 @@
         "nombre": "Singapur",
         "casos_total": 8014,
         "casos_nuevos": 1426,
-        "casos_activos": 7235,
+        "casos_activos": 7202,
         "casos_criticos": 23,
         "fallecidos_total": 11,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 768
+        "recuperados_total": 801
     },
     {
         "pais": "SY",
@@ -2138,11 +2138,11 @@
         "nombre": "Suiza",
         "casos_total": 27944,
         "casos_nuevos": 204,
-        "casos_activos": 8717,
+        "casos_activos": 7915,
         "casos_criticos": 386,
-        "fallecidos_total": 1427,
-        "fallecidos_nuevos": 34,
-        "recuperados_total": 17800
+        "fallecidos_total": 1429,
+        "fallecidos_nuevos": 36,
+        "recuperados_total": 18600
     },
     {
         "pais": "SR",
