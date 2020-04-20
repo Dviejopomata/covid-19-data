@@ -607,13 +607,13 @@
     {
         "pais": "EG",
         "nombre": "Egipto",
-        "casos_total": 3144,
-        "casos_nuevos": 0,
-        "casos_activos": 2173,
+        "casos_total": 3333,
+        "casos_nuevos": 189,
+        "casos_activos": 2262,
         "casos_criticos": 0,
-        "fallecidos_total": 239,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 732
+        "fallecidos_total": 250,
+        "fallecidos_nuevos": 11,
+        "recuperados_total": 821
     },
     {
         "pais": "SV",
@@ -695,12 +695,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 770981,
-        "casos_nuevos": 6345,
-        "casos_activos": 658143,
+        "casos_total": 771197,
+        "casos_nuevos": 6561,
+        "casos_activos": 658352,
         "casos_criticos": 13566,
-        "fallecidos_total": 41349,
-        "fallecidos_nuevos": 774,
+        "fallecidos_total": 41356,
+        "fallecidos_nuevos": 781,
         "recuperados_total": 71489
     },
     {
@@ -1633,7 +1633,7 @@
         "casos_total": 33405,
         "casos_nuevos": 750,
         "casos_activos": 29404,
-        "casos_criticos": 1176,
+        "casos_criticos": 1158,
         "fallecidos_total": 3751,
         "fallecidos_nuevos": 67,
         "recuperados_total": 250
@@ -1962,11 +1962,11 @@
         "nombre": "Santa Lucia",
         "casos_total": 15,
         "casos_nuevos": 0,
-        "casos_activos": 4,
+        "casos_activos": 2,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 11
+        "recuperados_total": 13
     },
     {
         "pais": "VA",
@@ -2180,12 +2180,12 @@
     {
         "pais": "TZ",
         "nombre": "Tanzania",
-        "casos_total": 170,
-        "casos_nuevos": 0,
-        "casos_activos": 152,
+        "casos_total": 254,
+        "casos_nuevos": 84,
+        "casos_activos": 233,
         "casos_criticos": 4,
-        "fallecidos_total": 7,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 10,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 11
     },
     {
@@ -2204,11 +2204,11 @@
         "nombre": "Togo",
         "casos_total": 84,
         "casos_nuevos": 0,
-        "casos_activos": 27,
+        "casos_activos": 25,
         "casos_criticos": 0,
-        "fallecidos_total": 5,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 52
+        "fallecidos_total": 6,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 53
     },
     {
         "pais": "TT",
