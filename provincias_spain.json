@@ -681,13 +681,13 @@
     },
     {
         "nombre": "Fiyi",
-        "casos_total": 17,
-        "casos_nuevos": 0,
-        "casos_activos": 17,
+        "casos_total": 18,
+        "casos_nuevos": 1,
+        "casos_activos": 15,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 0
+        "recuperados_total": 3
     },
     {
         "nombre": "Francia",
@@ -1464,7 +1464,7 @@
         "casos_total": 1440,
         "casos_nuevos": 9,
         "casos_activos": 454,
-        "casos_criticos": 14,
+        "casos_criticos": 3,
         "fallecidos_total": 12,
         "fallecidos_nuevos": 0,
         "recuperados_total": 974
@@ -1881,9 +1881,9 @@
     },
     {
         "nombre": "Sri Lanka",
-        "casos_total": 271,
-        "casos_nuevos": 0,
-        "casos_activos": 168,
+        "casos_total": 295,
+        "casos_nuevos": 24,
+        "casos_activos": 192,
         "casos_criticos": 1,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
