@@ -475,9 +475,9 @@
     {
         "pais": "CG",
         "nombre": "Congo",
-        "casos_total": 160,
-        "casos_nuevos": 0,
-        "casos_activos": 138,
+        "casos_total": 165,
+        "casos_nuevos": 5,
+        "casos_activos": 143,
         "casos_criticos": 0,
         "fallecidos_total": 6,
         "fallecidos_nuevos": 0,
@@ -510,11 +510,11 @@
         "nombre": "Costa Rica",
         "casos_total": 669,
         "casos_nuevos": 7,
-        "casos_activos": 539,
+        "casos_activos": 513,
         "casos_criticos": 6,
         "fallecidos_total": 6,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 124
+        "recuperados_total": 150
     },
     {
         "pais": "CI",
@@ -695,12 +695,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 811478,
-        "casos_nuevos": 18719,
-        "casos_activos": 684106,
+        "casos_total": 813589,
+        "casos_nuevos": 20830,
+        "casos_activos": 685956,
         "casos_criticos": 14016,
-        "fallecidos_total": 44752,
-        "fallecidos_nuevos": 2238,
+        "fallecidos_total": 45013,
+        "fallecidos_nuevos": 2499,
         "recuperados_total": 82620
     },
     {
@@ -1564,13 +1564,13 @@
     {
         "pais": "NE",
         "nombre": "Niger",
-        "casos_total": 655,
-        "casos_nuevos": 7,
-        "casos_activos": 511,
+        "casos_total": 657,
+        "casos_nuevos": 9,
+        "casos_activos": 510,
         "casos_criticos": 0,
         "fallecidos_total": 20,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 124
+        "recuperados_total": 127
     },
     {
         "pais": "NG",
