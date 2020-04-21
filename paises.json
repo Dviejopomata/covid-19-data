@@ -26,10 +26,10 @@
         "nombre": "Alemania",
         "casos_total": 147593,
         "casos_nuevos": 528,
-        "casos_activos": 47531,
+        "casos_activos": 47524,
         "casos_criticos": 2889,
-        "fallecidos_total": 4862,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 4869,
+        "fallecidos_nuevos": 7,
         "recuperados_total": 95200
     },
     {
@@ -695,9 +695,9 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 794297,
-        "casos_nuevos": 1538,
-        "casos_activos": 679323,
+        "casos_total": 794322,
+        "casos_nuevos": 1563,
+        "casos_activos": 679348,
         "casos_criticos": 13951,
         "fallecidos_total": 42564,
         "fallecidos_nuevos": 50,
@@ -904,13 +904,13 @@
     {
         "pais": "GN",
         "nombre": "Guinea",
-        "casos_total": 622,
-        "casos_nuevos": 0,
-        "casos_activos": 495,
+        "casos_total": 688,
+        "casos_nuevos": 66,
+        "casos_activos": 555,
         "casos_criticos": 0,
-        "fallecidos_total": 5,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 122
+        "fallecidos_total": 6,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 127
     },
     {
         "pais": "GQ",
@@ -1190,12 +1190,12 @@
     {
         "pais": "KZ",
         "nombre": "Kazajistan",
-        "casos_total": 1967,
-        "casos_nuevos": 115,
-        "casos_activos": 1472,
+        "casos_total": 1977,
+        "casos_nuevos": 125,
+        "casos_activos": 1012,
         "casos_criticos": 22,
-        "fallecidos_total": 19,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 489,
+        "fallecidos_nuevos": 470,
         "recuperados_total": 476
     },
     {
@@ -2050,11 +2050,11 @@
         "nombre": "Siria",
         "casos_total": 39,
         "casos_nuevos": 0,
-        "casos_activos": 31,
+        "casos_activos": 30,
         "casos_criticos": 0,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 5
+        "recuperados_total": 6
     },
     {
         "pais": "SO",
@@ -2281,11 +2281,11 @@
         "nombre": "Uzbekistan",
         "casos_total": 1657,
         "casos_nuevos": 30,
-        "casos_activos": 1307,
+        "casos_activos": 1294,
         "casos_criticos": 8,
         "fallecidos_total": 6,
         "fallecidos_nuevos": 1,
-        "recuperados_total": 344
+        "recuperados_total": 357
     },
     {
         "pais": "VE",
