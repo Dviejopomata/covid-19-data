@@ -59,11 +59,11 @@
         "nombre": "Antigua y Barbuda",
         "casos_total": 23,
         "casos_nuevos": 0,
-        "casos_activos": 17,
+        "casos_activos": 13,
         "casos_criticos": 1,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 3
+        "recuperados_total": 7
     },
     {
         "pais": "SA",
@@ -400,11 +400,11 @@
         "nombre": "Camerun",
         "casos_total": 1163,
         "casos_nuevos": 0,
-        "casos_activos": 816,
+        "casos_activos": 791,
         "casos_criticos": 33,
-        "fallecidos_total": 42,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 305
+        "fallecidos_total": 43,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 329
     },
     {
         "pais": "CA",
@@ -1388,13 +1388,13 @@
     {
         "pais": "MT",
         "nombre": "Malta",
-        "casos_total": 431,
-        "casos_nuevos": 0,
-        "casos_activos": 302,
+        "casos_total": 443,
+        "casos_nuevos": 12,
+        "casos_activos": 290,
         "casos_criticos": 2,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 126
+        "recuperados_total": 150
     },
     {
         "pais": "MA",
