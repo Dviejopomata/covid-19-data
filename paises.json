@@ -114,11 +114,11 @@
         "nombre": "Aruba",
         "casos_total": 97,
         "casos_nuevos": 0,
-        "casos_activos": 46,
+        "casos_activos": 44,
         "casos_criticos": 4,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 49
+        "recuperados_total": 51
     },
     {
         "pais": "AU",
@@ -310,12 +310,12 @@
     {
         "pais": "BR",
         "nombre": "Brasil",
-        "casos_total": 40743,
-        "casos_nuevos": 0,
-        "casos_activos": 15165,
+        "casos_total": 40814,
+        "casos_nuevos": 71,
+        "casos_activos": 15235,
         "casos_criticos": 8318,
-        "fallecidos_total": 2587,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 2588,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 22991
     },
     {
@@ -409,9 +409,9 @@
     {
         "pais": "CA",
         "nombre": "Canada",
-        "casos_total": 36829,
-        "casos_nuevos": 0,
-        "casos_activos": 22553,
+        "casos_total": 36831,
+        "casos_nuevos": 2,
+        "casos_activos": 22555,
         "casos_criticos": 557,
         "fallecidos_total": 1690,
         "fallecidos_nuevos": 0,
@@ -695,12 +695,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 792913,
-        "casos_nuevos": 154,
-        "casos_activos": 678007,
+        "casos_total": 792938,
+        "casos_nuevos": 179,
+        "casos_activos": 678031,
         "casos_criticos": 13951,
-        "fallecidos_total": 42517,
-        "fallecidos_nuevos": 3,
+        "fallecidos_total": 42518,
+        "fallecidos_nuevos": 4,
         "recuperados_total": 72389
     },
     {
@@ -2279,9 +2279,9 @@
     {
         "pais": "UZ",
         "nombre": "Uzbekistan",
-        "casos_total": 1627,
-        "casos_nuevos": 0,
-        "casos_activos": 1361,
+        "casos_total": 1657,
+        "casos_nuevos": 30,
+        "casos_activos": 1391,
         "casos_criticos": 8,
         "fallecidos_total": 5,
         "fallecidos_nuevos": 0,
