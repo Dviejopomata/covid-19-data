@@ -421,12 +421,12 @@
     },
     {
         "nombre": "Colombia",
-        "casos_total": 3977,
-        "casos_nuevos": 0,
-        "casos_activos": 2984,
+        "casos_total": 4149,
+        "casos_nuevos": 172,
+        "casos_activos": 3149,
         "casos_criticos": 98,
-        "fallecidos_total": 189,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 196,
+        "fallecidos_nuevos": 7,
         "recuperados_total": 804
     },
     {
@@ -631,13 +631,13 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 815892,
-        "casos_nuevos": 23133,
-        "casos_activos": 688146,
+        "casos_total": 816336,
+        "casos_nuevos": 23577,
+        "casos_activos": 688488,
         "casos_criticos": 14016,
-        "fallecidos_total": 45126,
-        "fallecidos_nuevos": 2612,
-        "recuperados_total": 82620
+        "fallecidos_total": 45172,
+        "fallecidos_nuevos": 2658,
+        "recuperados_total": 82676
     },
     {
         "nombre": "Estonia",
@@ -2051,9 +2051,9 @@
     },
     {
         "nombre": "Uganda",
-        "casos_total": 58,
-        "casos_nuevos": 2,
-        "casos_activos": 20,
+        "casos_total": 61,
+        "casos_nuevos": 5,
+        "casos_activos": 23,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
