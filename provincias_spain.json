@@ -21,12 +21,12 @@
     },
     {
         "nombre": "Alemania",
-        "casos_total": 147958,
-        "casos_nuevos": 893,
-        "casos_activos": 47824,
+        "casos_total": 148007,
+        "casos_nuevos": 942,
+        "casos_activos": 47868,
         "casos_criticos": 2889,
-        "fallecidos_total": 4934,
-        "fallecidos_nuevos": 72,
+        "fallecidos_total": 4939,
+        "fallecidos_nuevos": 77,
         "recuperados_total": 95200
     },
     {
@@ -541,13 +541,13 @@
     },
     {
         "nombre": "Ecuador",
-        "casos_total": 10128,
-        "casos_nuevos": 0,
-        "casos_activos": 8471,
-        "casos_criticos": 124,
-        "fallecidos_total": 507,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1150
+        "casos_total": 10398,
+        "casos_nuevos": 270,
+        "casos_activos": 8671,
+        "casos_criticos": 137,
+        "fallecidos_total": 520,
+        "fallecidos_nuevos": 13,
+        "recuperados_total": 1207
     },
     {
         "nombre": "Egipto",
@@ -631,12 +631,12 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 803018,
-        "casos_nuevos": 10259,
-        "casos_activos": 684143,
+        "casos_total": 803349,
+        "casos_nuevos": 10590,
+        "casos_activos": 684397,
         "casos_criticos": 13951,
-        "fallecidos_total": 43558,
-        "fallecidos_nuevos": 1044,
+        "fallecidos_total": 43635,
+        "fallecidos_nuevos": 1121,
         "recuperados_total": 75317
     },
     {
@@ -831,9 +831,9 @@
     },
     {
         "nombre": "Guinea Ecuatorial",
-        "casos_total": 79,
-        "casos_nuevos": 0,
-        "casos_activos": 72,
+        "casos_total": 83,
+        "casos_nuevos": 4,
+        "casos_activos": 76,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1071,13 +1071,13 @@
     },
     {
         "nombre": "Jordania",
-        "casos_total": 425,
-        "casos_nuevos": 0,
-        "casos_activos": 136,
+        "casos_total": 428,
+        "casos_nuevos": 3,
+        "casos_activos": 124,
         "casos_criticos": 5,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 282
+        "recuperados_total": 297
     },
     {
         "nombre": "Kazajistan",
@@ -2024,7 +2024,7 @@
         "casos_total": 884,
         "casos_nuevos": 0,
         "casos_activos": 698,
-        "casos_criticos": 34,
+        "casos_criticos": 35,
         "fallecidos_total": 38,
         "fallecidos_nuevos": 0,
         "recuperados_total": 148
