@@ -71,13 +71,13 @@
     },
     {
         "nombre": "Argelia",
-        "casos_total": 2811,
-        "casos_nuevos": 0,
-        "casos_activos": 1267,
+        "casos_total": 2910,
+        "casos_nuevos": 99,
+        "casos_activos": 1304,
         "casos_criticos": 40,
-        "fallecidos_total": 392,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1152
+        "fallecidos_total": 402,
+        "fallecidos_nuevos": 10,
+        "recuperados_total": 1204
     },
     {
         "nombre": "Argentina",
@@ -341,9 +341,9 @@
     },
     {
         "nombre": "Cabo Verde",
-        "casos_total": 68,
-        "casos_nuevos": 0,
-        "casos_activos": 66,
+        "casos_total": 73,
+        "casos_nuevos": 5,
+        "casos_activos": 71,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -371,13 +371,13 @@
     },
     {
         "nombre": "Canada",
-        "casos_total": 38932,
-        "casos_nuevos": 510,
-        "casos_activos": 23873,
+        "casos_total": 38967,
+        "casos_nuevos": 545,
+        "casos_activos": 23447,
         "casos_criticos": 557,
-        "fallecidos_total": 1871,
-        "fallecidos_nuevos": 37,
-        "recuperados_total": 13188
+        "fallecidos_total": 1873,
+        "fallecidos_nuevos": 39,
+        "recuperados_total": 13647
     },
     {
         "nombre": "Catar",
@@ -764,7 +764,7 @@
         "casos_total": 2408,
         "casos_nuevos": 7,
         "casos_activos": 1710,
-        "casos_criticos": 59,
+        "casos_criticos": 55,
         "fallecidos_total": 121,
         "fallecidos_nuevos": 0,
         "recuperados_total": 577
@@ -953,11 +953,11 @@
         "nombre": "Isla de Man",
         "casos_total": 307,
         "casos_nuevos": 0,
-        "casos_activos": 89,
-        "casos_criticos": 15,
-        "fallecidos_total": 9,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 209
+        "casos_activos": 80,
+        "casos_criticos": 20,
+        "fallecidos_total": 15,
+        "fallecidos_nuevos": 6,
+        "recuperados_total": 212
     },
     {
         "nombre": "Islandia",
@@ -1041,13 +1041,13 @@
     },
     {
         "nombre": "Italia",
-        "casos_total": 183957,
-        "casos_nuevos": 0,
-        "casos_activos": 107709,
-        "casos_criticos": 2471,
-        "fallecidos_total": 24648,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 51600
+        "casos_total": 187327,
+        "casos_nuevos": 3370,
+        "casos_activos": 107699,
+        "casos_criticos": 2384,
+        "fallecidos_total": 25085,
+        "fallecidos_nuevos": 437,
+        "recuperados_total": 54543
     },
     {
         "nombre": "Jamaica",
@@ -1443,10 +1443,10 @@
         "nombre": "Noruega",
         "casos_total": 7275,
         "casos_nuevos": 34,
-        "casos_activos": 7058,
+        "casos_activos": 7057,
         "casos_criticos": 54,
-        "fallecidos_total": 185,
-        "fallecidos_nuevos": 3,
+        "fallecidos_total": 186,
+        "fallecidos_nuevos": 4,
         "recuperados_total": 32
     },
     {
@@ -1723,11 +1723,11 @@
         "nombre": "San Cristobal y Nieves",
         "casos_total": 15,
         "casos_nuevos": 0,
-        "casos_activos": 15,
+        "casos_activos": 14,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 0
+        "recuperados_total": 1
     },
     {
         "nombre": "San Marino",
@@ -1943,10 +1943,10 @@
         "nombre": "Suiza",
         "casos_total": 28268,
         "casos_nuevos": 205,
-        "casos_activos": 7390,
+        "casos_activos": 7359,
         "casos_criticos": 386,
-        "fallecidos_total": 1478,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 1509,
+        "fallecidos_nuevos": 31,
         "recuperados_total": 19400
     },
     {
