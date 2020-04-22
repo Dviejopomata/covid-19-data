@@ -409,9 +409,9 @@
     {
         "pais": "CA",
         "nombre": "Canada",
-        "casos_total": 39805,
-        "casos_nuevos": 1383,
-        "casos_activos": 24192,
+        "casos_total": 39813,
+        "casos_nuevos": 1391,
+        "casos_activos": 24200,
         "casos_criticos": 557,
         "fallecidos_total": 1966,
         "fallecidos_nuevos": 132,
@@ -695,13 +695,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 837719,
-        "casos_nuevos": 18975,
-        "casos_activos": 707486,
+        "casos_total": 842167,
+        "casos_nuevos": 23423,
+        "casos_activos": 711398,
         "casos_criticos": 14014,
-        "fallecidos_total": 46771,
-        "fallecidos_nuevos": 1453,
-        "recuperados_total": 83462
+        "fallecidos_total": 47123,
+        "fallecidos_nuevos": 1805,
+        "recuperados_total": 83646
     },
     {
         "pais": "EE",
@@ -1258,11 +1258,11 @@
         "nombre": "Libano",
         "casos_total": 682,
         "casos_nuevos": 5,
-        "casos_activos": 530,
+        "casos_activos": 547,
         "casos_criticos": 26,
         "fallecidos_total": 22,
         "fallecidos_nuevos": 1,
-        "recuperados_total": 130
+        "recuperados_total": 113
     },
     {
         "pais": "LR",
@@ -1852,10 +1852,10 @@
         "nombre": "Rumania",
         "casos_total": 9710,
         "casos_nuevos": 468,
-        "casos_activos": 6785,
+        "casos_activos": 6780,
         "casos_criticos": 288,
-        "fallecidos_total": 519,
-        "fallecidos_nuevos": 21,
+        "fallecidos_total": 524,
+        "fallecidos_nuevos": 26,
         "recuperados_total": 2406
     },
     {
