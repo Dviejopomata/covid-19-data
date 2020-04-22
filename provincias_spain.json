@@ -171,13 +171,13 @@
     },
     {
         "nombre": "Barein",
-        "casos_total": 1973,
-        "casos_nuevos": 0,
-        "casos_activos": 1182,
+        "casos_total": 2009,
+        "casos_nuevos": 36,
+        "casos_activos": 976,
         "casos_criticos": 2,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 784
+        "recuperados_total": 1026
     },
     {
         "nombre": "Belgica",
@@ -633,11 +633,11 @@
         "nombre": "Estados Unidos",
         "casos_total": 819321,
         "casos_nuevos": 577,
-        "casos_activos": 690993,
+        "casos_activos": 690957,
         "casos_criticos": 14016,
-        "fallecidos_total": 45355,
-        "fallecidos_nuevos": 37,
-        "recuperados_total": 82973
+        "fallecidos_total": 45356,
+        "fallecidos_nuevos": 38,
+        "recuperados_total": 83008
     },
     {
         "nombre": "Estonia",
@@ -961,13 +961,13 @@
     },
     {
         "nombre": "Islandia",
-        "casos_total": 1778,
-        "casos_nuevos": 0,
-        "casos_activos": 351,
+        "casos_total": 1785,
+        "casos_nuevos": 7,
+        "casos_activos": 313,
         "casos_criticos": 5,
         "fallecidos_total": 10,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1417
+        "recuperados_total": 1462
     },
     {
         "nombre": "Islas Caimanes",
@@ -1203,11 +1203,11 @@
         "nombre": "Macao",
         "casos_total": 45,
         "casos_nuevos": 0,
-        "casos_activos": 21,
+        "casos_activos": 19,
         "casos_criticos": 1,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 24
+        "recuperados_total": 26
     },
     {
         "nombre": "Madagascar",
@@ -1233,10 +1233,10 @@
         "nombre": "Malaui",
         "casos_total": 23,
         "casos_nuevos": 5,
-        "casos_activos": 18,
+        "casos_activos": 17,
         "casos_criticos": 1,
-        "fallecidos_total": 2,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 3,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 3
     },
     {
@@ -1441,12 +1441,12 @@
     },
     {
         "nombre": "Noruega",
-        "casos_total": 7241,
-        "casos_nuevos": 0,
-        "casos_activos": 7027,
-        "casos_criticos": 58,
-        "fallecidos_total": 182,
-        "fallecidos_nuevos": 0,
+        "casos_total": 7275,
+        "casos_nuevos": 34,
+        "casos_activos": 7060,
+        "casos_criticos": 54,
+        "fallecidos_total": 183,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 32
     },
     {
@@ -2053,11 +2053,11 @@
         "nombre": "Uganda",
         "casos_total": 61,
         "casos_nuevos": 0,
-        "casos_activos": 20,
+        "casos_activos": 16,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 41
+        "recuperados_total": 45
     },
     {
         "nombre": "Uruguay",
