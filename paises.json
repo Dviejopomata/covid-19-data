@@ -695,12 +695,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 818744,
-        "casos_nuevos": 0,
-        "casos_activos": 690503,
+        "casos_total": 818892,
+        "casos_nuevos": 148,
+        "casos_activos": 690630,
         "casos_criticos": 14016,
-        "fallecidos_total": 45318,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 45339,
+        "fallecidos_nuevos": 21,
         "recuperados_total": 82923
     },
     {
@@ -959,13 +959,13 @@
     {
         "pais": "HN",
         "nombre": "Honduras",
-        "casos_total": 494,
-        "casos_nuevos": 0,
-        "casos_activos": 419,
+        "casos_total": 510,
+        "casos_nuevos": 16,
+        "casos_activos": 434,
         "casos_criticos": 10,
         "fallecidos_total": 46,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 29
+        "recuperados_total": 30
     },
     {
         "pais": "HK",
