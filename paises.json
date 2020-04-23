@@ -26,11 +26,11 @@
         "nombre": "Alemania",
         "casos_total": 150648,
         "casos_nuevos": 0,
-        "casos_activos": 45933,
+        "casos_activos": 42033,
         "casos_criticos": 2908,
         "fallecidos_total": 5315,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 99400
+        "recuperados_total": 103300
     },
     {
         "pais": "AO",
@@ -213,11 +213,11 @@
         "nombre": "Belice",
         "casos_total": 18,
         "casos_nuevos": 0,
-        "casos_activos": 14,
+        "casos_activos": 11,
         "casos_criticos": 1,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 2
+        "recuperados_total": 5
     },
     {
         "pais": "BJ",
@@ -695,12 +695,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 848994,
-        "casos_nuevos": 277,
-        "casos_activos": 717268,
+        "casos_total": 849092,
+        "casos_nuevos": 375,
+        "casos_activos": 717361,
         "casos_criticos": 14016,
-        "fallecidos_total": 47676,
-        "fallecidos_nuevos": 17,
+        "fallecidos_total": 47681,
+        "fallecidos_nuevos": 22,
         "recuperados_total": 84050
     },
     {
@@ -992,9 +992,9 @@
     {
         "pais": "IN",
         "nombre": "India",
-        "casos_total": 21370,
-        "casos_nuevos": 0,
-        "casos_activos": 16319,
+        "casos_total": 21393,
+        "casos_nuevos": 23,
+        "casos_activos": 16342,
         "casos_criticos": 0,
         "fallecidos_total": 681,
         "fallecidos_nuevos": 0,
@@ -1193,7 +1193,7 @@
         "casos_total": 2135,
         "casos_nuevos": 0,
         "casos_activos": 1601,
-        "casos_criticos": 32,
+        "casos_criticos": 29,
         "fallecidos_total": 19,
         "fallecidos_nuevos": 0,
         "recuperados_total": 515
@@ -1203,11 +1203,11 @@
         "nombre": "Kenia",
         "casos_total": 303,
         "casos_nuevos": 0,
-        "casos_activos": 215,
+        "casos_activos": 206,
         "casos_criticos": 2,
         "fallecidos_total": 14,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 74
+        "recuperados_total": 83
     },
     {
         "pais": "KG",
