@@ -411,10 +411,10 @@
         "nombre": "Canada",
         "casos_total": 41791,
         "casos_nuevos": 1601,
-        "casos_activos": 25777,
+        "casos_activos": 25664,
         "casos_criticos": 557,
-        "fallecidos_total": 2028,
-        "fallecidos_nuevos": 54,
+        "fallecidos_total": 2141,
+        "fallecidos_nuevos": 167,
         "recuperados_total": 13986
     },
     {
@@ -607,13 +607,13 @@
     {
         "pais": "EG",
         "nombre": "Egipto",
-        "casos_total": 3659,
-        "casos_nuevos": 0,
-        "casos_activos": 2448,
+        "casos_total": 3891,
+        "casos_nuevos": 232,
+        "casos_activos": 2600,
         "casos_criticos": 0,
-        "fallecidos_total": 276,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 935
+        "fallecidos_total": 287,
+        "fallecidos_nuevos": 11,
+        "recuperados_total": 1004
     },
     {
         "pais": "SV",
@@ -761,13 +761,13 @@
     {
         "pais": "FR",
         "nombre": "Francia",
-        "casos_total": 159877,
-        "casos_nuevos": 0,
-        "casos_activos": 97880,
-        "casos_criticos": 5218,
-        "fallecidos_total": 21340,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 40657
+        "casos_total": 161530,
+        "casos_nuevos": 1653,
+        "casos_activos": 97586,
+        "casos_criticos": 5053,
+        "fallecidos_total": 21856,
+        "fallecidos_nuevos": 516,
+        "recuperados_total": 42088
     },
     {
         "pais": "GA",
@@ -816,13 +816,13 @@
     {
         "pais": "GI",
         "nombre": "Gibraltar",
-        "casos_total": 132,
-        "casos_nuevos": 0,
-        "casos_activos": 5,
+        "casos_total": 133,
+        "casos_nuevos": 1,
+        "casos_activos": 4,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 127
+        "recuperados_total": 129
     },
     {
         "pais": "GD",
@@ -1038,10 +1038,10 @@
         "nombre": "Irlanda",
         "casos_total": 16671,
         "casos_nuevos": 0,
-        "casos_activos": 6669,
+        "casos_activos": 6644,
         "casos_criticos": 147,
-        "fallecidos_total": 769,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 794,
+        "fallecidos_nuevos": 25,
         "recuperados_total": 9233
     },
     {
@@ -1588,10 +1588,10 @@
         "nombre": "Noruega",
         "casos_total": 7361,
         "casos_nuevos": 23,
-        "casos_activos": 7138,
-        "casos_criticos": 54,
-        "fallecidos_total": 191,
-        "fallecidos_nuevos": 4,
+        "casos_activos": 7136,
+        "casos_criticos": 50,
+        "fallecidos_total": 193,
+        "fallecidos_nuevos": 6,
         "recuperados_total": 32
     },
     {
@@ -1685,12 +1685,12 @@
     {
         "pais": "PE",
         "nombre": "Peru",
-        "casos_total": 19250,
-        "casos_nuevos": 0,
-        "casos_activos": 11693,
+        "casos_total": 20914,
+        "casos_nuevos": 1664,
+        "casos_activos": 13315,
         "casos_criticos": 396,
-        "fallecidos_total": 530,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 572,
+        "fallecidos_nuevos": 42,
         "recuperados_total": 7027
     },
     {
@@ -1839,13 +1839,13 @@
     {
         "pais": "RW",
         "nombre": "Ruanda",
-        "casos_total": 153,
-        "casos_nuevos": 0,
-        "casos_activos": 69,
+        "casos_total": 154,
+        "casos_nuevos": 1,
+        "casos_activos": 67,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 84
+        "recuperados_total": 87
     },
     {
         "pais": "RO",
@@ -2279,9 +2279,9 @@
     {
         "pais": "UZ",
         "nombre": "Uzbekistan",
-        "casos_total": 1735,
-        "casos_nuevos": 19,
-        "casos_activos": 1167,
+        "casos_total": 1758,
+        "casos_nuevos": 42,
+        "casos_activos": 1190,
         "casos_criticos": 8,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
