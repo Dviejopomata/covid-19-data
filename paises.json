@@ -24,9 +24,9 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 150648,
-        "casos_nuevos": 0,
-        "casos_activos": 42033,
+        "casos_total": 150666,
+        "casos_nuevos": 18,
+        "casos_activos": 42051,
         "casos_criticos": 2908,
         "fallecidos_total": 5315,
         "fallecidos_nuevos": 0,
@@ -134,12 +134,12 @@
     {
         "pais": "AT",
         "nombre": "Austria",
-        "casos_total": 14940,
-        "casos_nuevos": 15,
-        "casos_activos": 2736,
+        "casos_total": 15002,
+        "casos_nuevos": 77,
+        "casos_activos": 2786,
         "casos_criticos": 169,
-        "fallecidos_total": 510,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 522,
+        "fallecidos_nuevos": 12,
         "recuperados_total": 11694
     },
     {
@@ -167,13 +167,13 @@
     {
         "pais": "BD",
         "nombre": "Banglades",
-        "casos_total": 3772,
-        "casos_nuevos": 0,
-        "casos_activos": 3560,
+        "casos_total": 4186,
+        "casos_nuevos": 414,
+        "casos_activos": 3951,
         "casos_criticos": 1,
-        "fallecidos_total": 120,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 92
+        "fallecidos_total": 127,
+        "fallecidos_nuevos": 7,
+        "recuperados_total": 108
     },
     {
         "pais": "BB",
@@ -684,13 +684,13 @@
     {
         "pais": "PS",
         "nombre": "Estado de Palestina",
-        "casos_total": 474,
-        "casos_nuevos": 0,
-        "casos_activos": 399,
+        "casos_total": 480,
+        "casos_nuevos": 6,
+        "casos_activos": 384,
         "casos_criticos": 0,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 71
+        "recuperados_total": 92
     },
     {
         "pais": "US",
@@ -706,13 +706,13 @@
     {
         "pais": "EE",
         "nombre": "Estonia",
-        "casos_total": 1559,
-        "casos_nuevos": 0,
-        "casos_activos": 1331,
+        "casos_total": 1592,
+        "casos_nuevos": 33,
+        "casos_activos": 1355,
         "casos_criticos": 7,
-        "fallecidos_total": 44,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 184
+        "fallecidos_total": 45,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 192
     },
     {
         "pais": "ET",
@@ -1212,13 +1212,13 @@
     {
         "pais": "KG",
         "nombre": "Kirguistan",
-        "casos_total": 612,
-        "casos_nuevos": 0,
-        "casos_activos": 351,
-        "casos_criticos": 5,
-        "fallecidos_total": 7,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 254
+        "casos_total": 631,
+        "casos_nuevos": 19,
+        "casos_activos": 321,
+        "casos_criticos": 11,
+        "fallecidos_total": 8,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 302
     },
     {
         "pais": "KW",
@@ -1355,9 +1355,9 @@
     {
         "pais": "MW",
         "nombre": "Malaui",
-        "casos_total": 23,
-        "casos_nuevos": 0,
-        "casos_activos": 17,
+        "casos_total": 33,
+        "casos_nuevos": 10,
+        "casos_activos": 27,
         "casos_criticos": 1,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
@@ -2070,9 +2070,9 @@
     {
         "pais": "LK",
         "nombre": "Sri Lanka",
-        "casos_total": 330,
-        "casos_nuevos": 0,
-        "casos_activos": 218,
+        "casos_total": 334,
+        "casos_nuevos": 4,
+        "casos_activos": 222,
         "casos_criticos": 2,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
