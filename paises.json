@@ -332,13 +332,13 @@
     {
         "pais": "BG",
         "nombre": "Bulgaria",
-        "casos_total": 1024,
-        "casos_nuevos": 0,
-        "casos_activos": 801,
+        "casos_total": 1081,
+        "casos_nuevos": 57,
+        "casos_activos": 841,
         "casos_criticos": 37,
-        "fallecidos_total": 49,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 174
+        "fallecidos_total": 50,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 190
     },
     {
         "pais": "BF",
@@ -992,9 +992,9 @@
     {
         "pais": "IN",
         "nombre": "India",
-        "casos_total": 21450,
-        "casos_nuevos": 80,
-        "casos_activos": 16393,
+        "casos_total": 21797,
+        "casos_nuevos": 427,
+        "casos_activos": 16740,
         "casos_criticos": 0,
         "fallecidos_total": 681,
         "fallecidos_nuevos": 0,
@@ -1300,13 +1300,13 @@
     {
         "pais": "LT",
         "nombre": "Lituania",
-        "casos_total": 1370,
-        "casos_nuevos": 0,
-        "casos_activos": 975,
+        "casos_total": 1398,
+        "casos_nuevos": 28,
+        "casos_activos": 961,
         "casos_criticos": 17,
         "fallecidos_total": 38,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 357
+        "recuperados_total": 399
     },
     {
         "pais": "LU",
@@ -1644,7 +1644,7 @@
         "casos_total": 10513,
         "casos_nuevos": 437,
         "casos_activos": 7952,
-        "casos_criticos": 58,
+        "casos_criticos": 60,
         "fallecidos_total": 224,
         "fallecidos_nuevos": 12,
         "recuperados_total": 2337
@@ -1864,7 +1864,7 @@
         "casos_total": 57999,
         "casos_nuevos": 0,
         "casos_activos": 53066,
-        "casos_criticos": 700,
+        "casos_criticos": 2300,
         "fallecidos_total": 513,
         "fallecidos_nuevos": 0,
         "recuperados_total": 4420
