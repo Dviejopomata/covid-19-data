@@ -21,12 +21,12 @@
     },
     {
         "nombre": "Alemania",
-        "casos_total": 150729,
-        "casos_nuevos": 81,
-        "casos_activos": 42114,
+        "casos_total": 150773,
+        "casos_nuevos": 125,
+        "casos_activos": 42155,
         "casos_criticos": 2908,
-        "fallecidos_total": 5315,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 5318,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 103300
     },
     {
@@ -141,9 +141,9 @@
     },
     {
         "nombre": "Bahamas",
-        "casos_total": 65,
-        "casos_nuevos": 0,
-        "casos_activos": 44,
+        "casos_total": 70,
+        "casos_nuevos": 5,
+        "casos_activos": 49,
         "casos_criticos": 1,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
@@ -341,9 +341,9 @@
     },
     {
         "nombre": "Cabo Verde",
-        "casos_total": 73,
-        "casos_nuevos": 0,
-        "casos_activos": 71,
+        "casos_total": 82,
+        "casos_nuevos": 9,
+        "casos_activos": 80,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -673,10 +673,10 @@
         "nombre": "Finlandia",
         "casos_total": 4284,
         "casos_nuevos": 155,
-        "casos_activos": 2135,
-        "casos_criticos": 63,
-        "fallecidos_total": 149,
-        "fallecidos_nuevos": 0,
+        "casos_activos": 2112,
+        "casos_criticos": 60,
+        "fallecidos_total": 172,
+        "fallecidos_nuevos": 23,
         "recuperados_total": 2000
     },
     {
@@ -723,11 +723,11 @@
         "nombre": "Georgia",
         "casos_total": 420,
         "casos_nuevos": 4,
-        "casos_activos": 308,
+        "casos_activos": 304,
         "casos_criticos": 6,
         "fallecidos_total": 5,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 107
+        "recuperados_total": 111
     },
     {
         "nombre": "Ghana",
@@ -1833,11 +1833,11 @@
         "nombre": "Seychelles",
         "casos_total": 11,
         "casos_nuevos": 0,
-        "casos_activos": 6,
+        "casos_activos": 5,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 5
+        "recuperados_total": 6
     },
     {
         "nombre": "Sierra Leona",
@@ -2073,11 +2073,11 @@
         "nombre": "Uzbekistan",
         "casos_total": 1716,
         "casos_nuevos": 0,
-        "casos_activos": 1255,
+        "casos_activos": 1223,
         "casos_criticos": 8,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 454
+        "recuperados_total": 486
     },
     {
         "nombre": "Venezuela",
