@@ -508,13 +508,13 @@
     {
         "pais": "CR",
         "nombre": "Costa Rica",
-        "casos_total": 681,
-        "casos_nuevos": 0,
-        "casos_activos": 495,
-        "casos_criticos": 6,
+        "casos_total": 687,
+        "casos_nuevos": 6,
+        "casos_activos": 485,
+        "casos_criticos": 8,
         "fallecidos_total": 6,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 180
+        "recuperados_total": 196
     },
     {
         "pais": "CI",
@@ -695,13 +695,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 866148,
-        "casos_nuevos": 17431,
-        "casos_activos": 732468,
+        "casos_total": 868482,
+        "casos_nuevos": 19765,
+        "casos_activos": 734563,
         "casos_criticos": 14344,
-        "fallecidos_total": 48868,
-        "fallecidos_nuevos": 1209,
-        "recuperados_total": 84812
+        "fallecidos_total": 49094,
+        "fallecidos_nuevos": 1435,
+        "recuperados_total": 84825
     },
     {
         "pais": "EE",
@@ -794,9 +794,9 @@
     {
         "pais": "GE",
         "nombre": "Georgia",
-        "casos_total": 420,
-        "casos_nuevos": 4,
-        "casos_activos": 304,
+        "casos_total": 425,
+        "casos_nuevos": 9,
+        "casos_activos": 309,
         "casos_criticos": 6,
         "fallecidos_total": 5,
         "fallecidos_nuevos": 0,
@@ -1520,13 +1520,13 @@
     {
         "pais": "MZ",
         "nombre": "Mozambique",
-        "casos_total": 41,
-        "casos_nuevos": 0,
-        "casos_activos": 33,
+        "casos_total": 46,
+        "casos_nuevos": 5,
+        "casos_activos": 37,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 8
+        "recuperados_total": 9
     },
     {
         "pais": "NA",
@@ -1687,11 +1687,11 @@
         "nombre": "Peru",
         "casos_total": 20914,
         "casos_nuevos": 1664,
-        "casos_activos": 13315,
+        "casos_activos": 12920,
         "casos_criticos": 396,
         "fallecidos_total": 572,
         "fallecidos_nuevos": 42,
-        "recuperados_total": 7027
+        "recuperados_total": 7422
     },
     {
         "pais": "PF",
