@@ -281,12 +281,12 @@
     },
     {
         "nombre": "Brasil",
-        "casos_total": 45757,
-        "casos_nuevos": 0,
-        "casos_activos": 17533,
+        "casos_total": 46182,
+        "casos_nuevos": 425,
+        "casos_activos": 17940,
         "casos_criticos": 8318,
-        "fallecidos_total": 2906,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 2924,
+        "fallecidos_nuevos": 18,
         "recuperados_total": 25318
     },
     {
@@ -631,12 +631,12 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 848735,
-        "casos_nuevos": 18,
-        "casos_activos": 717022,
+        "casos_total": 848994,
+        "casos_nuevos": 277,
+        "casos_activos": 717268,
         "casos_criticos": 14016,
-        "fallecidos_total": 47663,
-        "fallecidos_nuevos": 4,
+        "fallecidos_total": 47676,
+        "fallecidos_nuevos": 17,
         "recuperados_total": 84050
     },
     {
@@ -1543,11 +1543,11 @@
         "nombre": "Polinesia Francesa",
         "casos_total": 57,
         "casos_nuevos": 0,
-        "casos_activos": 22,
+        "casos_activos": 21,
         "casos_criticos": 1,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 35
+        "recuperados_total": 36
     },
     {
         "nombre": "Polonia",
@@ -1703,11 +1703,11 @@
         "nombre": "Sahara Occidental",
         "casos_total": 6,
         "casos_nuevos": 0,
-        "casos_activos": 6,
+        "casos_activos": 1,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 0
+        "recuperados_total": 5
     },
     {
         "nombre": "San Bartolome",
