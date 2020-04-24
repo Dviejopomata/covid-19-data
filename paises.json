@@ -13,13 +13,13 @@
     {
         "pais": "AL",
         "nombre": "Albania",
-        "casos_total": 663,
-        "casos_nuevos": 0,
-        "casos_activos": 251,
+        "casos_total": 678,
+        "casos_nuevos": 15,
+        "casos_activos": 257,
         "casos_criticos": 4,
         "fallecidos_total": 27,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 385
+        "recuperados_total": 394
     },
     {
         "pais": "DE",
@@ -92,10 +92,10 @@
         "nombre": "Argentina",
         "casos_total": 3435,
         "casos_nuevos": 0,
-        "casos_activos": 2351,
+        "casos_activos": 2350,
         "casos_criticos": 123,
-        "fallecidos_total": 165,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 166,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 919
     },
     {
@@ -706,24 +706,24 @@
     {
         "pais": "EE",
         "nombre": "Estonia",
-        "casos_total": 1592,
-        "casos_nuevos": 0,
-        "casos_activos": 1355,
-        "casos_criticos": 7,
-        "fallecidos_total": 45,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 192
+        "casos_total": 1605,
+        "casos_nuevos": 13,
+        "casos_activos": 1353,
+        "casos_criticos": 6,
+        "fallecidos_total": 46,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 206
     },
     {
         "pais": "ET",
         "nombre": "Etiopia",
         "casos_total": 117,
         "casos_nuevos": 1,
-        "casos_activos": 93,
+        "casos_activos": 89,
         "casos_criticos": 0,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 21
+        "recuperados_total": 25
     },
     {
         "pais": "PH",
@@ -739,9 +739,9 @@
     {
         "pais": "FI",
         "nombre": "Finlandia",
-        "casos_total": 4284,
-        "casos_nuevos": 0,
-        "casos_activos": 2112,
+        "casos_total": 4395,
+        "casos_nuevos": 111,
+        "casos_activos": 2223,
         "casos_criticos": 60,
         "fallecidos_total": 172,
         "fallecidos_nuevos": 0,
@@ -1003,13 +1003,13 @@
     {
         "pais": "ID",
         "nombre": "Indonesia",
-        "casos_total": 7775,
-        "casos_nuevos": 0,
-        "casos_activos": 6168,
+        "casos_total": 8211,
+        "casos_nuevos": 436,
+        "casos_activos": 6520,
         "casos_criticos": 0,
-        "fallecidos_total": 647,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 960
+        "fallecidos_total": 689,
+        "fallecidos_nuevos": 42,
+        "recuperados_total": 1002
     },
     {
         "pais": "IQ",
