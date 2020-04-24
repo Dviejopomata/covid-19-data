@@ -21,12 +21,12 @@
     },
     {
         "nombre": "Alemania",
-        "casos_total": 154111,
-        "casos_nuevos": 982,
-        "casos_activos": 41679,
+        "casos_total": 154159,
+        "casos_nuevos": 1030,
+        "casos_activos": 41706,
         "casos_criticos": 2908,
-        "fallecidos_total": 5632,
-        "fallecidos_nuevos": 57,
+        "fallecidos_total": 5653,
+        "fallecidos_nuevos": 78,
         "recuperados_total": 106800
     },
     {
@@ -371,13 +371,13 @@
     },
     {
         "nombre": "Canada",
-        "casos_total": 42773,
-        "casos_nuevos": 663,
-        "casos_activos": 25374,
+        "casos_total": 43551,
+        "casos_nuevos": 1441,
+        "casos_activos": 25813,
         "casos_criticos": 557,
-        "fallecidos_total": 2197,
-        "fallecidos_nuevos": 50,
-        "recuperados_total": 15202
+        "fallecidos_total": 2294,
+        "fallecidos_nuevos": 147,
+        "recuperados_total": 15444
     },
     {
         "nombre": "Catar",
@@ -631,12 +631,12 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 903202,
-        "casos_nuevos": 16760,
-        "casos_activos": 761989,
+        "casos_total": 903298,
+        "casos_nuevos": 16856,
+        "casos_activos": 762083,
         "casos_criticos": 14932,
-        "fallecidos_total": 50952,
-        "fallecidos_nuevos": 716,
+        "fallecidos_total": 50954,
+        "fallecidos_nuevos": 718,
         "recuperados_total": 90261
     },
     {
@@ -691,13 +691,13 @@
     },
     {
         "nombre": "Francia",
-        "casos_total": 158183,
-        "casos_nuevos": 0,
-        "casos_activos": 94239,
-        "casos_criticos": 5053,
-        "fallecidos_total": 21856,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 42088
+        "casos_total": 159828,
+        "casos_nuevos": 1645,
+        "casos_activos": 94090,
+        "casos_criticos": 4870,
+        "fallecidos_total": 22245,
+        "fallecidos_nuevos": 389,
+        "recuperados_total": 43493
     },
     {
         "nombre": "Gabon",
@@ -831,9 +831,9 @@
     },
     {
         "nombre": "Guinea Ecuatorial",
-        "casos_total": 84,
-        "casos_nuevos": 0,
-        "casos_activos": 76,
+        "casos_total": 214,
+        "casos_nuevos": 5,
+        "casos_activos": 206,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -901,13 +901,13 @@
     },
     {
         "nombre": "India",
-        "casos_total": 23502,
-        "casos_nuevos": 463,
-        "casos_activos": 17768,
+        "casos_total": 24434,
+        "casos_nuevos": 1395,
+        "casos_activos": 18197,
         "casos_criticos": 0,
-        "fallecidos_total": 722,
-        "fallecidos_nuevos": 1,
-        "recuperados_total": 5012
+        "fallecidos_total": 780,
+        "fallecidos_nuevos": 59,
+        "recuperados_total": 5457
     },
     {
         "nombre": "Indonesia",
@@ -2073,11 +2073,11 @@
         "nombre": "Uzbekistan",
         "casos_total": 1778,
         "casos_nuevos": 20,
-        "casos_activos": 1153,
+        "casos_activos": 1149,
         "casos_criticos": 8,
         "fallecidos_total": 8,
         "fallecidos_nuevos": 1,
-        "recuperados_total": 617
+        "recuperados_total": 621
     },
     {
         "nombre": "Venezuela",
