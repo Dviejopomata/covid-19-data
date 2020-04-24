@@ -255,9 +255,9 @@
     {
         "pais": "MM",
         "nombre": "Birmania",
-        "casos_total": 132,
-        "casos_nuevos": 0,
-        "casos_activos": 118,
+        "casos_total": 139,
+        "casos_nuevos": 7,
+        "casos_activos": 125,
         "casos_criticos": 0,
         "fallecidos_total": 5,
         "fallecidos_nuevos": 0,
@@ -695,12 +695,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 880204,
-        "casos_nuevos": 0,
-        "casos_activos": 744437,
+        "casos_total": 886709,
+        "casos_nuevos": 267,
+        "casos_activos": 750544,
         "casos_criticos": 14997,
-        "fallecidos_total": 49845,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 50243,
+        "fallecidos_nuevos": 7,
         "recuperados_total": 85922
     },
     {
@@ -882,13 +882,13 @@
     {
         "pais": "GT",
         "nombre": "Guatemala",
-        "casos_total": 342,
-        "casos_nuevos": 0,
-        "casos_activos": 307,
+        "casos_total": 384,
+        "casos_nuevos": 42,
+        "casos_activos": 343,
         "casos_criticos": 3,
-        "fallecidos_total": 10,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 25
+        "fallecidos_total": 11,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 30
     },
     {
         "pais": "GF",
@@ -1544,11 +1544,11 @@
         "nombre": "Nepal",
         "casos_total": 48,
         "casos_nuevos": 0,
-        "casos_activos": 39,
+        "casos_activos": 38,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 9
+        "recuperados_total": 10
     },
     {
         "pais": "NI",
