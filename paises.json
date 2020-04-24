@@ -310,12 +310,12 @@
     {
         "pais": "BR",
         "nombre": "Brasil",
-        "casos_total": 51073,
-        "casos_nuevos": 1581,
-        "casos_activos": 21093,
+        "casos_total": 52995,
+        "casos_nuevos": 3503,
+        "casos_activos": 22752,
         "casos_criticos": 8318,
-        "fallecidos_total": 3407,
-        "fallecidos_nuevos": 94,
+        "fallecidos_total": 3670,
+        "fallecidos_nuevos": 357,
         "recuperados_total": 26573
     },
     {
@@ -409,13 +409,13 @@
     {
         "pais": "CA",
         "nombre": "Canada",
-        "casos_total": 43551,
-        "casos_nuevos": 1441,
-        "casos_activos": 25813,
+        "casos_total": 43552,
+        "casos_nuevos": 1442,
+        "casos_activos": 25789,
         "casos_criticos": 557,
         "fallecidos_total": 2294,
         "fallecidos_nuevos": 147,
-        "recuperados_total": 15444
+        "recuperados_total": 15469
     },
     {
         "pais": "QA",
@@ -695,12 +695,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 909116,
-        "casos_nuevos": 22674,
-        "casos_activos": 765508,
+        "casos_total": 912010,
+        "casos_nuevos": 25568,
+        "casos_activos": 768291,
         "casos_criticos": 14932,
-        "fallecidos_total": 51342,
-        "fallecidos_nuevos": 1106,
+        "fallecidos_total": 51453,
+        "fallecidos_nuevos": 1217,
         "recuperados_total": 92266
     },
     {
@@ -937,9 +937,9 @@
     {
         "pais": "GY",
         "nombre": "Guyana",
-        "casos_total": 70,
-        "casos_nuevos": 0,
-        "casos_activos": 51,
+        "casos_total": 73,
+        "casos_nuevos": 3,
+        "casos_activos": 54,
         "casos_criticos": 5,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
@@ -1047,13 +1047,13 @@
     {
         "pais": "IM",
         "nombre": "Isla de Man",
-        "casos_total": 307,
-        "casos_nuevos": 0,
-        "casos_activos": 70,
+        "casos_total": 308,
+        "casos_nuevos": 1,
+        "casos_activos": 60,
         "casos_criticos": 20,
-        "fallecidos_total": 16,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 221
+        "fallecidos_total": 18,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 230
     },
     {
         "pais": "IS",
@@ -1478,11 +1478,11 @@
         "nombre": "Monaco",
         "casos_total": 94,
         "casos_nuevos": 0,
-        "casos_activos": 55,
+        "casos_activos": 49,
         "casos_criticos": 2,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 35
+        "recuperados_total": 41
     },
     {
         "pais": "MN",
