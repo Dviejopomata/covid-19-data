@@ -4,11 +4,11 @@
         "nombre": "Afganistan",
         "casos_total": 1330,
         "casos_nuevos": 51,
-        "casos_activos": 1109,
+        "casos_activos": 1099,
         "casos_criticos": 7,
-        "fallecidos_total": 42,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 179
+        "fallecidos_total": 43,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 188
     },
     {
         "pais": "AL",
@@ -68,13 +68,13 @@
     {
         "pais": "SA",
         "nombre": "Arabia Saudita",
-        "casos_total": 13930,
-        "casos_nuevos": 0,
-        "casos_activos": 11884,
+        "casos_total": 15102,
+        "casos_nuevos": 1172,
+        "casos_activos": 12926,
         "casos_criticos": 93,
-        "fallecidos_total": 121,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1925
+        "fallecidos_total": 127,
+        "fallecidos_nuevos": 6,
+        "recuperados_total": 2049
     },
     {
         "pais": "DZ",
@@ -695,12 +695,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 886709,
-        "casos_nuevos": 267,
-        "casos_activos": 750544,
+        "casos_total": 887622,
+        "casos_nuevos": 1180,
+        "casos_activos": 751417,
         "casos_criticos": 14997,
-        "fallecidos_total": 50243,
-        "fallecidos_nuevos": 7,
+        "fallecidos_total": 50283,
+        "fallecidos_nuevos": 47,
         "recuperados_total": 85922
     },
     {
@@ -1190,12 +1190,12 @@
     {
         "pais": "KZ",
         "nombre": "Kazajistan",
-        "casos_total": 2334,
-        "casos_nuevos": 45,
-        "casos_activos": 1708,
+        "casos_total": 2376,
+        "casos_nuevos": 87,
+        "casos_activos": 1749,
         "casos_criticos": 29,
-        "fallecidos_total": 24,
-        "fallecidos_nuevos": 4,
+        "fallecidos_total": 25,
+        "fallecidos_nuevos": 5,
         "recuperados_total": 602
     },
     {
@@ -1718,13 +1718,13 @@
     {
         "pais": "PT",
         "nombre": "Portugal",
-        "casos_total": 22353,
-        "casos_nuevos": 0,
-        "casos_activos": 20332,
-        "casos_criticos": 204,
-        "fallecidos_total": 820,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1201
+        "casos_total": 22797,
+        "casos_nuevos": 444,
+        "casos_activos": 20715,
+        "casos_criticos": 188,
+        "fallecidos_total": 854,
+        "fallecidos_nuevos": 34,
+        "recuperados_total": 1228
     },
     {
         "pais": "AD",
@@ -2072,11 +2072,11 @@
         "nombre": "Sri Lanka",
         "casos_total": 414,
         "casos_nuevos": 46,
-        "casos_activos": 300,
+        "casos_activos": 298,
         "casos_criticos": 2,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 107
+        "recuperados_total": 109
     },
     {
         "pais": "SZ",
