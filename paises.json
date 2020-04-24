@@ -409,13 +409,13 @@
     {
         "pais": "CA",
         "nombre": "Canada",
-        "casos_total": 42110,
-        "casos_nuevos": 0,
-        "casos_activos": 25202,
+        "casos_total": 42773,
+        "casos_nuevos": 663,
+        "casos_activos": 25374,
         "casos_criticos": 557,
-        "fallecidos_total": 2147,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 14761
+        "fallecidos_total": 2197,
+        "fallecidos_nuevos": 50,
+        "recuperados_total": 15202
     },
     {
         "pais": "QA",
@@ -442,13 +442,13 @@
     {
         "pais": "CL",
         "nombre": "Chile",
-        "casos_total": 11812,
-        "casos_nuevos": 0,
-        "casos_activos": 5840,
-        "casos_criticos": 411,
-        "fallecidos_total": 168,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 5804
+        "casos_total": 12306,
+        "casos_nuevos": 494,
+        "casos_activos": 5805,
+        "casos_criticos": 408,
+        "fallecidos_total": 174,
+        "fallecidos_nuevos": 6,
+        "recuperados_total": 6327
     },
     {
         "pais": "CN",
@@ -552,13 +552,13 @@
     {
         "pais": "CU",
         "nombre": "Cuba",
-        "casos_total": 1235,
-        "casos_nuevos": 0,
-        "casos_activos": 827,
-        "casos_criticos": 14,
-        "fallecidos_total": 43,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 365
+        "casos_total": 1285,
+        "casos_nuevos": 50,
+        "casos_activos": 820,
+        "casos_criticos": 11,
+        "fallecidos_total": 49,
+        "fallecidos_nuevos": 6,
+        "recuperados_total": 416
     },
     {
         "pais": "CW",
@@ -695,13 +695,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 890719,
-        "casos_nuevos": 4277,
-        "casos_activos": 749789,
+        "casos_total": 894034,
+        "casos_nuevos": 7592,
+        "casos_activos": 752928,
         "casos_criticos": 15042,
-        "fallecidos_total": 50836,
-        "fallecidos_nuevos": 600,
-        "recuperados_total": 90094
+        "fallecidos_total": 50919,
+        "fallecidos_nuevos": 683,
+        "recuperados_total": 90187
     },
     {
         "pais": "EE",
@@ -1113,12 +1113,12 @@
     {
         "pais": "VG",
         "nombre": "Islas Virgenes Britanicas",
-        "casos_total": 5,
-        "casos_nuevos": 0,
-        "casos_activos": 1,
+        "casos_total": 54,
+        "casos_nuevos": 49,
+        "casos_activos": 48,
         "casos_criticos": 0,
-        "fallecidos_total": 1,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 3,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 3
     },
     {
@@ -1179,13 +1179,13 @@
     {
         "pais": "JO",
         "nombre": "Jordania",
-        "casos_total": 437,
-        "casos_nuevos": 0,
-        "casos_activos": 112,
+        "casos_total": 441,
+        "casos_nuevos": 4,
+        "casos_activos": 108,
         "casos_criticos": 5,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 318
+        "recuperados_total": 326
     },
     {
         "pais": "KZ",
@@ -1423,11 +1423,11 @@
         "nombre": "Mauricio",
         "casos_total": 331,
         "casos_nuevos": 0,
-        "casos_activos": 56,
+        "casos_activos": 37,
         "casos_criticos": 3,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 266
+        "recuperados_total": 285
     },
     {
         "pais": "MR",
@@ -1707,12 +1707,12 @@
     {
         "pais": "PL",
         "nombre": "Polonia",
-        "casos_total": 10759,
-        "casos_nuevos": 248,
-        "casos_activos": 8352,
+        "casos_total": 10892,
+        "casos_nuevos": 381,
+        "casos_activos": 8454,
         "casos_criticos": 160,
-        "fallecidos_total": 463,
-        "fallecidos_nuevos": 9,
+        "fallecidos_total": 494,
+        "fallecidos_nuevos": 40,
         "recuperados_total": 1944
     },
     {
@@ -1729,12 +1729,12 @@
     {
         "pais": "AD",
         "nombre": "Principado de Andorra",
-        "casos_total": 723,
-        "casos_nuevos": 0,
-        "casos_activos": 353,
+        "casos_total": 731,
+        "casos_nuevos": 8,
+        "casos_activos": 358,
         "casos_criticos": 17,
-        "fallecidos_total": 37,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 40,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 333
     },
     {
@@ -1764,10 +1764,10 @@
         "nombre": "Republica Dominicana",
         "casos_total": 5749,
         "casos_nuevos": 206,
-        "casos_activos": 4721,
+        "casos_activos": 4719,
         "casos_criticos": 135,
-        "fallecidos_total": 265,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 267,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 763
     },
     {
@@ -1905,13 +1905,13 @@
     {
         "pais": "SM",
         "nombre": "San Marino",
-        "casos_total": 501,
-        "casos_nuevos": 0,
-        "casos_activos": 398,
+        "casos_total": 513,
+        "casos_nuevos": 12,
+        "casos_activos": 409,
         "casos_criticos": 3,
         "fallecidos_total": 40,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 63
+        "recuperados_total": 64
     },
     {
         "pais": "MF",
