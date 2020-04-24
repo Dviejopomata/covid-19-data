@@ -992,9 +992,9 @@
     {
         "pais": "IN",
         "nombre": "India",
-        "casos_total": 23039,
-        "casos_nuevos": 0,
-        "casos_activos": 17306,
+        "casos_total": 23077,
+        "casos_nuevos": 38,
+        "casos_activos": 17344,
         "casos_criticos": 0,
         "fallecidos_total": 721,
         "fallecidos_nuevos": 0,
@@ -1487,13 +1487,13 @@
     {
         "pais": "MN",
         "nombre": "Mongolia",
-        "casos_total": 35,
-        "casos_nuevos": 0,
+        "casos_total": 36,
+        "casos_nuevos": 1,
         "casos_activos": 27,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 8
+        "recuperados_total": 9
     },
     {
         "pais": "ME",
@@ -2114,9 +2114,9 @@
     {
         "pais": "SS",
         "nombre": "Sudan del Sur",
-        "casos_total": 4,
-        "casos_nuevos": 0,
-        "casos_activos": 4,
+        "casos_total": 5,
+        "casos_nuevos": 1,
+        "casos_activos": 5,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -2314,11 +2314,11 @@
         "nombre": "Yemen",
         "casos_total": 1,
         "casos_nuevos": 0,
-        "casos_activos": 1,
+        "casos_activos": 0,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 0
+        "recuperados_total": 1
     },
     {
         "pais": "ZM",
