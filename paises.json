@@ -13,13 +13,13 @@
     {
         "pais": "AL",
         "nombre": "Albania",
-        "casos_total": 678,
-        "casos_nuevos": 0,
-        "casos_activos": 257,
+        "casos_total": 712,
+        "casos_nuevos": 34,
+        "casos_activos": 282,
         "casos_criticos": 4,
         "fallecidos_total": 27,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 394
+        "recuperados_total": 403
     },
     {
         "pais": "DE",
@@ -706,13 +706,13 @@
     {
         "pais": "EE",
         "nombre": "Estonia",
-        "casos_total": 1605,
-        "casos_nuevos": 0,
-        "casos_activos": 1353,
+        "casos_total": 1635,
+        "casos_nuevos": 30,
+        "casos_activos": 1361,
         "casos_criticos": 6,
         "fallecidos_total": 46,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 206
+        "recuperados_total": 228
     },
     {
         "pais": "ET",
@@ -1399,13 +1399,13 @@
     {
         "pais": "MA",
         "nombre": "Marruecos",
-        "casos_total": 3758,
-        "casos_nuevos": 0,
-        "casos_activos": 3114,
+        "casos_total": 3889,
+        "casos_nuevos": 131,
+        "casos_activos": 3232,
         "casos_criticos": 1,
-        "fallecidos_total": 158,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 486
+        "fallecidos_total": 159,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 498
     },
     {
         "pais": "MQ",
@@ -1850,24 +1850,24 @@
     {
         "pais": "RO",
         "nombre": "Rumania",
-        "casos_total": 10417,
-        "casos_nuevos": 0,
-        "casos_activos": 7025,
-        "casos_criticos": 241,
+        "casos_total": 10635,
+        "casos_nuevos": 218,
+        "casos_activos": 7170,
+        "casos_criticos": 235,
         "fallecidos_total": 575,
         "fallecidos_nuevos": 8,
-        "recuperados_total": 2817
+        "recuperados_total": 2890
     },
     {
         "pais": "RU",
         "nombre": "Rusia",
-        "casos_total": 68622,
-        "casos_nuevos": 0,
-        "casos_activos": 62439,
+        "casos_total": 74588,
+        "casos_nuevos": 5966,
+        "casos_activos": 67657,
         "casos_criticos": 2300,
-        "fallecidos_total": 615,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 5568
+        "fallecidos_total": 681,
+        "fallecidos_nuevos": 66,
+        "recuperados_total": 6250
     },
     {
         "pais": "EH",
