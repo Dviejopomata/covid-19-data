@@ -81,12 +81,12 @@
     },
     {
         "nombre": "Argentina",
-        "casos_total": 3607,
-        "casos_nuevos": 0,
-        "casos_activos": 2398,
+        "casos_total": 3780,
+        "casos_nuevos": 173,
+        "casos_activos": 2565,
         "casos_criticos": 144,
-        "fallecidos_total": 179,
-        "fallecidos_nuevos": 3,
+        "fallecidos_total": 185,
+        "fallecidos_nuevos": 9,
         "recuperados_total": 1030
     },
     {
@@ -631,12 +631,12 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 957356,
-        "casos_nuevos": 32124,
-        "casos_activos": 787011,
+        "casos_total": 957505,
+        "casos_nuevos": 32273,
+        "casos_activos": 787144,
         "casos_criticos": 15110,
-        "fallecidos_total": 54144,
-        "fallecidos_nuevos": 1951,
+        "fallecidos_total": 54160,
+        "fallecidos_nuevos": 1967,
         "recuperados_total": 116201
     },
     {
@@ -701,13 +701,13 @@
     },
     {
         "nombre": "Gabon",
-        "casos_total": 172,
-        "casos_nuevos": 0,
+        "casos_total": 176,
+        "casos_nuevos": 4,
         "casos_activos": 143,
         "casos_criticos": 1,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 26
+        "recuperados_total": 30
     },
     {
         "nombre": "Gambia",
@@ -1241,9 +1241,9 @@
     },
     {
         "nombre": "Maldivas",
-        "casos_total": 141,
-        "casos_nuevos": 12,
-        "casos_activos": 124,
+        "casos_total": 177,
+        "casos_nuevos": 48,
+        "casos_activos": 160,
         "casos_criticos": 2,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1281,10 +1281,10 @@
     },
     {
         "nombre": "Martinica",
-        "casos_total": 170,
-        "casos_nuevos": 0,
-        "casos_activos": 79,
-        "casos_criticos": 6,
+        "casos_total": 175,
+        "casos_nuevos": 5,
+        "casos_activos": 84,
+        "casos_criticos": 7,
         "fallecidos_total": 14,
         "fallecidos_nuevos": 0,
         "recuperados_total": 77
@@ -1491,13 +1491,13 @@
     },
     {
         "nombre": "Pakistan",
-        "casos_total": 12644,
-        "casos_nuevos": 704,
-        "casos_activos": 9621,
+        "casos_total": 12723,
+        "casos_nuevos": 783,
+        "casos_activos": 9588,
         "casos_criticos": 111,
-        "fallecidos_total": 268,
-        "fallecidos_nuevos": 15,
-        "recuperados_total": 2755
+        "fallecidos_total": 269,
+        "fallecidos_nuevos": 16,
+        "recuperados_total": 2866
     },
     {
         "nombre": "Panama",
@@ -2081,10 +2081,10 @@
     },
     {
         "nombre": "Venezuela",
-        "casos_total": 318,
-        "casos_nuevos": 0,
-        "casos_activos": 176,
-        "casos_criticos": 4,
+        "casos_total": 323,
+        "casos_nuevos": 5,
+        "casos_activos": 181,
+        "casos_criticos": 3,
         "fallecidos_total": 10,
         "fallecidos_nuevos": 0,
         "recuperados_total": 132
