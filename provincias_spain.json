@@ -561,13 +561,13 @@
     },
     {
         "nombre": "El Salvador",
-        "casos_total": 261,
-        "casos_nuevos": 0,
-        "casos_activos": 181,
+        "casos_total": 274,
+        "casos_nuevos": 13,
+        "casos_activos": 191,
         "casos_criticos": 2,
         "fallecidos_total": 8,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 72
+        "recuperados_total": 75
     },
     {
         "nombre": "Emiratos Arabes Unidos",
@@ -631,12 +631,12 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 925232,
-        "casos_nuevos": 0,
-        "casos_activos": 762607,
+        "casos_total": 925758,
+        "casos_nuevos": 526,
+        "casos_activos": 763109,
         "casos_criticos": 15097,
-        "fallecidos_total": 52193,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 52217,
+        "fallecidos_nuevos": 24,
         "recuperados_total": 110432
     },
     {
@@ -1081,9 +1081,9 @@
     },
     {
         "nombre": "Kazajistan",
-        "casos_total": 2416,
-        "casos_nuevos": 0,
-        "casos_activos": 1787,
+        "casos_total": 2482,
+        "casos_nuevos": 66,
+        "casos_activos": 1853,
         "casos_criticos": 29,
         "fallecidos_total": 25,
         "fallecidos_nuevos": 0,
@@ -1373,10 +1373,10 @@
         "nombre": "Montserrat",
         "casos_total": 11,
         "casos_nuevos": 0,
-        "casos_activos": 9,
+        "casos_activos": 8,
         "casos_criticos": 1,
-        "fallecidos_total": 0,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 1,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 2
     },
     {
