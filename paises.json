@@ -68,13 +68,13 @@
     {
         "pais": "SA",
         "nombre": "Arabia Saudita",
-        "casos_total": 16299,
-        "casos_nuevos": 0,
-        "casos_activos": 13948,
+        "casos_total": 17522,
+        "casos_nuevos": 1223,
+        "casos_activos": 15026,
         "casos_criticos": 115,
-        "fallecidos_total": 136,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 2215
+        "fallecidos_total": 139,
+        "fallecidos_nuevos": 3,
+        "recuperados_total": 2357
     },
     {
         "pais": "DZ",
@@ -398,13 +398,13 @@
     {
         "pais": "CM",
         "nombre": "Camerun",
-        "casos_total": 1518,
-        "casos_nuevos": 0,
-        "casos_activos": 768,
-        "casos_criticos": 28,
-        "fallecidos_total": 53,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 697
+        "casos_total": 1621,
+        "casos_nuevos": 103,
+        "casos_activos": 779,
+        "casos_criticos": 12,
+        "fallecidos_total": 56,
+        "fallecidos_nuevos": 3,
+        "recuperados_total": 786
     },
     {
         "pais": "CA",
@@ -574,13 +574,13 @@
     {
         "pais": "DK",
         "nombre": "Dinamarca",
-        "casos_total": 8445,
-        "casos_nuevos": 0,
-        "casos_activos": 2358,
+        "casos_total": 8575,
+        "casos_nuevos": 130,
+        "casos_activos": 2348,
         "casos_criticos": 70,
-        "fallecidos_total": 418,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 5669
+        "fallecidos_total": 422,
+        "fallecidos_nuevos": 4,
+        "recuperados_total": 5805
     },
     {
         "pais": "DM",
@@ -1192,10 +1192,10 @@
         "nombre": "Kazajistan",
         "casos_total": 2693,
         "casos_nuevos": 92,
-        "casos_activos": 1990,
+        "casos_activos": 1991,
         "casos_criticos": 31,
-        "fallecidos_total": 26,
-        "fallecidos_nuevos": 1,
+        "fallecidos_total": 25,
+        "fallecidos_nuevos": 0,
         "recuperados_total": 677
     },
     {
@@ -1467,11 +1467,11 @@
         "nombre": "Moldavia",
         "casos_total": 3304,
         "casos_nuevos": 0,
-        "casos_activos": 2385,
+        "casos_activos": 2315,
         "casos_criticos": 212,
         "fallecidos_total": 94,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 825
+        "recuperados_total": 895
     },
     {
         "pais": "MC",
@@ -1542,9 +1542,9 @@
     {
         "pais": "NP",
         "nombre": "Nepal",
-        "casos_total": 51,
-        "casos_nuevos": 2,
-        "casos_activos": 35,
+        "casos_total": 52,
+        "casos_nuevos": 3,
+        "casos_activos": 36,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1993,13 +1993,13 @@
     {
         "pais": "SN",
         "nombre": "Senegal",
-        "casos_total": 614,
-        "casos_nuevos": 0,
-        "casos_activos": 331,
+        "casos_total": 671,
+        "casos_nuevos": 57,
+        "casos_activos": 380,
         "casos_criticos": 1,
-        "fallecidos_total": 7,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 276
+        "fallecidos_total": 8,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 283
     },
     {
         "pais": "RS",
@@ -2070,9 +2070,9 @@
     {
         "pais": "LK",
         "nombre": "Sri Lanka",
-        "casos_total": 471,
-        "casos_nuevos": 19,
-        "casos_activos": 344,
+        "casos_total": 477,
+        "casos_nuevos": 25,
+        "casos_activos": 350,
         "casos_criticos": 2,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
@@ -2279,13 +2279,13 @@
     {
         "pais": "UZ",
         "nombre": "Uzbekistan",
-        "casos_total": 1865,
-        "casos_nuevos": 3,
-        "casos_activos": 1094,
+        "casos_total": 1869,
+        "casos_nuevos": 7,
+        "casos_activos": 1096,
         "casos_criticos": 8,
         "fallecidos_total": 8,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 763
+        "recuperados_total": 765
     },
     {
         "pais": "VE",
