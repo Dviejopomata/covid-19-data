@@ -21,12 +21,12 @@
     },
     {
         "nombre": "Alemania",
-        "casos_total": 156513,
-        "casos_nuevos": 0,
-        "casos_activos": 40836,
+        "casos_total": 156727,
+        "casos_nuevos": 214,
+        "casos_activos": 41047,
         "casos_criticos": 2570,
-        "fallecidos_total": 5877,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 5880,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 109800
     },
     {
@@ -83,11 +83,11 @@
         "nombre": "Argentina",
         "casos_total": 3780,
         "casos_nuevos": 0,
-        "casos_activos": 2565,
+        "casos_activos": 2486,
         "casos_criticos": 144,
-        "fallecidos_total": 185,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1030
+        "fallecidos_total": 187,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 1107
     },
     {
         "nombre": "Armenia",
@@ -163,11 +163,11 @@
         "nombre": "Barbados",
         "casos_total": 79,
         "casos_nuevos": 0,
-        "casos_activos": 42,
+        "casos_activos": 41,
         "casos_criticos": 4,
         "fallecidos_total": 6,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 31
+        "recuperados_total": 32
     },
     {
         "nombre": "Barein",
@@ -301,12 +301,12 @@
     },
     {
         "nombre": "Bulgaria",
-        "casos_total": 1290,
-        "casos_nuevos": 43,
-        "casos_activos": 1030,
-        "casos_criticos": 37,
-        "fallecidos_total": 55,
-        "fallecidos_nuevos": 0,
+        "casos_total": 1300,
+        "casos_nuevos": 53,
+        "casos_activos": 1039,
+        "casos_criticos": 41,
+        "fallecidos_total": 56,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 205
     },
     {
@@ -623,20 +623,20 @@
         "nombre": "Estado de Palestina",
         "casos_total": 342,
         "casos_nuevos": 0,
-        "casos_activos": 248,
+        "casos_activos": 257,
         "casos_criticos": 0,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 92
+        "recuperados_total": 83
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 960896,
-        "casos_nuevos": 245,
-        "casos_activos": 788469,
+        "casos_total": 961500,
+        "casos_nuevos": 849,
+        "casos_activos": 789061,
         "casos_criticos": 15110,
-        "fallecidos_total": 54265,
-        "fallecidos_nuevos": 9,
+        "fallecidos_total": 54277,
+        "fallecidos_nuevos": 21,
         "recuperados_total": 118162
     },
     {
@@ -1241,9 +1241,9 @@
     },
     {
         "nombre": "Maldivas",
-        "casos_total": 177,
-        "casos_nuevos": 0,
-        "casos_activos": 160,
+        "casos_total": 191,
+        "casos_nuevos": 14,
+        "casos_activos": 174,
         "casos_criticos": 2,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
