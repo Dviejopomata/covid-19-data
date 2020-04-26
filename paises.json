@@ -695,13 +695,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 961500,
-        "casos_nuevos": 849,
-        "casos_activos": 789061,
+        "casos_total": 963472,
+        "casos_nuevos": 2821,
+        "casos_activos": 790779,
         "casos_criticos": 15110,
-        "fallecidos_total": 54277,
-        "fallecidos_nuevos": 21,
-        "recuperados_total": 118162
+        "fallecidos_total": 54357,
+        "fallecidos_nuevos": 101,
+        "recuperados_total": 118336
     },
     {
         "pais": "EE",
@@ -926,12 +926,12 @@
     {
         "pais": "GW",
         "nombre": "Guinea-Bisau",
-        "casos_total": 52,
-        "casos_nuevos": 0,
+        "casos_total": 53,
+        "casos_nuevos": 1,
         "casos_activos": 49,
         "casos_criticos": 0,
-        "fallecidos_total": 0,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 1,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 3
     },
     {
@@ -1201,13 +1201,13 @@
     {
         "pais": "KE",
         "nombre": "Kenia",
-        "casos_total": 343,
-        "casos_nuevos": 0,
-        "casos_activos": 231,
+        "casos_total": 355,
+        "casos_nuevos": 12,
+        "casos_activos": 235,
         "casos_criticos": 2,
         "fallecidos_total": 14,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 98
+        "recuperados_total": 106
     },
     {
         "pais": "KG",
@@ -1633,7 +1633,7 @@
         "casos_total": 37845,
         "casos_nuevos": 655,
         "casos_activos": 33120,
-        "casos_criticos": 959,
+        "casos_criticos": 934,
         "fallecidos_total": 4475,
         "fallecidos_nuevos": 66,
         "recuperados_total": 0
@@ -1762,13 +1762,13 @@
     {
         "pais": "DO",
         "nombre": "Republica Dominicana",
-        "casos_total": 5926,
-        "casos_nuevos": 0,
-        "casos_activos": 4831,
+        "casos_total": 6135,
+        "casos_nuevos": 209,
+        "casos_activos": 4947,
         "casos_criticos": 136,
-        "fallecidos_total": 273,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 822
+        "fallecidos_total": 278,
+        "fallecidos_nuevos": 5,
+        "recuperados_total": 910
     },
     {
         "pais": "CF",
