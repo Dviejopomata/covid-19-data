@@ -103,11 +103,11 @@
         "nombre": "Aruba",
         "casos_total": 100,
         "casos_nuevos": 0,
-        "casos_activos": 29,
+        "casos_activos": 25,
         "casos_criticos": 4,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 69
+        "recuperados_total": 73
     },
     {
         "nombre": "Australia",
@@ -461,13 +461,13 @@
     },
     {
         "nombre": "Costa Rica",
-        "casos_total": 693,
-        "casos_nuevos": 0,
-        "casos_activos": 445,
-        "casos_criticos": 7,
+        "casos_total": 695,
+        "casos_nuevos": 2,
+        "casos_activos": 425,
+        "casos_criticos": 8,
         "fallecidos_total": 6,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 242
+        "recuperados_total": 264
     },
     {
         "nombre": "Costa de Marfil",
@@ -631,13 +631,13 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 976176,
-        "casos_nuevos": 15525,
-        "casos_activos": 802585,
+        "casos_total": 977572,
+        "casos_nuevos": 16921,
+        "casos_activos": 803870,
         "casos_criticos": 15116,
-        "fallecidos_total": 54958,
-        "fallecidos_nuevos": 702,
-        "recuperados_total": 118633
+        "fallecidos_total": 55009,
+        "fallecidos_nuevos": 753,
+        "recuperados_total": 118693
     },
     {
         "nombre": "Estonia",
@@ -901,13 +901,13 @@
     },
     {
         "nombre": "India",
-        "casos_total": 26917,
-        "casos_nuevos": 634,
-        "casos_activos": 20152,
+        "casos_total": 27890,
+        "casos_nuevos": 1607,
+        "casos_activos": 20485,
         "casos_criticos": 0,
-        "fallecidos_total": 826,
-        "fallecidos_nuevos": 1,
-        "recuperados_total": 5939
+        "fallecidos_total": 882,
+        "fallecidos_nuevos": 57,
+        "recuperados_total": 6523
     },
     {
         "nombre": "Indonesia",
@@ -1671,13 +1671,13 @@
     },
     {
         "nombre": "Ruanda",
-        "casos_total": 183,
-        "casos_nuevos": 0,
-        "casos_activos": 95,
+        "casos_total": 191,
+        "casos_nuevos": 8,
+        "casos_activos": 99,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 88
+        "recuperados_total": 92
     },
     {
         "nombre": "Rumania",
@@ -1881,9 +1881,9 @@
     },
     {
         "nombre": "Sri Lanka",
-        "casos_total": 505,
-        "casos_nuevos": 53,
-        "casos_activos": 378,
+        "casos_total": 523,
+        "casos_nuevos": 71,
+        "casos_activos": 396,
         "casos_criticos": 2,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
