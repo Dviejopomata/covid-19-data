@@ -123,13 +123,13 @@
     {
         "pais": "AU",
         "nombre": "Australia",
-        "casos_total": 6716,
-        "casos_nuevos": 0,
-        "casos_activos": 1073,
-        "casos_criticos": 42,
+        "casos_total": 6719,
+        "casos_nuevos": 3,
+        "casos_activos": 1052,
+        "casos_criticos": 43,
         "fallecidos_total": 83,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 5560
+        "recuperados_total": 5584
     },
     {
         "pais": "AT",
@@ -497,13 +497,13 @@
     {
         "pais": "KR",
         "nombre": "Corea del Sur",
-        "casos_total": 10728,
-        "casos_nuevos": 0,
-        "casos_activos": 1769,
+        "casos_total": 10738,
+        "casos_nuevos": 10,
+        "casos_activos": 1731,
         "casos_criticos": 55,
-        "fallecidos_total": 242,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 8717
+        "fallecidos_total": 243,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 8764
     },
     {
         "pais": "CR",
@@ -1608,13 +1608,13 @@
     {
         "pais": "NZ",
         "nombre": "Nueva Zelanda",
-        "casos_total": 1470,
+        "casos_total": 1469,
         "casos_nuevos": 0,
-        "casos_activos": 310,
+        "casos_activos": 270,
         "casos_criticos": 1,
-        "fallecidos_total": 18,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1142
+        "fallecidos_total": 19,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 1180
     },
     {
         "pais": "OM",
