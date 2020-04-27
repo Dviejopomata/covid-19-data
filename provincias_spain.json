@@ -631,12 +631,12 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 987160,
-        "casos_nuevos": 0,
-        "casos_activos": 812966,
+        "casos_total": 987322,
+        "casos_nuevos": 162,
+        "casos_activos": 813126,
         "casos_criticos": 15143,
-        "fallecidos_total": 55413,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 55415,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 118781
     },
     {
@@ -1493,11 +1493,11 @@
         "nombre": "Pakistan",
         "casos_total": 13328,
         "casos_nuevos": 0,
-        "casos_activos": 10111,
+        "casos_activos": 10018,
         "casos_criticos": 111,
         "fallecidos_total": 281,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 2936
+        "recuperados_total": 3029
     },
     {
         "nombre": "Panama",
