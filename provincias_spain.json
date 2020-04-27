@@ -23,11 +23,11 @@
         "nombre": "Alemania",
         "casos_total": 157770,
         "casos_nuevos": 0,
-        "casos_activos": 39794,
+        "casos_activos": 37294,
         "casos_criticos": 2570,
         "fallecidos_total": 5976,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 112000
+        "recuperados_total": 114500
     },
     {
         "nombre": "Angola",
@@ -891,19 +891,19 @@
     },
     {
         "nombre": "Hungria",
-        "casos_total": 2500,
-        "casos_nuevos": 0,
-        "casos_activos": 1743,
+        "casos_total": 2583,
+        "casos_nuevos": 83,
+        "casos_activos": 1805,
         "casos_criticos": 61,
-        "fallecidos_total": 272,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 485
+        "fallecidos_total": 280,
+        "fallecidos_nuevos": 8,
+        "recuperados_total": 498
     },
     {
         "nombre": "India",
-        "casos_total": 27964,
-        "casos_nuevos": 74,
-        "casos_activos": 20557,
+        "casos_total": 27977,
+        "casos_nuevos": 87,
+        "casos_activos": 20570,
         "casos_criticos": 0,
         "fallecidos_total": 884,
         "fallecidos_nuevos": 3,
@@ -1054,7 +1054,7 @@
         "casos_total": 350,
         "casos_nuevos": 45,
         "casos_activos": 315,
-        "casos_criticos": 0,
+        "casos_criticos": 3,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
         "recuperados_total": 28
