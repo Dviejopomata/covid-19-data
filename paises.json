@@ -35,9 +35,9 @@
     {
         "pais": "AO",
         "nombre": "Angola",
-        "casos_total": 26,
-        "casos_nuevos": 0,
-        "casos_activos": 18,
+        "casos_total": 27,
+        "casos_nuevos": 1,
+        "casos_activos": 19,
         "casos_criticos": 0,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
@@ -508,13 +508,13 @@
     {
         "pais": "CR",
         "nombre": "Costa Rica",
-        "casos_total": 695,
-        "casos_nuevos": 0,
-        "casos_activos": 425,
+        "casos_total": 697,
+        "casos_nuevos": 2,
+        "casos_activos": 404,
         "casos_criticos": 8,
         "fallecidos_total": 6,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 264
+        "recuperados_total": 287
     },
     {
         "pais": "CI",
@@ -695,13 +695,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 999536,
-        "casos_nuevos": 12376,
-        "casos_activos": 806084,
+        "casos_total": 1000441,
+        "casos_nuevos": 13281,
+        "casos_activos": 806690,
         "casos_criticos": 14175,
-        "fallecidos_total": 56180,
-        "fallecidos_nuevos": 767,
-        "recuperados_total": 137272
+        "fallecidos_total": 56286,
+        "fallecidos_nuevos": 873,
+        "recuperados_total": 137465
     },
     {
         "pais": "EE",
@@ -1839,13 +1839,13 @@
     {
         "pais": "RW",
         "nombre": "Ruanda",
-        "casos_total": 191,
-        "casos_nuevos": 0,
-        "casos_activos": 99,
+        "casos_total": 207,
+        "casos_nuevos": 16,
+        "casos_activos": 114,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 92
+        "recuperados_total": 93
     },
     {
         "pais": "RO",
