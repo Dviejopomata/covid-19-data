@@ -151,13 +151,13 @@
     },
     {
         "nombre": "Banglades",
-        "casos_total": 5416,
-        "casos_nuevos": 0,
-        "casos_activos": 5149,
+        "casos_total": 5913,
+        "casos_nuevos": 497,
+        "casos_activos": 5630,
         "casos_criticos": 1,
-        "fallecidos_total": 145,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 122
+        "fallecidos_total": 152,
+        "fallecidos_nuevos": 7,
+        "recuperados_total": 131
     },
     {
         "nombre": "Barbados",
@@ -1221,13 +1221,13 @@
     },
     {
         "nombre": "Malasia",
-        "casos_total": 5780,
-        "casos_nuevos": 0,
-        "casos_activos": 1820,
-        "casos_criticos": 36,
-        "fallecidos_total": 98,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 3862
+        "casos_total": 5820,
+        "casos_nuevos": 40,
+        "casos_activos": 1764,
+        "casos_criticos": 37,
+        "fallecidos_total": 99,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 3957
     },
     {
         "nombre": "Malaui",
@@ -1443,10 +1443,10 @@
         "nombre": "Noruega",
         "casos_total": 7527,
         "casos_nuevos": 0,
-        "casos_activos": 7294,
+        "casos_activos": 7293,
         "casos_criticos": 49,
-        "fallecidos_total": 201,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 202,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 32
     },
     {
@@ -1883,11 +1883,11 @@
         "nombre": "Sri Lanka",
         "casos_total": 523,
         "casos_nuevos": 0,
-        "casos_activos": 396,
+        "casos_activos": 390,
         "casos_criticos": 2,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 120
+        "recuperados_total": 126
     },
     {
         "nombre": "Suazilandia",
@@ -2073,11 +2073,11 @@
         "nombre": "Uzbekistan",
         "casos_total": 1887,
         "casos_nuevos": 18,
-        "casos_activos": 1090,
+        "casos_activos": 1075,
         "casos_criticos": 8,
         "fallecidos_total": 8,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 789
+        "recuperados_total": 804
     },
     {
         "nombre": "Venezuela",
