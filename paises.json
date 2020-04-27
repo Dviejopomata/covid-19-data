@@ -574,9 +574,9 @@
     {
         "pais": "DK",
         "nombre": "Dinamarca",
-        "casos_total": 8575,
-        "casos_nuevos": 0,
-        "casos_activos": 2348,
+        "casos_total": 8698,
+        "casos_nuevos": 123,
+        "casos_activos": 2471,
         "casos_criticos": 70,
         "fallecidos_total": 422,
         "fallecidos_nuevos": 0,
@@ -728,13 +728,13 @@
     {
         "pais": "PH",
         "nombre": "Filipinas",
-        "casos_total": 7579,
-        "casos_nuevos": 0,
-        "casos_activos": 6216,
-        "casos_criticos": 1,
-        "fallecidos_total": 501,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 862
+        "casos_total": 7777,
+        "casos_nuevos": 198,
+        "casos_activos": 6334,
+        "casos_criticos": 31,
+        "fallecidos_total": 511,
+        "fallecidos_nuevos": 10,
+        "recuperados_total": 932
     },
     {
         "pais": "FI",
@@ -1190,9 +1190,9 @@
     {
         "pais": "KZ",
         "nombre": "Kazajistan",
-        "casos_total": 2780,
-        "casos_nuevos": 63,
-        "casos_activos": 2073,
+        "casos_total": 2791,
+        "casos_nuevos": 74,
+        "casos_activos": 2084,
         "casos_criticos": 35,
         "fallecidos_total": 25,
         "fallecidos_nuevos": 0,
@@ -1707,12 +1707,12 @@
     {
         "pais": "PL",
         "nombre": "Polonia",
-        "casos_total": 11617,
-        "casos_nuevos": 0,
-        "casos_activos": 8616,
+        "casos_total": 11761,
+        "casos_nuevos": 144,
+        "casos_activos": 8756,
         "casos_criticos": 160,
-        "fallecidos_total": 535,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 539,
+        "fallecidos_nuevos": 4,
         "recuperados_total": 2466
     },
     {
@@ -1852,22 +1852,22 @@
         "nombre": "Rumania",
         "casos_total": 11036,
         "casos_nuevos": 0,
-        "casos_activos": 7363,
+        "casos_activos": 7354,
         "casos_criticos": 236,
-        "fallecidos_total": 619,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 628,
+        "fallecidos_nuevos": 9,
         "recuperados_total": 3054
     },
     {
         "pais": "RU",
         "nombre": "Rusia",
-        "casos_total": 80949,
-        "casos_nuevos": 0,
-        "casos_activos": 73435,
+        "casos_total": 87147,
+        "casos_nuevos": 6198,
+        "casos_activos": 79007,
         "casos_criticos": 2300,
-        "fallecidos_total": 747,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 6767
+        "fallecidos_total": 794,
+        "fallecidos_nuevos": 47,
+        "recuperados_total": 7346
     },
     {
         "pais": "EH",
