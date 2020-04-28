@@ -21,12 +21,12 @@
     },
     {
         "nombre": "Alemania",
-        "casos_total": 159137,
-        "casos_nuevos": 379,
-        "casos_activos": 35563,
+        "casos_total": 159239,
+        "casos_nuevos": 481,
+        "casos_activos": 35662,
         "casos_criticos": 2409,
-        "fallecidos_total": 6174,
-        "fallecidos_nuevos": 48,
+        "fallecidos_total": 6177,
+        "fallecidos_nuevos": 51,
         "recuperados_total": 117400
     },
     {
@@ -74,7 +74,7 @@
         "casos_total": 3649,
         "casos_nuevos": 132,
         "casos_activos": 1561,
-        "casos_criticos": 40,
+        "casos_criticos": 22,
         "fallecidos_total": 437,
         "fallecidos_nuevos": 5,
         "recuperados_total": 1651
@@ -124,7 +124,7 @@
         "casos_total": 15357,
         "casos_nuevos": 83,
         "casos_activos": 2208,
-        "casos_criticos": 140,
+        "casos_criticos": 136,
         "fallecidos_total": 569,
         "fallecidos_nuevos": 20,
         "recuperados_total": 12580
@@ -371,13 +371,13 @@
     },
     {
         "nombre": "Canada",
-        "casos_total": 49025,
-        "casos_nuevos": 525,
-        "casos_activos": 27991,
+        "casos_total": 49040,
+        "casos_nuevos": 540,
+        "casos_activos": 27550,
         "casos_criticos": 557,
-        "fallecidos_total": 2766,
-        "fallecidos_nuevos": 59,
-        "recuperados_total": 18268
+        "fallecidos_total": 2769,
+        "fallecidos_nuevos": 62,
+        "recuperados_total": 18721
     },
     {
         "nombre": "Catar",
@@ -541,12 +541,12 @@
     },
     {
         "nombre": "Ecuador",
-        "casos_total": 23240,
-        "casos_nuevos": 0,
-        "casos_activos": 21020,
+        "casos_total": 24258,
+        "casos_nuevos": 1018,
+        "casos_activos": 21830,
         "casos_criticos": 146,
-        "fallecidos_total": 663,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 871,
+        "fallecidos_nuevos": 208,
         "recuperados_total": 1557
     },
     {
@@ -1491,9 +1491,9 @@
     },
     {
         "nombre": "Pakistan",
-        "casos_total": 14514,
-        "casos_nuevos": 599,
-        "casos_activos": 10969,
+        "casos_total": 14612,
+        "casos_nuevos": 697,
+        "casos_activos": 11067,
         "casos_criticos": 111,
         "fallecidos_total": 312,
         "fallecidos_nuevos": 20,
@@ -1651,13 +1651,13 @@
     },
     {
         "nombre": "Republica del Chad",
-        "casos_total": 46,
-        "casos_nuevos": 0,
+        "casos_total": 52,
+        "casos_nuevos": 6,
         "casos_activos": 31,
         "casos_criticos": 0,
-        "fallecidos_total": 0,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 15
+        "fallecidos_total": 2,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 19
     },
     {
         "nombre": "Reunion",
