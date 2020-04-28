@@ -1,13 +1,13 @@
 [
     {
         "nombre": "Afganistan",
-        "casos_total": 1703,
-        "casos_nuevos": 0,
-        "casos_activos": 1426,
+        "casos_total": 1828,
+        "casos_nuevos": 125,
+        "casos_activos": 1542,
         "casos_criticos": 7,
-        "fallecidos_total": 57,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 220
+        "fallecidos_total": 58,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 228
     },
     {
         "nombre": "Albania",
@@ -521,9 +521,9 @@
     },
     {
         "nombre": "Dinamarca",
-        "casos_total": 8698,
-        "casos_nuevos": 0,
-        "casos_activos": 2312,
+        "casos_total": 8851,
+        "casos_nuevos": 153,
+        "casos_activos": 2465,
         "casos_criticos": 72,
         "fallecidos_total": 427,
         "fallecidos_nuevos": 0,
@@ -661,13 +661,13 @@
     },
     {
         "nombre": "Filipinas",
-        "casos_total": 7777,
-        "casos_nuevos": 0,
-        "casos_activos": 6334,
+        "casos_total": 7958,
+        "casos_nuevos": 181,
+        "casos_activos": 6453,
         "casos_criticos": 31,
-        "fallecidos_total": 511,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 932
+        "fallecidos_total": 530,
+        "fallecidos_nuevos": 19,
+        "recuperados_total": 975
     },
     {
         "nombre": "Finlandia",
@@ -1551,12 +1551,12 @@
     },
     {
         "nombre": "Polonia",
-        "casos_total": 11902,
-        "casos_nuevos": 0,
-        "casos_activos": 8685,
+        "casos_total": 12089,
+        "casos_nuevos": 187,
+        "casos_activos": 8864,
         "casos_criticos": 160,
-        "fallecidos_total": 562,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 570,
+        "fallecidos_nuevos": 8,
         "recuperados_total": 2655
     },
     {
@@ -1691,13 +1691,13 @@
     },
     {
         "nombre": "Rusia",
-        "casos_total": 87147,
-        "casos_nuevos": 0,
-        "casos_activos": 79007,
+        "casos_total": 93558,
+        "casos_nuevos": 6411,
+        "casos_activos": 84235,
         "casos_criticos": 2300,
-        "fallecidos_total": 794,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 7346
+        "fallecidos_total": 867,
+        "fallecidos_nuevos": 73,
+        "recuperados_total": 8456
     },
     {
         "nombre": "Sahara Occidental",
@@ -2073,11 +2073,11 @@
         "nombre": "Uzbekistan",
         "casos_total": 1924,
         "casos_nuevos": 20,
-        "casos_activos": 1024,
+        "casos_activos": 1016,
         "casos_criticos": 8,
         "fallecidos_total": 8,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 892
+        "recuperados_total": 900
     },
     {
         "nombre": "Venezuela",
