@@ -255,9 +255,9 @@
     {
         "pais": "MM",
         "nombre": "Birmania",
-        "casos_total": 146,
-        "casos_nuevos": 0,
-        "casos_activos": 125,
+        "casos_total": 149,
+        "casos_nuevos": 3,
+        "casos_activos": 128,
         "casos_criticos": 0,
         "fallecidos_total": 5,
         "fallecidos_nuevos": 0,
@@ -695,13 +695,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1011408,
-        "casos_nuevos": 1052,
-        "casos_activos": 815135,
+        "casos_total": 1012147,
+        "casos_nuevos": 1791,
+        "casos_activos": 815795,
         "casos_criticos": 14187,
-        "fallecidos_total": 56855,
-        "fallecidos_nuevos": 58,
-        "recuperados_total": 139418
+        "fallecidos_total": 56933,
+        "fallecidos_nuevos": 136,
+        "recuperados_total": 139419
     },
     {
         "pais": "EE",
@@ -741,11 +741,11 @@
         "nombre": "Finlandia",
         "casos_total": 4740,
         "casos_nuevos": 45,
-        "casos_activos": 2047,
+        "casos_activos": 1741,
         "casos_criticos": 56,
-        "fallecidos_total": 193,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 2500
+        "fallecidos_total": 199,
+        "fallecidos_nuevos": 6,
+        "recuperados_total": 2800
     },
     {
         "pais": "FJ",
@@ -1465,12 +1465,12 @@
     {
         "pais": "MD",
         "nombre": "Moldavia",
-        "casos_total": 3481,
-        "casos_nuevos": 0,
-        "casos_activos": 2454,
+        "casos_total": 3638,
+        "casos_nuevos": 157,
+        "casos_activos": 2610,
         "casos_criticos": 212,
-        "fallecidos_total": 102,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 103,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 925
     },
     {
@@ -1927,9 +1927,9 @@
     {
         "pais": "SX",
         "nombre": "San Martin (Parte Holandesa)",
-        "casos_total": 74,
-        "casos_nuevos": 0,
-        "casos_activos": 28,
+        "casos_total": 75,
+        "casos_nuevos": 1,
+        "casos_activos": 29,
         "casos_criticos": 7,
         "fallecidos_total": 13,
         "fallecidos_nuevos": 0,
