@@ -367,11 +367,11 @@
         "nombre": "Butan",
         "casos_total": 7,
         "casos_nuevos": 0,
-        "casos_activos": 3,
+        "casos_activos": 2,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 4
+        "recuperados_total": 5
     },
     {
         "pais": "CV",
@@ -697,11 +697,11 @@
         "nombre": "Estados Unidos",
         "casos_total": 1010507,
         "casos_nuevos": 151,
-        "casos_activos": 814714,
+        "casos_activos": 814542,
         "casos_criticos": 14186,
         "fallecidos_total": 56803,
         "fallecidos_nuevos": 6,
-        "recuperados_total": 138990
+        "recuperados_total": 139162
     },
     {
         "pais": "EE",
@@ -2323,9 +2323,9 @@
     {
         "pais": "ZM",
         "nombre": "Zambia",
-        "casos_total": 88,
-        "casos_nuevos": 0,
-        "casos_activos": 43,
+        "casos_total": 89,
+        "casos_nuevos": 1,
+        "casos_activos": 44,
         "casos_criticos": 1,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
