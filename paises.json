@@ -101,13 +101,13 @@
     {
         "pais": "AM",
         "nombre": "Armenia",
-        "casos_total": 1808,
-        "casos_nuevos": 0,
-        "casos_activos": 931,
+        "casos_total": 1867,
+        "casos_nuevos": 59,
+        "casos_activos": 971,
         "casos_criticos": 10,
-        "fallecidos_total": 29,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 848
+        "fallecidos_total": 30,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 866
     },
     {
         "pais": "AW",
@@ -1135,13 +1135,13 @@
     {
         "pais": "IL",
         "nombre": "Israel",
-        "casos_total": 15555,
-        "casos_nuevos": 0,
-        "casos_activos": 8151,
-        "casos_criticos": 129,
-        "fallecidos_total": 204,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 7200
+        "casos_total": 15589,
+        "casos_nuevos": 34,
+        "casos_activos": 8006,
+        "casos_criticos": 117,
+        "fallecidos_total": 208,
+        "fallecidos_nuevos": 4,
+        "recuperados_total": 7375
     },
     {
         "pais": "IT",
@@ -1245,10 +1245,10 @@
     {
         "pais": "LV",
         "nombre": "Letonia",
-        "casos_total": 818,
-        "casos_nuevos": 0,
-        "casos_activos": 538,
-        "casos_criticos": 5,
+        "casos_total": 836,
+        "casos_nuevos": 18,
+        "casos_activos": 556,
+        "casos_criticos": 4,
         "fallecidos_total": 13,
         "fallecidos_nuevos": 0,
         "recuperados_total": 267
@@ -1709,11 +1709,11 @@
         "nombre": "Polonia",
         "casos_total": 11902,
         "casos_nuevos": 0,
-        "casos_activos": 8874,
+        "casos_activos": 8685,
         "casos_criticos": 160,
         "fallecidos_total": 562,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 2466
+        "recuperados_total": 2655
     },
     {
         "pais": "PT",
@@ -2037,9 +2037,9 @@
     {
         "pais": "SG",
         "nombre": "Singapur",
-        "casos_total": 14423,
-        "casos_nuevos": 0,
-        "casos_activos": 13314,
+        "casos_total": 14951,
+        "casos_nuevos": 528,
+        "casos_activos": 13842,
         "casos_criticos": 20,
         "fallecidos_total": 14,
         "fallecidos_nuevos": 0,
@@ -2193,11 +2193,11 @@
         "nombre": "Timor Oriental",
         "casos_total": 24,
         "casos_nuevos": 0,
-        "casos_activos": 22,
+        "casos_activos": 18,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 2
+        "recuperados_total": 6
     },
     {
         "pais": "TG",
