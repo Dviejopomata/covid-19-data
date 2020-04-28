@@ -695,13 +695,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1022259,
-        "casos_nuevos": 11903,
-        "casos_activos": 824470,
+        "casos_total": 1022265,
+        "casos_nuevos": 11909,
+        "casos_activos": 824466,
         "casos_criticos": 14145,
         "fallecidos_total": 57862,
         "fallecidos_nuevos": 1065,
-        "recuperados_total": 139927
+        "recuperados_total": 139937
     },
     {
         "pais": "EE",
@@ -1751,12 +1751,12 @@
     {
         "pais": "GB",
         "nombre": "Reino Unido",
-        "casos_total": 157149,
-        "casos_nuevos": 0,
-        "casos_activos": 135713,
+        "casos_total": 161145,
+        "casos_nuevos": 3996,
+        "casos_activos": 139123,
         "casos_criticos": 1559,
-        "fallecidos_total": 21092,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 21678,
+        "fallecidos_nuevos": 586,
         "recuperados_total": 0
     },
     {
@@ -2050,11 +2050,11 @@
         "nombre": "Siria",
         "casos_total": 43,
         "casos_nuevos": 0,
-        "casos_activos": 21,
+        "casos_activos": 19,
         "casos_criticos": 0,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 19
+        "recuperados_total": 21
     },
     {
         "pais": "SO",
