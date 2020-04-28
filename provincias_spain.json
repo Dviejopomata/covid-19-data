@@ -461,13 +461,13 @@
     },
     {
         "nombre": "Costa Rica",
-        "casos_total": 697,
-        "casos_nuevos": 0,
-        "casos_activos": 404,
+        "casos_total": 705,
+        "casos_nuevos": 8,
+        "casos_activos": 393,
         "casos_criticos": 8,
         "fallecidos_total": 6,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 287
+        "recuperados_total": 306
     },
     {
         "nombre": "Costa de Marfil",
@@ -631,12 +631,12 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 1027024,
-        "casos_nuevos": 16668,
-        "casos_activos": 828545,
-        "casos_criticos": 14489,
-        "fallecidos_total": 58341,
-        "fallecidos_nuevos": 1544,
+        "casos_total": 1029179,
+        "casos_nuevos": 18823,
+        "casos_activos": 830473,
+        "casos_criticos": 14868,
+        "fallecidos_total": 58568,
+        "fallecidos_nuevos": 1771,
         "recuperados_total": 140138
     },
     {
@@ -1731,10 +1731,10 @@
     },
     {
         "nombre": "San Marino",
-        "casos_total": 538,
-        "casos_nuevos": 0,
-        "casos_activos": 433,
-        "casos_criticos": 4,
+        "casos_total": 553,
+        "casos_nuevos": 15,
+        "casos_activos": 448,
+        "casos_criticos": 5,
         "fallecidos_total": 41,
         "fallecidos_nuevos": 0,
         "recuperados_total": 64
