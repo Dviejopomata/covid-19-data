@@ -134,13 +134,13 @@
     {
         "pais": "AT",
         "nombre": "Austria",
-        "casos_total": 15274,
-        "casos_nuevos": 0,
-        "casos_activos": 2363,
+        "casos_total": 15357,
+        "casos_nuevos": 83,
+        "casos_activos": 2208,
         "casos_criticos": 140,
-        "fallecidos_total": 549,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 12362
+        "fallecidos_total": 569,
+        "fallecidos_nuevos": 20,
+        "recuperados_total": 12580
     },
     {
         "pais": "AZ",
@@ -200,13 +200,13 @@
     {
         "pais": "BE",
         "nombre": "Belgica",
-        "casos_total": 46687,
-        "casos_nuevos": 0,
-        "casos_activos": 28602,
-        "casos_criticos": 903,
-        "fallecidos_total": 7207,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 10878
+        "casos_total": 47334,
+        "casos_nuevos": 647,
+        "casos_activos": 29060,
+        "casos_criticos": 876,
+        "fallecidos_total": 7331,
+        "fallecidos_nuevos": 124,
+        "recuperados_total": 10943
     },
     {
         "pais": "BZ",
@@ -662,13 +662,13 @@
     {
         "pais": "SI",
         "nombre": "Eslovenia",
-        "casos_total": 1402,
-        "casos_nuevos": 0,
-        "casos_activos": 1098,
-        "casos_criticos": 22,
-        "fallecidos_total": 83,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 221
+        "casos_total": 1408,
+        "casos_nuevos": 6,
+        "casos_activos": 1099,
+        "casos_criticos": 24,
+        "fallecidos_total": 86,
+        "fallecidos_nuevos": 3,
+        "recuperados_total": 223
     },
     {
         "pais": "ES",
@@ -717,9 +717,9 @@
     {
         "pais": "ET",
         "nombre": "Etiopia",
-        "casos_total": 124,
-        "casos_nuevos": 0,
-        "casos_activos": 71,
+        "casos_total": 126,
+        "casos_nuevos": 2,
+        "casos_activos": 73,
         "casos_criticos": 0,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
@@ -1300,13 +1300,13 @@
     {
         "pais": "LT",
         "nombre": "Lituania",
-        "casos_total": 1449,
+        "casos_total": 1344,
         "casos_nuevos": 0,
-        "casos_activos": 934,
+        "casos_activos": 764,
         "casos_criticos": 17,
-        "fallecidos_total": 41,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 474
+        "fallecidos_total": 44,
+        "fallecidos_nuevos": 3,
+        "recuperados_total": 536
     },
     {
         "pais": "LU",
@@ -1588,10 +1588,10 @@
         "nombre": "Noruega",
         "casos_total": 7599,
         "casos_nuevos": 0,
-        "casos_activos": 7362,
+        "casos_activos": 7361,
         "casos_criticos": 52,
-        "fallecidos_total": 205,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 206,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 32
     },
     {
