@@ -23,10 +23,10 @@
         "nombre": "Alemania",
         "casos_total": 160479,
         "casos_nuevos": 567,
-        "casos_activos": 33765,
+        "casos_activos": 33749,
         "casos_criticos": 2409,
-        "fallecidos_total": 6314,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 6330,
+        "fallecidos_nuevos": 16,
         "recuperados_total": 120400
     },
     {
@@ -621,9 +621,9 @@
     },
     {
         "nombre": "Estado de Palestina",
-        "casos_total": 343,
-        "casos_nuevos": 0,
-        "casos_activos": 270,
+        "casos_total": 344,
+        "casos_nuevos": 1,
+        "casos_activos": 271,
         "casos_criticos": 0,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
@@ -1293,11 +1293,11 @@
         "nombre": "Mauricio",
         "casos_total": 334,
         "casos_nuevos": 0,
-        "casos_activos": 21,
+        "casos_activos": 18,
         "casos_criticos": 3,
         "fallecidos_total": 10,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 303
+        "recuperados_total": 306
     },
     {
         "nombre": "Mauritania",
@@ -1331,13 +1331,13 @@
     },
     {
         "nombre": "Moldavia",
-        "casos_total": 3638,
-        "casos_nuevos": 0,
-        "casos_activos": 2556,
+        "casos_total": 3771,
+        "casos_nuevos": 133,
+        "casos_activos": 2550,
         "casos_criticos": 212,
         "fallecidos_total": 107,
         "fallecidos_nuevos": 4,
-        "recuperados_total": 975
+        "recuperados_total": 1114
     },
     {
         "nombre": "Monaco",
@@ -1484,7 +1484,7 @@
         "casos_total": 38802,
         "casos_nuevos": 386,
         "casos_activos": 33841,
-        "casos_criticos": 861,
+        "casos_criticos": 804,
         "fallecidos_total": 4711,
         "fallecidos_nuevos": 145,
         "recuperados_total": 0
@@ -1871,13 +1871,13 @@
     },
     {
         "nombre": "Somalia",
-        "casos_total": 528,
-        "casos_nuevos": 0,
-        "casos_activos": 481,
+        "casos_total": 582,
+        "casos_nuevos": 54,
+        "casos_activos": 534,
         "casos_criticos": 2,
         "fallecidos_total": 28,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 19
+        "recuperados_total": 20
     },
     {
         "nombre": "Sri Lanka",
@@ -2001,13 +2001,13 @@
     },
     {
         "nombre": "Togo",
-        "casos_total": 99,
-        "casos_nuevos": 0,
-        "casos_activos": 30,
+        "casos_total": 109,
+        "casos_nuevos": 10,
+        "casos_activos": 38,
         "casos_criticos": 0,
-        "fallecidos_total": 6,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 63
+        "fallecidos_total": 7,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 64
     },
     {
         "nombre": "Trinidad yTobago",
