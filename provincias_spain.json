@@ -193,11 +193,11 @@
         "nombre": "Belice",
         "casos_total": 18,
         "casos_nuevos": 0,
-        "casos_activos": 10,
+        "casos_activos": 7,
         "casos_criticos": 1,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 6
+        "recuperados_total": 9
     },
     {
         "nombre": "Benin",
@@ -281,12 +281,12 @@
     },
     {
         "nombre": "Brasil",
-        "casos_total": 72899,
-        "casos_nuevos": 0,
-        "casos_activos": 35292,
+        "casos_total": 73235,
+        "casos_nuevos": 336,
+        "casos_activos": 35608,
         "casos_criticos": 8318,
-        "fallecidos_total": 5063,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 5083,
+        "fallecidos_nuevos": 20,
         "recuperados_total": 32544
     },
     {
@@ -2093,11 +2093,11 @@
         "nombre": "Vietnam",
         "casos_total": 270,
         "casos_nuevos": 0,
-        "casos_activos": 45,
+        "casos_activos": 48,
         "casos_criticos": 8,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 225
+        "recuperados_total": 222
     },
     {
         "nombre": "Yemen",
