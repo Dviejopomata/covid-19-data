@@ -24,12 +24,12 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 161173,
-        "casos_nuevos": 1261,
-        "casos_activos": 34374,
+        "casos_total": 161197,
+        "casos_nuevos": 1285,
+        "casos_activos": 34392,
         "casos_criticos": 2415,
-        "fallecidos_total": 6399,
-        "fallecidos_nuevos": 85,
+        "fallecidos_total": 6405,
+        "fallecidos_nuevos": 91,
         "recuperados_total": 120400
     },
     {
@@ -233,13 +233,13 @@
     {
         "pais": "BM",
         "nombre": "Bermudas",
-        "casos_total": 110,
-        "casos_nuevos": 0,
-        "casos_activos": 60,
+        "casos_total": 111,
+        "casos_nuevos": 1,
+        "casos_activos": 57,
         "casos_criticos": 10,
         "fallecidos_total": 6,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 44
+        "recuperados_total": 48
     },
     {
         "pais": "BY",
@@ -409,13 +409,13 @@
     {
         "pais": "CA",
         "nombre": "Canada",
-        "casos_total": 51231,
-        "casos_nuevos": 1205,
-        "casos_activos": 28361,
+        "casos_total": 51248,
+        "casos_nuevos": 1222,
+        "casos_activos": 28163,
         "casos_criticos": 557,
-        "fallecidos_total": 2984,
-        "fallecidos_nuevos": 125,
-        "recuperados_total": 19886
+        "fallecidos_total": 2985,
+        "fallecidos_nuevos": 126,
+        "recuperados_total": 20100
     },
     {
         "pais": "QA",
@@ -695,9 +695,9 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1055303,
-        "casos_nuevos": 19538,
-        "casos_activos": 849768,
+        "casos_total": 1055455,
+        "casos_nuevos": 19690,
+        "casos_activos": 849920,
         "casos_criticos": 18665,
         "fallecidos_total": 61112,
         "fallecidos_nuevos": 1846,
@@ -1135,13 +1135,13 @@
     {
         "pais": "IL",
         "nombre": "Israel",
-        "casos_total": 15782,
-        "casos_nuevos": 54,
-        "casos_activos": 7641,
-        "casos_criticos": 120,
-        "fallecidos_total": 212,
-        "fallecidos_nuevos": 2,
-        "recuperados_total": 7929
+        "casos_total": 15834,
+        "casos_nuevos": 106,
+        "casos_activos": 7386,
+        "casos_criticos": 115,
+        "fallecidos_total": 215,
+        "fallecidos_nuevos": 5,
+        "recuperados_total": 8233
     },
     {
         "pais": "IT",
@@ -1756,7 +1756,7 @@
         "casos_activos": 138780,
         "casos_criticos": 1559,
         "fallecidos_total": 26097,
-        "fallecidos_nuevos": 4419,
+        "fallecidos_nuevos": 765,
         "recuperados_total": 0
     },
     {
