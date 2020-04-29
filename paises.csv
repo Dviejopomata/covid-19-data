@@ -1,5 +1,5 @@
 ,País,Casos totales,Nuevos casos,Casos activos,Recuperados,Casos críticos,Muertes hoy,Muertes
-0,Estados Unidos,1055455,19690,144423,849920,18665,1846,61112
+0,Estados Unidos,1056705,20940,145345,850180,18665,1914,61180
 1,España,236899,4771,132929,79695,7764,453,24275
 2,Italia,203591,2086,71252,104657,1795,323,27682
 3,Francia,166420,509,48228,94105,4207,427,24087
@@ -58,7 +58,7 @@
 56,Kuwait,3740,300,1389,2327,66,1,24
 57,Kazajistan,3138,111,819,2294,41,0,25
 58,Tailandia,2947,9,2665,228,61,0,54
-59,Barein,2869,58,1370,1491,2,0,8
+59,Barein,2921,110,1455,1458,1,0,8
 60,Hungria,2727,78,536,1891,50,9,300
 61,Grecia,2576,10,577,1860,41,1,139
 62,Oman,2274,143,364,1900,3,0,10
@@ -99,7 +99,7 @@
 97,Crucero,712,0,645,54,4,0,13
 98,Niger,709,0,403,275,0,0,31
 99,Sri Lanka,649,30,136,506,2,0,7
-100,Burkina Faso,638,0,476,120,0,0,42
+100,Burkina Faso,641,3,498,100,0,1,43
 101,Uruguay,625,5,394,216,11,0,15
 102,Somalia,582,54,20,534,2,0,28
 103,San Marino,563,10,69,453,6,0,41
@@ -150,9 +150,9 @@
 148,Monaco,95,0,58,33,1,0,4
 149,Suazilandia,91,20,10,80,0,0,1
 150,Liechtenstein,82,0,55,26,0,0,1
-151,Bahamas,80,0,23,46,1,0,11
-152,Barbados,80,0,39,35,4,0,6
-153,Uganda,79,0,52,27,0,0,0
+151,Uganda,81,2,52,29,0,0,0
+152,Bahamas,80,0,23,46,1,0,11
+153,Barbados,80,0,39,35,4,0,6
 154,Mozambique,76,0,12,64,0,0,0
 155,Haiti,76,0,8,62,0,0,6
 156,San Martin (Parte Holandesa),75,0,33,29,7,0,13
@@ -179,8 +179,8 @@
 177,Timor Oriental,24,0,6,18,0,0,0
 178,Antigua y Barbuda,24,0,11,10,1,0,3
 179,Botsuana,23,0,5,17,0,0,1
-180,Laos,19,0,7,12,0,0,0
-181,Granada,19,1,10,9,4,0,0
+180,Granada,20,2,13,7,4,0,0
+181,Laos,19,0,7,12,0,0,0
 182,Belice,18,0,9,7,1,0,2
 183,Fiyi,18,0,12,6,0,0,0
 184,Nueva Caledonia,18,0,17,1,1,0,0
@@ -205,10 +205,10 @@
 203,Santo Tome y Principe,8,0,4,4,0,0,0
 204,Mauritania,8,1,6,1,0,0,1
 205,Butan,7,0,5,2,0,0,0
-206,Islas Virgenes Britanicas,6,0,3,2,0,0,1
-207,Sahara Occidental,6,0,5,1,0,0,0
-208,San Bartolome,6,0,6,0,0,0,0
-209,"Bonaire, San Eustaquio y Saba",5,0,0,5,0,0,0
-210,Anguila,3,0,3,0,0,0,0
-211,San Pedro y Miquelon,1,0,0,1,0,0,0
-212,Yemen,1,0,1,0,0,0,0
+206,Yemen,6,5,1,5,0,0,0
+207,Islas Virgenes Britanicas,6,0,3,2,0,0,1
+208,Sahara Occidental,6,0,5,1,0,0,0
+209,San Bartolome,6,0,6,0,0,0,0
+210,"Bonaire, San Eustaquio y Saba",5,0,0,5,0,0,0
+211,Anguila,3,0,3,0,0,0,0
+212,San Pedro y Miquelon,1,0,0,1,0,0,0
