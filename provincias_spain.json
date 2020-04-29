@@ -1131,13 +1131,13 @@
     },
     {
         "nombre": "Letonia",
-        "casos_total": 836,
-        "casos_nuevos": 0,
-        "casos_activos": 556,
+        "casos_total": 849,
+        "casos_nuevos": 13,
+        "casos_activos": 486,
         "casos_criticos": 4,
-        "fallecidos_total": 13,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 267
+        "fallecidos_total": 15,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 348
     },
     {
         "nombre": "Libano",
@@ -1333,10 +1333,10 @@
         "nombre": "Moldavia",
         "casos_total": 3638,
         "casos_nuevos": 0,
-        "casos_activos": 2560,
+        "casos_activos": 2556,
         "casos_criticos": 212,
-        "fallecidos_total": 103,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 107,
+        "fallecidos_nuevos": 4,
         "recuperados_total": 975
     },
     {
@@ -1691,13 +1691,13 @@
     },
     {
         "nombre": "Rusia",
-        "casos_total": 93558,
-        "casos_nuevos": 0,
-        "casos_activos": 84235,
+        "casos_total": 99399,
+        "casos_nuevos": 5841,
+        "casos_activos": 88141,
         "casos_criticos": 2300,
-        "fallecidos_total": 867,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 8456
+        "fallecidos_total": 972,
+        "fallecidos_nuevos": 105,
+        "recuperados_total": 10286
     },
     {
         "nombre": "Sahara Occidental",
@@ -1851,9 +1851,9 @@
     },
     {
         "nombre": "Singapur",
-        "casos_total": 14951,
-        "casos_nuevos": 0,
-        "casos_activos": 13809,
+        "casos_total": 15641,
+        "casos_nuevos": 690,
+        "casos_activos": 14499,
         "casos_criticos": 20,
         "fallecidos_total": 14,
         "fallecidos_nuevos": 0,
@@ -1981,9 +1981,9 @@
     },
     {
         "nombre": "Tanzania",
-        "casos_total": 299,
-        "casos_nuevos": 0,
-        "casos_activos": 241,
+        "casos_total": 306,
+        "casos_nuevos": 7,
+        "casos_activos": 248,
         "casos_criticos": 7,
         "fallecidos_total": 10,
         "fallecidos_nuevos": 0,
@@ -2073,11 +2073,11 @@
         "nombre": "Uzbekistan",
         "casos_total": 1955,
         "casos_nuevos": 16,
-        "casos_activos": 955,
+        "casos_activos": 953,
         "casos_criticos": 8,
         "fallecidos_total": 8,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 992
+        "recuperados_total": 994
     },
     {
         "nombre": "Venezuela",
