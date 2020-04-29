@@ -257,10 +257,10 @@
         "nombre": "Birmania",
         "casos_total": 150,
         "casos_nuevos": 0,
-        "casos_activos": 129,
+        "casos_activos": 128,
         "casos_criticos": 0,
-        "fallecidos_total": 5,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 6,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 16
     },
     {
@@ -651,13 +651,13 @@
     {
         "pais": "SK",
         "nombre": "Eslovaquia",
-        "casos_total": 1384,
-        "casos_nuevos": 0,
-        "casos_activos": 941,
-        "casos_criticos": 6,
-        "fallecidos_total": 20,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 423
+        "casos_total": 1391,
+        "casos_nuevos": 7,
+        "casos_activos": 885,
+        "casos_criticos": 8,
+        "fallecidos_total": 22,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 484
     },
     {
         "pais": "SI",
@@ -728,13 +728,13 @@
     {
         "pais": "PH",
         "nombre": "Filipinas",
-        "casos_total": 7958,
-        "casos_nuevos": 0,
-        "casos_activos": 6453,
+        "casos_total": 8212,
+        "casos_nuevos": 254,
+        "casos_activos": 6631,
         "casos_criticos": 31,
-        "fallecidos_total": 530,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 975
+        "fallecidos_total": 558,
+        "fallecidos_nuevos": 28,
+        "recuperados_total": 1023
     },
     {
         "pais": "FI",
@@ -1135,13 +1135,13 @@
     {
         "pais": "IL",
         "nombre": "Israel",
-        "casos_total": 15728,
-        "casos_nuevos": 0,
-        "casos_activos": 7772,
-        "casos_criticos": 116,
-        "fallecidos_total": 210,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 7746
+        "casos_total": 15782,
+        "casos_nuevos": 54,
+        "casos_activos": 7641,
+        "casos_criticos": 120,
+        "fallecidos_total": 212,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 7929
     },
     {
         "pais": "IT",
@@ -1707,12 +1707,12 @@
     {
         "pais": "PL",
         "nombre": "Polonia",
-        "casos_total": 12218,
-        "casos_nuevos": 0,
-        "casos_activos": 8597,
+        "casos_total": 12415,
+        "casos_nuevos": 197,
+        "casos_activos": 8784,
         "casos_criticos": 160,
-        "fallecidos_total": 596,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 606,
+        "fallecidos_nuevos": 10,
         "recuperados_total": 3025
     },
     {
