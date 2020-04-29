@@ -24,9 +24,9 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 159912,
-        "casos_nuevos": 0,
-        "casos_activos": 33198,
+        "casos_total": 159934,
+        "casos_nuevos": 22,
+        "casos_activos": 33220,
         "casos_criticos": 2409,
         "fallecidos_total": 6314,
         "fallecidos_nuevos": 0,
@@ -662,13 +662,13 @@
     {
         "pais": "SI",
         "nombre": "Eslovenia",
-        "casos_total": 1408,
-        "casos_nuevos": 0,
+        "casos_total": 1418,
+        "casos_nuevos": 10,
         "casos_activos": 1099,
-        "casos_criticos": 24,
-        "fallecidos_total": 86,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 223
+        "casos_criticos": 25,
+        "fallecidos_total": 89,
+        "fallecidos_nuevos": 3,
+        "recuperados_total": 230
     },
     {
         "pais": "ES",
@@ -739,9 +739,9 @@
     {
         "pais": "FI",
         "nombre": "Finlandia",
-        "casos_total": 4740,
-        "casos_nuevos": 0,
-        "casos_activos": 1741,
+        "casos_total": 4906,
+        "casos_nuevos": 166,
+        "casos_activos": 1907,
         "casos_criticos": 56,
         "fallecidos_total": 199,
         "fallecidos_nuevos": 0,
@@ -1344,13 +1344,13 @@
     {
         "pais": "MY",
         "nombre": "Malasia",
-        "casos_total": 5851,
-        "casos_nuevos": 0,
-        "casos_activos": 1719,
-        "casos_criticos": 36,
+        "casos_total": 5945,
+        "casos_nuevos": 94,
+        "casos_activos": 1758,
+        "casos_criticos": 40,
         "fallecidos_total": 100,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 4032
+        "recuperados_total": 4087
     },
     {
         "pais": "MW",
@@ -2281,11 +2281,11 @@
         "nombre": "Uzbekistan",
         "casos_total": 1955,
         "casos_nuevos": 16,
-        "casos_activos": 953,
+        "casos_activos": 942,
         "casos_criticos": 8,
         "fallecidos_total": 8,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 994
+        "recuperados_total": 1005
     },
     {
         "pais": "VE",
