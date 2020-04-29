@@ -431,24 +431,24 @@
     {
         "pais": "CZ",
         "nombre": "Chequia",
-        "casos_total": 7504,
-        "casos_nuevos": 0,
-        "casos_activos": 4317,
-        "casos_criticos": 73,
+        "casos_total": 7563,
+        "casos_nuevos": 59,
+        "casos_activos": 4240,
+        "casos_criticos": 71,
         "fallecidos_total": 227,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 2960
+        "recuperados_total": 3096
     },
     {
         "pais": "CL",
         "nombre": "Chile",
-        "casos_total": 14365,
-        "casos_nuevos": 0,
-        "casos_activos": 6448,
-        "casos_criticos": 426,
-        "fallecidos_total": 207,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 7710
+        "casos_total": 14885,
+        "casos_nuevos": 520,
+        "casos_activos": 6612,
+        "casos_criticos": 377,
+        "fallecidos_total": 216,
+        "fallecidos_nuevos": 9,
+        "recuperados_total": 8057
     },
     {
         "pais": "CN",
@@ -607,13 +607,13 @@
     {
         "pais": "EG",
         "nombre": "Egipto",
-        "casos_total": 5042,
-        "casos_nuevos": 0,
-        "casos_activos": 3379,
+        "casos_total": 5268,
+        "casos_nuevos": 226,
+        "casos_activos": 3553,
         "casos_criticos": 0,
-        "fallecidos_total": 359,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1304
+        "fallecidos_total": 380,
+        "fallecidos_nuevos": 21,
+        "recuperados_total": 1335
     },
     {
         "pais": "SV",
@@ -695,13 +695,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1039501,
-        "casos_nuevos": 3736,
-        "casos_activos": 836925,
-        "casos_criticos": 19106,
-        "fallecidos_total": 59459,
-        "fallecidos_nuevos": 193,
-        "recuperados_total": 143117
+        "casos_total": 1040233,
+        "casos_nuevos": 4468,
+        "casos_activos": 837112,
+        "casos_criticos": 19110,
+        "fallecidos_total": 59819,
+        "fallecidos_nuevos": 553,
+        "recuperados_total": 143302
     },
     {
         "pais": "EE",
@@ -1047,9 +1047,9 @@
     {
         "pais": "IM",
         "nombre": "Isla de Man",
-        "casos_total": 309,
-        "casos_nuevos": 0,
-        "casos_activos": 36,
+        "casos_total": 313,
+        "casos_nuevos": 4,
+        "casos_activos": 40,
         "casos_criticos": 22,
         "fallecidos_total": 21,
         "fallecidos_nuevos": 0,
@@ -1146,13 +1146,13 @@
     {
         "pais": "IT",
         "nombre": "Italia",
-        "casos_total": 201505,
-        "casos_nuevos": 0,
-        "casos_activos": 105205,
-        "casos_criticos": 1863,
-        "fallecidos_total": 27359,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 68941
+        "casos_total": 203591,
+        "casos_nuevos": 2086,
+        "casos_activos": 104657,
+        "casos_criticos": 1795,
+        "fallecidos_total": 27682,
+        "fallecidos_nuevos": 323,
+        "recuperados_total": 71252
     },
     {
         "pais": "JM",
@@ -1311,13 +1311,13 @@
     {
         "pais": "LU",
         "nombre": "Luxemburgo",
-        "casos_total": 3741,
-        "casos_nuevos": 0,
-        "casos_activos": 529,
-        "casos_criticos": 19,
+        "casos_total": 3769,
+        "casos_nuevos": 28,
+        "casos_activos": 546,
+        "casos_criticos": 21,
         "fallecidos_total": 89,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 3123
+        "recuperados_total": 3134
     },
     {
         "pais": "MO",
@@ -1707,12 +1707,12 @@
     {
         "pais": "PL",
         "nombre": "Polonia",
-        "casos_total": 12415,
-        "casos_nuevos": 197,
-        "casos_activos": 8784,
+        "casos_total": 12640,
+        "casos_nuevos": 422,
+        "casos_activos": 8991,
         "casos_criticos": 160,
-        "fallecidos_total": 606,
-        "fallecidos_nuevos": 10,
+        "fallecidos_total": 624,
+        "fallecidos_nuevos": 28,
         "recuperados_total": 3025
     },
     {
