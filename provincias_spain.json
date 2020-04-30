@@ -64,7 +64,7 @@
         "casos_total": 22753,
         "casos_nuevos": 1351,
         "casos_activos": 19428,
-        "casos_criticos": 125,
+        "casos_criticos": 123,
         "fallecidos_total": 162,
         "fallecidos_nuevos": 5,
         "recuperados_total": 3163
@@ -311,13 +311,13 @@
     },
     {
         "nombre": "Burkina Faso",
-        "casos_total": 641,
-        "casos_nuevos": 0,
-        "casos_activos": 100,
+        "casos_total": 645,
+        "casos_nuevos": 4,
+        "casos_activos": 96,
         "casos_criticos": 0,
         "fallecidos_total": 43,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 498
+        "recuperados_total": 506
     },
     {
         "nombre": "Burundi",
@@ -633,21 +633,21 @@
         "nombre": "Estado de Palestina",
         "casos_total": 344,
         "casos_nuevos": 0,
-        "casos_activos": 271,
+        "casos_activos": 266,
         "casos_criticos": 0,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 71
+        "recuperados_total": 76
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 1090500,
-        "casos_nuevos": 26306,
-        "casos_activos": 875337,
+        "casos_total": 1092492,
+        "casos_nuevos": 28298,
+        "casos_activos": 876955,
         "casos_criticos": 15226,
-        "fallecidos_total": 63642,
-        "fallecidos_nuevos": 1987,
-        "recuperados_total": 151521
+        "fallecidos_total": 63763,
+        "fallecidos_nuevos": 2108,
+        "recuperados_total": 151774
     },
     {
         "nombre": "Estonia",
@@ -1251,9 +1251,9 @@
     },
     {
         "nombre": "Maldivas",
-        "casos_total": 396,
-        "casos_nuevos": 118,
-        "casos_activos": 378,
+        "casos_total": 468,
+        "casos_nuevos": 190,
+        "casos_activos": 450,
         "casos_criticos": 2,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -2071,9 +2071,9 @@
     },
     {
         "nombre": "Uganda",
-        "casos_total": 81,
-        "casos_nuevos": 0,
-        "casos_activos": 29,
+        "casos_total": 83,
+        "casos_nuevos": 2,
+        "casos_activos": 31,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
