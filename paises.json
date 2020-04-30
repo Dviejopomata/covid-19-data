@@ -26,11 +26,11 @@
         "nombre": "Alemania",
         "casos_total": 161539,
         "casos_nuevos": 0,
-        "casos_activos": 34672,
+        "casos_activos": 31572,
         "casos_criticos": 2415,
         "fallecidos_total": 6467,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 120400
+        "recuperados_total": 123500
     },
     {
         "pais": "AO",
@@ -332,13 +332,13 @@
     {
         "pais": "BG",
         "nombre": "Bulgaria",
-        "casos_total": 1447,
-        "casos_nuevos": 0,
-        "casos_activos": 1140,
+        "casos_total": 1488,
+        "casos_nuevos": 41,
+        "casos_activos": 1157,
         "casos_criticos": 38,
-        "fallecidos_total": 64,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 243
+        "fallecidos_total": 65,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 266
     },
     {
         "pais": "BF",
@@ -618,13 +618,13 @@
     {
         "pais": "SV",
         "nombre": "El Salvador",
-        "casos_total": 377,
-        "casos_nuevos": 0,
-        "casos_activos": 262,
+        "casos_total": 395,
+        "casos_nuevos": 18,
+        "casos_activos": 268,
         "casos_criticos": 3,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 106
+        "recuperados_total": 118
     },
     {
         "pais": "AE",
@@ -2171,11 +2171,11 @@
         "nombre": "Taiwan",
         "casos_total": 429,
         "casos_nuevos": 0,
-        "casos_activos": 112,
+        "casos_activos": 101,
         "casos_criticos": 0,
         "fallecidos_total": 6,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 311
+        "recuperados_total": 322
     },
     {
         "pais": "TZ",
