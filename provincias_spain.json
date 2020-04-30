@@ -143,11 +143,11 @@
         "nombre": "Bahamas",
         "casos_total": 80,
         "casos_nuevos": 0,
-        "casos_activos": 46,
+        "casos_activos": 44,
         "casos_criticos": 1,
         "fallecidos_total": 11,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 23
+        "recuperados_total": 25
     },
     {
         "nombre": "Banglades",
@@ -421,9 +421,9 @@
     },
     {
         "nombre": "Colombia",
-        "casos_total": 6207,
-        "casos_nuevos": 0,
-        "casos_activos": 4518,
+        "casos_total": 6211,
+        "casos_nuevos": 4,
+        "casos_activos": 4522,
         "casos_criticos": 118,
         "fallecidos_total": 278,
         "fallecidos_nuevos": 0,
@@ -631,12 +631,12 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 1064533,
-        "casos_nuevos": 339,
-        "casos_activos": 855454,
+        "casos_total": 1064572,
+        "casos_nuevos": 378,
+        "casos_activos": 855492,
         "casos_criticos": 18671,
-        "fallecidos_total": 61668,
-        "fallecidos_nuevos": 12,
+        "fallecidos_total": 61669,
+        "fallecidos_nuevos": 13,
         "recuperados_total": 147411
     },
     {
@@ -871,13 +871,13 @@
     },
     {
         "nombre": "Honduras",
-        "casos_total": 738,
-        "casos_nuevos": 0,
-        "casos_activos": 599,
+        "casos_total": 771,
+        "casos_nuevos": 33,
+        "casos_activos": 621,
         "casos_criticos": 10,
-        "fallecidos_total": 66,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 73
+        "fallecidos_total": 71,
+        "fallecidos_nuevos": 5,
+        "recuperados_total": 79
     },
     {
         "nombre": "Hong Kong",
@@ -1521,13 +1521,13 @@
     },
     {
         "nombre": "Paraguay",
-        "casos_total": 239,
-        "casos_nuevos": 0,
-        "casos_activos": 128,
+        "casos_total": 249,
+        "casos_nuevos": 10,
+        "casos_activos": 129,
         "casos_criticos": 1,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 102
+        "recuperados_total": 111
     },
     {
         "nombre": "Peru",
@@ -1723,11 +1723,11 @@
         "nombre": "San Cristobal y Nieves",
         "casos_total": 15,
         "casos_nuevos": 0,
-        "casos_activos": 11,
+        "casos_activos": 9,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 4
+        "recuperados_total": 6
     },
     {
         "nombre": "San Marino",
@@ -2101,9 +2101,9 @@
     },
     {
         "nombre": "Yemen",
-        "casos_total": 11,
-        "casos_nuevos": 5,
-        "casos_activos": 8,
+        "casos_total": 6,
+        "casos_nuevos": 0,
+        "casos_activos": 3,
         "casos_criticos": 0,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 2,
