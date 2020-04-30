@@ -811,13 +811,13 @@
     },
     {
         "nombre": "Guayana Francesa",
-        "casos_total": 125,
-        "casos_nuevos": 0,
+        "casos_total": 126,
+        "casos_nuevos": 1,
         "casos_activos": 31,
-        "casos_criticos": 0,
+        "casos_criticos": 2,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 93
+        "recuperados_total": 94
     },
     {
         "nombre": "Guinea",
@@ -854,7 +854,7 @@
         "casos_total": 78,
         "casos_nuevos": 4,
         "casos_activos": 52,
-        "casos_criticos": 5,
+        "casos_criticos": 3,
         "fallecidos_total": 8,
         "fallecidos_nuevos": 0,
         "recuperados_total": 18
@@ -1081,9 +1081,9 @@
     },
     {
         "nombre": "Kazajistan",
-        "casos_total": 3273,
-        "casos_nuevos": 135,
-        "casos_activos": 2429,
+        "casos_total": 3356,
+        "casos_nuevos": 218,
+        "casos_activos": 2512,
         "casos_criticos": 41,
         "fallecidos_total": 25,
         "fallecidos_nuevos": 0,
@@ -1111,13 +1111,13 @@
     },
     {
         "nombre": "Kuwait",
-        "casos_total": 3740,
-        "casos_nuevos": 0,
-        "casos_activos": 2327,
+        "casos_total": 4024,
+        "casos_nuevos": 284,
+        "casos_activos": 2459,
         "casos_criticos": 66,
-        "fallecidos_total": 24,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1389
+        "fallecidos_total": 26,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 1539
     },
     {
         "nombre": "Laos",
@@ -1141,9 +1141,9 @@
     },
     {
         "nombre": "Libano",
-        "casos_total": 721,
-        "casos_nuevos": 0,
-        "casos_activos": 547,
+        "casos_total": 725,
+        "casos_nuevos": 4,
+        "casos_activos": 551,
         "casos_criticos": 44,
         "fallecidos_total": 24,
         "fallecidos_nuevos": 0,
@@ -1841,13 +1841,13 @@
     },
     {
         "nombre": "Sierra Leona",
-        "casos_total": 116,
-        "casos_nuevos": 12,
-        "casos_activos": 98,
+        "casos_total": 124,
+        "casos_nuevos": 20,
+        "casos_activos": 96,
         "casos_criticos": 0,
-        "fallecidos_total": 4,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 14
+        "fallecidos_total": 7,
+        "fallecidos_nuevos": 3,
+        "recuperados_total": 21
     },
     {
         "nombre": "Singapur",
@@ -1943,11 +1943,11 @@
         "nombre": "Suiza",
         "casos_total": 29586,
         "casos_nuevos": 179,
-        "casos_activos": 5270,
+        "casos_activos": 4770,
         "casos_criticos": 167,
         "fallecidos_total": 1716,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 22600
+        "recuperados_total": 23100
     },
     {
         "nombre": "Surinam",
