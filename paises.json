@@ -114,11 +114,11 @@
         "nombre": "Aruba",
         "casos_total": 100,
         "casos_nuevos": 0,
-        "casos_activos": 25,
+        "casos_activos": 19,
         "casos_criticos": 4,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 73
+        "recuperados_total": 79
     },
     {
         "pais": "AU",
@@ -376,9 +376,9 @@
     {
         "pais": "CV",
         "nombre": "Cabo Verde",
-        "casos_total": 113,
-        "casos_nuevos": 0,
-        "casos_activos": 110,
+        "casos_total": 116,
+        "casos_nuevos": 3,
+        "casos_activos": 113,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -653,11 +653,11 @@
         "nombre": "Eritrea",
         "casos_total": 39,
         "casos_nuevos": 0,
-        "casos_activos": 20,
+        "casos_activos": 13,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 19
+        "recuperados_total": 26
     },
     {
         "pais": "SK",
@@ -706,12 +706,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1075582,
-        "casos_nuevos": 11388,
-        "casos_activos": 863581,
+        "casos_total": 1076129,
+        "casos_nuevos": 11935,
+        "casos_activos": 864063,
         "casos_criticos": 18697,
-        "fallecidos_total": 62315,
-        "fallecidos_nuevos": 660,
+        "fallecidos_total": 62380,
+        "fallecidos_nuevos": 725,
         "recuperados_total": 149686
     },
     {
@@ -1201,13 +1201,13 @@
     {
         "pais": "KZ",
         "nombre": "Kazajistan",
-        "casos_total": 3356,
-        "casos_nuevos": 218,
-        "casos_activos": 2473,
+        "casos_total": 3402,
+        "casos_nuevos": 264,
+        "casos_activos": 2511,
         "casos_criticos": 41,
         "fallecidos_total": 25,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 858
+        "recuperados_total": 866
     },
     {
         "pais": "KE",
@@ -1740,13 +1740,13 @@
     {
         "pais": "AD",
         "nombre": "Principado de Andorra",
-        "casos_total": 743,
-        "casos_nuevos": 0,
-        "casos_activos": 278,
+        "casos_total": 745,
+        "casos_nuevos": 2,
+        "casos_activos": 235,
         "casos_criticos": 17,
         "fallecidos_total": 42,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 423
+        "recuperados_total": 468
     },
     {
         "pais": "PR",
@@ -2303,11 +2303,11 @@
         "nombre": "Uzbekistan",
         "casos_total": 2017,
         "casos_nuevos": 15,
-        "casos_activos": 882,
+        "casos_activos": 875,
         "casos_criticos": 8,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1126
+        "recuperados_total": 1133
     },
     {
         "pais": "VE",
