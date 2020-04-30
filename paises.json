@@ -13,13 +13,13 @@
     {
         "pais": "AL",
         "nombre": "Albania",
-        "casos_total": 766,
-        "casos_nuevos": 0,
-        "casos_activos": 281,
+        "casos_total": 773,
+        "casos_nuevos": 7,
+        "casos_activos": 272,
         "casos_criticos": 4,
-        "fallecidos_total": 30,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 455
+        "fallecidos_total": 31,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 470
     },
     {
         "pais": "DE",
@@ -244,13 +244,13 @@
     {
         "pais": "BY",
         "nombre": "Bielorrusia",
-        "casos_total": 13181,
-        "casos_nuevos": 0,
-        "casos_activos": 11025,
+        "casos_total": 14027,
+        "casos_nuevos": 846,
+        "casos_activos": 11552,
         "casos_criticos": 92,
-        "fallecidos_total": 84,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 2072
+        "fallecidos_total": 89,
+        "fallecidos_nuevos": 5,
+        "recuperados_total": 2386
     },
     {
         "pais": "MM",
@@ -376,9 +376,9 @@
     {
         "pais": "CV",
         "nombre": "Cabo Verde",
-        "casos_total": 114,
+        "casos_total": 113,
         "casos_nuevos": 0,
-        "casos_activos": 111,
+        "casos_activos": 110,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -662,13 +662,13 @@
     {
         "pais": "SI",
         "nombre": "Eslovenia",
-        "casos_total": 1418,
-        "casos_nuevos": 0,
-        "casos_activos": 238,
+        "casos_total": 1429,
+        "casos_nuevos": 11,
+        "casos_activos": 1105,
         "casos_criticos": 22,
-        "fallecidos_total": 89,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1091
+        "fallecidos_total": 91,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 233
     },
     {
         "pais": "ES",
@@ -2026,13 +2026,13 @@
     {
         "pais": "SL",
         "nombre": "Sierra Leona",
-        "casos_total": 104,
-        "casos_nuevos": 0,
-        "casos_activos": 88,
+        "casos_total": 116,
+        "casos_nuevos": 12,
+        "casos_activos": 98,
         "casos_criticos": 0,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 12
+        "recuperados_total": 14
     },
     {
         "pais": "SG",
@@ -2303,11 +2303,11 @@
         "nombre": "Vietnam",
         "casos_total": 270,
         "casos_nuevos": 0,
-        "casos_activos": 48,
+        "casos_activos": 51,
         "casos_criticos": 8,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 222
+        "recuperados_total": 219
     },
     {
         "pais": "YE",
