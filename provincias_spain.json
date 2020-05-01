@@ -91,13 +91,13 @@
     },
     {
         "nombre": "Armenia",
-        "casos_total": 2066,
-        "casos_nuevos": 0,
-        "casos_activos": 1105,
+        "casos_total": 2148,
+        "casos_nuevos": 82,
+        "casos_activos": 1138,
         "casos_criticos": 10,
-        "fallecidos_total": 32,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 929
+        "fallecidos_total": 33,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 977
     },
     {
         "nombre": "Aruba",
@@ -391,12 +391,12 @@
     },
     {
         "nombre": "Chequia",
-        "casos_total": 7682,
-        "casos_nuevos": 0,
-        "casos_activos": 4132,
-        "casos_criticos": 68,
-        "fallecidos_total": 236,
-        "fallecidos_nuevos": 0,
+        "casos_total": 7689,
+        "casos_nuevos": 7,
+        "casos_activos": 4138,
+        "casos_criticos": 67,
+        "fallecidos_total": 237,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 3314
     },
     {
@@ -1041,13 +1041,13 @@
     },
     {
         "nombre": "Israel",
-        "casos_total": 15946,
-        "casos_nuevos": 0,
-        "casos_activos": 7163,
+        "casos_total": 16004,
+        "casos_nuevos": 58,
+        "casos_activos": 7023,
         "casos_criticos": 105,
-        "fallecidos_total": 222,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 8561
+        "fallecidos_total": 223,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 8758
     },
     {
         "nombre": "Italia",
@@ -1091,10 +1091,10 @@
     },
     {
         "nombre": "Kazajistan",
-        "casos_total": 3504,
-        "casos_nuevos": 102,
-        "casos_activos": 2613,
-        "casos_criticos": 41,
+        "casos_total": 3551,
+        "casos_nuevos": 149,
+        "casos_activos": 2660,
+        "casos_criticos": 40,
         "fallecidos_total": 25,
         "fallecidos_nuevos": 0,
         "recuperados_total": 866
@@ -1141,12 +1141,12 @@
     },
     {
         "nombre": "Letonia",
-        "casos_total": 858,
-        "casos_nuevos": 0,
-        "casos_activos": 495,
-        "casos_criticos": 3,
-        "fallecidos_total": 15,
-        "fallecidos_nuevos": 0,
+        "casos_total": 870,
+        "casos_nuevos": 12,
+        "casos_activos": 506,
+        "casos_criticos": 2,
+        "fallecidos_total": 16,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 348
     },
     {
@@ -1373,11 +1373,11 @@
         "nombre": "Montenegro",
         "casos_total": 322,
         "casos_nuevos": 0,
-        "casos_activos": 101,
+        "casos_activos": 96,
         "casos_criticos": 2,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 214
+        "recuperados_total": 219
     },
     {
         "nombre": "Montserrat",
@@ -1861,9 +1861,9 @@
     },
     {
         "nombre": "Singapur",
-        "casos_total": 16169,
-        "casos_nuevos": 0,
-        "casos_activos": 14910,
+        "casos_total": 17101,
+        "casos_nuevos": 932,
+        "casos_activos": 15842,
         "casos_criticos": 21,
         "fallecidos_total": 15,
         "fallecidos_nuevos": 0,
