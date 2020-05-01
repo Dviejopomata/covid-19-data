@@ -64,7 +64,7 @@
         "casos_total": 24097,
         "casos_nuevos": 1344,
         "casos_activos": 20373,
-        "casos_criticos": 123,
+        "casos_criticos": 117,
         "fallecidos_total": 169,
         "fallecidos_nuevos": 7,
         "recuperados_total": 3555
@@ -131,13 +131,13 @@
     },
     {
         "nombre": "Azerbaiyan",
-        "casos_total": 1804,
-        "casos_nuevos": 0,
-        "casos_activos": 455,
+        "casos_total": 1854,
+        "casos_nuevos": 50,
+        "casos_activos": 464,
         "casos_criticos": 17,
-        "fallecidos_total": 24,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1325
+        "fallecidos_total": 25,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 1365
     },
     {
         "nombre": "Bahamas",
@@ -641,13 +641,13 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 1095977,
-        "casos_nuevos": 954,
-        "casos_activos": 876364,
+        "casos_total": 1097080,
+        "casos_nuevos": 2057,
+        "casos_activos": 877338,
         "casos_criticos": 15226,
-        "fallecidos_total": 63876,
-        "fallecidos_nuevos": 20,
-        "recuperados_total": 155737
+        "fallecidos_total": 63913,
+        "fallecidos_nuevos": 57,
+        "recuperados_total": 155829
     },
     {
         "nombre": "Estonia",
@@ -733,11 +733,11 @@
         "nombre": "Georgia",
         "casos_total": 566,
         "casos_nuevos": 27,
-        "casos_activos": 376,
+        "casos_activos": 353,
         "casos_criticos": 6,
         "fallecidos_total": 6,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 184
+        "recuperados_total": 207
     },
     {
         "nombre": "Ghana",
@@ -1834,7 +1834,7 @@
         "casos_total": 9205,
         "casos_nuevos": 196,
         "casos_activos": 7641,
-        "casos_criticos": 71,
+        "casos_criticos": 65,
         "fallecidos_total": 185,
         "fallecidos_nuevos": 6,
         "recuperados_total": 1379
