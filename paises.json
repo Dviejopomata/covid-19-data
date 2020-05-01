@@ -123,13 +123,13 @@
     {
         "pais": "AU",
         "nombre": "Australia",
-        "casos_total": 6753,
-        "casos_nuevos": 0,
-        "casos_activos": 947,
-        "casos_criticos": 34,
-        "fallecidos_total": 91,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 5715
+        "casos_total": 6766,
+        "casos_nuevos": 12,
+        "casos_activos": 934,
+        "casos_criticos": 31,
+        "fallecidos_total": 93,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 5739
     },
     {
         "pais": "AT",
@@ -255,9 +255,9 @@
     {
         "pais": "MM",
         "nombre": "Birmania",
-        "casos_total": 150,
-        "casos_nuevos": 0,
-        "casos_activos": 117,
+        "casos_total": 151,
+        "casos_nuevos": 1,
+        "casos_activos": 118,
         "casos_criticos": 0,
         "fallecidos_total": 6,
         "fallecidos_nuevos": 0,
@@ -310,12 +310,12 @@
     {
         "pais": "BR",
         "nombre": "Brasil",
-        "casos_total": 85380,
-        "casos_nuevos": 0,
-        "casos_activos": 43544,
+        "casos_total": 87187,
+        "casos_nuevos": 1807,
+        "casos_activos": 45246,
         "casos_criticos": 8318,
-        "fallecidos_total": 5901,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 6006,
+        "fallecidos_nuevos": 105,
         "recuperados_total": 35935
     },
     {
@@ -706,9 +706,9 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1095019,
+        "casos_total": 1095023,
         "casos_nuevos": 0,
-        "casos_activos": 878839,
+        "casos_activos": 878843,
         "casos_criticos": 15226,
         "fallecidos_total": 63856,
         "fallecidos_nuevos": 0,
@@ -1168,12 +1168,12 @@
     {
         "pais": "JM",
         "nombre": "Jamaica",
-        "casos_total": 396,
-        "casos_nuevos": 0,
-        "casos_activos": 360,
+        "casos_total": 422,
+        "casos_nuevos": 26,
+        "casos_activos": 385,
         "casos_criticos": 3,
-        "fallecidos_total": 7,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 8,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 29
     },
     {
@@ -1619,13 +1619,13 @@
     {
         "pais": "NZ",
         "nombre": "Nueva Zelanda",
-        "casos_total": 1476,
-        "casos_nuevos": 0,
-        "casos_activos": 216,
+        "casos_total": 1479,
+        "casos_nuevos": 3,
+        "casos_activos": 208,
         "casos_criticos": 1,
         "fallecidos_total": 19,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1241
+        "recuperados_total": 1252
     },
     {
         "pais": "OM",
