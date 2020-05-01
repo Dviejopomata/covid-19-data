@@ -189,13 +189,13 @@
     {
         "pais": "BH",
         "nombre": "Barein",
-        "casos_total": 3040,
-        "casos_nuevos": 0,
-        "casos_activos": 1532,
+        "casos_total": 3169,
+        "casos_nuevos": 129,
+        "casos_activos": 1608,
         "casos_criticos": 1,
         "fallecidos_total": 8,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1500
+        "recuperados_total": 1553
     },
     {
         "pais": "BE",
@@ -409,13 +409,13 @@
     {
         "pais": "CA",
         "nombre": "Canada",
-        "casos_total": 53236,
-        "casos_nuevos": 0,
-        "casos_activos": 28629,
+        "casos_total": 53657,
+        "casos_nuevos": 421,
+        "casos_activos": 28391,
         "casos_criticos": 557,
-        "fallecidos_total": 3184,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 21423
+        "fallecidos_total": 3223,
+        "fallecidos_nuevos": 39,
+        "recuperados_total": 22043
     },
     {
         "pais": "QA",
@@ -1644,7 +1644,7 @@
         "casos_total": 39791,
         "casos_nuevos": 475,
         "casos_activos": 34648,
-        "casos_criticos": 783,
+        "casos_criticos": 735,
         "fallecidos_total": 4893,
         "fallecidos_nuevos": 98,
         "recuperados_total": 0
@@ -1652,12 +1652,12 @@
     {
         "pais": "PK",
         "nombre": "Pakistan",
-        "casos_total": 17439,
-        "casos_nuevos": 966,
-        "casos_activos": 12733,
+        "casos_total": 17611,
+        "casos_nuevos": 1138,
+        "casos_activos": 12890,
         "casos_criticos": 111,
-        "fallecidos_total": 391,
-        "fallecidos_nuevos": 30,
+        "fallecidos_total": 406,
+        "fallecidos_nuevos": 45,
         "recuperados_total": 4315
     },
     {
@@ -2224,13 +2224,13 @@
     {
         "pais": "TG",
         "nombre": "Togo",
-        "casos_total": 116,
-        "casos_nuevos": 0,
-        "casos_activos": 42,
+        "casos_total": 123,
+        "casos_nuevos": 7,
+        "casos_activos": 48,
         "casos_criticos": 0,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 65
+        "recuperados_total": 66
     },
     {
         "pais": "TT",
