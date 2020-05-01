@@ -233,10 +233,10 @@
     {
         "pais": "BM",
         "nombre": "Bermudas",
-        "casos_total": 111,
-        "casos_nuevos": 0,
-        "casos_activos": 57,
-        "casos_criticos": 10,
+        "casos_total": 114,
+        "casos_nuevos": 3,
+        "casos_activos": 60,
+        "casos_criticos": 4,
         "fallecidos_total": 6,
         "fallecidos_nuevos": 0,
         "recuperados_total": 48
@@ -631,10 +631,10 @@
         "nombre": "El Salvador",
         "casos_total": 395,
         "casos_nuevos": 18,
-        "casos_activos": 267,
+        "casos_activos": 266,
         "casos_criticos": 3,
-        "fallecidos_total": 9,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 10,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 119
     },
     {
@@ -706,12 +706,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1094730,
-        "casos_nuevos": 30536,
-        "casos_activos": 878565,
+        "casos_total": 1095019,
+        "casos_nuevos": 30825,
+        "casos_activos": 878839,
         "casos_criticos": 15226,
-        "fallecidos_total": 63841,
-        "fallecidos_nuevos": 2186,
+        "fallecidos_total": 63856,
+        "fallecidos_nuevos": 2201,
         "recuperados_total": 152324
     },
     {
@@ -1003,9 +1003,9 @@
     {
         "pais": "IN",
         "nombre": "India",
-        "casos_total": 34862,
-        "casos_nuevos": 1800,
-        "casos_activos": 24640,
+        "casos_total": 34863,
+        "casos_nuevos": 1801,
+        "casos_activos": 24641,
         "casos_criticos": 0,
         "fallecidos_total": 1154,
         "fallecidos_nuevos": 75,
