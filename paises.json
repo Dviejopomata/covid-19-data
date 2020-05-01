@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1111510,
-        "casos_nuevos": 16487,
-        "casos_activos": 888817,
+        "casos_total": 1112341,
+        "casos_nuevos": 17318,
+        "casos_activos": 889616,
         "casos_criticos": 15118,
-        "fallecidos_total": 64884,
-        "fallecidos_nuevos": 1028,
-        "recuperados_total": 157809
+        "fallecidos_total": 64914,
+        "fallecidos_nuevos": 1058,
+        "recuperados_total": 157811
     },
     {
         "pais": "EE",
@@ -774,11 +774,11 @@
         "nombre": "Francia",
         "casos_total": 167178,
         "casos_nuevos": 0,
-        "casos_activos": 93326,
-        "casos_criticos": 4019,
-        "fallecidos_total": 24376,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 49476
+        "casos_activos": 92372,
+        "casos_criticos": 3878,
+        "fallecidos_total": 24594,
+        "fallecidos_nuevos": 218,
+        "recuperados_total": 50212
     },
     {
         "pais": "GA",
@@ -807,10 +807,10 @@
         "nombre": "Georgia",
         "casos_total": 566,
         "casos_nuevos": 27,
-        "casos_activos": 353,
+        "casos_activos": 352,
         "casos_criticos": 6,
-        "fallecidos_total": 6,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 7,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 207
     },
     {
@@ -1511,11 +1511,11 @@
         "nombre": "Montenegro",
         "casos_total": 322,
         "casos_nuevos": 0,
-        "casos_activos": 96,
+        "casos_activos": 82,
         "casos_criticos": 2,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 219
+        "recuperados_total": 233
     },
     {
         "pais": "MS",
@@ -2059,13 +2059,13 @@
     {
         "pais": "SY",
         "nombre": "Siria",
-        "casos_total": 43,
-        "casos_nuevos": 0,
-        "casos_activos": 19,
+        "casos_total": 44,
+        "casos_nuevos": 1,
+        "casos_activos": 14,
         "casos_criticos": 0,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 21
+        "recuperados_total": 27
     },
     {
         "pais": "SO",
@@ -2149,10 +2149,10 @@
         "nombre": "Suiza",
         "casos_total": 29705,
         "casos_nuevos": 119,
-        "casos_activos": 4556,
+        "casos_activos": 4551,
         "casos_criticos": 167,
-        "fallecidos_total": 1749,
-        "fallecidos_nuevos": 12,
+        "fallecidos_total": 1754,
+        "fallecidos_nuevos": 17,
         "recuperados_total": 23400
     },
     {
