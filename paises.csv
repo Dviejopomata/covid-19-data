@@ -30,8 +30,8 @@
 28,Japon,14088,0,2460,11198,308,0,430
 29,Bielorrusia,14027,0,2386,11552,92,0,89
 30,Catar,13409,0,1372,12027,72,0,10
-31,Polonia,12877,0,3236,8997,160,0,644
-32,Emiratos Arabes Unidos,12481,0,2429,9947,1,0,105
+31,Emiratos Arabes Unidos,13038,557,2543,10384,1,6,111
+32,Polonia,12877,0,3236,8997,160,0,644
 33,Rumania,12240,0,4017,7497,221,9,726
 34,Ucrania,10861,455,1413,9176,143,11,272
 35,Corea del Sur,10774,9,9072,1454,55,1,248
@@ -49,7 +49,7 @@
 47,Malasia,6071,69,4210,1758,37,1,103
 48,Sudafrica,5647,0,2073,3471,36,0,103
 49,Egipto,5537,0,1381,3764,0,0,392
-50,Finlandia,4995,0,3000,1784,48,0,211
+50,Finlandia,5051,56,3000,1840,48,0,211
 51,Argentina,4428,0,1256,2954,157,0,218
 52,Marruecos,4423,0,984,3269,1,0,170
 53,Kuwait,4024,0,1539,2459,66,0,26
@@ -132,7 +132,7 @@
 130,Guinea-Bisau,205,0,19,185,0,0,1
 131,Islas Feroe,187,0,184,3,0,0,0
 132,Martinica,178,0,83,81,5,0,14
-133,Birmania,151,1,27,118,0,0,6
+133,Birmania,151,1,28,117,0,0,6
 134,Guadalupe,151,0,95,44,11,0,12
 135,Gibraltar,144,0,131,13,0,0,0
 136,Liberia,141,0,45,80,0,0,16
@@ -160,11 +160,11 @@
 158,San Martin (Parte Holandesa),75,0,33,29,7,0,13
 159,Islas Caimanes,73,0,10,62,3,0,1
 160,Republica del Chad,73,0,33,35,0,0,5
-161,Benin,64,0,33,30,0,0,1
-162,Libia,61,0,18,40,0,0,3
-163,Nepal,59,2,16,43,0,0,0
-164,Polinesia Francesa,58,0,50,8,1,0,0
-165,Republica de Africa Central,50,0,10,40,0,0,0
+161,Republica de Africa Central,64,14,10,54,0,0,0
+162,Benin,64,0,33,30,0,0,1
+163,Libia,61,0,18,40,0,0,3
+164,Nepal,59,2,16,43,0,0,0
+165,Polinesia Francesa,58,0,50,8,1,0,0
 166,Macao,45,0,35,10,1,0,0
 167,Siria,43,0,21,19,0,0,3
 168,Zimbabue,40,0,5,31,0,0,4
@@ -186,13 +186,13 @@
 184,Nueva Caledonia,18,0,17,1,1,0,0
 185,Islas Virgenes de los Estados Unidos,17,0,0,17,0,0,0
 186,Santa Lucia,17,0,15,2,0,0,0
-187,San Vicente y las Granadinas,16,0,8,8,0,0,0
-188,Namibia,16,0,8,8,0,0,0
-189,Dominica,16,0,13,3,0,0,0
-190,Curazao,16,0,13,2,0,0,1
-191,Tayikistan,15,0,0,15,0,0,0
-192,San Cristobal y Nieves,15,0,6,9,0,0,0
-193,Santo Tome y Principe,14,0,4,10,0,0,0
+187,Santo Tome y Principe,16,2,4,11,0,1,1
+188,San Vicente y las Granadinas,16,0,8,8,0,0,0
+189,Namibia,16,0,8,8,0,0,0
+190,Dominica,16,0,13,3,0,0,0
+191,Curazao,16,0,13,2,0,0,1
+192,Tayikistan,15,0,0,15,0,0,0
+193,San Cristobal y Nieves,15,0,6,9,0,0,0
 194,Nicaragua,14,0,7,4,0,0,3
 195,Islas Malvinas,13,0,13,0,0,0,0
 196,Islas Turcas y Caicos,12,0,5,6,0,0,1
