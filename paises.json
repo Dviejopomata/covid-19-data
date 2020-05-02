@@ -411,11 +411,11 @@
         "nombre": "Canada",
         "casos_total": 56714,
         "casos_nuevos": 1653,
-        "casos_activos": 29529,
+        "casos_activos": 29347,
         "casos_criticos": 557,
-        "fallecidos_total": 3564,
-        "fallecidos_nuevos": 173,
-        "recuperados_total": 23621
+        "fallecidos_total": 3566,
+        "fallecidos_nuevos": 175,
+        "recuperados_total": 23801
     },
     {
         "pais": "QA",
@@ -706,12 +706,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1158881,
-        "casos_nuevos": 27851,
-        "casos_activos": 930920,
+        "casos_total": 1159430,
+        "casos_nuevos": 28400,
+        "casos_activos": 931371,
         "casos_criticos": 16475,
-        "fallecidos_total": 67293,
-        "fallecidos_nuevos": 1540,
+        "fallecidos_total": 67391,
+        "fallecidos_nuevos": 1638,
         "recuperados_total": 160668
     },
     {
@@ -1278,13 +1278,13 @@
     {
         "pais": "LR",
         "nombre": "Liberia",
-        "casos_total": 152,
-        "casos_nuevos": 0,
-        "casos_activos": 89,
+        "casos_total": 154,
+        "casos_nuevos": 2,
+        "casos_activos": 88,
         "casos_criticos": 0,
         "fallecidos_total": 18,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 45
+        "recuperados_total": 48
     },
     {
         "pais": "LY",
@@ -1586,12 +1586,12 @@
     {
         "pais": "NG",
         "nombre": "Nigeria",
-        "casos_total": 2170,
-        "casos_nuevos": 0,
-        "casos_activos": 1751,
+        "casos_total": 2388,
+        "casos_nuevos": 218,
+        "casos_activos": 1952,
         "casos_criticos": 2,
-        "fallecidos_total": 68,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 85,
+        "fallecidos_nuevos": 17,
         "recuperados_total": 351
     },
     {
