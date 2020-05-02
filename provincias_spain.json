@@ -233,11 +233,11 @@
         "nombre": "Birmania",
         "casos_total": 151,
         "casos_nuevos": 0,
-        "casos_activos": 114,
+        "casos_activos": 108,
         "casos_criticos": 0,
         "fallecidos_total": 6,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 31
+        "recuperados_total": 37
     },
     {
         "nombre": "Bolivia",
@@ -641,12 +641,12 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 1132038,
-        "casos_nuevos": 1008,
-        "casos_activos": 904589,
+        "casos_total": 1132228,
+        "casos_nuevos": 1198,
+        "casos_activos": 904770,
         "casos_criticos": 16481,
-        "fallecidos_total": 65783,
-        "fallecidos_nuevos": 30,
+        "fallecidos_total": 65792,
+        "fallecidos_nuevos": 39,
         "recuperados_total": 161666
     },
     {
@@ -741,13 +741,13 @@
     },
     {
         "nombre": "Ghana",
-        "casos_total": 2074,
-        "casos_nuevos": 0,
-        "casos_activos": 1845,
+        "casos_total": 2169,
+        "casos_nuevos": 95,
+        "casos_activos": 1922,
         "casos_criticos": 4,
-        "fallecidos_total": 17,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 212
+        "fallecidos_total": 18,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 229
     },
     {
         "nombre": "Gibraltar",
@@ -1483,10 +1483,10 @@
         "nombre": "Oman",
         "casos_total": 2483,
         "casos_nuevos": 36,
-        "casos_activos": 1722,
+        "casos_activos": 1721,
         "casos_criticos": 17,
-        "fallecidos_total": 11,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 12,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 750
     },
     {
@@ -1494,7 +1494,7 @@
         "casos_total": 40236,
         "casos_nuevos": 445,
         "casos_activos": 34999,
-        "casos_criticos": 735,
+        "casos_criticos": 708,
         "fallecidos_total": 4987,
         "fallecidos_nuevos": 94,
         "recuperados_total": 0
