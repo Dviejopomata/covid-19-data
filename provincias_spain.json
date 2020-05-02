@@ -24,7 +24,7 @@
         "casos_total": 164478,
         "casos_nuevos": 401,
         "casos_activos": 28742,
-        "casos_criticos": 2189,
+        "casos_criticos": 2105,
         "fallecidos_total": 6736,
         "fallecidos_nuevos": 0,
         "recuperados_total": 129000
@@ -341,12 +341,12 @@
     },
     {
         "nombre": "Cabo Verde",
-        "casos_total": 122,
-        "casos_nuevos": 0,
-        "casos_activos": 103,
+        "casos_total": 152,
+        "casos_nuevos": 30,
+        "casos_activos": 132,
         "casos_criticos": 0,
-        "fallecidos_total": 1,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 2,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 18
     },
     {
@@ -371,12 +371,12 @@
     },
     {
         "nombre": "Canada",
-        "casos_total": 55572,
-        "casos_nuevos": 511,
-        "casos_activos": 28810,
+        "casos_total": 56580,
+        "casos_nuevos": 1519,
+        "casos_activos": 29704,
         "casos_criticos": 557,
-        "fallecidos_total": 3446,
-        "fallecidos_nuevos": 55,
+        "fallecidos_total": 3560,
+        "fallecidos_nuevos": 169,
         "recuperados_total": 23316
     },
     {
@@ -581,13 +581,13 @@
     },
     {
         "nombre": "Emiratos Arabes Unidos",
-        "casos_total": 13038,
-        "casos_nuevos": 0,
-        "casos_activos": 10384,
+        "casos_total": 13599,
+        "casos_nuevos": 561,
+        "casos_activos": 10816,
         "casos_criticos": 1,
-        "fallecidos_total": 111,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 2543
+        "fallecidos_total": 119,
+        "fallecidos_nuevos": 8,
+        "recuperados_total": 2664
     },
     {
         "nombre": "Eritrea",
@@ -641,12 +641,12 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 1142688,
-        "casos_nuevos": 11658,
-        "casos_activos": 913961,
+        "casos_total": 1146766,
+        "casos_nuevos": 15736,
+        "casos_activos": 918038,
         "casos_criticos": 16481,
-        "fallecidos_total": 66620,
-        "fallecidos_nuevos": 867,
+        "fallecidos_total": 66621,
+        "fallecidos_nuevos": 868,
         "recuperados_total": 162107
     },
     {
@@ -1261,13 +1261,13 @@
     },
     {
         "nombre": "Mali",
-        "casos_total": 508,
-        "casos_nuevos": 0,
-        "casos_activos": 286,
+        "casos_total": 544,
+        "casos_nuevos": 36,
+        "casos_activos": 312,
         "casos_criticos": 0,
         "fallecidos_total": 26,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 196
+        "recuperados_total": 206
     },
     {
         "nombre": "Malta",
@@ -1451,9 +1451,9 @@
     },
     {
         "nombre": "Noruega",
-        "casos_total": 7783,
-        "casos_nuevos": 0,
-        "casos_activos": 7541,
+        "casos_total": 7801,
+        "casos_nuevos": 18,
+        "casos_activos": 7559,
         "casos_criticos": 37,
         "fallecidos_total": 210,
         "fallecidos_nuevos": 0,
