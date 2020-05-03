@@ -312,11 +312,11 @@
         "nombre": "Brasil",
         "casos_total": 101147,
         "casos_nuevos": 4588,
-        "casos_activos": 53185,
+        "casos_activos": 51131,
         "casos_criticos": 8318,
         "fallecidos_total": 7025,
         "fallecidos_nuevos": 275,
-        "recuperados_total": 40937
+        "recuperados_total": 42991
     },
     {
         "pais": "BN",
@@ -409,13 +409,13 @@
     {
         "pais": "CA",
         "nombre": "Canada",
-        "casos_total": 59378,
-        "casos_nuevos": 2664,
-        "casos_activos": 30968,
+        "casos_total": 59474,
+        "casos_nuevos": 2760,
+        "casos_activos": 30884,
         "casos_criticos": 557,
-        "fallecidos_total": 3681,
-        "fallecidos_nuevos": 115,
-        "recuperados_total": 24729
+        "fallecidos_total": 3682,
+        "fallecidos_nuevos": 116,
+        "recuperados_total": 24908
     },
     {
         "pais": "QA",
@@ -530,13 +530,13 @@
     {
         "pais": "CI",
         "nombre": "Costa de Marfil",
-        "casos_total": 1362,
-        "casos_nuevos": 0,
-        "casos_activos": 725,
+        "casos_total": 1398,
+        "casos_nuevos": 36,
+        "casos_activos": 728,
         "casos_criticos": 0,
-        "fallecidos_total": 15,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 622
+        "fallecidos_total": 17,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 653
     },
     {
         "pais": "HR",
@@ -2279,9 +2279,9 @@
     {
         "pais": "UG",
         "nombre": "Uganda",
-        "casos_total": 88,
-        "casos_nuevos": 0,
-        "casos_activos": 36,
+        "casos_total": 89,
+        "casos_nuevos": 1,
+        "casos_activos": 37,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
