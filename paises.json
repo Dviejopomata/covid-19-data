@@ -26,11 +26,11 @@
         "nombre": "Alemania",
         "casos_total": 164967,
         "casos_nuevos": 0,
-        "casos_activos": 29155,
+        "casos_activos": 27555,
         "casos_criticos": 2105,
         "fallecidos_total": 6812,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 129000
+        "recuperados_total": 130600
     },
     {
         "pais": "AO",
@@ -125,10 +125,10 @@
         "nombre": "Australia",
         "casos_total": 6799,
         "casos_nuevos": 18,
-        "casos_activos": 891,
+        "casos_activos": 890,
         "casos_criticos": 29,
-        "fallecidos_total": 94,
-        "fallecidos_nuevos": 1,
+        "fallecidos_total": 95,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 5814
     },
     {
@@ -992,13 +992,13 @@
     {
         "pais": "HU",
         "nombre": "Hungria",
-        "casos_total": 2942,
-        "casos_nuevos": 0,
-        "casos_activos": 1982,
-        "casos_criticos": 52,
-        "fallecidos_total": 335,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 625
+        "casos_total": 2998,
+        "casos_nuevos": 56,
+        "casos_activos": 2029,
+        "casos_criticos": 51,
+        "fallecidos_total": 340,
+        "fallecidos_nuevos": 5,
+        "recuperados_total": 629
     },
     {
         "pais": "IN",
@@ -1467,11 +1467,11 @@
         "nombre": "Mexico",
         "casos_total": 22088,
         "casos_nuevos": 1349,
-        "casos_activos": 7650,
+        "casos_activos": 6580,
         "casos_criticos": 378,
         "fallecidos_total": 2061,
         "fallecidos_nuevos": 89,
-        "recuperados_total": 12377
+        "recuperados_total": 13447
     },
     {
         "pais": "MD",
@@ -2301,9 +2301,9 @@
     {
         "pais": "UZ",
         "nombre": "Uzbekistan",
-        "casos_total": 2118,
-        "casos_nuevos": 0,
-        "casos_activos": 838,
+        "casos_total": 2127,
+        "casos_nuevos": 9,
+        "casos_activos": 847,
         "casos_criticos": 8,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
