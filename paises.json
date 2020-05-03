@@ -90,12 +90,12 @@
     {
         "pais": "AR",
         "nombre": "Argentina",
-        "casos_total": 4532,
-        "casos_nuevos": 0,
-        "casos_activos": 2983,
+        "casos_total": 4681,
+        "casos_nuevos": 149,
+        "casos_activos": 3124,
         "casos_criticos": 157,
-        "fallecidos_total": 229,
-        "fallecidos_nuevos": 4,
+        "fallecidos_total": 237,
+        "fallecidos_nuevos": 12,
         "recuperados_total": 1320
     },
     {
@@ -156,9 +156,9 @@
     {
         "pais": "BS",
         "nombre": "Bahamas",
-        "casos_total": 82,
-        "casos_nuevos": 1,
-        "casos_activos": 47,
+        "casos_total": 83,
+        "casos_nuevos": 2,
+        "casos_activos": 48,
         "casos_criticos": 1,
         "fallecidos_total": 11,
         "fallecidos_nuevos": 0,
@@ -497,12 +497,12 @@
     {
         "pais": "",
         "nombre": "Consejo Danes para los Refugiados",
-        "casos_total": 604,
-        "casos_nuevos": 0,
-        "casos_activos": 497,
+        "casos_total": 674,
+        "casos_nuevos": 70,
+        "casos_activos": 566,
         "casos_criticos": 0,
-        "fallecidos_total": 32,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 33,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 75
     },
     {
@@ -631,10 +631,10 @@
         "nombre": "El Salvador",
         "casos_total": 446,
         "casos_nuevos": 22,
-        "casos_activos": 295,
+        "casos_activos": 294,
         "casos_criticos": 2,
-        "fallecidos_total": 10,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 11,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 141
     },
     {
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1159430,
-        "casos_nuevos": 28400,
-        "casos_activos": 931371,
+        "casos_total": 1159923,
+        "casos_nuevos": 28893,
+        "casos_activos": 931818,
         "casos_criticos": 16475,
-        "fallecidos_total": 67391,
-        "fallecidos_nuevos": 1638,
-        "recuperados_total": 160668
+        "fallecidos_total": 67400,
+        "fallecidos_nuevos": 1647,
+        "recuperados_total": 160705
     },
     {
         "pais": "EE",
@@ -1489,11 +1489,11 @@
         "nombre": "Monaco",
         "casos_total": 95,
         "casos_nuevos": 0,
-        "casos_activos": 18,
+        "casos_activos": 13,
         "casos_criticos": 1,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 73
+        "recuperados_total": 78
     },
     {
         "pais": "MN",
