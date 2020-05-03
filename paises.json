@@ -1003,9 +1003,9 @@
     {
         "pais": "IN",
         "nombre": "India",
-        "casos_total": 39699,
-        "casos_nuevos": 0,
-        "casos_activos": 27557,
+        "casos_total": 39980,
+        "casos_nuevos": 281,
+        "casos_activos": 27838,
         "casos_criticos": 0,
         "fallecidos_total": 1323,
         "fallecidos_nuevos": 0,
@@ -1223,13 +1223,13 @@
     {
         "pais": "KG",
         "nombre": "Kirguistan",
-        "casos_total": 769,
-        "casos_nuevos": 0,
-        "casos_activos": 234,
+        "casos_total": 795,
+        "casos_nuevos": 26,
+        "casos_activos": 221,
         "casos_criticos": 12,
-        "fallecidos_total": 8,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 527
+        "fallecidos_total": 10,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 564
     },
     {
         "pais": "KW",
@@ -1522,11 +1522,11 @@
         "nombre": "Montserrat",
         "casos_total": 11,
         "casos_nuevos": 0,
-        "casos_activos": 8,
+        "casos_activos": 3,
         "casos_criticos": 1,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 2
+        "recuperados_total": 7
     },
     {
         "pais": "MZ",
