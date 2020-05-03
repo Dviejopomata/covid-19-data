@@ -519,13 +519,13 @@
     {
         "pais": "CR",
         "nombre": "Costa Rica",
-        "casos_total": 733,
-        "casos_nuevos": 0,
-        "casos_activos": 355,
+        "casos_total": 739,
+        "casos_nuevos": 6,
+        "casos_activos": 347,
         "casos_criticos": 6,
         "fallecidos_total": 6,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 372
+        "recuperados_total": 386
     },
     {
         "pais": "CI",
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1178574,
-        "casos_nuevos": 17800,
-        "casos_activos": 932655,
+        "casos_total": 1179454,
+        "casos_nuevos": 18680,
+        "casos_activos": 945072,
         "casos_criticos": 16156,
-        "fallecidos_total": 68214,
-        "fallecidos_nuevos": 770,
-        "recuperados_total": 177705
+        "fallecidos_total": 68179,
+        "fallecidos_nuevos": 735,
+        "recuperados_total": 166203
     },
     {
         "pais": "EE",
@@ -1050,7 +1050,7 @@
         "casos_total": 21506,
         "casos_nuevos": 330,
         "casos_activos": 6817,
-        "casos_criticos": 99,
+        "casos_criticos": 98,
         "fallecidos_total": 1303,
         "fallecidos_nuevos": 17,
         "recuperados_total": 13386
