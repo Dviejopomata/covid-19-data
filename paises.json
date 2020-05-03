@@ -101,13 +101,13 @@
     {
         "pais": "AM",
         "nombre": "Armenia",
-        "casos_total": 2273,
-        "casos_nuevos": 0,
-        "casos_activos": 1230,
+        "casos_total": 2386,
+        "casos_nuevos": 113,
+        "casos_activos": 1316,
         "casos_criticos": 10,
-        "fallecidos_total": 33,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1010
+        "fallecidos_total": 35,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 1035
     },
     {
         "pais": "AW",
@@ -332,13 +332,13 @@
     {
         "pais": "BG",
         "nombre": "Bulgaria",
-        "casos_total": 1594,
-        "casos_nuevos": 0,
-        "casos_activos": 1235,
-        "casos_criticos": 43,
+        "casos_total": 1611,
+        "casos_nuevos": 17,
+        "casos_activos": 1231,
+        "casos_criticos": 40,
         "fallecidos_total": 72,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 287
+        "recuperados_total": 308
     },
     {
         "pais": "BF",
@@ -805,13 +805,13 @@
     {
         "pais": "GE",
         "nombre": "Georgia",
-        "casos_total": 582,
-        "casos_nuevos": 0,
-        "casos_activos": 367,
+        "casos_total": 589,
+        "casos_nuevos": 7,
+        "casos_activos": 366,
         "casos_criticos": 6,
         "fallecidos_total": 8,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 207
+        "recuperados_total": 215
     },
     {
         "pais": "GH",
@@ -1511,11 +1511,11 @@
         "nombre": "Montenegro",
         "casos_total": 322,
         "casos_nuevos": 0,
-        "casos_activos": 69,
+        "casos_activos": 65,
         "casos_criticos": 2,
         "fallecidos_total": 8,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 245
+        "recuperados_total": 249
     },
     {
         "pais": "MS",
@@ -1863,10 +1863,10 @@
         "nombre": "Rumania",
         "casos_total": 12732,
         "casos_nuevos": 0,
-        "casos_activos": 7414,
+        "casos_activos": 7405,
         "casos_criticos": 265,
-        "fallecidos_total": 771,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 780,
+        "fallecidos_nuevos": 9,
         "recuperados_total": 4547
     },
     {
@@ -2048,9 +2048,9 @@
     {
         "pais": "SG",
         "nombre": "Singapur",
-        "casos_total": 17548,
-        "casos_nuevos": 0,
-        "casos_activos": 16184,
+        "casos_total": 18205,
+        "casos_nuevos": 657,
+        "casos_activos": 16841,
         "casos_criticos": 24,
         "fallecidos_total": 17,
         "fallecidos_nuevos": 0,
