@@ -310,12 +310,12 @@
     {
         "pais": "BR",
         "nombre": "Brasil",
-        "casos_total": 101147,
-        "casos_nuevos": 0,
-        "casos_activos": 51131,
+        "casos_total": 101826,
+        "casos_nuevos": 679,
+        "casos_activos": 51784,
         "casos_criticos": 8318,
-        "fallecidos_total": 7025,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 7051,
+        "fallecidos_nuevos": 26,
         "recuperados_total": 42991
     },
     {
@@ -807,11 +807,11 @@
         "nombre": "Georgia",
         "casos_total": 589,
         "casos_nuevos": 0,
-        "casos_activos": 359,
+        "casos_activos": 357,
         "casos_criticos": 6,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 221
+        "recuperados_total": 223
     },
     {
         "pais": "GH",
@@ -893,9 +893,9 @@
     {
         "pais": "GT",
         "nombre": "Guatemala",
-        "casos_total": 688,
-        "casos_nuevos": 0,
-        "casos_activos": 599,
+        "casos_total": 703,
+        "casos_nuevos": 15,
+        "casos_activos": 614,
         "casos_criticos": 5,
         "fallecidos_total": 17,
         "fallecidos_nuevos": 0,
@@ -2237,11 +2237,11 @@
         "nombre": "Trinidad yTobago",
         "casos_total": 116,
         "casos_nuevos": 0,
-        "casos_activos": 20,
+        "casos_activos": 15,
         "casos_criticos": 0,
         "fallecidos_total": 8,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 88
+        "recuperados_total": 93
     },
     {
         "pais": "TN",
@@ -2314,11 +2314,11 @@
         "nombre": "Venezuela",
         "casos_total": 357,
         "casos_nuevos": 0,
-        "casos_activos": 199,
-        "casos_criticos": 2,
+        "casos_activos": 189,
+        "casos_criticos": 1,
         "fallecidos_total": 10,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 148
+        "recuperados_total": 158
     },
     {
         "pais": "VN",
