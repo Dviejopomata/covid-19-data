@@ -571,13 +571,13 @@
     },
     {
         "nombre": "El Salvador",
-        "casos_total": 490,
-        "casos_nuevos": 0,
-        "casos_activos": 325,
+        "casos_total": 555,
+        "casos_nuevos": 65,
+        "casos_activos": 363,
         "casos_criticos": 3,
-        "fallecidos_total": 11,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 154
+        "fallecidos_total": 12,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 180
     },
     {
         "nombre": "Emiratos Arabes Unidos",
@@ -1523,11 +1523,11 @@
         "nombre": "Papua Nueva Guinea",
         "casos_total": 8,
         "casos_nuevos": 0,
-        "casos_activos": 8,
+        "casos_activos": 2,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 0
+        "recuperados_total": 6
     },
     {
         "nombre": "Paraguay",
@@ -2013,11 +2013,11 @@
         "nombre": "Timor Oriental",
         "casos_total": 24,
         "casos_nuevos": 0,
-        "casos_activos": 8,
+        "casos_activos": 4,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 16
+        "recuperados_total": 20
     },
     {
         "nombre": "Togo",
