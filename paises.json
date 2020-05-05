@@ -59,11 +59,11 @@
         "nombre": "Antigua y Barbuda",
         "casos_total": 25,
         "casos_nuevos": 0,
-        "casos_activos": 7,
+        "casos_activos": 6,
         "casos_criticos": 1,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 15
+        "recuperados_total": 16
     },
     {
         "pais": "SA",
@@ -706,12 +706,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1214023,
-        "casos_nuevos": 1188,
-        "casos_activos": 955980,
-        "casos_criticos": 16050,
-        "fallecidos_total": 69974,
-        "fallecidos_nuevos": 53,
+        "casos_total": 1215279,
+        "casos_nuevos": 2444,
+        "casos_activos": 957091,
+        "casos_criticos": 16055,
+        "fallecidos_total": 70119,
+        "fallecidos_nuevos": 198,
         "recuperados_total": 188069
     },
     {
@@ -1644,7 +1644,7 @@
         "casos_total": 41087,
         "casos_nuevos": 317,
         "casos_activos": 35669,
-        "casos_criticos": 683,
+        "casos_criticos": 644,
         "fallecidos_total": 5168,
         "fallecidos_nuevos": 86,
         "recuperados_total": 0
