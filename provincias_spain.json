@@ -21,9 +21,9 @@
     },
     {
         "nombre": "Alemania",
-        "casos_total": 167239,
-        "casos_nuevos": 232,
-        "casos_activos": 22846,
+        "casos_total": 167372,
+        "casos_nuevos": 365,
+        "casos_activos": 22979,
         "casos_criticos": 1937,
         "fallecidos_total": 6993,
         "fallecidos_nuevos": 0,
@@ -641,12 +641,12 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 1238801,
-        "casos_nuevos": 1168,
-        "casos_activos": 965315,
+        "casos_total": 1239848,
+        "casos_nuevos": 2215,
+        "casos_activos": 966315,
         "casos_criticos": 16179,
-        "fallecidos_total": 72334,
-        "fallecidos_nuevos": 63,
+        "fallecidos_total": 72381,
+        "fallecidos_nuevos": 110,
         "recuperados_total": 201152
     },
     {
@@ -1171,9 +1171,9 @@
     },
     {
         "nombre": "Libia",
-        "casos_total": 63,
-        "casos_nuevos": 0,
-        "casos_activos": 36,
+        "casos_total": 64,
+        "casos_nuevos": 1,
+        "casos_activos": 37,
         "casos_criticos": 0,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
@@ -1494,7 +1494,7 @@
         "casos_total": 41319,
         "casos_nuevos": 232,
         "casos_activos": 35865,
-        "casos_criticos": 644,
+        "casos_criticos": 628,
         "fallecidos_total": 5204,
         "fallecidos_nuevos": 36,
         "recuperados_total": 0
@@ -1921,13 +1921,13 @@
     },
     {
         "nombre": "Sudan",
-        "casos_total": 778,
-        "casos_nuevos": 0,
-        "casos_activos": 663,
+        "casos_total": 852,
+        "casos_nuevos": 74,
+        "casos_activos": 727,
         "casos_criticos": 0,
         "fallecidos_total": 45,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 70
+        "recuperados_total": 80
     },
     {
         "nombre": "Sudan del Sur",
