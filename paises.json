@@ -695,9 +695,9 @@
     {
         "pais": "PS",
         "nombre": "Estado de Palestina",
-        "casos_total": 371,
-        "casos_nuevos": 0,
-        "casos_activos": 195,
+        "casos_total": 374,
+        "casos_nuevos": 3,
+        "casos_activos": 198,
         "casos_criticos": 0,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1252204,
-        "casos_nuevos": 14571,
-        "casos_activos": 974050,
-        "casos_criticos": 15990,
-        "fallecidos_total": 73497,
-        "fallecidos_nuevos": 1226,
-        "recuperados_total": 204657
+        "casos_total": 1249791,
+        "casos_nuevos": 12158,
+        "casos_activos": 971286,
+        "casos_criticos": 15843,
+        "fallecidos_total": 73633,
+        "fallecidos_nuevos": 1362,
+        "recuperados_total": 204872
     },
     {
         "pais": "EE",
@@ -829,11 +829,11 @@
         "nombre": "Gibraltar",
         "casos_total": 144,
         "casos_nuevos": 0,
-        "casos_activos": 11,
+        "casos_activos": 8,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 133
+        "recuperados_total": 136
     },
     {
         "pais": "GD",
@@ -1377,11 +1377,11 @@
     {
         "pais": "MV",
         "nombre": "Maldivas",
-        "casos_total": 618,
-        "casos_nuevos": 45,
+        "casos_total": 617,
+        "casos_nuevos": 44,
         "casos_activos": 596,
         "casos_criticos": 2,
-        "fallecidos_total": 2,
+        "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
         "recuperados_total": 20
     },
@@ -1850,13 +1850,13 @@
     {
         "pais": "RW",
         "nombre": "Ruanda",
-        "casos_total": 261,
-        "casos_nuevos": 0,
-        "casos_activos": 132,
+        "casos_total": 268,
+        "casos_nuevos": 7,
+        "casos_activos": 138,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 129
+        "recuperados_total": 130
     },
     {
         "pais": "RO",
@@ -2345,13 +2345,13 @@
     {
         "pais": "ZM",
         "nombre": "Zambia",
-        "casos_total": 139,
-        "casos_nuevos": 1,
-        "casos_activos": 43,
+        "casos_total": 146,
+        "casos_nuevos": 8,
+        "casos_activos": 41,
         "casos_criticos": 1,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 1,
-        "recuperados_total": 92
+        "recuperados_total": 101
     },
     {
         "pais": "ZW",
