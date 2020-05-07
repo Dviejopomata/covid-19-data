@@ -24,12 +24,12 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 168162,
-        "casos_nuevos": 0,
-        "casos_activos": 20987,
+        "casos_total": 168276,
+        "casos_nuevos": 114,
+        "casos_activos": 21099,
         "casos_criticos": 1884,
-        "fallecidos_total": 7275,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 7277,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 139900
     },
     {
@@ -189,13 +189,13 @@
     {
         "pais": "BH",
         "nombre": "Barein",
-        "casos_total": 3934,
-        "casos_nuevos": 0,
-        "casos_activos": 2066,
+        "casos_total": 4131,
+        "casos_nuevos": 197,
+        "casos_activos": 2125,
         "casos_criticos": 4,
         "fallecidos_total": 8,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1860
+        "recuperados_total": 1998
     },
     {
         "pais": "BE",
@@ -288,13 +288,13 @@
     {
         "pais": "BA",
         "nombre": "Bosnia y Herzegovina",
-        "casos_total": 1987,
-        "casos_nuevos": 0,
-        "casos_activos": 973,
+        "casos_total": 2027,
+        "casos_nuevos": 40,
+        "casos_activos": 983,
         "casos_criticos": 4,
-        "fallecidos_total": 86,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 928
+        "fallecidos_total": 90,
+        "fallecidos_nuevos": 4,
+        "recuperados_total": 954
     },
     {
         "pais": "BW",
@@ -708,10 +708,10 @@
         "nombre": "Estados Unidos",
         "casos_total": 1263243,
         "casos_nuevos": 151,
-        "casos_activos": 975325,
+        "casos_activos": 975324,
         "casos_criticos": 15827,
-        "fallecidos_total": 74809,
-        "fallecidos_nuevos": 10,
+        "fallecidos_total": 74810,
+        "fallecidos_nuevos": 11,
         "recuperados_total": 213109
     },
     {
@@ -752,10 +752,10 @@
         "nombre": "Finlandia",
         "casos_total": 5673,
         "casos_nuevos": 100,
-        "casos_activos": 1921,
+        "casos_activos": 1918,
         "casos_criticos": 44,
-        "fallecidos_total": 252,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 255,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 3500
     },
     {
@@ -1036,13 +1036,13 @@
     {
         "pais": "IR",
         "nombre": "Iran",
-        "casos_total": 101650,
-        "casos_nuevos": 0,
-        "casos_activos": 13645,
-        "casos_criticos": 2735,
-        "fallecidos_total": 6418,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 81587
+        "casos_total": 103135,
+        "casos_nuevos": 1485,
+        "casos_activos": 13905,
+        "casos_criticos": 2728,
+        "fallecidos_total": 6486,
+        "fallecidos_nuevos": 68,
+        "recuperados_total": 82744
     },
     {
         "pais": "IE",
@@ -1267,13 +1267,13 @@
     {
         "pais": "LB",
         "nombre": "Libano",
-        "casos_total": 750,
-        "casos_nuevos": 0,
-        "casos_activos": 512,
+        "casos_total": 784,
+        "casos_nuevos": 34,
+        "casos_activos": 539,
         "casos_criticos": 43,
         "fallecidos_total": 25,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 213
+        "recuperados_total": 220
     },
     {
         "pais": "LR",
@@ -1399,13 +1399,13 @@
     {
         "pais": "MT",
         "nombre": "Malta",
-        "casos_total": 484,
-        "casos_nuevos": 0,
-        "casos_activos": 72,
+        "casos_total": 486,
+        "casos_nuevos": 2,
+        "casos_activos": 68,
         "casos_criticos": 0,
         "fallecidos_total": 5,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 407
+        "recuperados_total": 413
     },
     {
         "pais": "MA",
@@ -1632,10 +1632,10 @@
         "nombre": "Oman",
         "casos_total": 2958,
         "casos_nuevos": 55,
-        "casos_activos": 1965,
+        "casos_activos": 1964,
         "casos_criticos": 17,
-        "fallecidos_total": 13,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 14,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 980
     },
     {
@@ -2323,13 +2323,13 @@
     {
         "pais": "VN",
         "nombre": "Vietnam",
-        "casos_total": 271,
-        "casos_nuevos": 0,
-        "casos_activos": 39,
+        "casos_total": 288,
+        "casos_nuevos": 17,
+        "casos_activos": 55,
         "casos_criticos": 8,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 232
+        "recuperados_total": 233
     },
     {
         "pais": "YE",
