@@ -68,13 +68,13 @@
     {
         "pais": "SA",
         "nombre": "Arabia Saudita",
-        "casos_total": 31938,
-        "casos_nuevos": 0,
-        "casos_activos": 24946,
+        "casos_total": 33731,
+        "casos_nuevos": 1793,
+        "casos_activos": 25714,
         "casos_criticos": 137,
-        "fallecidos_total": 209,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 6783
+        "fallecidos_total": 219,
+        "fallecidos_nuevos": 10,
+        "recuperados_total": 7798
     },
     {
         "pais": "DZ",
@@ -92,11 +92,11 @@
         "nombre": "Argentina",
         "casos_total": 5208,
         "casos_nuevos": 0,
-        "casos_activos": 3411,
+        "casos_activos": 3334,
         "casos_criticos": 148,
         "fallecidos_total": 273,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1524
+        "recuperados_total": 1601
     },
     {
         "pais": "AM",
@@ -706,12 +706,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1263243,
-        "casos_nuevos": 151,
-        "casos_activos": 975324,
+        "casos_total": 1263697,
+        "casos_nuevos": 605,
+        "casos_activos": 975775,
         "casos_criticos": 15827,
-        "fallecidos_total": 74810,
-        "fallecidos_nuevos": 11,
+        "fallecidos_total": 74813,
+        "fallecidos_nuevos": 14,
         "recuperados_total": 213109
     },
     {
@@ -1201,13 +1201,13 @@
     {
         "pais": "KZ",
         "nombre": "Kazajistan",
-        "casos_total": 4509,
-        "casos_nuevos": 87,
-        "casos_activos": 3029,
+        "casos_total": 4530,
+        "casos_nuevos": 108,
+        "casos_activos": 3030,
         "casos_criticos": 31,
         "fallecidos_total": 30,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1450
+        "recuperados_total": 1470
     },
     {
         "pais": "KE",
@@ -1806,13 +1806,13 @@
     {
         "pais": "MK",
         "nombre": "Republica de Macedonia",
-        "casos_total": 1539,
-        "casos_nuevos": 0,
-        "casos_activos": 394,
+        "casos_total": 1572,
+        "casos_nuevos": 33,
+        "casos_activos": 404,
         "casos_criticos": 21,
-        "fallecidos_total": 88,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1057
+        "fallecidos_total": 89,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 1079
     },
     {
         "pais": "DJ",
@@ -1863,10 +1863,10 @@
         "nombre": "Rumania",
         "casos_total": 14499,
         "casos_nuevos": 392,
-        "casos_activos": 7479,
+        "casos_activos": 7474,
         "casos_criticos": 234,
-        "fallecidos_total": 876,
-        "fallecidos_nuevos": 12,
+        "fallecidos_total": 881,
+        "fallecidos_nuevos": 17,
         "recuperados_total": 6144
     },
     {
@@ -2114,20 +2114,20 @@
     {
         "pais": "SD",
         "nombre": "Sudan",
-        "casos_total": 852,
-        "casos_nuevos": 0,
-        "casos_activos": 723,
+        "casos_total": 930,
+        "casos_nuevos": 78,
+        "casos_activos": 786,
         "casos_criticos": 0,
-        "fallecidos_total": 49,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 80
+        "fallecidos_total": 52,
+        "fallecidos_nuevos": 3,
+        "recuperados_total": 92
     },
     {
         "pais": "SS",
         "nombre": "Sudan del Sur",
-        "casos_total": 58,
-        "casos_nuevos": 0,
-        "casos_activos": 58,
+        "casos_total": 74,
+        "casos_nuevos": 16,
+        "casos_activos": 74,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -2149,10 +2149,10 @@
         "nombre": "Suiza",
         "casos_total": 30126,
         "casos_nuevos": 66,
-        "casos_activos": 2621,
+        "casos_activos": 2618,
         "casos_criticos": 121,
-        "fallecidos_total": 1805,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 1808,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 25700
     },
     {
@@ -2303,11 +2303,11 @@
         "nombre": "Uzbekistan",
         "casos_total": 2266,
         "casos_nuevos": 33,
-        "casos_activos": 664,
+        "casos_activos": 632,
         "casos_criticos": 8,
         "fallecidos_total": 10,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1592
+        "recuperados_total": 1624
     },
     {
         "pais": "VE",
