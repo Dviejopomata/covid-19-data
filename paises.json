@@ -90,12 +90,12 @@
     {
         "pais": "AR",
         "nombre": "Argentina",
-        "casos_total": 5208,
-        "casos_nuevos": 0,
-        "casos_activos": 3334,
+        "casos_total": 5371,
+        "casos_nuevos": 163,
+        "casos_activos": 3488,
         "casos_criticos": 148,
-        "fallecidos_total": 273,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 282,
+        "fallecidos_nuevos": 9,
         "recuperados_total": 1601
     },
     {
@@ -310,12 +310,12 @@
     {
         "pais": "BR",
         "nombre": "Brasil",
-        "casos_total": 135106,
-        "casos_nuevos": 8495,
-        "casos_activos": 70610,
+        "casos_total": 135693,
+        "casos_nuevos": 9082,
+        "casos_activos": 71155,
         "casos_criticos": 8318,
-        "fallecidos_total": 9146,
-        "fallecidos_nuevos": 558,
+        "fallecidos_total": 9188,
+        "fallecidos_nuevos": 600,
         "recuperados_total": 55350
     },
     {
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1291804,
-        "casos_nuevos": 28712,
-        "casos_activos": 998100,
+        "casos_total": 1292223,
+        "casos_nuevos": 29131,
+        "casos_activos": 998437,
         "casos_criticos": 16995,
-        "fallecidos_total": 76889,
-        "fallecidos_nuevos": 2090,
-        "recuperados_total": 216815
+        "fallecidos_total": 76908,
+        "fallecidos_nuevos": 2109,
+        "recuperados_total": 216878
     },
     {
         "pais": "EE",
@@ -1597,9 +1597,9 @@
     {
         "pais": "NO",
         "nombre": "Noruega",
-        "casos_total": 8033,
-        "casos_nuevos": 37,
-        "casos_activos": 7784,
+        "casos_total": 8034,
+        "casos_nuevos": 38,
+        "casos_activos": 7785,
         "casos_criticos": 27,
         "fallecidos_total": 217,
         "fallecidos_nuevos": 1,
@@ -1709,11 +1709,11 @@
         "nombre": "Polinesia Francesa",
         "casos_total": 60,
         "casos_nuevos": 0,
-        "casos_activos": 5,
+        "casos_activos": 4,
         "casos_criticos": 1,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 55
+        "recuperados_total": 56
     },
     {
         "pais": "PL",
