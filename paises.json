@@ -431,12 +431,12 @@
     {
         "pais": "CZ",
         "nombre": "Chequia",
-        "casos_total": 8065,
-        "casos_nuevos": 34,
-        "casos_activos": 3386,
+        "casos_total": 8077,
+        "casos_nuevos": 46,
+        "casos_activos": 3396,
         "casos_criticos": 258,
-        "fallecidos_total": 271,
-        "fallecidos_nuevos": 1,
+        "fallecidos_total": 273,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 4408
     },
     {
@@ -609,10 +609,10 @@
         "nombre": "Ecuador",
         "casos_total": 30298,
         "casos_nuevos": 0,
-        "casos_activos": 25211,
+        "casos_activos": 25161,
         "casos_criticos": 156,
-        "fallecidos_total": 1654,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 1704,
+        "fallecidos_nuevos": 50,
         "recuperados_total": 3433
     },
     {
@@ -706,12 +706,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1318787,
-        "casos_nuevos": 26164,
-        "casos_activos": 1018276,
+        "casos_total": 1320044,
+        "casos_nuevos": 27421,
+        "casos_activos": 1019507,
         "casos_criticos": 16928,
-        "fallecidos_total": 78503,
-        "fallecidos_nuevos": 1575,
+        "fallecidos_total": 78529,
+        "fallecidos_nuevos": 1601,
         "recuperados_total": 222008
     },
     {
@@ -959,13 +959,13 @@
     {
         "pais": "HT",
         "nombre": "Haiti",
-        "casos_total": 129,
-        "casos_nuevos": 0,
-        "casos_activos": 101,
+        "casos_total": 146,
+        "casos_nuevos": 17,
+        "casos_activos": 117,
         "casos_criticos": 0,
         "fallecidos_total": 12,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 16
+        "recuperados_total": 17
     },
     {
         "pais": "HN",
@@ -1597,9 +1597,9 @@
     {
         "pais": "NO",
         "nombre": "Noruega",
-        "casos_total": 8055,
-        "casos_nuevos": 21,
-        "casos_activos": 7805,
+        "casos_total": 8070,
+        "casos_nuevos": 36,
+        "casos_activos": 7820,
         "casos_criticos": 27,
         "fallecidos_total": 218,
         "fallecidos_nuevos": 1,
@@ -2312,13 +2312,13 @@
     {
         "pais": "VE",
         "nombre": "Venezuela",
-        "casos_total": 381,
-        "casos_nuevos": 0,
-        "casos_activos": 186,
+        "casos_total": 388,
+        "casos_nuevos": 7,
+        "casos_activos": 188,
         "casos_criticos": 1,
         "fallecidos_total": 10,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 185
+        "recuperados_total": 190
     },
     {
         "pais": "VN",
