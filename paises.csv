@@ -1,5 +1,5 @@
 ,País,Casos totales,Nuevos casos,Casos activos,Recuperados,Casos críticos,Muertes hoy,Muertes
-0,Estados Unidos,1321785,0,223603,1019567,16978,0,78615
+0,Estados Unidos,1322163,378,223749,1019798,16978,1,78616
 1,España,260117,0,168408,65410,2075,0,26299
 2,Italia,217185,0,99023,87961,1168,0,30201
 3,Reino Unido,211364,0,0,179779,1559,0,31241
@@ -64,7 +64,7 @@
 62,Hungria,3178,0,865,1921,74,0,392
 63,Oman,3112,0,1025,2071,17,0,16
 64,Armenia,3029,0,1218,1768,10,0,43
-65,Tailandia,3000,0,2784,161,61,0,55
+65,Tailandia,3004,4,2787,161,61,1,56
 66,Grecia,2691,0,1374,1167,32,0,150
 67,Irak,2603,0,1661,838,0,0,104
 68,Uzbekistan,2325,0,1775,540,8,0,10
@@ -101,11 +101,11 @@
 99,Sri Lanka,835,0,240,586,1,0,9
 100,Libano,796,0,223,547,42,0,26
 101,Niger,795,0,600,151,0,0,44
-102,Costa Rica,773,0,461,306,6,0,6
-103,Principado de Andorra,752,0,537,168,14,0,47
-104,Maldivas,744,0,20,721,2,0,3
-105,Burkina Faso,744,0,566,130,0,0,48
-106,El Salvador,742,0,257,469,4,0,16
+102,El Salvador,784,42,276,492,4,0,16
+103,Costa Rica,773,0,461,306,6,0,6
+104,Principado de Andorra,752,0,537,168,14,0,47
+105,Maldivas,744,0,20,721,2,0,3
+106,Burkina Faso,744,0,566,130,0,0,48
 107,Crucero,712,0,645,54,4,0,13
 108,Uruguay,694,0,506,170,7,0,18
 109,Mali,668,0,285,348,0,0,35
@@ -187,8 +187,8 @@
 185,Laos,19,0,9,10,0,0,0
 186,Fiyi,18,0,14,4,0,0,0
 187,Santa Lucia,18,0,17,1,0,0,0
-188,Belice,18,0,16,0,0,0,2
-189,Nueva Caledonia,18,0,18,0,0,0,0
+188,Nueva Caledonia,18,0,18,0,0,0,0
+189,Belice,18,0,16,0,0,0,2
 190,Islas Virgenes de los Estados Unidos,17,0,0,17,0,0,0
 191,San Vicente y las Granadinas,17,0,9,8,0,0,0
 192,Namibia,16,0,9,7,0,0,0
@@ -207,7 +207,7 @@
 205,Comoras,8,0,0,7,0,0,1
 206,Mauritania,8,0,6,1,0,0,1
 207,Papua Nueva Guinea,8,0,8,0,0,0,0
-208,Islas Virgenes Britanicas,7,0,3,3,0,0,1
+208,Islas Virgenes Britanicas,7,0,4,2,0,0,1
 209,Butan,7,0,5,2,0,0,0
 210,"Bonaire, San Eustaquio y Saba",6,0,0,6,0,0,0
 211,Sahara Occidental,6,0,5,1,0,0,0
