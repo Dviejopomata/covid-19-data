@@ -68,13 +68,13 @@
     {
         "pais": "SA",
         "nombre": "Arabia Saudita",
-        "casos_total": 35432,
-        "casos_nuevos": 0,
-        "casos_activos": 26083,
+        "casos_total": 37136,
+        "casos_nuevos": 1704,
+        "casos_activos": 26753,
         "casos_criticos": 141,
-        "fallecidos_total": 229,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 9120
+        "fallecidos_total": 239,
+        "fallecidos_nuevos": 10,
+        "recuperados_total": 10144
     },
     {
         "pais": "DZ",
@@ -222,9 +222,9 @@
     {
         "pais": "BJ",
         "nombre": "Benin",
-        "casos_total": 242,
-        "casos_nuevos": 0,
-        "casos_activos": 178,
+        "casos_total": 284,
+        "casos_nuevos": 42,
+        "casos_activos": 220,
         "casos_criticos": 0,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1322223,
-        "casos_nuevos": 438,
-        "casos_activos": 1019852,
-        "casos_criticos": 16978,
-        "fallecidos_total": 78622,
-        "fallecidos_nuevos": 7,
-        "recuperados_total": 223749
+        "casos_total": 1323077,
+        "casos_nuevos": 1292,
+        "casos_activos": 1020564,
+        "casos_criticos": 16917,
+        "fallecidos_total": 78637,
+        "fallecidos_nuevos": 22,
+        "recuperados_total": 223876
     },
     {
         "pais": "EE",
@@ -2015,13 +2015,13 @@
     {
         "pais": "RS",
         "nombre": "Serbia",
-        "casos_total": 9943,
-        "casos_nuevos": 0,
-        "casos_activos": 7281,
-        "casos_criticos": 45,
-        "fallecidos_total": 209,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 2453
+        "casos_total": 10032,
+        "casos_nuevos": 89,
+        "casos_activos": 7087,
+        "casos_criticos": 43,
+        "fallecidos_total": 213,
+        "fallecidos_nuevos": 4,
+        "recuperados_total": 2732
     },
     {
         "pais": "SC",
@@ -2083,11 +2083,11 @@
         "nombre": "Sri Lanka",
         "casos_total": 844,
         "casos_nuevos": 9,
-        "casos_activos": 580,
+        "casos_activos": 575,
         "casos_criticos": 1,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 255
+        "recuperados_total": 260
     },
     {
         "pais": "SZ",
