@@ -706,9 +706,9 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1322163,
-        "casos_nuevos": 378,
-        "casos_activos": 1019798,
+        "casos_total": 1322164,
+        "casos_nuevos": 379,
+        "casos_activos": 1019799,
         "casos_criticos": 16978,
         "fallecidos_total": 78616,
         "fallecidos_nuevos": 1,
@@ -750,12 +750,12 @@
     {
         "pais": "FI",
         "nombre": "Finlandia",
-        "casos_total": 5738,
-        "casos_nuevos": 0,
-        "casos_activos": 1478,
+        "casos_total": 5880,
+        "casos_nuevos": 142,
+        "casos_activos": 1615,
         "casos_criticos": 45,
-        "fallecidos_total": 260,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 265,
+        "fallecidos_nuevos": 5,
         "recuperados_total": 4000
     },
     {
@@ -1863,10 +1863,10 @@
         "nombre": "Rumania",
         "casos_total": 14811,
         "casos_nuevos": 0,
-        "casos_activos": 7465,
+        "casos_activos": 7462,
         "casos_criticos": 232,
-        "fallecidos_total": 923,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 926,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 6423
     },
     {
