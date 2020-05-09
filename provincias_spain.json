@@ -33,11 +33,11 @@
         "nombre": "Angola",
         "casos_total": 43,
         "casos_nuevos": 0,
-        "casos_activos": 30,
+        "casos_activos": 28,
         "casos_criticos": 0,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 11
+        "recuperados_total": 13
     },
     {
         "nombre": "Anguila",
@@ -273,11 +273,11 @@
         "nombre": "Botsuana",
         "casos_total": 23,
         "casos_nuevos": 0,
-        "casos_activos": 13,
+        "casos_activos": 10,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 9
+        "recuperados_total": 12
     },
     {
         "nombre": "Brasil",
@@ -311,13 +311,13 @@
     },
     {
         "nombre": "Burkina Faso",
-        "casos_total": 744,
-        "casos_nuevos": 0,
-        "casos_activos": 130,
+        "casos_total": 748,
+        "casos_nuevos": 4,
+        "casos_activos": 131,
         "casos_criticos": 0,
         "fallecidos_total": 48,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 566
+        "recuperados_total": 569
     },
     {
         "nombre": "Burundi",
@@ -341,9 +341,9 @@
     },
     {
         "nombre": "Cabo Verde",
-        "casos_total": 230,
-        "casos_nuevos": 0,
-        "casos_activos": 184,
+        "casos_total": 236,
+        "casos_nuevos": 6,
+        "casos_activos": 190,
         "casos_criticos": 0,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
@@ -371,13 +371,13 @@
     },
     {
         "nombre": "Canada",
-        "casos_total": 66783,
-        "casos_nuevos": 349,
-        "casos_activos": 31515,
+        "casos_total": 67619,
+        "casos_nuevos": 1185,
+        "casos_activos": 31949,
         "casos_criticos": 502,
-        "fallecidos_total": 4628,
-        "fallecidos_nuevos": 59,
-        "recuperados_total": 30640
+        "fallecidos_total": 4690,
+        "fallecidos_nuevos": 121,
+        "recuperados_total": 30980
     },
     {
         "nombre": "Catar",
@@ -551,12 +551,12 @@
     },
     {
         "nombre": "Ecuador",
-        "casos_total": 28818,
-        "casos_nuevos": 0,
-        "casos_activos": 23681,
-        "casos_criticos": 156,
-        "fallecidos_total": 1704,
-        "fallecidos_nuevos": 0,
+        "casos_total": 29071,
+        "casos_nuevos": 253,
+        "casos_activos": 23921,
+        "casos_criticos": 181,
+        "fallecidos_total": 1717,
+        "fallecidos_nuevos": 13,
         "recuperados_total": 3433
     },
     {
@@ -641,12 +641,12 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 1333374,
-        "casos_nuevos": 11589,
-        "casos_activos": 1029497,
+        "casos_total": 1335668,
+        "casos_nuevos": 13883,
+        "casos_activos": 1031567,
         "casos_criticos": 16843,
-        "fallecidos_total": 79244,
-        "fallecidos_nuevos": 629,
+        "fallecidos_total": 79468,
+        "fallecidos_nuevos": 853,
         "recuperados_total": 224633
     },
     {
@@ -703,11 +703,11 @@
         "nombre": "Francia",
         "casos_total": 176079,
         "casos_nuevos": 0,
-        "casos_activos": 94067,
-        "casos_criticos": 2868,
-        "fallecidos_total": 26230,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 55782
+        "casos_activos": 93731,
+        "casos_criticos": 2812,
+        "fallecidos_total": 26310,
+        "fallecidos_nuevos": 80,
+        "recuperados_total": 56038
     },
     {
         "nombre": "Gabon",
@@ -911,13 +911,13 @@
     },
     {
         "nombre": "India",
-        "casos_total": 62769,
-        "casos_nuevos": 3074,
-        "casos_activos": 42008,
+        "casos_total": 62808,
+        "casos_nuevos": 3113,
+        "casos_activos": 41406,
         "casos_criticos": 0,
-        "fallecidos_total": 2089,
-        "fallecidos_nuevos": 104,
-        "recuperados_total": 18672
+        "fallecidos_total": 2101,
+        "fallecidos_nuevos": 116,
+        "recuperados_total": 19301
     },
     {
         "nombre": "Indonesia",
@@ -1321,13 +1321,13 @@
     },
     {
         "nombre": "Mayotte",
-        "casos_total": 854,
-        "casos_nuevos": 0,
-        "casos_activos": 492,
+        "casos_total": 988,
+        "casos_nuevos": 134,
+        "casos_activos": 485,
         "casos_criticos": 7,
-        "fallecidos_total": 10,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 352
+        "fallecidos_total": 11,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 492
     },
     {
         "nombre": "Mexico",
@@ -1341,12 +1341,12 @@
     },
     {
         "nombre": "Moldavia",
-        "casos_total": 4728,
-        "casos_nuevos": 0,
-        "casos_activos": 2644,
+        "casos_total": 4867,
+        "casos_nuevos": 139,
+        "casos_activos": 2781,
         "casos_criticos": 237,
-        "fallecidos_total": 159,
-        "fallecidos_nuevos": 9,
+        "fallecidos_total": 161,
+        "fallecidos_nuevos": 11,
         "recuperados_total": 1925
     },
     {
@@ -1451,12 +1451,12 @@
     },
     {
         "nombre": "Noruega",
-        "casos_total": 8070,
-        "casos_nuevos": 0,
-        "casos_activos": 7820,
-        "casos_criticos": 27,
-        "fallecidos_total": 218,
-        "fallecidos_nuevos": 0,
+        "casos_total": 8084,
+        "casos_nuevos": 14,
+        "casos_activos": 7833,
+        "casos_criticos": 24,
+        "fallecidos_total": 219,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 32
     },
     {
@@ -1531,13 +1531,13 @@
     },
     {
         "nombre": "Paraguay",
-        "casos_total": 563,
-        "casos_nuevos": 0,
-        "casos_activos": 401,
+        "casos_total": 689,
+        "casos_nuevos": 126,
+        "casos_activos": 524,
         "casos_criticos": 9,
         "fallecidos_total": 10,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 152
+        "recuperados_total": 155
     },
     {
         "nombre": "Peru",
@@ -1661,20 +1661,20 @@
     },
     {
         "nombre": "Republica del Chad",
-        "casos_total": 260,
-        "casos_nuevos": 0,
-        "casos_activos": 182,
+        "casos_total": 322,
+        "casos_nuevos": 62,
+        "casos_activos": 238,
         "casos_criticos": 0,
-        "fallecidos_total": 28,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 50
+        "fallecidos_total": 31,
+        "fallecidos_nuevos": 3,
+        "recuperados_total": 53
     },
     {
         "nombre": "Reunion",
-        "casos_total": 426,
-        "casos_nuevos": 0,
-        "casos_activos": 72,
-        "casos_criticos": 3,
+        "casos_total": 431,
+        "casos_nuevos": 5,
+        "casos_activos": 77,
+        "casos_criticos": 5,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
         "recuperados_total": 354
