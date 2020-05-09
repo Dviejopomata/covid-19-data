@@ -310,12 +310,12 @@
     {
         "pais": "BR",
         "nombre": "Brasil",
-        "casos_total": 145892,
-        "casos_nuevos": 0,
-        "casos_activos": 76603,
+        "casos_total": 146894,
+        "casos_nuevos": 1002,
+        "casos_activos": 77580,
         "casos_criticos": 8318,
-        "fallecidos_total": 9992,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 10017,
+        "fallecidos_nuevos": 25,
         "recuperados_total": 59297
     },
     {
@@ -453,13 +453,13 @@
     {
         "pais": "CN",
         "nombre": "China",
-        "casos_total": 82886,
-        "casos_nuevos": 0,
-        "casos_activos": 260,
-        "casos_criticos": 18,
+        "casos_total": 82887,
+        "casos_nuevos": 1,
+        "casos_activos": 208,
+        "casos_criticos": 15,
         "fallecidos_total": 4633,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 77993
+        "recuperados_total": 78046
     },
     {
         "pais": "CO",
@@ -497,24 +497,24 @@
     {
         "pais": "",
         "nombre": "Consejo Danes para los Refugiados",
-        "casos_total": 863,
-        "casos_nuevos": 0,
-        "casos_activos": 697,
+        "casos_total": 937,
+        "casos_nuevos": 74,
+        "casos_activos": 768,
         "casos_criticos": 0,
-        "fallecidos_total": 36,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 39,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 130
     },
     {
         "pais": "KR",
         "nombre": "Corea del Sur",
-        "casos_total": 10822,
-        "casos_nuevos": 0,
-        "casos_activos": 1082,
+        "casos_total": 10840,
+        "casos_nuevos": 18,
+        "casos_activos": 1016,
         "casos_criticos": 55,
         "fallecidos_total": 256,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 9484
+        "recuperados_total": 9568
     },
     {
         "pais": "CR",
@@ -708,9 +708,9 @@
         "nombre": "Estados Unidos",
         "casos_total": 1321785,
         "casos_nuevos": 0,
-        "casos_activos": 1019571,
+        "casos_activos": 1019567,
         "casos_criticos": 16978,
-        "fallecidos_total": 78611,
+        "fallecidos_total": 78615,
         "fallecidos_nuevos": 0,
         "recuperados_total": 223603
     },
@@ -950,11 +950,11 @@
         "nombre": "Guyana",
         "casos_total": 94,
         "casos_nuevos": 0,
-        "casos_activos": 50,
+        "casos_activos": 49,
         "casos_criticos": 3,
         "fallecidos_total": 10,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 34
+        "recuperados_total": 35
     },
     {
         "pais": "HT",
@@ -970,13 +970,13 @@
     {
         "pais": "HN",
         "nombre": "Honduras",
-        "casos_total": 1685,
-        "casos_nuevos": 0,
-        "casos_activos": 1426,
+        "casos_total": 1771,
+        "casos_nuevos": 86,
+        "casos_activos": 1472,
         "casos_criticos": 10,
-        "fallecidos_total": 105,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 154
+        "fallecidos_total": 107,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 192
     },
     {
         "pais": "HK",
@@ -1467,11 +1467,11 @@
         "nombre": "Mexico",
         "casos_total": 31522,
         "casos_nuevos": 1906,
-        "casos_activos": 10581,
+        "casos_activos": 8048,
         "casos_criticos": 378,
         "fallecidos_total": 3160,
         "fallecidos_nuevos": 199,
-        "recuperados_total": 17781
+        "recuperados_total": 20314
     },
     {
         "pais": "MD",
@@ -1619,13 +1619,13 @@
     {
         "pais": "NZ",
         "nombre": "Nueva Zelanda",
-        "casos_total": 1490,
-        "casos_nuevos": 0,
-        "casos_activos": 122,
-        "casos_criticos": 3,
+        "casos_total": 1492,
+        "casos_nuevos": 2,
+        "casos_activos": 103,
+        "casos_criticos": 2,
         "fallecidos_total": 21,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1347
+        "recuperados_total": 1368
     },
     {
         "pais": "OM",
@@ -1839,9 +1839,9 @@
     {
         "pais": "RE",
         "nombre": "Reunion",
-        "casos_total": 427,
+        "casos_total": 426,
         "casos_nuevos": 0,
-        "casos_activos": 73,
+        "casos_activos": 72,
         "casos_criticos": 3,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
