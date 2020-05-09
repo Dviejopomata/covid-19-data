@@ -59,11 +59,11 @@
         "nombre": "Antigua y Barbuda",
         "casos_total": 25,
         "casos_nuevos": 0,
-        "casos_activos": 6,
+        "casos_activos": 3,
         "casos_criticos": 1,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 16
+        "recuperados_total": 19
     },
     {
         "pais": "SA",
@@ -288,13 +288,13 @@
     {
         "pais": "BA",
         "nombre": "Bosnia y Herzegovina",
-        "casos_total": 2070,
-        "casos_nuevos": 0,
-        "casos_activos": 1012,
+        "casos_total": 2090,
+        "casos_nuevos": 20,
+        "casos_activos": 929,
         "casos_criticos": 4,
-        "fallecidos_total": 98,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 960
+        "fallecidos_total": 102,
+        "fallecidos_nuevos": 4,
+        "recuperados_total": 1059
     },
     {
         "pais": "BW",
@@ -1234,13 +1234,13 @@
     {
         "pais": "KW",
         "nombre": "Kuwait",
-        "casos_total": 7208,
-        "casos_nuevos": 0,
-        "casos_activos": 4695,
-        "casos_criticos": 91,
-        "fallecidos_total": 47,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 2466
+        "casos_total": 7623,
+        "casos_nuevos": 415,
+        "casos_activos": 4952,
+        "casos_criticos": 95,
+        "fallecidos_total": 49,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 2622
     },
     {
         "pais": "LA",
@@ -1267,13 +1267,13 @@
     {
         "pais": "LB",
         "nombre": "Libano",
-        "casos_total": 796,
-        "casos_nuevos": 0,
-        "casos_activos": 547,
+        "casos_total": 809,
+        "casos_nuevos": 13,
+        "casos_activos": 549,
         "casos_criticos": 42,
         "fallecidos_total": 26,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 223
+        "recuperados_total": 234
     },
     {
         "pais": "LR",
@@ -1399,13 +1399,13 @@
     {
         "pais": "MT",
         "nombre": "Malta",
-        "casos_total": 489,
-        "casos_nuevos": 0,
-        "casos_activos": 65,
+        "casos_total": 490,
+        "casos_nuevos": 1,
+        "casos_activos": 58,
         "casos_criticos": 0,
         "fallecidos_total": 5,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 419
+        "recuperados_total": 427
     },
     {
         "pais": "MA",
@@ -1555,11 +1555,11 @@
         "nombre": "Nepal",
         "casos_total": 109,
         "casos_nuevos": 7,
-        "casos_activos": 79,
+        "casos_activos": 78,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 30
+        "recuperados_total": 31
     },
     {
         "pais": "NI",
@@ -1916,13 +1916,13 @@
     {
         "pais": "SM",
         "nombre": "San Marino",
-        "casos_total": 623,
-        "casos_nuevos": 0,
-        "casos_activos": 468,
-        "casos_criticos": 4,
+        "casos_total": 637,
+        "casos_nuevos": 14,
+        "casos_activos": 470,
+        "casos_criticos": 3,
         "fallecidos_total": 41,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 114
+        "recuperados_total": 126
     },
     {
         "pais": "MF",
@@ -2081,9 +2081,9 @@
     {
         "pais": "LK",
         "nombre": "Sri Lanka",
-        "casos_total": 835,
-        "casos_nuevos": 0,
-        "casos_activos": 571,
+        "casos_total": 844,
+        "casos_nuevos": 9,
+        "casos_activos": 580,
         "casos_criticos": 1,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
@@ -2345,13 +2345,13 @@
     {
         "pais": "ZM",
         "nombre": "Zambia",
-        "casos_total": 167,
-        "casos_nuevos": 0,
-        "casos_activos": 52,
+        "casos_total": 252,
+        "casos_nuevos": 85,
+        "casos_activos": 133,
         "casos_criticos": 1,
-        "fallecidos_total": 4,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 111
+        "fallecidos_total": 7,
+        "fallecidos_nuevos": 3,
+        "recuperados_total": 112
     },
     {
         "pais": "ZW",
