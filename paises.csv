@@ -1,6 +1,6 @@
 ,País,Casos totales,Nuevos casos,Casos activos,Recuperados,Casos críticos,Muertes hoy,Muertes
-0,Estados Unidos,1348315,1006,238080,1030179,16816,19,80056
-1,España,264663,1880,176439,61603,1741,143,26621
+0,Estados Unidos,1348485,1176,238081,1030336,16816,31,80068
+1,España,264663,1880,176439,61603,1650,143,26621
 2,Italia,218268,0,103031,84842,1034,0,30395
 3,Reino Unido,215260,0,0,183329,1559,0,31587
 4,Rusia,209688,11012,34306,173467,2300,88,1915
@@ -70,7 +70,7 @@
 68,Camerun,2579,305,1465,1000,28,6,114
 69,Bolivia,2437,171,258,2065,3,8,114
 70,Azerbaiyan,2422,0,1620,771,29,0,31
-71,Uzbekistan,2411,62,1870,531,8,0,10
+71,Uzbekistan,2411,62,1881,520,8,0,10
 72,Croacia,2187,11,1764,333,13,3,90
 73,Bosnia y Herzegovina,2117,27,1106,904,4,5,107
 74,Guinea,2042,0,698,1333,0,0,11
@@ -84,8 +84,8 @@
 82,Republica de Macedonia,1642,20,1136,415,21,0,91
 83,Nueva Zelanda,1494,2,1371,102,2,0,21
 84,Lituania,1479,35,828,601,17,1,50
-85,Eslovaquia,1457,2,941,490,5,0,26
-86,Eslovenia,1454,0,255,1098,10,0,101
+85,Eslovenia,1457,3,256,1099,10,1,102
+86,Eslovaquia,1457,2,941,490,5,0,26
 87,Republica de Yibuti,1189,0,834,352,0,0,3
 88,Sudan,1164,0,119,981,0,0,64
 89,Hong Kong,1048,3,982,62,1,0,4
@@ -124,7 +124,7 @@
 122,Guinea Ecuatorial,439,0,13,422,0,0,4
 123,Reunion,431,0,354,77,5,0,0
 124,Venezuela,402,0,190,202,1,0,10
-125,Estado de Palestina,375,0,228,145,0,0,2
+125,Estado de Palestina,375,0,263,110,0,0,2
 126,Mauricio,332,0,320,2,3,0,10
 127,Isla de Man,330,1,271,36,19,0,23
 128,Montenegro,324,0,274,41,2,1,9
@@ -187,8 +187,8 @@
 185,Laos,19,0,13,6,0,0,0
 186,Fiyi,18,0,14,4,0,0,0
 187,Santa Lucia,18,0,17,1,0,0,0
-188,Belice,18,0,16,0,0,0,2
-189,Nueva Caledonia,18,0,18,0,0,0,0
+188,Nueva Caledonia,18,0,18,0,0,0,0
+189,Belice,18,0,16,0,0,0,2
 190,Islas Virgenes de los Estados Unidos,17,0,0,17,0,0,0
 191,San Vicente y las Granadinas,17,0,9,8,0,0,0
 192,Namibia,16,0,11,5,0,0,0
@@ -207,8 +207,8 @@
 205,Surinam,10,0,9,0,0,0,1
 206,Mauritania,8,0,6,1,0,0,1
 207,Papua Nueva Guinea,8,0,8,0,0,0,0
-208,Butan,7,0,5,2,0,0,0
-209,Islas Virgenes Britanicas,7,0,4,2,0,0,1
+208,Islas Virgenes Britanicas,7,0,4,2,0,0,1
+209,Butan,7,0,5,2,0,0,0
 210,"Bonaire, San Eustaquio y Saba",6,0,0,6,0,0,0
 211,Sahara Occidental,6,0,5,1,0,0,0
 212,San Bartolome,6,0,6,0,0,0,0

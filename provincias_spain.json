@@ -611,20 +611,20 @@
     },
     {
         "nombre": "Eslovenia",
-        "casos_total": 1454,
-        "casos_nuevos": 0,
-        "casos_activos": 1098,
+        "casos_total": 1457,
+        "casos_nuevos": 3,
+        "casos_activos": 1099,
         "casos_criticos": 10,
-        "fallecidos_total": 101,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 255
+        "fallecidos_total": 102,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 256
     },
     {
         "nombre": "Espa\u00f1a",
         "casos_total": 264663,
         "casos_nuevos": 1880,
         "casos_activos": 61603,
-        "casos_criticos": 1741,
+        "casos_criticos": 1650,
         "fallecidos_total": 26621,
         "fallecidos_nuevos": 143,
         "recuperados_total": 176439
@@ -633,21 +633,21 @@
         "nombre": "Estado de Palestina",
         "casos_total": 375,
         "casos_nuevos": 0,
-        "casos_activos": 145,
+        "casos_activos": 110,
         "casos_criticos": 0,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 228
+        "recuperados_total": 263
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 1348315,
-        "casos_nuevos": 1006,
-        "casos_activos": 1030179,
+        "casos_total": 1348485,
+        "casos_nuevos": 1176,
+        "casos_activos": 1030336,
         "casos_criticos": 16816,
-        "fallecidos_total": 80056,
-        "fallecidos_nuevos": 19,
-        "recuperados_total": 238080
+        "fallecidos_total": 80068,
+        "fallecidos_nuevos": 31,
+        "recuperados_total": 238081
     },
     {
         "nombre": "Estonia",
@@ -2093,11 +2093,11 @@
         "nombre": "Uzbekistan",
         "casos_total": 2411,
         "casos_nuevos": 62,
-        "casos_activos": 531,
+        "casos_activos": 520,
         "casos_criticos": 8,
         "fallecidos_total": 10,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1870
+        "recuperados_total": 1881
     },
     {
         "nombre": "Venezuela",
