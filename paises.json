@@ -123,10 +123,10 @@
     {
         "pais": "AU",
         "nombre": "Australia",
-        "casos_total": 6929,
-        "casos_nuevos": 0,
-        "casos_activos": 697,
-        "casos_criticos": 19,
+        "casos_total": 6931,
+        "casos_nuevos": 2,
+        "casos_activos": 699,
+        "casos_criticos": 17,
         "fallecidos_total": 97,
         "fallecidos_nuevos": 0,
         "recuperados_total": 6135
@@ -508,13 +508,13 @@
     {
         "pais": "KR",
         "nombre": "Corea del Sur",
-        "casos_total": 10840,
-        "casos_nuevos": 0,
-        "casos_activos": 1016,
+        "casos_total": 10874,
+        "casos_nuevos": 34,
+        "casos_activos": 1008,
         "casos_criticos": 55,
         "fallecidos_total": 256,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 9568
+        "recuperados_total": 9610
     },
     {
         "pais": "CR",
@@ -893,13 +893,13 @@
     {
         "pais": "GT",
         "nombre": "Guatemala",
-        "casos_total": 900,
-        "casos_nuevos": 0,
-        "casos_activos": 775,
+        "casos_total": 967,
+        "casos_nuevos": 67,
+        "casos_activos": 839,
         "casos_criticos": 5,
         "fallecidos_total": 24,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 101
+        "recuperados_total": 104
     },
     {
         "pais": "GF",
@@ -1467,11 +1467,11 @@
         "nombre": "Mexico",
         "casos_total": 33460,
         "casos_nuevos": 1938,
-        "casos_activos": 9793,
+        "casos_activos": 8283,
         "casos_criticos": 378,
         "fallecidos_total": 3353,
         "fallecidos_nuevos": 193,
-        "recuperados_total": 20314
+        "recuperados_total": 21824
     },
     {
         "pais": "MD",
@@ -1907,11 +1907,11 @@
         "nombre": "San Cristobal y Nieves",
         "casos_total": 15,
         "casos_nuevos": 0,
-        "casos_activos": 2,
+        "casos_activos": 1,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 13
+        "recuperados_total": 14
     },
     {
         "pais": "SM",
