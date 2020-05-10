@@ -2,24 +2,24 @@
     {
         "pais": "AF",
         "nombre": "Afganistan",
-        "casos_total": 4033,
-        "casos_nuevos": 0,
-        "casos_activos": 3416,
+        "casos_total": 4402,
+        "casos_nuevos": 369,
+        "casos_activos": 3724,
         "casos_criticos": 7,
-        "fallecidos_total": 115,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 502
+        "fallecidos_total": 120,
+        "fallecidos_nuevos": 5,
+        "recuperados_total": 558
     },
     {
         "pais": "AL",
         "nombre": "Albania",
-        "casos_total": 856,
-        "casos_nuevos": 0,
-        "casos_activos": 198,
+        "casos_total": 868,
+        "casos_nuevos": 12,
+        "casos_activos": 187,
         "casos_criticos": 7,
         "fallecidos_total": 31,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 627
+        "recuperados_total": 650
     },
     {
         "pais": "DE",
@@ -189,13 +189,13 @@
     {
         "pais": "BH",
         "nombre": "Barein",
-        "casos_total": 4774,
-        "casos_nuevos": 0,
-        "casos_activos": 2711,
+        "casos_total": 4856,
+        "casos_nuevos": 82,
+        "casos_activos": 2783,
         "casos_criticos": 2,
         "fallecidos_total": 8,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 2055
+        "recuperados_total": 2065
     },
     {
         "pais": "BE",
@@ -288,13 +288,13 @@
     {
         "pais": "BA",
         "nombre": "Bosnia y Herzegovina",
-        "casos_total": 2090,
-        "casos_nuevos": 0,
-        "casos_activos": 929,
+        "casos_total": 2117,
+        "casos_nuevos": 27,
+        "casos_activos": 904,
         "casos_criticos": 4,
-        "fallecidos_total": 102,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1059
+        "fallecidos_total": 107,
+        "fallecidos_nuevos": 5,
+        "recuperados_total": 1106
     },
     {
         "pais": "BW",
@@ -335,7 +335,7 @@
         "casos_total": 1955,
         "casos_nuevos": 34,
         "casos_activos": 1421,
-        "casos_criticos": 65,
+        "casos_criticos": 56,
         "fallecidos_total": 90,
         "fallecidos_nuevos": 0,
         "recuperados_total": 444
@@ -706,12 +706,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1347318,
-        "casos_nuevos": 9,
-        "casos_activos": 1029198,
+        "casos_total": 1347411,
+        "casos_nuevos": 102,
+        "casos_activos": 1029287,
         "casos_criticos": 16816,
-        "fallecidos_total": 80040,
-        "fallecidos_nuevos": 3,
+        "fallecidos_total": 80044,
+        "fallecidos_nuevos": 7,
         "recuperados_total": 238080
     },
     {
@@ -1036,13 +1036,13 @@
     {
         "pais": "IR",
         "nombre": "Iran",
-        "casos_total": 106220,
-        "casos_nuevos": 0,
-        "casos_activos": 14567,
-        "casos_criticos": 2696,
-        "fallecidos_total": 6589,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 85064
+        "casos_total": 107603,
+        "casos_nuevos": 1383,
+        "casos_activos": 14820,
+        "casos_criticos": 2675,
+        "fallecidos_total": 6640,
+        "fallecidos_nuevos": 51,
+        "recuperados_total": 86143
     },
     {
         "pais": "IE",
@@ -1267,9 +1267,9 @@
     {
         "pais": "LB",
         "nombre": "Libano",
-        "casos_total": 809,
-        "casos_nuevos": 0,
-        "casos_activos": 549,
+        "casos_total": 845,
+        "casos_nuevos": 36,
+        "casos_activos": 585,
         "casos_criticos": 4,
         "fallecidos_total": 26,
         "fallecidos_nuevos": 0,
@@ -1641,12 +1641,12 @@
     {
         "pais": "NL",
         "nombre": "Paises Bajos",
-        "casos_total": 42382,
-        "casos_nuevos": 0,
-        "casos_activos": 36710,
+        "casos_total": 42627,
+        "casos_nuevos": 245,
+        "casos_activos": 36937,
         "casos_criticos": 541,
-        "fallecidos_total": 5422,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 5440,
+        "fallecidos_nuevos": 18,
         "recuperados_total": 0
     },
     {
