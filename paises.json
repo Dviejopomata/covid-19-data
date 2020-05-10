@@ -158,11 +158,11 @@
         "nombre": "Bahamas",
         "casos_total": 92,
         "casos_nuevos": 0,
-        "casos_activos": 50,
+        "casos_activos": 44,
         "casos_criticos": 1,
         "fallecidos_total": 11,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 31
+        "recuperados_total": 37
     },
     {
         "pais": "BD",
@@ -178,13 +178,13 @@
     {
         "pais": "BB",
         "nombre": "Barbados",
-        "casos_total": 83,
-        "casos_nuevos": 0,
-        "casos_activos": 23,
+        "casos_total": 84,
+        "casos_nuevos": 1,
+        "casos_activos": 20,
         "casos_criticos": 4,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 53
+        "recuperados_total": 57
     },
     {
         "pais": "BH",
@@ -310,12 +310,12 @@
     {
         "pais": "BR",
         "nombre": "Brasil",
-        "casos_total": 155939,
-        "casos_nuevos": 10047,
-        "casos_activos": 83627,
+        "casos_total": 156061,
+        "casos_nuevos": 10169,
+        "casos_activos": 83720,
         "casos_criticos": 8318,
-        "fallecidos_total": 10627,
-        "fallecidos_nuevos": 635,
+        "fallecidos_total": 10656,
+        "fallecidos_nuevos": 664,
         "recuperados_total": 61685
     },
     {
@@ -433,11 +433,11 @@
         "nombre": "Chequia",
         "casos_total": 8095,
         "casos_nuevos": 18,
-        "casos_activos": 3373,
+        "casos_activos": 3372,
         "casos_criticos": 47,
         "fallecidos_total": 276,
         "fallecidos_nuevos": 3,
-        "recuperados_total": 4446
+        "recuperados_total": 4447
     },
     {
         "pais": "CL",
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1346771,
-        "casos_nuevos": 24986,
-        "casos_activos": 1029722,
-        "casos_criticos": 16817,
-        "fallecidos_total": 80027,
-        "fallecidos_nuevos": 1412,
-        "recuperados_total": 237022
+        "casos_total": 1347125,
+        "casos_nuevos": 25340,
+        "casos_activos": 1029884,
+        "casos_criticos": 16816,
+        "fallecidos_total": 80036,
+        "fallecidos_nuevos": 1421,
+        "recuperados_total": 237205
     },
     {
         "pais": "EE",
@@ -1179,13 +1179,13 @@
     {
         "pais": "JP",
         "nombre": "Japon",
-        "casos_total": 15575,
-        "casos_nuevos": 0,
-        "casos_activos": 9839,
-        "casos_criticos": 300,
-        "fallecidos_total": 590,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 5146
+        "casos_total": 15663,
+        "casos_nuevos": 88,
+        "casos_activos": 9150,
+        "casos_criticos": 287,
+        "fallecidos_total": 607,
+        "fallecidos_nuevos": 17,
+        "recuperados_total": 5906
     },
     {
         "pais": "JO",
@@ -1940,11 +1940,11 @@
         "nombre": "San Martin (Parte Holandesa)",
         "casos_total": 76,
         "casos_nuevos": 0,
-        "casos_activos": 18,
+        "casos_activos": 15,
         "casos_criticos": 7,
-        "fallecidos_total": 14,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 44
+        "fallecidos_total": 15,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 46
     },
     {
         "pais": "PM",
@@ -2312,9 +2312,9 @@
     {
         "pais": "VE",
         "nombre": "Venezuela",
-        "casos_total": 388,
-        "casos_nuevos": 0,
-        "casos_activos": 188,
+        "casos_total": 402,
+        "casos_nuevos": 14,
+        "casos_activos": 202,
         "casos_criticos": 1,
         "fallecidos_total": 10,
         "fallecidos_nuevos": 0,
