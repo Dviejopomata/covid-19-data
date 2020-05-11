@@ -573,10 +573,10 @@
         "nombre": "El Salvador",
         "casos_total": 958,
         "casos_nuevos": 69,
-        "casos_activos": 616,
+        "casos_activos": 615,
         "casos_criticos": 4,
-        "fallecidos_total": 17,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 18,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 325
     },
     {
@@ -593,11 +593,11 @@
         "nombre": "Eritrea",
         "casos_total": 39,
         "casos_nuevos": 0,
-        "casos_activos": 2,
+        "casos_activos": 1,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 37
+        "recuperados_total": 38
     },
     {
         "nombre": "Eslovaquia",
@@ -641,13 +641,13 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 1373442,
-        "casos_nuevos": 5804,
-        "casos_activos": 1034668,
-        "casos_criticos": 16514,
-        "fallecidos_total": 81001,
-        "fallecidos_nuevos": 214,
-        "recuperados_total": 257773
+        "casos_total": 1375129,
+        "casos_nuevos": 7491,
+        "casos_activos": 1035993,
+        "casos_criticos": 16473,
+        "fallecidos_total": 81099,
+        "fallecidos_nuevos": 312,
+        "recuperados_total": 258037
     },
     {
         "nombre": "Estonia",
@@ -911,12 +911,12 @@
     },
     {
         "nombre": "India",
-        "casos_total": 70717,
-        "casos_nuevos": 3556,
-        "casos_activos": 45877,
+        "casos_total": 70765,
+        "casos_nuevos": 3604,
+        "casos_activos": 45922,
         "casos_criticos": 0,
-        "fallecidos_total": 2291,
-        "fallecidos_nuevos": 79,
+        "fallecidos_total": 2294,
+        "fallecidos_nuevos": 82,
         "recuperados_total": 22549
     },
     {
@@ -951,12 +951,12 @@
     },
     {
         "nombre": "Irlanda",
-        "casos_total": 22996,
-        "casos_nuevos": 0,
-        "casos_activos": 4428,
+        "casos_total": 23135,
+        "casos_nuevos": 139,
+        "casos_activos": 4558,
         "casos_criticos": 72,
-        "fallecidos_total": 1458,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 1467,
+        "fallecidos_nuevos": 9,
         "recuperados_total": 17110
     },
     {
@@ -1081,13 +1081,13 @@
     },
     {
         "nombre": "Jordania",
-        "casos_total": 540,
-        "casos_nuevos": 0,
-        "casos_activos": 142,
+        "casos_total": 562,
+        "casos_nuevos": 22,
+        "casos_activos": 163,
         "casos_criticos": 5,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 389
+        "recuperados_total": 390
     },
     {
         "nombre": "Kazajistan",
@@ -1161,13 +1161,13 @@
     },
     {
         "nombre": "Liberia",
-        "casos_total": 199,
-        "casos_nuevos": 0,
-        "casos_activos": 100,
+        "casos_total": 211,
+        "casos_nuevos": 12,
+        "casos_activos": 106,
         "casos_criticos": 0,
         "fallecidos_total": 20,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 79
+        "recuperados_total": 85
     },
     {
         "nombre": "Libia",
@@ -2021,9 +2021,9 @@
     },
     {
         "nombre": "Togo",
-        "casos_total": 174,
-        "casos_nuevos": 0,
-        "casos_activos": 74,
+        "casos_total": 181,
+        "casos_nuevos": 7,
+        "casos_activos": 81,
         "casos_criticos": 0,
         "fallecidos_total": 11,
         "fallecidos_nuevos": 0,
