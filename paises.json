@@ -125,11 +125,11 @@
         "nombre": "Australia",
         "casos_total": 6948,
         "casos_nuevos": 7,
-        "casos_activos": 684,
-        "casos_criticos": 17,
+        "casos_activos": 672,
+        "casos_criticos": 16,
         "fallecidos_total": 97,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 6167
+        "recuperados_total": 6179
     },
     {
         "pais": "AT",
@@ -244,13 +244,13 @@
     {
         "pais": "BY",
         "nombre": "Bielorrusia",
-        "casos_total": 22973,
-        "casos_nuevos": 0,
-        "casos_activos": 16436,
+        "casos_total": 23906,
+        "casos_nuevos": 933,
+        "casos_activos": 17240,
         "casos_criticos": 92,
-        "fallecidos_total": 131,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 6406
+        "fallecidos_total": 135,
+        "fallecidos_nuevos": 4,
+        "recuperados_total": 6531
     },
     {
         "pais": "MM",
@@ -673,9 +673,9 @@
     {
         "pais": "SI",
         "nombre": "Eslovenia",
-        "casos_total": 1457,
-        "casos_nuevos": 0,
-        "casos_activos": 1099,
+        "casos_total": 1460,
+        "casos_nuevos": 3,
+        "casos_activos": 1102,
         "casos_criticos": 10,
         "fallecidos_total": 102,
         "fallecidos_nuevos": 0,
@@ -728,13 +728,13 @@
     {
         "pais": "ET",
         "nombre": "Etiopia",
-        "casos_total": 239,
-        "casos_nuevos": 0,
-        "casos_activos": 135,
+        "casos_total": 250,
+        "casos_nuevos": 11,
+        "casos_activos": 140,
         "casos_criticos": 1,
         "fallecidos_total": 5,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 99
+        "recuperados_total": 105
     },
     {
         "pais": "PH",
@@ -1201,9 +1201,9 @@
     {
         "pais": "KZ",
         "nombre": "Kazajistan",
-        "casos_total": 5126,
-        "casos_nuevos": 36,
-        "casos_activos": 3154,
+        "casos_total": 5138,
+        "casos_nuevos": 48,
+        "casos_activos": 3166,
         "casos_criticos": 31,
         "fallecidos_total": 31,
         "fallecidos_nuevos": 0,
