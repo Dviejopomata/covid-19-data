@@ -233,13 +233,13 @@
     {
         "pais": "BM",
         "nombre": "Bermudas",
-        "casos_total": 118,
-        "casos_nuevos": 0,
-        "casos_activos": 47,
+        "casos_total": 119,
+        "casos_nuevos": 1,
+        "casos_activos": 45,
         "casos_criticos": 4,
-        "fallecidos_total": 7,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 64
+        "fallecidos_total": 8,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 66
     },
     {
         "pais": "BY",
@@ -310,12 +310,12 @@
     {
         "pais": "BR",
         "nombre": "Brasil",
-        "casos_total": 163510,
-        "casos_nuevos": 811,
-        "casos_activos": 87346,
+        "casos_total": 165475,
+        "casos_nuevos": 2776,
+        "casos_activos": 89209,
         "casos_criticos": 8318,
-        "fallecidos_total": 11207,
-        "fallecidos_nuevos": 84,
+        "fallecidos_total": 11309,
+        "fallecidos_nuevos": 186,
         "recuperados_total": 64957
     },
     {
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1380443,
-        "casos_nuevos": 12805,
-        "casos_activos": 1039915,
+        "casos_total": 1380731,
+        "casos_nuevos": 13093,
+        "casos_activos": 1039196,
         "casos_criticos": 16465,
-        "fallecidos_total": 81455,
-        "fallecidos_nuevos": 668,
-        "recuperados_total": 259073
+        "fallecidos_total": 81466,
+        "fallecidos_nuevos": 679,
+        "recuperados_total": 260069
     },
     {
         "pais": "EE",
@@ -1149,7 +1149,7 @@
         "casos_total": 16506,
         "casos_nuevos": 29,
         "casos_activos": 4405,
-        "casos_criticos": 58,
+        "casos_criticos": 66,
         "fallecidos_total": 258,
         "fallecidos_nuevos": 6,
         "recuperados_total": 11843
