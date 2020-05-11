@@ -13,13 +13,13 @@
     {
         "pais": "AL",
         "nombre": "Albania",
-        "casos_total": 868,
-        "casos_nuevos": 0,
+        "casos_total": 872,
+        "casos_nuevos": 4,
         "casos_activos": 187,
         "casos_criticos": 7,
         "fallecidos_total": 31,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 650
+        "recuperados_total": 654
     },
     {
         "pais": "DE",
@@ -134,13 +134,13 @@
     {
         "pais": "AT",
         "nombre": "Austria",
-        "casos_total": 15871,
-        "casos_nuevos": 0,
-        "casos_activos": 1262,
-        "casos_criticos": 72,
-        "fallecidos_total": 618,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 13991
+        "casos_total": 15882,
+        "casos_nuevos": 11,
+        "casos_activos": 1201,
+        "casos_criticos": 68,
+        "fallecidos_total": 620,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 14061
     },
     {
         "pais": "AZ",
@@ -1410,13 +1410,13 @@
     {
         "pais": "MA",
         "nombre": "Marruecos",
-        "casos_total": 6063,
-        "casos_nuevos": 0,
-        "casos_activos": 3321,
+        "casos_total": 6226,
+        "casos_nuevos": 163,
+        "casos_activos": 3279,
         "casos_criticos": 1,
         "fallecidos_total": 188,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 2554
+        "recuperados_total": 2759
     },
     {
         "pais": "MQ",
@@ -1918,11 +1918,11 @@
         "nombre": "San Marino",
         "casos_total": 628,
         "casos_nuevos": 0,
-        "casos_activos": 461,
-        "casos_criticos": 3,
+        "casos_activos": 457,
+        "casos_criticos": 2,
         "fallecidos_total": 41,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 126
+        "recuperados_total": 130
     },
     {
         "pais": "MF",
