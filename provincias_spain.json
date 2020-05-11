@@ -71,13 +71,13 @@
     },
     {
         "nombre": "Argelia",
-        "casos_total": 5723,
-        "casos_nuevos": 0,
+        "casos_total": 5891,
+        "casos_nuevos": 168,
         "casos_activos": 2543,
         "casos_criticos": 22,
-        "fallecidos_total": 502,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 2678
+        "fallecidos_total": 507,
+        "fallecidos_nuevos": 5,
+        "recuperados_total": 2841
     },
     {
         "nombre": "Argentina",
@@ -401,13 +401,13 @@
     },
     {
         "nombre": "Chile",
-        "casos_total": 28866,
-        "casos_nuevos": 0,
-        "casos_activos": 15442,
-        "casos_criticos": 544,
-        "fallecidos_total": 312,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 13112
+        "casos_total": 30063,
+        "casos_nuevos": 1197,
+        "casos_activos": 16135,
+        "casos_criticos": 574,
+        "fallecidos_total": 323,
+        "fallecidos_nuevos": 11,
+        "recuperados_total": 13605
     },
     {
         "nombre": "China",
@@ -451,13 +451,13 @@
     },
     {
         "nombre": "Consejo Danes para los Refugiados",
-        "casos_total": 991,
-        "casos_nuevos": 0,
-        "casos_activos": 814,
+        "casos_total": 1024,
+        "casos_nuevos": 33,
+        "casos_activos": 842,
         "casos_criticos": 0,
         "fallecidos_total": 41,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 136
+        "recuperados_total": 141
     },
     {
         "nombre": "Corea del Sur",
@@ -641,13 +641,13 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 1370436,
-        "casos_nuevos": 2798,
-        "casos_activos": 1033227,
+        "casos_total": 1370999,
+        "casos_nuevos": 3361,
+        "casos_activos": 1033219,
         "casos_criticos": 16514,
-        "fallecidos_total": 80863,
-        "fallecidos_nuevos": 76,
-        "recuperados_total": 256346
+        "fallecidos_total": 80870,
+        "fallecidos_nuevos": 83,
+        "recuperados_total": 256910
     },
     {
         "nombre": "Estonia",
@@ -771,10 +771,10 @@
     },
     {
         "nombre": "Grecia",
-        "casos_total": 2716,
-        "casos_nuevos": 0,
-        "casos_activos": 1191,
-        "casos_criticos": 30,
+        "casos_total": 2726,
+        "casos_nuevos": 10,
+        "casos_activos": 1201,
+        "casos_criticos": 32,
         "fallecidos_total": 151,
         "fallecidos_nuevos": 0,
         "recuperados_total": 1374
@@ -931,13 +931,13 @@
     },
     {
         "nombre": "Irak",
-        "casos_total": 2767,
-        "casos_nuevos": 0,
-        "casos_activos": 924,
+        "casos_total": 2818,
+        "casos_nuevos": 51,
+        "casos_activos": 918,
         "casos_criticos": 0,
-        "fallecidos_total": 109,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1734
+        "fallecidos_total": 110,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 1790
     },
     {
         "nombre": "Iran",
@@ -1154,7 +1154,7 @@
         "casos_total": 859,
         "casos_nuevos": 14,
         "casos_activos": 599,
-        "casos_criticos": 4,
+        "casos_criticos": 3,
         "fallecidos_total": 26,
         "fallecidos_nuevos": 0,
         "recuperados_total": 234
@@ -1451,9 +1451,9 @@
     },
     {
         "nombre": "Noruega",
-        "casos_total": 8105,
-        "casos_nuevos": 0,
-        "casos_activos": 7854,
+        "casos_total": 8122,
+        "casos_nuevos": 17,
+        "casos_activos": 7871,
         "casos_criticos": 22,
         "fallecidos_total": 219,
         "fallecidos_nuevos": 0,
@@ -1631,9 +1631,9 @@
     },
     {
         "nombre": "Republica de Chipre",
-        "casos_total": 898,
-        "casos_nuevos": 0,
-        "casos_activos": 481,
+        "casos_total": 901,
+        "casos_nuevos": 3,
+        "casos_activos": 484,
         "casos_criticos": 10,
         "fallecidos_total": 16,
         "fallecidos_nuevos": 0,
@@ -1773,11 +1773,11 @@
         "nombre": "San Pedro y Miquelon",
         "casos_total": 1,
         "casos_nuevos": 0,
-        "casos_activos": 1,
+        "casos_activos": 0,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 0
+        "recuperados_total": 1
     },
     {
         "nombre": "San Vicente y las Granadinas",
@@ -1863,11 +1863,11 @@
         "nombre": "Singapur",
         "casos_total": 23822,
         "casos_nuevos": 486,
-        "casos_activos": 21081,
-        "casos_criticos": 23,
-        "fallecidos_total": 20,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 2721
+        "casos_activos": 20576,
+        "casos_criticos": 24,
+        "fallecidos_total": 21,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 3225
     },
     {
         "nombre": "Siria",
