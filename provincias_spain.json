@@ -174,7 +174,7 @@
         "casos_total": 5157,
         "casos_nuevos": 216,
         "casos_activos": 2997,
-        "casos_criticos": 2,
+        "casos_criticos": 4,
         "fallecidos_total": 8,
         "fallecidos_nuevos": 0,
         "recuperados_total": 2152
@@ -641,13 +641,13 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 1375401,
-        "casos_nuevos": 7763,
-        "casos_activos": 1036223,
+        "casos_total": 1376317,
+        "casos_nuevos": 8679,
+        "casos_activos": 1036815,
         "casos_criticos": 16473,
-        "fallecidos_total": 81141,
-        "fallecidos_nuevos": 354,
-        "recuperados_total": 258037
+        "fallecidos_total": 81157,
+        "fallecidos_nuevos": 370,
+        "recuperados_total": 258345
     },
     {
         "nombre": "Estonia",
@@ -701,13 +701,13 @@
     },
     {
         "nombre": "Francia",
-        "casos_total": 176970,
-        "casos_nuevos": 0,
-        "casos_activos": 94373,
-        "casos_criticos": 2776,
-        "fallecidos_total": 26380,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 56217
+        "casos_total": 177423,
+        "casos_nuevos": 453,
+        "casos_activos": 94056,
+        "casos_criticos": 2712,
+        "fallecidos_total": 26643,
+        "fallecidos_nuevos": 263,
+        "recuperados_total": 56724
     },
     {
         "nombre": "Gabon",
@@ -1241,9 +1241,9 @@
     },
     {
         "nombre": "Malaui",
-        "casos_total": 56,
-        "casos_nuevos": 0,
-        "casos_activos": 39,
+        "casos_total": 57,
+        "casos_nuevos": 1,
+        "casos_activos": 40,
         "casos_criticos": 1,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
@@ -1531,13 +1531,13 @@
     },
     {
         "nombre": "Paraguay",
-        "casos_total": 713,
-        "casos_nuevos": 0,
-        "casos_activos": 538,
+        "casos_total": 724,
+        "casos_nuevos": 11,
+        "casos_activos": 544,
         "casos_criticos": 0,
         "fallecidos_total": 10,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 165
+        "recuperados_total": 170
     },
     {
         "nombre": "Peru",
