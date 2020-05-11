@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1369025,
-        "casos_nuevos": 1387,
-        "casos_activos": 1031889,
+        "casos_total": 1369157,
+        "casos_nuevos": 1519,
+        "casos_activos": 1032005,
         "casos_criticos": 16514,
-        "fallecidos_total": 80800,
-        "fallecidos_nuevos": 13,
-        "recuperados_total": 256336
+        "fallecidos_total": 80807,
+        "fallecidos_nuevos": 20,
+        "recuperados_total": 256345
     },
     {
         "pais": "EE",
@@ -1212,9 +1212,9 @@
     {
         "pais": "KE",
         "nombre": "Kenia",
-        "casos_total": 672,
-        "casos_nuevos": 0,
-        "casos_activos": 401,
+        "casos_total": 700,
+        "casos_nuevos": 28,
+        "casos_activos": 429,
         "casos_criticos": 1,
         "fallecidos_total": 32,
         "fallecidos_nuevos": 0,
@@ -1553,9 +1553,9 @@
     {
         "pais": "NP",
         "nombre": "Nepal",
-        "casos_total": 121,
-        "casos_nuevos": 11,
-        "casos_activos": 88,
+        "casos_total": 134,
+        "casos_nuevos": 24,
+        "casos_activos": 101,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -2202,12 +2202,12 @@
     {
         "pais": "TJ",
         "nombre": "Tayikistan",
-        "casos_total": 612,
-        "casos_nuevos": 0,
-        "casos_activos": 592,
+        "casos_total": 661,
+        "casos_nuevos": 49,
+        "casos_activos": 640,
         "casos_criticos": 0,
-        "fallecidos_total": 20,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 21,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 0
     },
     {
