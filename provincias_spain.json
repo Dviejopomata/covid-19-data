@@ -21,12 +21,12 @@
     },
     {
         "nombre": "Alemania",
-        "casos_total": 172517,
-        "casos_nuevos": 638,
-        "casos_activos": 19264,
+        "casos_total": 172576,
+        "casos_nuevos": 697,
+        "casos_activos": 19315,
         "casos_criticos": 1576,
-        "fallecidos_total": 7653,
-        "fallecidos_nuevos": 84,
+        "fallecidos_total": 7661,
+        "fallecidos_nuevos": 92,
         "recuperados_total": 145600
     },
     {
@@ -64,7 +64,7 @@
         "casos_total": 41014,
         "casos_nuevos": 1966,
         "casos_activos": 28022,
-        "casos_criticos": 143,
+        "casos_criticos": 149,
         "fallecidos_total": 255,
         "fallecidos_nuevos": 9,
         "recuperados_total": 12737
@@ -371,13 +371,13 @@
     },
     {
         "nombre": "Canada",
-        "casos_total": 69911,
-        "casos_nuevos": 1063,
-        "casos_activos": 32255,
+        "casos_total": 69958,
+        "casos_nuevos": 1110,
+        "casos_activos": 32032,
         "casos_criticos": 502,
         "fallecidos_total": 4992,
         "fallecidos_nuevos": 122,
-        "recuperados_total": 32664
+        "recuperados_total": 32934
     },
     {
         "nombre": "Catar",
@@ -421,13 +421,13 @@
     },
     {
         "nombre": "Colombia",
-        "casos_total": 11063,
-        "casos_nuevos": 0,
-        "casos_activos": 7895,
+        "casos_total": 11613,
+        "casos_nuevos": 550,
+        "casos_activos": 8309,
         "casos_criticos": 130,
-        "fallecidos_total": 463,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 2705
+        "fallecidos_total": 479,
+        "fallecidos_nuevos": 16,
+        "recuperados_total": 2825
     },
     {
         "nombre": "Comoras",
@@ -441,13 +441,13 @@
     },
     {
         "nombre": "Congo",
-        "casos_total": 274,
-        "casos_nuevos": 0,
-        "casos_activos": 231,
+        "casos_total": 333,
+        "casos_nuevos": 59,
+        "casos_activos": 269,
         "casos_criticos": 0,
-        "fallecidos_total": 10,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 33
+        "fallecidos_total": 11,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 53
     },
     {
         "nombre": "Consejo Danes para los Refugiados",
@@ -641,13 +641,13 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 1381665,
-        "casos_nuevos": 14027,
-        "casos_activos": 1039925,
+        "casos_total": 1381982,
+        "casos_nuevos": 14344,
+        "casos_activos": 1040136,
         "casos_criticos": 16451,
-        "fallecidos_total": 81552,
-        "fallecidos_nuevos": 765,
-        "recuperados_total": 260188
+        "fallecidos_total": 81566,
+        "fallecidos_nuevos": 779,
+        "recuperados_total": 260280
     },
     {
         "nombre": "Estonia",
@@ -1251,9 +1251,9 @@
     },
     {
         "nombre": "Maldivas",
-        "casos_total": 862,
-        "casos_nuevos": 27,
-        "casos_activos": 830,
+        "casos_total": 897,
+        "casos_nuevos": 62,
+        "casos_activos": 865,
         "casos_criticos": 2,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
