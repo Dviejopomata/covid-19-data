@@ -23,11 +23,11 @@
         "nombre": "Alemania",
         "casos_total": 171879,
         "casos_nuevos": 0,
-        "casos_activos": 19910,
+        "casos_activos": 18710,
         "casos_criticos": 1581,
         "fallecidos_total": 7569,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 144400
+        "recuperados_total": 145600
     },
     {
         "nombre": "Angola",
@@ -1411,9 +1411,9 @@
     },
     {
         "nombre": "Nepal",
-        "casos_total": 110,
-        "casos_nuevos": 0,
-        "casos_activos": 79,
+        "casos_total": 120,
+        "casos_nuevos": 10,
+        "casos_activos": 89,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1501,13 +1501,13 @@
     },
     {
         "nombre": "Pakistan",
-        "casos_total": 30334,
-        "casos_nuevos": 0,
-        "casos_activos": 21612,
+        "casos_total": 30941,
+        "casos_nuevos": 607,
+        "casos_activos": 22062,
         "casos_criticos": 111,
-        "fallecidos_total": 659,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 8063
+        "fallecidos_total": 667,
+        "fallecidos_nuevos": 8,
+        "recuperados_total": 8212
     },
     {
         "nombre": "Panama",
@@ -2114,7 +2114,7 @@
         "casos_total": 288,
         "casos_nuevos": 0,
         "casos_activos": 47,
-        "casos_criticos": 8,
+        "casos_criticos": 2,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
         "recuperados_total": 241
