@@ -13,13 +13,13 @@
     {
         "pais": "AL",
         "nombre": "Albania",
-        "casos_total": 872,
-        "casos_nuevos": 0,
-        "casos_activos": 187,
+        "casos_total": 876,
+        "casos_nuevos": 4,
+        "casos_activos": 163,
         "casos_criticos": 7,
         "fallecidos_total": 31,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 654
+        "recuperados_total": 682
     },
     {
         "pais": "DE",
@@ -640,13 +640,13 @@
     {
         "pais": "AE",
         "nombre": "Emiratos Arabes Unidos",
-        "casos_total": 18878,
-        "casos_nuevos": 0,
-        "casos_activos": 13296,
+        "casos_total": 19661,
+        "casos_nuevos": 783,
+        "casos_activos": 13446,
         "casos_criticos": 1,
-        "fallecidos_total": 201,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 5381
+        "fallecidos_total": 203,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 6012
     },
     {
         "pais": "ER",
@@ -2147,9 +2147,9 @@
     {
         "pais": "CH",
         "nombre": "Suiza",
-        "casos_total": 30344,
-        "casos_nuevos": 0,
-        "casos_activos": 1699,
+        "casos_total": 30380,
+        "casos_nuevos": 36,
+        "casos_activos": 1735,
         "casos_criticos": 89,
         "fallecidos_total": 1845,
         "fallecidos_nuevos": 0,
