@@ -61,13 +61,13 @@
     },
     {
         "nombre": "Arabia Saudita",
-        "casos_total": 41014,
-        "casos_nuevos": 0,
-        "casos_activos": 28022,
-        "casos_criticos": 149,
-        "fallecidos_total": 255,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 12737
+        "casos_total": 42925,
+        "casos_nuevos": 1911,
+        "casos_activos": 27404,
+        "casos_criticos": 147,
+        "fallecidos_total": 264,
+        "fallecidos_nuevos": 9,
+        "recuperados_total": 15257
     },
     {
         "nombre": "Argelia",
@@ -83,10 +83,10 @@
         "nombre": "Argentina",
         "casos_total": 6278,
         "casos_nuevos": 0,
-        "casos_activos": 4127,
-        "casos_criticos": 148,
-        "fallecidos_total": 314,
-        "fallecidos_nuevos": 0,
+        "casos_activos": 4124,
+        "casos_criticos": 170,
+        "fallecidos_total": 317,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 1837
     },
     {
@@ -641,12 +641,12 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 1385893,
-        "casos_nuevos": 59,
-        "casos_activos": 1041872,
+        "casos_total": 1386514,
+        "casos_nuevos": 680,
+        "casos_activos": 1042437,
         "casos_criticos": 16484,
-        "fallecidos_total": 81796,
-        "fallecidos_nuevos": 1,
+        "fallecidos_total": 81852,
+        "fallecidos_nuevos": 57,
         "recuperados_total": 262225
     },
     {
@@ -913,11 +913,11 @@
         "nombre": "India",
         "casos_total": 71441,
         "casos_nuevos": 673,
-        "casos_activos": 46082,
+        "casos_activos": 46072,
         "casos_criticos": 0,
         "fallecidos_total": 2310,
         "fallecidos_nuevos": 16,
-        "recuperados_total": 23049
+        "recuperados_total": 23059
     },
     {
         "nombre": "Indonesia",
@@ -1094,20 +1094,20 @@
         "casos_total": 5279,
         "casos_nuevos": 72,
         "casos_activos": 3139,
-        "casos_criticos": 33,
+        "casos_criticos": 31,
         "fallecidos_total": 32,
         "fallecidos_nuevos": 0,
         "recuperados_total": 2108
     },
     {
         "nombre": "Kenia",
-        "casos_total": 700,
-        "casos_nuevos": 0,
-        "casos_activos": 416,
+        "casos_total": 715,
+        "casos_nuevos": 15,
+        "casos_activos": 420,
         "casos_criticos": 1,
-        "fallecidos_total": 33,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 251
+        "fallecidos_total": 36,
+        "fallecidos_nuevos": 3,
+        "recuperados_total": 259
     },
     {
         "nombre": "Kirguistan",
