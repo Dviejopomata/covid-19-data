@@ -81,12 +81,12 @@
     },
     {
         "nombre": "Argentina",
-        "casos_total": 6278,
-        "casos_nuevos": 0,
-        "casos_activos": 4099,
+        "casos_total": 6563,
+        "casos_nuevos": 285,
+        "casos_activos": 4382,
         "casos_criticos": 170,
-        "fallecidos_total": 317,
-        "fallecidos_nuevos": 3,
+        "fallecidos_total": 319,
+        "fallecidos_nuevos": 5,
         "recuperados_total": 1862
     },
     {
@@ -281,13 +281,13 @@
     },
     {
         "nombre": "Brasil",
-        "casos_total": 173141,
-        "casos_nuevos": 3998,
-        "casos_activos": 93692,
+        "casos_total": 177589,
+        "casos_nuevos": 8446,
+        "casos_activos": 92592,
         "casos_criticos": 8318,
-        "fallecidos_total": 12065,
-        "fallecidos_nuevos": 440,
-        "recuperados_total": 67384
+        "fallecidos_total": 12400,
+        "fallecidos_nuevos": 775,
+        "recuperados_total": 72597
     },
     {
         "nombre": "Brunei",
@@ -371,13 +371,13 @@
     },
     {
         "nombre": "Canada",
-        "casos_total": 71105,
-        "casos_nuevos": 1124,
-        "casos_activos": 32216,
+        "casos_total": 71157,
+        "casos_nuevos": 1176,
+        "casos_activos": 31946,
         "casos_criticos": 502,
-        "fallecidos_total": 5167,
-        "fallecidos_nuevos": 174,
-        "recuperados_total": 33722
+        "fallecidos_total": 5169,
+        "fallecidos_nuevos": 176,
+        "recuperados_total": 34042
     },
     {
         "nombre": "Catar",
@@ -641,13 +641,13 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 1406398,
-        "casos_nuevos": 20564,
-        "casos_activos": 1042699,
+        "casos_total": 1406807,
+        "casos_nuevos": 20973,
+        "casos_activos": 1043014,
         "casos_criticos": 16472,
-        "fallecidos_total": 83261,
-        "fallecidos_nuevos": 1466,
-        "recuperados_total": 280438
+        "fallecidos_total": 83284,
+        "fallecidos_nuevos": 1489,
+        "recuperados_total": 280509
     },
     {
         "nombre": "Estonia",
@@ -963,11 +963,11 @@
         "nombre": "Isla de Man",
         "casos_total": 331,
         "casos_nuevos": 1,
-        "casos_activos": 37,
+        "casos_activos": 36,
         "casos_criticos": 21,
         "fallecidos_total": 23,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 271
+        "recuperados_total": 272
     },
     {
         "nombre": "Islandia",
@@ -1451,9 +1451,9 @@
     },
     {
         "nombre": "Noruega",
-        "casos_total": 8152,
-        "casos_nuevos": 20,
-        "casos_activos": 7892,
+        "casos_total": 8157,
+        "casos_nuevos": 25,
+        "casos_activos": 7897,
         "casos_criticos": 23,
         "fallecidos_total": 228,
         "fallecidos_nuevos": 4,
