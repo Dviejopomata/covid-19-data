@@ -24,12 +24,12 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 173031,
-        "casos_nuevos": 455,
-        "casos_activos": 18114,
+        "casos_total": 173034,
+        "casos_nuevos": 458,
+        "casos_activos": 18116,
         "casos_criticos": 1539,
-        "fallecidos_total": 7717,
-        "fallecidos_nuevos": 56,
+        "fallecidos_total": 7718,
+        "fallecidos_nuevos": 57,
         "recuperados_total": 147200
     },
     {
@@ -310,12 +310,12 @@
     {
         "pais": "BR",
         "nombre": "Brasil",
-        "casos_total": 173126,
-        "casos_nuevos": 3983,
-        "casos_activos": 93680,
+        "casos_total": 173141,
+        "casos_nuevos": 3998,
+        "casos_activos": 93692,
         "casos_criticos": 8318,
-        "fallecidos_total": 12062,
-        "fallecidos_nuevos": 437,
+        "fallecidos_total": 12065,
+        "fallecidos_nuevos": 440,
         "recuperados_total": 67384
     },
     {
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1402275,
-        "casos_nuevos": 16441,
-        "casos_activos": 1042979,
+        "casos_total": 1402913,
+        "casos_nuevos": 17079,
+        "casos_activos": 1043371,
         "casos_criticos": 16445,
-        "fallecidos_total": 83121,
-        "fallecidos_nuevos": 1326,
-        "recuperados_total": 276175
+        "fallecidos_total": 83159,
+        "fallecidos_nuevos": 1364,
+        "recuperados_total": 276383
     },
     {
         "pais": "EE",
@@ -1817,13 +1817,13 @@
     {
         "pais": "DJ",
         "nombre": "Republica de Yibuti",
-        "casos_total": 1227,
-        "casos_nuevos": 0,
-        "casos_activos": 352,
+        "casos_total": 1256,
+        "casos_nuevos": 29,
+        "casos_activos": 367,
         "casos_criticos": 0,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 872
+        "recuperados_total": 886
     },
     {
         "pais": "TD",
@@ -1850,13 +1850,13 @@
     {
         "pais": "RW",
         "nombre": "Ruanda",
-        "casos_total": 285,
-        "casos_nuevos": 0,
-        "casos_activos": 135,
+        "casos_total": 286,
+        "casos_nuevos": 1,
+        "casos_activos": 133,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 150
+        "recuperados_total": 153
     },
     {
         "pais": "RO",
@@ -2202,9 +2202,9 @@
     {
         "pais": "TJ",
         "nombre": "Tayikistan",
-        "casos_total": 661,
-        "casos_nuevos": 0,
-        "casos_activos": 640,
+        "casos_total": 729,
+        "casos_nuevos": 68,
+        "casos_activos": 708,
         "casos_criticos": 0,
         "fallecidos_total": 21,
         "fallecidos_nuevos": 0,
