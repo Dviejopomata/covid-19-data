@@ -1,5 +1,5 @@
 ,País,Casos totales,Nuevos casos,Casos activos,Recuperados,Casos críticos,Muertes hoy,Muertes
-0,Estados Unidos,1410168,1532,298593,1028084,16473,66,83491
+0,Estados Unidos,1410267,1631,298641,1028121,16473,80,83505
 1,España,271095,1575,183227,60764,1534,184,27104
 2,Rusia,242271,10028,48003,192056,2300,96,2212
 3,Reino Unido,229705,3242,0,196175,1559,494,33186
@@ -90,8 +90,8 @@
 88,Republica de Yibuti,1256,0,886,367,0,0,3
 89,Guatemala,1199,85,120,1052,5,1,27
 90,Somalia,1170,0,126,992,2,0,52
-91,Consejo Danes para los Refugiados,1102,0,146,912,0,0,44
-92,Mayotte,1095,0,492,591,9,0,12
+91,Mayotte,1143,48,627,502,6,2,14
+92,Consejo Danes para los Refugiados,1102,0,146,912,0,0,44
 93,Hong Kong,1051,3,1008,39,1,0,4
 94,Kirguistan,1044,7,726,306,13,0,12
 95,El Salvador,1037,39,374,643,15,0,20
@@ -133,14 +133,14 @@
 131,Isla de Man,331,0,272,36,21,0,23
 132,Benin,327,0,83,242,0,0,2
 133,Montenegro,324,0,298,17,2,0,9
-134,Vietnam,288,0,252,36,2,0,0
-135,Ruanda,286,0,153,133,0,0,0
-136,Cabo Verde,267,0,58,207,0,0,2
+134,Cabo Verde,289,22,61,226,0,0,2
+135,Vietnam,288,0,252,36,2,0,0
+136,Ruanda,286,0,153,133,0,0,0
 137,Etiopia,263,2,108,150,0,0,5
-138,Nepal,219,2,35,184,0,0,0
-139,Haiti,219,10,17,184,0,2,18
-140,Liberia,212,1,86,106,0,0,20
-141,Santo Tome y Principe,208,0,4,199,0,0,5
+138,Santo Tome y Principe,220,12,4,210,0,1,6
+139,Nepal,219,2,35,184,0,0,0
+140,Haiti,219,10,17,184,0,2,18
+141,Liberia,212,1,86,106,0,0,20
 142,Togo,199,0,92,96,0,0,11
 143,Sudan del Sur,194,0,2,192,0,0,0
 144,Martinica,187,0,91,82,4,0,14
@@ -206,7 +206,7 @@
 204,Seychelles,11,0,10,1,0,0,0
 205,Groenlandia,11,0,11,0,0,0,0
 206,Surinam,10,0,9,0,0,0,1
-207,Mauritania,9,0,6,2,0,0,1
+207,Mauritania,9,0,6,1,0,1,2
 208,Papua Nueva Guinea,8,0,8,0,0,0,0
 209,Islas Virgenes Britanicas,7,0,4,2,0,0,1
 210,Sahara Occidental,6,0,6,0,0,0,0
