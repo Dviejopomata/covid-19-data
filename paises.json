@@ -24,12 +24,12 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 173824,
-        "casos_nuevos": 653,
-        "casos_activos": 17332,
+        "casos_total": 173919,
+        "casos_nuevos": 748,
+        "casos_activos": 17400,
         "casos_criticos": 1465,
-        "fallecidos_total": 7792,
-        "fallecidos_nuevos": 54,
+        "fallecidos_total": 7819,
+        "fallecidos_nuevos": 81,
         "recuperados_total": 148700
     },
     {
@@ -607,12 +607,12 @@
     {
         "pais": "EC",
         "nombre": "Ecuador",
-        "casos_total": 30419,
-        "casos_nuevos": 0,
-        "casos_activos": 24659,
-        "casos_criticos": 181,
-        "fallecidos_total": 2327,
-        "fallecidos_nuevos": 0,
+        "casos_total": 30486,
+        "casos_nuevos": 67,
+        "casos_activos": 24719,
+        "casos_criticos": 190,
+        "fallecidos_total": 2334,
+        "fallecidos_nuevos": 7,
         "recuperados_total": 3433
     },
     {
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1420421,
-        "casos_nuevos": 11785,
-        "casos_activos": 1030345,
+        "casos_total": 1422217,
+        "casos_nuevos": 13581,
+        "casos_activos": 1031365,
         "casos_criticos": 16373,
-        "fallecidos_total": 84353,
-        "fallecidos_nuevos": 928,
-        "recuperados_total": 305723
+        "fallecidos_total": 84554,
+        "fallecidos_nuevos": 1129,
+        "recuperados_total": 306298
     },
     {
         "pais": "EE",
@@ -2160,11 +2160,11 @@
         "nombre": "Suiza",
         "casos_total": 30413,
         "casos_nuevos": 33,
-        "casos_activos": 1743,
+        "casos_activos": 1443,
         "casos_criticos": 79,
         "fallecidos_total": 1870,
         "fallecidos_nuevos": 3,
-        "recuperados_total": 26800
+        "recuperados_total": 27100
     },
     {
         "pais": "SR",
@@ -2235,13 +2235,13 @@
     {
         "pais": "TG",
         "nombre": "Togo",
-        "casos_total": 199,
-        "casos_nuevos": 0,
-        "casos_activos": 96,
+        "casos_total": 219,
+        "casos_nuevos": 20,
+        "casos_activos": 112,
         "casos_criticos": 0,
         "fallecidos_total": 11,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 92
+        "recuperados_total": 96
     },
     {
         "pais": "TT",
