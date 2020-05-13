@@ -92,11 +92,11 @@
         "nombre": "Argentina",
         "casos_total": 6563,
         "casos_nuevos": 0,
-        "casos_activos": 4382,
+        "casos_activos": 3976,
         "casos_criticos": 170,
-        "fallecidos_total": 319,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1862
+        "fallecidos_total": 321,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 2266
     },
     {
         "pais": "AM",
@@ -497,13 +497,13 @@
     {
         "pais": "",
         "nombre": "Consejo Danes para los Refugiados",
-        "casos_total": 1102,
-        "casos_nuevos": 0,
-        "casos_activos": 912,
+        "casos_total": 1169,
+        "casos_nuevos": 67,
+        "casos_activos": 971,
         "casos_criticos": 0,
-        "fallecidos_total": 44,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 146
+        "fallecidos_total": 50,
+        "fallecidos_nuevos": 6,
+        "recuperados_total": 148
     },
     {
         "pais": "KR",
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1410267,
-        "casos_nuevos": 1631,
-        "casos_activos": 1028121,
+        "casos_total": 1411148,
+        "casos_nuevos": 2512,
+        "casos_activos": 1028941,
         "casos_criticos": 16473,
-        "fallecidos_total": 83505,
-        "fallecidos_nuevos": 80,
-        "recuperados_total": 298641
+        "fallecidos_total": 83564,
+        "fallecidos_nuevos": 139,
+        "recuperados_total": 298643
     },
     {
         "pais": "EE",
@@ -1212,13 +1212,13 @@
     {
         "pais": "KE",
         "nombre": "Kenia",
-        "casos_total": 715,
-        "casos_nuevos": 0,
-        "casos_activos": 420,
+        "casos_total": 737,
+        "casos_nuevos": 22,
+        "casos_activos": 416,
         "casos_criticos": 1,
-        "fallecidos_total": 36,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 259
+        "fallecidos_total": 40,
+        "fallecidos_nuevos": 4,
+        "recuperados_total": 281
     },
     {
         "pais": "KG",
@@ -2345,12 +2345,12 @@
     {
         "pais": "YE",
         "nombre": "Yemen",
-        "casos_total": 65,
-        "casos_nuevos": 0,
-        "casos_activos": 54,
+        "casos_total": 70,
+        "casos_nuevos": 5,
+        "casos_activos": 57,
         "casos_criticos": 0,
-        "fallecidos_total": 10,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 12,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 1
     },
     {
