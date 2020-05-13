@@ -21,9 +21,9 @@
     },
     {
         "nombre": "Alemania",
-        "casos_total": 173524,
-        "casos_nuevos": 353,
-        "casos_activos": 17044,
+        "casos_total": 173546,
+        "casos_nuevos": 375,
+        "casos_activos": 17066,
         "casos_criticos": 1539,
         "fallecidos_total": 7780,
         "fallecidos_nuevos": 42,
@@ -131,13 +131,13 @@
     },
     {
         "nombre": "Azerbaiyan",
-        "casos_total": 2693,
-        "casos_nuevos": 0,
-        "casos_activos": 925,
-        "casos_criticos": 28,
-        "fallecidos_total": 33,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1735
+        "casos_total": 2758,
+        "casos_nuevos": 65,
+        "casos_activos": 934,
+        "casos_criticos": 30,
+        "fallecidos_total": 35,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 1789
     },
     {
         "nombre": "Bahamas",
@@ -641,13 +641,13 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 1409769,
-        "casos_nuevos": 1133,
-        "casos_activos": 1029532,
+        "casos_total": 1410168,
+        "casos_nuevos": 1532,
+        "casos_activos": 1028084,
         "casos_criticos": 16473,
         "fallecidos_total": 83491,
         "fallecidos_nuevos": 66,
-        "recuperados_total": 296746
+        "recuperados_total": 298593
     },
     {
         "nombre": "Estonia",
@@ -841,12 +841,12 @@
     },
     {
         "nombre": "Guinea Ecuatorial",
-        "casos_total": 439,
-        "casos_nuevos": 0,
-        "casos_activos": 422,
+        "casos_total": 522,
+        "casos_nuevos": 83,
+        "casos_activos": 503,
         "casos_criticos": 0,
-        "fallecidos_total": 4,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 6,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 13
     },
     {
@@ -971,13 +971,13 @@
     },
     {
         "nombre": "Islandia",
-        "casos_total": 1801,
-        "casos_nuevos": 0,
-        "casos_activos": 15,
+        "casos_total": 1802,
+        "casos_nuevos": 1,
+        "casos_activos": 12,
         "casos_criticos": 0,
         "fallecidos_total": 10,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1776
+        "recuperados_total": 1780
     },
     {
         "nombre": "Islas Caimanes",
@@ -1223,11 +1223,11 @@
         "nombre": "Macao",
         "casos_total": 45,
         "casos_nuevos": 0,
-        "casos_activos": 3,
+        "casos_activos": 2,
         "casos_criticos": 1,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 42
+        "recuperados_total": 43
     },
     {
         "nombre": "Madagascar",
@@ -1611,12 +1611,12 @@
     },
     {
         "nombre": "Reino Unido",
-        "casos_total": 226463,
-        "casos_nuevos": 0,
-        "casos_activos": 193427,
+        "casos_total": 229705,
+        "casos_nuevos": 3242,
+        "casos_activos": 196175,
         "casos_criticos": 1559,
-        "fallecidos_total": 32692,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 33186,
+        "fallecidos_nuevos": 494,
         "recuperados_total": 0
     },
     {
@@ -1751,9 +1751,9 @@
     },
     {
         "nombre": "San Marino",
-        "casos_total": 638,
-        "casos_nuevos": 0,
-        "casos_activos": 436,
+        "casos_total": 643,
+        "casos_nuevos": 5,
+        "casos_activos": 441,
         "casos_criticos": 2,
         "fallecidos_total": 41,
         "fallecidos_nuevos": 0,
@@ -2011,9 +2011,9 @@
     },
     {
         "nombre": "Tayikistan",
-        "casos_total": 729,
-        "casos_nuevos": 0,
-        "casos_activos": 706,
+        "casos_total": 801,
+        "casos_nuevos": 72,
+        "casos_activos": 778,
         "casos_criticos": 0,
         "fallecidos_total": 23,
         "fallecidos_nuevos": 2,
@@ -2151,12 +2151,12 @@
     },
     {
         "nombre": "Zimbabue",
-        "casos_total": 36,
-        "casos_nuevos": 0,
-        "casos_activos": 23,
+        "casos_total": 37,
+        "casos_nuevos": 1,
+        "casos_activos": 21,
         "casos_criticos": 0,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 9
+        "recuperados_total": 12
     }
 ]
