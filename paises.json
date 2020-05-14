@@ -662,13 +662,13 @@
     {
         "pais": "SK",
         "nombre": "Eslovaquia",
-        "casos_total": 1469,
-        "casos_nuevos": 0,
-        "casos_activos": 382,
-        "casos_criticos": 6,
+        "casos_total": 1477,
+        "casos_nuevos": 8,
+        "casos_activos": 338,
+        "casos_criticos": 5,
         "fallecidos_total": 27,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1060
+        "recuperados_total": 1112
     },
     {
         "pais": "SI",
@@ -717,13 +717,13 @@
     {
         "pais": "EE",
         "nombre": "Estonia",
-        "casos_total": 1751,
-        "casos_nuevos": 0,
-        "casos_activos": 913,
+        "casos_total": 1758,
+        "casos_nuevos": 7,
+        "casos_activos": 787,
         "casos_criticos": 5,
-        "fallecidos_total": 61,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 777
+        "fallecidos_total": 62,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 909
     },
     {
         "pais": "ET",
@@ -1267,9 +1267,9 @@
     {
         "pais": "LV",
         "nombre": "Letonia",
-        "casos_total": 951,
-        "casos_nuevos": 0,
-        "casos_activos": 305,
+        "casos_total": 962,
+        "casos_nuevos": 11,
+        "casos_activos": 316,
         "casos_criticos": 2,
         "fallecidos_total": 19,
         "fallecidos_nuevos": 0,
@@ -1322,13 +1322,13 @@
     {
         "pais": "LT",
         "nombre": "Lituania",
-        "casos_total": 1505,
-        "casos_nuevos": 0,
-        "casos_activos": 543,
+        "casos_total": 1511,
+        "casos_nuevos": 6,
+        "casos_activos": 523,
         "casos_criticos": 17,
         "fallecidos_total": 54,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 908
+        "recuperados_total": 934
     },
     {
         "pais": "LU",
@@ -1883,13 +1883,13 @@
     {
         "pais": "RU",
         "nombre": "Rusia",
-        "casos_total": 242271,
-        "casos_nuevos": 0,
-        "casos_activos": 192056,
+        "casos_total": 252245,
+        "casos_nuevos": 9974,
+        "casos_activos": 196410,
         "casos_criticos": 2300,
-        "fallecidos_total": 2212,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 48003
+        "fallecidos_total": 2305,
+        "fallecidos_nuevos": 93,
+        "recuperados_total": 53530
     },
     {
         "pais": "EH",
@@ -2094,11 +2094,11 @@
         "nombre": "Sri Lanka",
         "casos_total": 915,
         "casos_nuevos": 22,
-        "casos_activos": 524,
+        "casos_activos": 461,
         "casos_criticos": 1,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 382
+        "recuperados_total": 445
     },
     {
         "pais": "SZ",
