@@ -24,20 +24,20 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 174584,
-        "casos_nuevos": 486,
-        "casos_activos": 16395,
+        "casos_total": 174636,
+        "casos_nuevos": 538,
+        "casos_activos": 16436,
         "casos_criticos": 1329,
-        "fallecidos_total": 7889,
-        "fallecidos_nuevos": 28,
+        "fallecidos_total": 7900,
+        "fallecidos_nuevos": 39,
         "recuperados_total": 150300
     },
     {
         "pais": "AO",
         "nombre": "Angola",
-        "casos_total": 45,
-        "casos_nuevos": 0,
-        "casos_activos": 29,
+        "casos_total": 48,
+        "casos_nuevos": 3,
+        "casos_activos": 32,
         "casos_criticos": 0,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
@@ -519,13 +519,13 @@
     {
         "pais": "CR",
         "nombre": "Costa Rica",
-        "casos_total": 815,
-        "casos_nuevos": 0,
-        "casos_activos": 280,
-        "casos_criticos": 6,
+        "casos_total": 830,
+        "casos_nuevos": 15,
+        "casos_activos": 287,
+        "casos_criticos": 4,
         "fallecidos_total": 8,
         "fallecidos_nuevos": 1,
-        "recuperados_total": 527
+        "recuperados_total": 535
     },
     {
         "pais": "CI",
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1441742,
-        "casos_nuevos": 11394,
-        "casos_activos": 1044506,
-        "casos_criticos": 16337,
-        "fallecidos_total": 85515,
-        "fallecidos_nuevos": 318,
-        "recuperados_total": 311721
+        "casos_total": 1443946,
+        "casos_nuevos": 13598,
+        "casos_activos": 1045189,
+        "casos_criticos": 16252,
+        "fallecidos_total": 86244,
+        "fallecidos_nuevos": 1047,
+        "recuperados_total": 312513
     },
     {
         "pais": "EE",
@@ -1203,11 +1203,11 @@
         "nombre": "Kazajistan",
         "casos_total": 5571,
         "casos_nuevos": 154,
-        "casos_activos": 3131,
+        "casos_activos": 3008,
         "casos_criticos": 31,
         "fallecidos_total": 32,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 2408
+        "recuperados_total": 2531
     },
     {
         "pais": "KE",
@@ -1509,9 +1509,9 @@
     {
         "pais": "MN",
         "nombre": "Mongolia",
-        "casos_total": 61,
-        "casos_nuevos": 19,
-        "casos_activos": 46,
+        "casos_total": 98,
+        "casos_nuevos": 56,
+        "casos_activos": 83,
         "casos_criticos": 2,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
