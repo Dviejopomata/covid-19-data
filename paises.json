@@ -310,12 +310,12 @@
     {
         "pais": "BR",
         "nombre": "Brasil",
-        "casos_total": 189157,
-        "casos_nuevos": 0,
-        "casos_activos": 97575,
+        "casos_total": 190137,
+        "casos_nuevos": 980,
+        "casos_activos": 98473,
         "casos_criticos": 8318,
-        "fallecidos_total": 13158,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 13240,
+        "fallecidos_nuevos": 82,
         "recuperados_total": 78424
     },
     {
@@ -1478,11 +1478,11 @@
         "nombre": "Mexico",
         "casos_total": 40186,
         "casos_nuevos": 1862,
-        "casos_activos": 10031,
+        "casos_activos": 8976,
         "casos_criticos": 378,
         "fallecidos_total": 4220,
         "fallecidos_nuevos": 294,
-        "recuperados_total": 25935
+        "recuperados_total": 26990
     },
     {
         "pais": "MD",
@@ -1564,9 +1564,9 @@
     {
         "pais": "NP",
         "nombre": "Nepal",
-        "casos_total": 245,
-        "casos_nuevos": 2,
-        "casos_activos": 210,
+        "casos_total": 250,
+        "casos_nuevos": 7,
+        "casos_activos": 215,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1632,11 +1632,11 @@
         "nombre": "Nueva Zelanda",
         "casos_total": 1497,
         "casos_nuevos": 0,
-        "casos_activos": 74,
+        "casos_activos": 65,
         "casos_criticos": 2,
         "fallecidos_total": 21,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1402
+        "recuperados_total": 1411
     },
     {
         "pais": "OM",
