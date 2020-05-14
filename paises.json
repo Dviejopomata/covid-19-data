@@ -114,11 +114,11 @@
         "nombre": "Aruba",
         "casos_total": 101,
         "casos_nuevos": 0,
-        "casos_activos": 9,
+        "casos_activos": 7,
         "casos_criticos": 4,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 89
+        "recuperados_total": 91
     },
     {
         "pais": "AU",
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1430064,
-        "casos_nuevos": 21428,
-        "casos_activos": 1035955,
+        "casos_total": 1430348,
+        "casos_nuevos": 21712,
+        "casos_activos": 1034892,
         "casos_criticos": 16349,
-        "fallecidos_total": 85187,
-        "fallecidos_nuevos": 1762,
-        "recuperados_total": 308922
+        "fallecidos_total": 85197,
+        "fallecidos_nuevos": 1772,
+        "recuperados_total": 310259
     },
     {
         "pais": "EE",
@@ -783,13 +783,13 @@
     {
         "pais": "GA",
         "nombre": "Gabon",
-        "casos_total": 863,
-        "casos_nuevos": 0,
-        "casos_activos": 717,
+        "casos_total": 1004,
+        "casos_nuevos": 141,
+        "casos_activos": 843,
         "casos_criticos": 1,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 137
+        "recuperados_total": 152
     },
     {
         "pais": "GM",
@@ -1179,13 +1179,13 @@
     {
         "pais": "JP",
         "nombre": "Japon",
-        "casos_total": 15968,
-        "casos_nuevos": 0,
-        "casos_activos": 6780,
-        "casos_criticos": 249,
-        "fallecidos_total": 657,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 8531
+        "casos_total": 16049,
+        "casos_nuevos": 81,
+        "casos_activos": 6451,
+        "casos_criticos": 243,
+        "fallecidos_total": 678,
+        "fallecidos_nuevos": 21,
+        "recuperados_total": 8920
     },
     {
         "pais": "JO",
@@ -1432,10 +1432,10 @@
     {
         "pais": "MQ",
         "nombre": "Martinica",
-        "casos_total": 187,
-        "casos_nuevos": 0,
-        "casos_activos": 82,
-        "casos_criticos": 4,
+        "casos_total": 189,
+        "casos_nuevos": 2,
+        "casos_activos": 84,
+        "casos_criticos": 2,
         "fallecidos_total": 14,
         "fallecidos_nuevos": 0,
         "recuperados_total": 91
@@ -2259,11 +2259,11 @@
         "nombre": "Tunez",
         "casos_total": 1032,
         "casos_nuevos": 0,
-        "casos_activos": 247,
+        "casos_activos": 228,
         "casos_criticos": 5,
         "fallecidos_total": 45,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 740
+        "recuperados_total": 759
     },
     {
         "pais": "TR",
