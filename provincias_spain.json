@@ -341,13 +341,13 @@
     },
     {
         "nombre": "Cabo Verde",
-        "casos_total": 289,
-        "casos_nuevos": 0,
-        "casos_activos": 226,
+        "casos_total": 315,
+        "casos_nuevos": 26,
+        "casos_activos": 246,
         "casos_criticos": 0,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 61
+        "recuperados_total": 67
     },
     {
         "nombre": "Camboya",
@@ -401,13 +401,13 @@
     },
     {
         "nombre": "Chile",
-        "casos_total": 34381,
-        "casos_nuevos": 0,
-        "casos_activos": 19170,
-        "casos_criticos": 494,
-        "fallecidos_total": 346,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 14865
+        "casos_total": 37040,
+        "casos_nuevos": 2659,
+        "casos_activos": 21017,
+        "casos_criticos": 555,
+        "fallecidos_total": 368,
+        "fallecidos_nuevos": 22,
+        "recuperados_total": 15655
     },
     {
         "nombre": "China",
@@ -641,13 +641,13 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 1434424,
-        "casos_nuevos": 4076,
-        "casos_activos": 1038618,
+        "casos_total": 1435110,
+        "casos_nuevos": 4762,
+        "casos_activos": 1039007,
         "casos_criticos": 16337,
-        "fallecidos_total": 85388,
-        "fallecidos_nuevos": 191,
-        "recuperados_total": 310418
+        "fallecidos_total": 85408,
+        "fallecidos_nuevos": 211,
+        "recuperados_total": 310695
     },
     {
         "nombre": "Estonia",
@@ -771,12 +771,12 @@
     },
     {
         "nombre": "Grecia",
-        "casos_total": 2760,
-        "casos_nuevos": 0,
-        "casos_activos": 1231,
-        "casos_criticos": 28,
-        "fallecidos_total": 155,
-        "fallecidos_nuevos": 0,
+        "casos_total": 2770,
+        "casos_nuevos": 10,
+        "casos_activos": 1240,
+        "casos_criticos": 24,
+        "fallecidos_total": 156,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 1374
     },
     {
@@ -1401,9 +1401,9 @@
     },
     {
         "nombre": "Mozambique",
-        "casos_total": 107,
-        "casos_nuevos": 3,
-        "casos_activos": 72,
+        "casos_total": 115,
+        "casos_nuevos": 11,
+        "casos_activos": 80,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1874,7 +1874,7 @@
         "casos_total": 26098,
         "casos_nuevos": 752,
         "casos_activos": 21268,
-        "casos_criticos": 19,
+        "casos_criticos": 20,
         "fallecidos_total": 21,
         "fallecidos_nuevos": 0,
         "recuperados_total": 4809
