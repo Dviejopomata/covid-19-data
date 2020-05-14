@@ -83,11 +83,11 @@
         "nombre": "Argentina",
         "casos_total": 6879,
         "casos_nuevos": 0,
-        "casos_activos": 4284,
+        "casos_activos": 4150,
         "casos_criticos": 170,
-        "fallecidos_total": 329,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 2266
+        "fallecidos_total": 344,
+        "fallecidos_nuevos": 15,
+        "recuperados_total": 2385
     },
     {
         "nombre": "Armenia",
@@ -131,13 +131,13 @@
     },
     {
         "nombre": "Azerbaiyan",
-        "casos_total": 2758,
-        "casos_nuevos": 0,
-        "casos_activos": 934,
-        "casos_criticos": 30,
+        "casos_total": 2879,
+        "casos_nuevos": 121,
+        "casos_activos": 1011,
+        "casos_criticos": 29,
         "fallecidos_total": 35,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1789
+        "recuperados_total": 1833
     },
     {
         "nombre": "Bahamas",
@@ -511,13 +511,13 @@
     },
     {
         "nombre": "Cuba",
-        "casos_total": 1810,
-        "casos_nuevos": 0,
-        "casos_activos": 405,
-        "casos_criticos": 7,
+        "casos_total": 1830,
+        "casos_nuevos": 20,
+        "casos_activos": 368,
+        "casos_criticos": 9,
         "fallecidos_total": 79,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1326
+        "recuperados_total": 1383
     },
     {
         "nombre": "Curazao",
@@ -641,12 +641,12 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 1432238,
-        "casos_nuevos": 1890,
-        "casos_activos": 1036547,
+        "casos_total": 1433613,
+        "casos_nuevos": 3265,
+        "casos_activos": 1037856,
         "casos_criticos": 16337,
-        "fallecidos_total": 85276,
-        "fallecidos_nuevos": 79,
+        "fallecidos_total": 85342,
+        "fallecidos_nuevos": 145,
         "recuperados_total": 310415
     },
     {
@@ -1504,7 +1504,7 @@
         "casos_total": 43481,
         "casos_nuevos": 270,
         "casos_activos": 37641,
-        "casos_criticos": 432,
+        "casos_criticos": 410,
         "fallecidos_total": 5590,
         "fallecidos_nuevos": 28,
         "recuperados_total": 0
@@ -2131,9 +2131,9 @@
     },
     {
         "nombre": "Yemen",
-        "casos_total": 70,
-        "casos_nuevos": 0,
-        "casos_activos": 57,
+        "casos_total": 85,
+        "casos_nuevos": 15,
+        "casos_activos": 72,
         "casos_criticos": 0,
         "fallecidos_total": 12,
         "fallecidos_nuevos": 0,
