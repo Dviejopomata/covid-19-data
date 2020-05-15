@@ -281,12 +281,12 @@
     },
     {
         "nombre": "Brasil",
-        "casos_total": 202918,
-        "casos_nuevos": 0,
-        "casos_activos": 109446,
+        "casos_total": 203165,
+        "casos_nuevos": 247,
+        "casos_activos": 109687,
         "casos_criticos": 8318,
-        "fallecidos_total": 13993,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 13999,
+        "fallecidos_nuevos": 6,
         "recuperados_total": 79479
     },
     {
@@ -331,9 +331,9 @@
     },
     {
         "nombre": "Butan",
-        "casos_total": 19,
+        "casos_total": 20,
         "casos_nuevos": 0,
-        "casos_activos": 14,
+        "casos_activos": 15,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -461,13 +461,13 @@
     },
     {
         "nombre": "Corea del Sur",
-        "casos_total": 10991,
-        "casos_nuevos": 0,
-        "casos_activos": 969,
+        "casos_total": 11018,
+        "casos_nuevos": 27,
+        "casos_activos": 937,
         "casos_criticos": 55,
         "fallecidos_total": 260,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 9762
+        "recuperados_total": 9821
     },
     {
         "nombre": "Costa Rica",
@@ -811,13 +811,13 @@
     },
     {
         "nombre": "Guatemala",
-        "casos_total": 1342,
-        "casos_nuevos": 0,
-        "casos_activos": 1192,
+        "casos_total": 1518,
+        "casos_nuevos": 176,
+        "casos_activos": 1360,
         "casos_criticos": 5,
         "fallecidos_total": 29,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 121
+        "recuperados_total": 129
     },
     {
         "nombre": "Guayana Francesa",
@@ -1524,7 +1524,7 @@
         "casos_total": 9118,
         "casos_nuevos": 174,
         "casos_activos": 2778,
-        "casos_criticos": 87,
+        "casos_criticos": 72,
         "fallecidos_total": 260,
         "fallecidos_nuevos": 4,
         "recuperados_total": 6080
