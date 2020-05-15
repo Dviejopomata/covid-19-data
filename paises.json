@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1456306,
-        "casos_nuevos": 25959,
-        "casos_activos": 1051554,
+        "casos_total": 1456745,
+        "casos_nuevos": 26398,
+        "casos_activos": 1051857,
         "casos_criticos": 16240,
-        "fallecidos_total": 86895,
-        "fallecidos_nuevos": 1698,
-        "recuperados_total": 317857
+        "fallecidos_total": 86900,
+        "fallecidos_nuevos": 1703,
+        "recuperados_total": 317988
     },
     {
         "pais": "EE",
@@ -840,11 +840,11 @@
         "nombre": "Granada",
         "casos_total": 21,
         "casos_nuevos": 0,
-        "casos_activos": 8,
+        "casos_activos": 7,
         "casos_criticos": 4,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 13
+        "recuperados_total": 14
     },
     {
         "pais": "GR",
@@ -2323,9 +2323,9 @@
     {
         "pais": "VE",
         "nombre": "Venezuela",
-        "casos_total": 440,
-        "casos_nuevos": 0,
-        "casos_activos": 210,
+        "casos_total": 455,
+        "casos_nuevos": 15,
+        "casos_activos": 225,
         "casos_criticos": 2,
         "fallecidos_total": 10,
         "fallecidos_nuevos": 0,
