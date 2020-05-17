@@ -299,9 +299,9 @@
     {
         "pais": "BW",
         "nombre": "Botsuana",
-        "casos_total": 24,
-        "casos_nuevos": 0,
-        "casos_activos": 6,
+        "casos_total": 25,
+        "casos_nuevos": 1,
+        "casos_activos": 7,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -310,12 +310,12 @@
     {
         "pais": "BR",
         "nombre": "Brasil",
-        "casos_total": 236131,
-        "casos_nuevos": 2989,
-        "casos_activos": 130683,
+        "casos_total": 239483,
+        "casos_nuevos": 6341,
+        "casos_activos": 133749,
         "casos_criticos": 0,
-        "fallecidos_total": 15776,
-        "fallecidos_nuevos": 143,
+        "fallecidos_total": 16062,
+        "fallecidos_nuevos": 429,
         "recuperados_total": 89672
     },
     {
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1524463,
-        "casos_nuevos": 16690,
-        "casos_activos": 1090412,
+        "casos_total": 1526042,
+        "casos_nuevos": 18269,
+        "casos_activos": 1091910,
         "casos_criticos": 0,
-        "fallecidos_total": 90901,
-        "fallecidos_nuevos": 788,
-        "recuperados_total": 343150
+        "fallecidos_total": 90928,
+        "fallecidos_nuevos": 815,
+        "recuperados_total": 343204
     },
     {
         "pais": "EE",
@@ -1753,11 +1753,11 @@
         "nombre": "Principado de Andorra",
         "casos_total": 761,
         "casos_nuevos": 0,
-        "casos_activos": 95,
+        "casos_activos": 93,
         "casos_criticos": 0,
         "fallecidos_total": 51,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 615
+        "recuperados_total": 617
     },
     {
         "pais": "PR",
