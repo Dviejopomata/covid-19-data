@@ -79,13 +79,13 @@
     {
         "pais": "DZ",
         "nombre": "Argelia",
-        "casos_total": 7019,
-        "casos_nuevos": 0,
-        "casos_activos": 2964,
+        "casos_total": 7201,
+        "casos_nuevos": 182,
+        "casos_activos": 3021,
         "casos_criticos": 0,
-        "fallecidos_total": 548,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 3507
+        "fallecidos_total": 555,
+        "fallecidos_nuevos": 7,
+        "recuperados_total": 3625
     },
     {
         "pais": "AR",
@@ -442,13 +442,13 @@
     {
         "pais": "CL",
         "nombre": "Chile",
-        "casos_total": 43781,
-        "casos_nuevos": 0,
-        "casos_activos": 24118,
+        "casos_total": 46059,
+        "casos_nuevos": 2278,
+        "casos_activos": 25416,
         "casos_criticos": 0,
-        "fallecidos_total": 450,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 19213
+        "fallecidos_total": 478,
+        "fallecidos_nuevos": 28,
+        "recuperados_total": 20165
     },
     {
         "pais": "CN",
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1531737,
-        "casos_nuevos": 4073,
-        "casos_activos": 1093890,
+        "casos_total": 1532246,
+        "casos_nuevos": 4582,
+        "casos_activos": 1094213,
         "casos_criticos": 0,
-        "fallecidos_total": 91061,
-        "fallecidos_nuevos": 83,
-        "recuperados_total": 346786
+        "fallecidos_total": 91077,
+        "fallecidos_nuevos": 99,
+        "recuperados_total": 346956
     },
     {
         "pais": "EE",
@@ -849,12 +849,12 @@
     {
         "pais": "GR",
         "nombre": "Grecia",
-        "casos_total": 2834,
-        "casos_nuevos": 0,
+        "casos_total": 2836,
+        "casos_nuevos": 2,
         "casos_activos": 1297,
         "casos_criticos": 0,
-        "fallecidos_total": 163,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 165,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 1374
     },
     {
@@ -1806,9 +1806,9 @@
     {
         "pais": "CY",
         "nombre": "Republica de Chipre",
-        "casos_total": 916,
-        "casos_nuevos": 0,
-        "casos_activos": 384,
+        "casos_total": 917,
+        "casos_nuevos": 1,
+        "casos_activos": 385,
         "casos_criticos": 0,
         "fallecidos_total": 17,
         "fallecidos_nuevos": 0,
