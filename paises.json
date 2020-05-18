@@ -200,13 +200,13 @@
     {
         "pais": "BE",
         "nombre": "Belgica",
-        "casos_total": 55280,
-        "casos_nuevos": 0,
-        "casos_activos": 31598,
+        "casos_total": 55559,
+        "casos_nuevos": 279,
+        "casos_activos": 31822,
         "casos_criticos": 0,
-        "fallecidos_total": 9052,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 14630
+        "fallecidos_total": 9080,
+        "fallecidos_nuevos": 28,
+        "recuperados_total": 14657
     },
     {
         "pais": "BZ",
@@ -750,9 +750,9 @@
     {
         "pais": "FI",
         "nombre": "Finlandia",
-        "casos_total": 6347,
-        "casos_nuevos": 0,
-        "casos_activos": 1049,
+        "casos_total": 6380,
+        "casos_nuevos": 33,
+        "casos_activos": 1082,
         "casos_criticos": 0,
         "fallecidos_total": 298,
         "fallecidos_nuevos": 0,
@@ -1366,13 +1366,13 @@
     {
         "pais": "MY",
         "nombre": "Malasia",
-        "casos_total": 6894,
-        "casos_nuevos": 0,
-        "casos_activos": 1210,
+        "casos_total": 6941,
+        "casos_nuevos": 47,
+        "casos_activos": 1213,
         "casos_criticos": 0,
         "fallecidos_total": 113,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 5571
+        "recuperados_total": 5615
     },
     {
         "pais": "MW",
@@ -1731,11 +1731,11 @@
         "nombre": "Polonia",
         "casos_total": 18746,
         "casos_nuevos": 217,
-        "casos_activos": 10366,
+        "casos_activos": 10189,
         "casos_criticos": 0,
         "fallecidos_total": 929,
         "fallecidos_nuevos": 4,
-        "recuperados_total": 7451
+        "recuperados_total": 7628
     },
     {
         "pais": "PT",
@@ -2290,9 +2290,9 @@
     {
         "pais": "UG",
         "nombre": "Uganda",
-        "casos_total": 227,
-        "casos_nuevos": 0,
-        "casos_activos": 164,
+        "casos_total": 248,
+        "casos_nuevos": 21,
+        "casos_activos": 185,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
