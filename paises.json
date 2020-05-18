@@ -24,12 +24,12 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 177268,
-        "casos_nuevos": 617,
-        "casos_activos": 14549,
+        "casos_total": 177281,
+        "casos_nuevos": 630,
+        "casos_activos": 14561,
         "casos_criticos": 0,
-        "fallecidos_total": 8119,
-        "fallecidos_nuevos": 70,
+        "fallecidos_total": 8120,
+        "fallecidos_nuevos": 71,
         "recuperados_total": 154600
     },
     {
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1543541,
-        "casos_nuevos": 15877,
-        "casos_activos": 1100191,
+        "casos_total": 1543842,
+        "casos_nuevos": 16178,
+        "casos_activos": 1100223,
         "casos_criticos": 0,
-        "fallecidos_total": 91600,
-        "fallecidos_nuevos": 622,
-        "recuperados_total": 351750
+        "fallecidos_total": 91683,
+        "fallecidos_nuevos": 705,
+        "recuperados_total": 351936
     },
     {
         "pais": "EE",
@@ -1388,9 +1388,9 @@
     {
         "pais": "MV",
         "nombre": "Maldivas",
-        "casos_total": 1094,
-        "casos_nuevos": 0,
-        "casos_activos": 1032,
+        "casos_total": 1106,
+        "casos_nuevos": 12,
+        "casos_activos": 1044,
         "casos_criticos": 0,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
@@ -2235,13 +2235,13 @@
     {
         "pais": "TG",
         "nombre": "Togo",
-        "casos_total": 301,
-        "casos_nuevos": 0,
-        "casos_activos": 186,
+        "casos_total": 330,
+        "casos_nuevos": 29,
+        "casos_activos": 212,
         "casos_criticos": 0,
-        "fallecidos_total": 11,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 104
+        "fallecidos_total": 12,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 106
     },
     {
         "pais": "TT",
@@ -2345,9 +2345,9 @@
     {
         "pais": "YE",
         "nombre": "Yemen",
-        "casos_total": 128,
-        "casos_nuevos": 0,
-        "casos_activos": 107,
+        "casos_total": 130,
+        "casos_nuevos": 2,
+        "casos_activos": 109,
         "casos_criticos": 0,
         "fallecidos_total": 20,
         "fallecidos_nuevos": 0,
