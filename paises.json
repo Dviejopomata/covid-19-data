@@ -675,11 +675,11 @@
         "nombre": "Eslovenia",
         "casos_total": 1466,
         "casos_nuevos": 0,
-        "casos_activos": 1089,
+        "casos_activos": 1088,
         "casos_criticos": 0,
         "fallecidos_total": 104,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 273
+        "recuperados_total": 274
     },
     {
         "pais": "ES",
@@ -752,10 +752,10 @@
         "nombre": "Finlandia",
         "casos_total": 6380,
         "casos_nuevos": 33,
-        "casos_activos": 1082,
+        "casos_activos": 1080,
         "casos_criticos": 0,
-        "fallecidos_total": 298,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 300,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 5000
     },
     {
@@ -1410,13 +1410,13 @@
     {
         "pais": "MT",
         "nombre": "Malta",
-        "casos_total": 553,
-        "casos_nuevos": 0,
-        "casos_activos": 93,
+        "casos_total": 558,
+        "casos_nuevos": 5,
+        "casos_activos": 96,
         "casos_criticos": 0,
         "fallecidos_total": 6,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 454
+        "recuperados_total": 456
     },
     {
         "pais": "MA",
@@ -1610,10 +1610,10 @@
         "nombre": "Noruega",
         "casos_total": 8249,
         "casos_nuevos": 0,
-        "casos_activos": 7985,
+        "casos_activos": 7984,
         "casos_criticos": 0,
-        "fallecidos_total": 232,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 233,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 32
     },
     {
@@ -2334,13 +2334,13 @@
     {
         "pais": "VN",
         "nombre": "Vietnam",
-        "casos_total": 320,
-        "casos_nuevos": 0,
-        "casos_activos": 60,
+        "casos_total": 324,
+        "casos_nuevos": 4,
+        "casos_activos": 61,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 260
+        "recuperados_total": 263
     },
     {
         "pais": "YE",
