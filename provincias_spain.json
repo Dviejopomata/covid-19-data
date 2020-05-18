@@ -81,12 +81,12 @@
     },
     {
         "nombre": "Argentina",
-        "casos_total": 7805,
-        "casos_nuevos": 0,
-        "casos_activos": 4870,
+        "casos_total": 8068,
+        "casos_nuevos": 263,
+        "casos_activos": 5126,
         "casos_criticos": 0,
-        "fallecidos_total": 366,
-        "fallecidos_nuevos": 3,
+        "fallecidos_total": 373,
+        "fallecidos_nuevos": 10,
         "recuperados_total": 2569
     },
     {
@@ -391,13 +391,13 @@
     },
     {
         "nombre": "Chequia",
-        "casos_total": 8460,
-        "casos_nuevos": 5,
-        "casos_activos": 2727,
+        "casos_total": 8475,
+        "casos_nuevos": 20,
+        "casos_activos": 2715,
         "casos_criticos": 0,
         "fallecidos_total": 298,
         "fallecidos_nuevos": 2,
-        "recuperados_total": 5435
+        "recuperados_total": 5462
     },
     {
         "nombre": "Chile",
@@ -641,13 +641,13 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 1526816,
-        "casos_nuevos": 19043,
-        "casos_activos": 1090905,
+        "casos_total": 1527352,
+        "casos_nuevos": 19579,
+        "casos_activos": 1091427,
         "casos_criticos": 0,
         "fallecidos_total": 90973,
         "fallecidos_nuevos": 860,
-        "recuperados_total": 344938
+        "recuperados_total": 344952
     },
     {
         "nombre": "Estonia",
@@ -1061,13 +1061,13 @@
     },
     {
         "nombre": "Jamaica",
-        "casos_total": 517,
-        "casos_nuevos": 6,
-        "casos_activos": 387,
+        "casos_total": 520,
+        "casos_nuevos": 9,
+        "casos_activos": 384,
         "casos_criticos": 0,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 121
+        "recuperados_total": 127
     },
     {
         "nombre": "Japon",
@@ -1251,13 +1251,13 @@
     },
     {
         "nombre": "Malaui",
-        "casos_total": 65,
-        "casos_nuevos": 0,
-        "casos_activos": 38,
+        "casos_total": 70,
+        "casos_nuevos": 5,
+        "casos_activos": 40,
         "casos_criticos": 0,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 24
+        "recuperados_total": 27
     },
     {
         "nombre": "Maldivas",
@@ -2053,11 +2053,11 @@
         "nombre": "Tunez",
         "casos_total": 1037,
         "casos_nuevos": 0,
-        "casos_activos": 185,
+        "casos_activos": 176,
         "casos_criticos": 0,
         "fallecidos_total": 45,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 807
+        "recuperados_total": 816
     },
     {
         "nombre": "Turquia",
