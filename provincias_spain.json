@@ -31,12 +31,12 @@
     },
     {
         "nombre": "Angola",
-        "casos_total": 48,
-        "casos_nuevos": 0,
-        "casos_activos": 29,
+        "casos_total": 50,
+        "casos_nuevos": 2,
+        "casos_activos": 30,
         "casos_criticos": 0,
-        "fallecidos_total": 2,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 3,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 17
     },
     {
@@ -471,13 +471,13 @@
     },
     {
         "nombre": "Costa Rica",
-        "casos_total": 863,
-        "casos_nuevos": 0,
-        "casos_activos": 288,
+        "casos_total": 866,
+        "casos_nuevos": 3,
+        "casos_activos": 281,
         "casos_criticos": 0,
         "fallecidos_total": 10,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 565
+        "recuperados_total": 575
     },
     {
         "nombre": "Costa de Marfil",
@@ -641,12 +641,12 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 1537769,
-        "casos_nuevos": 10105,
-        "casos_activos": 1094969,
+        "casos_total": 1539030,
+        "casos_nuevos": 11366,
+        "casos_activos": 1096197,
         "casos_criticos": 0,
-        "fallecidos_total": 91452,
-        "fallecidos_nuevos": 474,
+        "fallecidos_total": 91485,
+        "fallecidos_nuevos": 507,
         "recuperados_total": 351348
     },
     {
@@ -703,11 +703,11 @@
         "nombre": "Francia",
         "casos_total": 179569,
         "casos_nuevos": 0,
-        "casos_activos": 90248,
+        "casos_activos": 89602,
         "casos_criticos": 0,
-        "fallecidos_total": 28108,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 61213
+        "fallecidos_total": 28239,
+        "fallecidos_nuevos": 131,
+        "recuperados_total": 61728
     },
     {
         "nombre": "Gabon",
@@ -1671,9 +1671,9 @@
     },
     {
         "nombre": "Republica del Chad",
-        "casos_total": 503,
-        "casos_nuevos": 0,
-        "casos_activos": 333,
+        "casos_total": 519,
+        "casos_nuevos": 16,
+        "casos_activos": 349,
         "casos_criticos": 0,
         "fallecidos_total": 53,
         "fallecidos_nuevos": 0,
@@ -1911,13 +1911,13 @@
     },
     {
         "nombre": "Suazilandia",
-        "casos_total": 203,
-        "casos_nuevos": 0,
-        "casos_activos": 128,
+        "casos_total": 205,
+        "casos_nuevos": 2,
+        "casos_activos": 125,
         "casos_criticos": 0,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 73
+        "recuperados_total": 78
     },
     {
         "nombre": "Sudafrica",
