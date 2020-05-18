@@ -607,12 +607,12 @@
     {
         "pais": "EC",
         "nombre": "Ecuador",
-        "casos_total": 33182,
-        "casos_nuevos": 0,
-        "casos_activos": 27013,
+        "casos_total": 33582,
+        "casos_nuevos": 400,
+        "casos_activos": 27350,
         "casos_criticos": 0,
-        "fallecidos_total": 2736,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 2799,
+        "fallecidos_nuevos": 63,
         "recuperados_total": 3433
     },
     {
@@ -695,9 +695,9 @@
     {
         "pais": "PS",
         "nombre": "Estado de Palestina",
-        "casos_total": 386,
-        "casos_nuevos": 5,
-        "casos_activos": 47,
+        "casos_total": 388,
+        "casos_nuevos": 7,
+        "casos_activos": 49,
         "casos_criticos": 0,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1543842,
-        "casos_nuevos": 16178,
-        "casos_activos": 1100223,
+        "casos_total": 1544194,
+        "casos_nuevos": 16530,
+        "casos_activos": 1099525,
         "casos_criticos": 0,
-        "fallecidos_total": 91683,
-        "fallecidos_nuevos": 705,
-        "recuperados_total": 351936
+        "fallecidos_total": 91717,
+        "fallecidos_nuevos": 739,
+        "recuperados_total": 352952
     },
     {
         "pais": "EE",
@@ -904,24 +904,24 @@
     {
         "pais": "GF",
         "nombre": "Guayana Francesa",
-        "casos_total": 197,
-        "casos_nuevos": 0,
-        "casos_activos": 71,
+        "casos_total": 210,
+        "casos_nuevos": 13,
+        "casos_activos": 78,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 125
+        "recuperados_total": 131
     },
     {
         "pais": "GN",
         "nombre": "Guinea",
-        "casos_total": 2658,
-        "casos_nuevos": 0,
-        "casos_activos": 1509,
+        "casos_total": 2796,
+        "casos_nuevos": 138,
+        "casos_activos": 1517,
         "casos_criticos": 0,
         "fallecidos_total": 16,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1133
+        "recuperados_total": 1263
     },
     {
         "pais": "GQ",
@@ -937,13 +937,13 @@
     {
         "pais": "GW",
         "nombre": "Guinea-Bisau",
-        "casos_total": 990,
-        "casos_nuevos": 0,
-        "casos_activos": 960,
+        "casos_total": 1032,
+        "casos_nuevos": 42,
+        "casos_activos": 990,
         "casos_criticos": 0,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 26
+        "recuperados_total": 38
     },
     {
         "pais": "GY",
