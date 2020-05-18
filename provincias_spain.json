@@ -83,11 +83,11 @@
         "nombre": "Argentina",
         "casos_total": 8068,
         "casos_nuevos": 0,
-        "casos_activos": 5126,
+        "casos_activos": 5069,
         "casos_criticos": 0,
-        "fallecidos_total": 373,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 2569
+        "fallecidos_total": 374,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 2625
     },
     {
         "nombre": "Armenia",
@@ -131,13 +131,13 @@
     },
     {
         "nombre": "Azerbaiyan",
-        "casos_total": 3274,
-        "casos_nuevos": 0,
-        "casos_activos": 1220,
+        "casos_total": 3387,
+        "casos_nuevos": 113,
+        "casos_activos": 1292,
         "casos_criticos": 0,
-        "fallecidos_total": 39,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 2015
+        "fallecidos_total": 40,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 2055
     },
     {
         "nombre": "Bahamas",
@@ -261,13 +261,13 @@
     },
     {
         "nombre": "Bosnia y Herzegovina",
-        "casos_total": 2290,
-        "casos_nuevos": 0,
-        "casos_activos": 721,
+        "casos_total": 2304,
+        "casos_nuevos": 14,
+        "casos_activos": 707,
         "casos_criticos": 0,
         "fallecidos_total": 133,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1436
+        "recuperados_total": 1464
     },
     {
         "nombre": "Botsuana",
@@ -281,12 +281,12 @@
     },
     {
         "nombre": "Brasil",
-        "casos_total": 243968,
-        "casos_nuevos": 2888,
-        "casos_activos": 133650,
+        "casos_total": 244052,
+        "casos_nuevos": 2972,
+        "casos_activos": 133729,
         "casos_criticos": 0,
-        "fallecidos_total": 16196,
-        "fallecidos_nuevos": 78,
+        "fallecidos_total": 16201,
+        "fallecidos_nuevos": 83,
         "recuperados_total": 94122
     },
     {
@@ -511,13 +511,13 @@
     },
     {
         "nombre": "Cuba",
-        "casos_total": 1872,
-        "casos_nuevos": 0,
-        "casos_activos": 298,
+        "casos_total": 1881,
+        "casos_nuevos": 9,
+        "casos_activos": 297,
         "casos_criticos": 0,
         "fallecidos_total": 79,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1495
+        "recuperados_total": 1505
     },
     {
         "nombre": "Curazao",
@@ -641,13 +641,13 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 1528931,
-        "casos_nuevos": 1267,
-        "casos_activos": 1091549,
+        "casos_total": 1529291,
+        "casos_nuevos": 1627,
+        "casos_activos": 1091892,
         "casos_criticos": 0,
-        "fallecidos_total": 90993,
-        "fallecidos_nuevos": 15,
-        "recuperados_total": 346389
+        "fallecidos_total": 91005,
+        "fallecidos_nuevos": 27,
+        "recuperados_total": 346394
     },
     {
         "nombre": "Estonia",
@@ -1461,9 +1461,9 @@
     },
     {
         "nombre": "Noruega",
-        "casos_total": 8249,
-        "casos_nuevos": 0,
-        "casos_activos": 7984,
+        "casos_total": 8257,
+        "casos_nuevos": 8,
+        "casos_activos": 7992,
         "casos_criticos": 0,
         "fallecidos_total": 233,
         "fallecidos_nuevos": 1,
