@@ -24,9 +24,9 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 177824,
-        "casos_nuevos": 535,
-        "casos_activos": 13931,
+        "casos_total": 177827,
+        "casos_nuevos": 538,
+        "casos_activos": 13934,
         "casos_criticos": 0,
         "fallecidos_total": 8193,
         "fallecidos_nuevos": 70,
@@ -409,13 +409,13 @@
     {
         "pais": "CA",
         "nombre": "Canada",
-        "casos_total": 79077,
-        "casos_nuevos": 1005,
-        "casos_activos": 33192,
+        "casos_total": 79110,
+        "casos_nuevos": 1038,
+        "casos_activos": 33160,
         "casos_criticos": 0,
         "fallecidos_total": 5909,
         "fallecidos_nuevos": 67,
-        "recuperados_total": 39976
+        "recuperados_total": 40041
     },
     {
         "pais": "QA",
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1566956,
-        "casos_nuevos": 16662,
-        "casos_activos": 1111353,
+        "casos_total": 1567333,
+        "casos_nuevos": 17039,
+        "casos_activos": 1111487,
         "casos_criticos": 0,
-        "fallecidos_total": 93361,
-        "fallecidos_nuevos": 1380,
-        "recuperados_total": 362242
+        "fallecidos_total": 93343,
+        "fallecidos_nuevos": 1362,
+        "recuperados_total": 362503
     },
     {
         "pais": "EE",
@@ -783,13 +783,13 @@
     {
         "pais": "GA",
         "nombre": "Gabon",
-        "casos_total": 1432,
-        "casos_nuevos": 0,
-        "casos_activos": 1120,
+        "casos_total": 1502,
+        "casos_nuevos": 70,
+        "casos_activos": 1172,
         "casos_criticos": 0,
-        "fallecidos_total": 11,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 301
+        "fallecidos_total": 12,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 318
     },
     {
         "pais": "GM",
@@ -915,20 +915,20 @@
     {
         "pais": "GN",
         "nombre": "Guinea",
-        "casos_total": 2796,
-        "casos_nuevos": 0,
-        "casos_activos": 1517,
+        "casos_total": 2863,
+        "casos_nuevos": 67,
+        "casos_activos": 1320,
         "casos_criticos": 0,
-        "fallecidos_total": 16,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1263
+        "fallecidos_total": 18,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 1525
     },
     {
         "pais": "GQ",
         "nombre": "Guinea Ecuatorial",
-        "casos_total": 719,
-        "casos_nuevos": 0,
-        "casos_activos": 690,
+        "casos_total": 825,
+        "casos_nuevos": 106,
+        "casos_activos": 796,
         "casos_criticos": 0,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
@@ -2215,11 +2215,11 @@
         "nombre": "Tayikistan",
         "casos_total": 1936,
         "casos_nuevos": 207,
-        "casos_activos": 1895,
+        "casos_activos": 1254,
         "casos_criticos": 0,
         "fallecidos_total": 41,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 0
+        "recuperados_total": 641
     },
     {
         "pais": "TL",
