@@ -35,9 +35,9 @@
     {
         "pais": "AO",
         "nombre": "Angola",
-        "casos_total": 50,
-        "casos_nuevos": 0,
-        "casos_activos": 30,
+        "casos_total": 52,
+        "casos_nuevos": 2,
+        "casos_activos": 32,
         "casos_criticos": 0,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
@@ -519,13 +519,13 @@
     {
         "pais": "CR",
         "nombre": "Costa Rica",
-        "casos_total": 866,
-        "casos_nuevos": 0,
-        "casos_activos": 281,
+        "casos_total": 882,
+        "casos_nuevos": 16,
+        "casos_activos": 295,
         "casos_criticos": 0,
         "fallecidos_total": 10,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 575
+        "recuperados_total": 577
     },
     {
         "pais": "CI",
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1561399,
-        "casos_nuevos": 11105,
-        "casos_activos": 1108507,
+        "casos_total": 1561766,
+        "casos_nuevos": 11472,
+        "casos_activos": 1107780,
         "casos_criticos": 0,
-        "fallecidos_total": 92804,
-        "fallecidos_nuevos": 823,
-        "recuperados_total": 360088
+        "fallecidos_total": 92812,
+        "fallecidos_nuevos": 831,
+        "recuperados_total": 361174
     },
     {
         "pais": "EE",
@@ -774,9 +774,9 @@
         "nombre": "Francia",
         "casos_total": 180809,
         "casos_nuevos": 882,
-        "casos_activos": 90007,
+        "casos_activos": 90224,
         "casos_criticos": 0,
-        "fallecidos_total": 28239,
+        "fallecidos_total": 28022,
         "fallecidos_nuevos": 0,
         "recuperados_total": 62563
     },
@@ -1707,13 +1707,13 @@
     {
         "pais": "PE",
         "nombre": "Peru",
-        "casos_total": 94933,
-        "casos_nuevos": 0,
-        "casos_activos": 61838,
+        "casos_total": 99483,
+        "casos_nuevos": 4550,
+        "casos_activos": 60045,
         "casos_criticos": 0,
-        "fallecidos_total": 2789,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 30306
+        "fallecidos_total": 2914,
+        "fallecidos_nuevos": 125,
+        "recuperados_total": 36524
     },
     {
         "pais": "PF",
@@ -2235,13 +2235,13 @@
     {
         "pais": "TG",
         "nombre": "Togo",
-        "casos_total": 330,
-        "casos_nuevos": 0,
-        "casos_activos": 212,
+        "casos_total": 338,
+        "casos_nuevos": 8,
+        "casos_activos": 219,
         "casos_criticos": 0,
         "fallecidos_total": 12,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 106
+        "recuperados_total": 107
     },
     {
         "pais": "TT",
