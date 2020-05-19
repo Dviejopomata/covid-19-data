@@ -222,9 +222,9 @@
     {
         "pais": "BJ",
         "nombre": "Benin",
-        "casos_total": 339,
+        "casos_total": 130,
         "casos_nuevos": 0,
-        "casos_activos": 254,
+        "casos_activos": 45,
         "casos_criticos": 0,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
@@ -310,12 +310,12 @@
     {
         "pais": "BR",
         "nombre": "Brasil",
-        "casos_total": 262545,
-        "casos_nuevos": 7177,
-        "casos_activos": 144577,
+        "casos_total": 265896,
+        "casos_nuevos": 10528,
+        "casos_activos": 147597,
         "casos_criticos": 0,
-        "fallecidos_total": 17509,
-        "fallecidos_nuevos": 656,
+        "fallecidos_total": 17840,
+        "fallecidos_nuevos": 987,
         "recuperados_total": 100459
     },
     {
@@ -675,11 +675,11 @@
         "nombre": "Eslovenia",
         "casos_total": 1467,
         "casos_nuevos": 1,
-        "casos_activos": 28,
+        "casos_activos": 25,
         "casos_criticos": 0,
         "fallecidos_total": 104,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1335
+        "recuperados_total": 1338
     },
     {
         "pais": "ES",
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1565229,
-        "casos_nuevos": 14935,
-        "casos_activos": 1110218,
+        "casos_total": 1566956,
+        "casos_nuevos": 16662,
+        "casos_activos": 1111353,
         "casos_criticos": 0,
-        "fallecidos_total": 93157,
-        "fallecidos_nuevos": 1176,
-        "recuperados_total": 361854
+        "fallecidos_total": 93361,
+        "fallecidos_nuevos": 1380,
+        "recuperados_total": 362242
     },
     {
         "pais": "EE",
@@ -2160,11 +2160,11 @@
         "nombre": "Suiza",
         "casos_total": 30618,
         "casos_nuevos": 21,
-        "casos_activos": 1127,
+        "casos_activos": 1027,
         "casos_criticos": 0,
         "fallecidos_total": 1891,
         "fallecidos_nuevos": 5,
-        "recuperados_total": 27600
+        "recuperados_total": 27700
     },
     {
         "pais": "SR",
