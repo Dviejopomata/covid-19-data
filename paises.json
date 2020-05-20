@@ -24,12 +24,12 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 177910,
-        "casos_nuevos": 83,
-        "casos_activos": 12810,
+        "casos_total": 177989,
+        "casos_nuevos": 162,
+        "casos_activos": 12880,
         "casos_criticos": 0,
-        "fallecidos_total": 8200,
-        "fallecidos_nuevos": 7,
+        "fallecidos_total": 8209,
+        "fallecidos_nuevos": 16,
         "recuperados_total": 156900
     },
     {
@@ -706,9 +706,9 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1572091,
-        "casos_nuevos": 1508,
-        "casos_activos": 1117270,
+        "casos_total": 1572114,
+        "casos_nuevos": 1531,
+        "casos_activos": 1117293,
         "casos_criticos": 0,
         "fallecidos_total": 93594,
         "fallecidos_nuevos": 61,
@@ -752,10 +752,10 @@
         "nombre": "Finlandia",
         "casos_total": 6443,
         "casos_nuevos": 44,
-        "casos_activos": 1142,
+        "casos_activos": 1139,
         "casos_criticos": 0,
-        "fallecidos_total": 301,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 304,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 5000
     },
     {
@@ -1003,13 +1003,13 @@
     {
         "pais": "IN",
         "nombre": "India",
-        "casos_total": 107789,
-        "casos_nuevos": 1314,
-        "casos_activos": 61559,
+        "casos_total": 107819,
+        "casos_nuevos": 1344,
+        "casos_activos": 61432,
         "casos_criticos": 0,
-        "fallecidos_total": 3316,
-        "fallecidos_nuevos": 14,
-        "recuperados_total": 42914
+        "fallecidos_total": 3317,
+        "fallecidos_nuevos": 15,
+        "recuperados_total": 43070
     },
     {
         "pais": "ID",
@@ -1214,11 +1214,11 @@
         "nombre": "Kenia",
         "casos_total": 1029,
         "casos_nuevos": 66,
-        "casos_activos": 621,
+        "casos_activos": 613,
         "casos_criticos": 0,
         "fallecidos_total": 50,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 358
+        "recuperados_total": 366
     },
     {
         "pais": "KG",
