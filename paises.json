@@ -24,9 +24,9 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 178568,
-        "casos_nuevos": 37,
-        "casos_activos": 12297,
+        "casos_total": 178671,
+        "casos_nuevos": 140,
+        "casos_activos": 12400,
         "casos_criticos": 0,
         "fallecidos_total": 8271,
         "fallecidos_nuevos": 1,
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1595081,
-        "casos_nuevos": 2358,
-        "casos_activos": 1129094,
+        "casos_total": 1595318,
+        "casos_nuevos": 2595,
+        "casos_activos": 1129324,
         "casos_criticos": 0,
-        "fallecidos_total": 95016,
-        "fallecidos_nuevos": 80,
-        "recuperados_total": 370971
+        "fallecidos_total": 95021,
+        "fallecidos_nuevos": 85,
+        "recuperados_total": 370973
     },
     {
         "pais": "EE",
@@ -2114,12 +2114,12 @@
     {
         "pais": "ZA",
         "nombre": "Sudafrica",
-        "casos_total": 18003,
-        "casos_nuevos": 0,
-        "casos_activos": 8714,
+        "casos_total": 19137,
+        "casos_nuevos": 1134,
+        "casos_activos": 9818,
         "casos_criticos": 0,
-        "fallecidos_total": 339,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 369,
+        "fallecidos_nuevos": 30,
         "recuperados_total": 8950
     },
     {
