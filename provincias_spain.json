@@ -83,10 +83,10 @@
         "nombre": "Argentina",
         "casos_total": 9931,
         "casos_nuevos": 0,
-        "casos_activos": 6483,
+        "casos_activos": 6480,
         "casos_criticos": 0,
-        "fallecidos_total": 416,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 419,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 3032
     },
     {
@@ -401,13 +401,13 @@
     },
     {
         "nombre": "Chile",
-        "casos_total": 57581,
-        "casos_nuevos": 0,
-        "casos_activos": 33000,
+        "casos_total": 61857,
+        "casos_nuevos": 4276,
+        "casos_activos": 35885,
         "casos_criticos": 0,
-        "fallecidos_total": 589,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 23992
+        "fallecidos_total": 630,
+        "fallecidos_nuevos": 41,
+        "recuperados_total": 25342
     },
     {
         "nombre": "China",
@@ -641,9 +641,9 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 1625039,
-        "casos_nuevos": 4137,
-        "casos_activos": 1145526,
+        "casos_total": 1625071,
+        "casos_nuevos": 4169,
+        "casos_activos": 1145558,
         "casos_criticos": 0,
         "fallecidos_total": 96526,
         "fallecidos_nuevos": 172,
@@ -841,12 +841,12 @@
     },
     {
         "nombre": "Guinea Ecuatorial",
-        "casos_total": 903,
-        "casos_nuevos": 0,
-        "casos_activos": 728,
+        "casos_total": 960,
+        "casos_nuevos": 57,
+        "casos_activos": 784,
         "casos_criticos": 0,
-        "fallecidos_total": 10,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 11,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 165
     },
     {
@@ -1621,13 +1621,13 @@
     },
     {
         "nombre": "Republica Dominicana",
-        "casos_total": 13657,
-        "casos_nuevos": 0,
-        "casos_activos": 5843,
+        "casos_total": 13989,
+        "casos_nuevos": 332,
+        "casos_activos": 5961,
         "casos_criticos": 0,
-        "fallecidos_total": 448,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 7366
+        "fallecidos_total": 456,
+        "fallecidos_nuevos": 8,
+        "recuperados_total": 7572
     },
     {
         "nombre": "Republica de Africa Central",
@@ -1873,11 +1873,11 @@
         "nombre": "Singapur",
         "casos_total": 30426,
         "casos_nuevos": 614,
-        "casos_activos": 18286,
+        "casos_activos": 17408,
         "casos_criticos": 0,
         "fallecidos_total": 23,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 12117
+        "recuperados_total": 12995
     },
     {
         "nombre": "Siria",
