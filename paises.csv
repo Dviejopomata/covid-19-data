@@ -1,6 +1,6 @@
 ,País,Casos totales,Nuevos casos,Casos activos,Recuperados,Casos críticos,Muertes hoy,Muertes
-0,Estados Unidos,1662908,17814,444505,1119837,0,919,98566
-1,Brasil,341048,10158,135430,183936,0,634,21682
+0,Estados Unidos,1663801,18707,445000,1120204,0,950,98597
+1,Brasil,342410,11520,135430,185046,0,886,21934
 2,Rusia,335882,9434,107936,224558,0,139,3388
 3,España,282370,466,196958,56734,0,50,28678
 4,Reino Unido,257154,2959,0,0,0,282,36675
@@ -37,8 +37,8 @@
 35,Colombia,19131,0,4575,13874,0,0,682
 36,Rumania,17857,145,11187,5494,0,10,1176
 37,Israel,16712,22,14090,2343,0,0,279
-38,Egipto,16513,727,4628,11150,0,28,735
-39,Japon,16513,0,13005,2712,0,0,796
+38,Japon,16536,23,13244,2484,0,12,808
+39,Egipto,16513,727,4628,11150,0,28,735
 40,Austria,16486,50,15037,810,0,4,639
 41,Republica Dominicana,14422,433,7854,6110,0,2,458
 42,Filipinas,13777,180,3177,9737,0,6,863
@@ -167,7 +167,7 @@
 165,Aruba,101,0,95,3,0,0,3
 166,Monaco,98,1,90,4,0,0,4
 167,Bahamas,97,0,45,41,0,0,11
-168,Barbados,90,0,70,13,0,0,7
+168,Barbados,92,2,70,15,0,0,7
 169,Malaui,82,0,28,51,0,0,3
 170,Liechtenstein,82,0,55,26,0,0,1
 171,Comoras,78,0,18,59,0,0,1
@@ -194,8 +194,8 @@
 192,San Vicente y las Granadinas,18,0,14,4,0,0,0
 193,Fiyi,18,0,15,3,0,0,0
 194,Belice,18,0,16,0,0,0,2
-195,Nueva Caledonia,18,0,18,0,0,0,0
-196,Santa Lucia,18,0,18,0,0,0,0
+195,Santa Lucia,18,0,18,0,0,0,0
+196,Nueva Caledonia,18,0,18,0,0,0,0
 197,Islas Virgenes de los Estados Unidos,17,0,0,17,0,0,0
 198,Curazao,17,1,14,2,0,0,1
 199,Dominica,16,0,16,0,0,0,0
@@ -204,14 +204,14 @@
 202,Santa Sede,12,0,2,10,0,0,0
 203,Islas Turcas y Caicos,12,0,10,1,0,0,1
 204,Surinam,11,0,9,1,0,0,1
-205,Seychelles,11,0,11,0,0,0,0
-206,Montserrat,11,0,10,0,0,0,1
-207,Groenlandia,11,0,11,0,0,0,0
+205,Groenlandia,11,0,11,0,0,0,0
+206,Seychelles,11,0,11,0,0,0,0
+207,Montserrat,11,0,10,0,0,0,1
 208,Islas Virgenes Britanicas,8,0,6,1,0,0,1
 209,Papua Nueva Guinea,8,0,8,0,0,0,0
-210,Sahara Occidental,6,0,6,0,0,0,0
-211,"Bonaire, San Eustaquio y Saba",6,0,6,0,0,0,0
-212,San Bartolome,6,0,6,0,0,0,0
+210,San Bartolome,6,0,6,0,0,0,0
+211,Sahara Occidental,6,0,6,0,0,0,0
+212,"Bonaire, San Eustaquio y Saba",6,0,6,0,0,0,0
 213,Anguila,3,0,3,0,0,0,0
 214,Lesoto,2,0,0,2,0,0,0
 215,San Pedro y Miquelon,1,0,1,0,0,0,0

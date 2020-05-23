@@ -178,9 +178,9 @@
     {
         "pais": "BB",
         "nombre": "Barbados",
-        "casos_total": 90,
-        "casos_nuevos": 0,
-        "casos_activos": 13,
+        "casos_total": 92,
+        "casos_nuevos": 2,
+        "casos_activos": 15,
         "casos_criticos": 0,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
@@ -310,12 +310,12 @@
     {
         "pais": "BR",
         "nombre": "Brasil",
-        "casos_total": 341048,
-        "casos_nuevos": 10158,
-        "casos_activos": 183936,
+        "casos_total": 342410,
+        "casos_nuevos": 11520,
+        "casos_activos": 185046,
         "casos_criticos": 0,
-        "fallecidos_total": 21682,
-        "fallecidos_nuevos": 634,
+        "fallecidos_total": 21934,
+        "fallecidos_nuevos": 886,
         "recuperados_total": 135430
     },
     {
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1662908,
-        "casos_nuevos": 17814,
-        "casos_activos": 1119837,
+        "casos_total": 1663801,
+        "casos_nuevos": 18707,
+        "casos_activos": 1120204,
         "casos_criticos": 0,
-        "fallecidos_total": 98566,
-        "fallecidos_nuevos": 919,
-        "recuperados_total": 444505
+        "fallecidos_total": 98597,
+        "fallecidos_nuevos": 950,
+        "recuperados_total": 445000
     },
     {
         "pais": "EE",
@@ -1179,13 +1179,13 @@
     {
         "pais": "JP",
         "nombre": "Japon",
-        "casos_total": 16513,
-        "casos_nuevos": 0,
-        "casos_activos": 2712,
+        "casos_total": 16536,
+        "casos_nuevos": 23,
+        "casos_activos": 2484,
         "casos_criticos": 0,
-        "fallecidos_total": 796,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 13005
+        "fallecidos_total": 808,
+        "fallecidos_nuevos": 12,
+        "recuperados_total": 13244
     },
     {
         "pais": "JO",
