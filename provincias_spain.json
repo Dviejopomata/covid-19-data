@@ -331,9 +331,9 @@
     },
     {
         "nombre": "Butan",
-        "casos_total": 21,
-        "casos_nuevos": 0,
-        "casos_activos": 15,
+        "casos_total": 24,
+        "casos_nuevos": 3,
+        "casos_activos": 18,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -351,9 +351,9 @@
     },
     {
         "nombre": "Camboya",
-        "casos_total": 123,
-        "casos_nuevos": 0,
-        "casos_activos": 1,
+        "casos_total": 124,
+        "casos_nuevos": 1,
+        "casos_activos": 2,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -911,12 +911,12 @@
     },
     {
         "nombre": "India",
-        "casos_total": 125101,
-        "casos_nuevos": 307,
-        "casos_activos": 69551,
+        "casos_total": 125149,
+        "casos_nuevos": 355,
+        "casos_activos": 69597,
         "casos_criticos": 0,
-        "fallecidos_total": 3726,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 3728,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 51824
     },
     {
@@ -1511,13 +1511,13 @@
     },
     {
         "nombre": "Pakistan",
-        "casos_total": 50694,
-        "casos_nuevos": 0,
-        "casos_activos": 34426,
+        "casos_total": 52437,
+        "casos_nuevos": 1743,
+        "casos_activos": 34683,
         "casos_criticos": 0,
-        "fallecidos_total": 1067,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 15201
+        "fallecidos_total": 1101,
+        "fallecidos_nuevos": 34,
+        "recuperados_total": 16653
     },
     {
         "nombre": "Panama",
@@ -2101,9 +2101,9 @@
     },
     {
         "nombre": "Uzbekistan",
-        "casos_total": 3028,
-        "casos_nuevos": 0,
-        "casos_activos": 523,
+        "casos_total": 3036,
+        "casos_nuevos": 8,
+        "casos_activos": 531,
         "casos_criticos": 0,
         "fallecidos_total": 13,
         "fallecidos_nuevos": 0,
