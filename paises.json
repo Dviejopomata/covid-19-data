@@ -24,9 +24,9 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 180321,
-        "casos_nuevos": 335,
-        "casos_activos": 11650,
+        "casos_total": 180328,
+        "casos_nuevos": 342,
+        "casos_activos": 11657,
         "casos_criticos": 0,
         "fallecidos_total": 8371,
         "fallecidos_nuevos": 5,
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1682428,
-        "casos_nuevos": 15600,
-        "casos_activos": 1131811,
+        "casos_total": 1682966,
+        "casos_nuevos": 16138,
+        "casos_activos": 1132342,
         "casos_criticos": 0,
-        "fallecidos_total": 99225,
-        "fallecidos_nuevos": 542,
-        "recuperados_total": 451392
+        "fallecidos_total": 99228,
+        "fallecidos_nuevos": 545,
+        "recuperados_total": 451396
     },
     {
         "pais": "EE",
@@ -1709,11 +1709,11 @@
         "nombre": "Peru",
         "casos_total": 119959,
         "casos_nuevos": 4205,
-        "casos_activos": 68671,
+        "casos_activos": 66708,
         "casos_criticos": 0,
-        "fallecidos_total": 3373,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 47915
+        "fallecidos_total": 3456,
+        "fallecidos_nuevos": 83,
+        "recuperados_total": 49795
     },
     {
         "pais": "PF",
@@ -1795,13 +1795,13 @@
     {
         "pais": "CF",
         "nombre": "Republica de Africa Central",
-        "casos_total": 552,
-        "casos_nuevos": 0,
-        "casos_activos": 533,
+        "casos_total": 604,
+        "casos_nuevos": 52,
+        "casos_activos": 581,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 18
+        "recuperados_total": 22
     },
     {
         "pais": "CY",
