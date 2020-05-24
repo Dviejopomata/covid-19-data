@@ -266,13 +266,13 @@
     {
         "pais": "BO",
         "nombre": "Bolivia",
-        "casos_total": 5579,
-        "casos_nuevos": 0,
-        "casos_activos": 4774,
+        "casos_total": 5915,
+        "casos_nuevos": 336,
+        "casos_activos": 5066,
         "casos_criticos": 0,
-        "fallecidos_total": 230,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 575
+        "fallecidos_total": 240,
+        "fallecidos_nuevos": 10,
+        "recuperados_total": 609
     },
     {
         "pais": "BQ",
@@ -310,12 +310,12 @@
     {
         "pais": "BR",
         "nombre": "Brasil",
-        "casos_total": 347398,
-        "casos_nuevos": 0,
-        "casos_activos": 182798,
+        "casos_total": 349113,
+        "casos_nuevos": 1715,
+        "casos_activos": 184361,
         "casos_criticos": 0,
-        "fallecidos_total": 22013,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 22165,
+        "fallecidos_nuevos": 152,
         "recuperados_total": 142587
     },
     {
@@ -2323,9 +2323,9 @@
     {
         "pais": "VE",
         "nombre": "Venezuela",
-        "casos_total": 944,
+        "casos_total": 1010,
         "casos_nuevos": 0,
-        "casos_activos": 672,
+        "casos_activos": 738,
         "casos_criticos": 0,
         "fallecidos_total": 10,
         "fallecidos_nuevos": 0,
