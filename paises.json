@@ -24,12 +24,12 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 180020,
-        "casos_nuevos": 34,
-        "casos_activos": 11351,
+        "casos_total": 180061,
+        "casos_nuevos": 75,
+        "casos_activos": 11390,
         "casos_criticos": 0,
-        "fallecidos_total": 8369,
-        "fallecidos_nuevos": 3,
+        "fallecidos_total": 8371,
+        "fallecidos_nuevos": 5,
         "recuperados_total": 160300
     },
     {
@@ -706,12 +706,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1668493,
-        "casos_nuevos": 1665,
-        "casos_activos": 1122805,
+        "casos_total": 1669311,
+        "casos_nuevos": 2483,
+        "casos_activos": 1123589,
         "casos_criticos": 0,
-        "fallecidos_total": 98706,
-        "fallecidos_nuevos": 23,
+        "fallecidos_total": 98740,
+        "fallecidos_nuevos": 57,
         "recuperados_total": 446982
     },
     {
@@ -1487,9 +1487,9 @@
     {
         "pais": "MD",
         "nombre": "Moldavia",
-        "casos_total": 6994,
-        "casos_nuevos": 0,
-        "casos_activos": 3031,
+        "casos_total": 7093,
+        "casos_nuevos": 99,
+        "casos_activos": 3130,
         "casos_criticos": 0,
         "fallecidos_total": 250,
         "fallecidos_nuevos": 8,
@@ -2369,10 +2369,10 @@
         "nombre": "Zimbabue",
         "casos_total": 56,
         "casos_nuevos": 0,
-        "casos_activos": 34,
+        "casos_activos": 29,
         "casos_criticos": 0,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 18
+        "recuperados_total": 23
     }
 ]
