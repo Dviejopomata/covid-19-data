@@ -281,23 +281,23 @@
     },
     {
         "nombre": "Brasil",
-        "casos_total": 363211,
-        "casos_nuevos": 15813,
-        "casos_activos": 190634,
+        "casos_total": 363618,
+        "casos_nuevos": 16220,
+        "casos_activos": 190991,
         "casos_criticos": 0,
-        "fallecidos_total": 22666,
-        "fallecidos_nuevos": 653,
+        "fallecidos_total": 22716,
+        "fallecidos_nuevos": 703,
         "recuperados_total": 149911
     },
     {
         "nombre": "Brunei",
         "casos_total": 141,
         "casos_nuevos": 0,
-        "casos_activos": 4,
+        "casos_activos": 3,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 136
+        "recuperados_total": 137
     },
     {
         "nombre": "Bulgaria",
@@ -361,13 +361,13 @@
     },
     {
         "nombre": "Camerun",
-        "casos_total": 4400,
-        "casos_nuevos": 0,
-        "casos_activos": 2419,
+        "casos_total": 4890,
+        "casos_nuevos": 490,
+        "casos_activos": 2860,
         "casos_criticos": 0,
-        "fallecidos_total": 159,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1822
+        "fallecidos_total": 165,
+        "fallecidos_nuevos": 6,
+        "recuperados_total": 1865
     },
     {
         "nombre": "Canada",
@@ -641,13 +641,13 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 1684956,
-        "casos_nuevos": 18128,
-        "casos_activos": 1134096,
+        "casos_total": 1685508,
+        "casos_nuevos": 18680,
+        "casos_activos": 1134520,
         "casos_criticos": 0,
-        "fallecidos_total": 99278,
-        "fallecidos_nuevos": 595,
-        "recuperados_total": 451582
+        "fallecidos_total": 99286,
+        "fallecidos_nuevos": 603,
+        "recuperados_total": 451702
     },
     {
         "nombre": "Estonia",
@@ -821,13 +821,13 @@
     },
     {
         "nombre": "Guayana Francesa",
-        "casos_total": 279,
-        "casos_nuevos": 0,
-        "casos_activos": 135,
+        "casos_total": 328,
+        "casos_nuevos": 49,
+        "casos_activos": 182,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 143
+        "recuperados_total": 145
     },
     {
         "nombre": "Guinea",
@@ -2153,10 +2153,10 @@
         "nombre": "Zimbabue",
         "casos_total": 56,
         "casos_nuevos": 0,
-        "casos_activos": 29,
+        "casos_activos": 27,
         "casos_criticos": 0,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 23
+        "recuperados_total": 25
     }
 ]

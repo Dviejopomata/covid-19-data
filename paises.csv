@@ -1,6 +1,6 @@
 ,País,Casos totales,Nuevos casos,Casos activos,Recuperados,Casos críticos,Muertes hoy,Muertes
-0,Estados Unidos,1684956,18128,451582,1134096,0,595,99278
-1,Brasil,363211,15813,149911,190634,0,653,22666
+0,Estados Unidos,1685508,18680,451702,1134520,0,603,99286
+1,Brasil,363618,16220,149911,190991,0,703,22716
 2,Rusia,344481,8599,113299,227641,0,153,3541
 3,España,282852,482,196958,57142,0,74,28752
 4,Reino Unido,259559,2405,0,0,0,118,36793
@@ -63,8 +63,8 @@
 61,Armenia,6661,359,3064,3516,0,4,81
 62,Finlandia,6579,11,4800,1472,0,1,307
 63,Bolivia,5915,336,609,5066,0,10,240
-64,Irak,4469,197,2738,1571,0,8,160
-65,Camerun,4400,0,1822,2419,0,0,159
+64,Camerun,4890,490,1865,2860,0,6,165
+65,Irak,4469,197,2738,1571,0,8,160
 66,Azerbaiyan,4122,140,2607,1466,0,0,49
 67,Luxemburgo,3992,2,3767,115,0,1,110
 68,Honduras,3743,266,455,3114,0,7,174
@@ -139,10 +139,10 @@
 137,Cabo Verde,380,9,155,222,0,0,3
 138,Isla de Man,336,0,303,9,0,0,24
 139,Mauricio,334,2,322,2,0,0,10
-140,Ruanda,327,2,237,90,0,0,0
-141,Vietnam,325,1,267,58,0,0,0
-142,Montenegro,324,0,315,0,0,0,9
-143,Guayana Francesa,279,0,143,135,0,0,1
+140,Guayana Francesa,328,49,145,182,0,0,1
+141,Ruanda,327,2,237,90,0,0,0
+142,Vietnam,325,1,267,58,0,0,0
+143,Montenegro,324,0,315,0,0,0,9
 144,Nicaragua,279,0,199,63,0,0,17
 145,Liberia,265,10,139,100,0,0,26
 146,Santo Tome y Principe,251,0,4,239,0,0,8
@@ -158,7 +158,7 @@
 156,Guadalupe,161,5,115,32,0,1,14
 157,Gibraltar,154,2,147,7,0,0,0
 158,Mongolia,141,0,32,109,0,0,0
-159,Brunei,141,0,136,4,0,0,1
+159,Brunei,141,0,137,3,0,0,1
 160,Guyana,135,8,62,63,0,0,10
 161,Bermudas,133,5,81,43,0,0,9
 162,Islas Caimanes,129,0,61,67,0,0,1
@@ -176,7 +176,7 @@
 174,Libia,75,0,39,33,0,0,3
 175,Angola,69,8,18,47,0,0,4
 176,Polinesia Francesa,60,0,60,0,0,0,0
-177,Zimbabue,56,0,23,29,0,0,4
+177,Zimbabue,56,0,25,27,0,0,4
 178,Macao,45,0,45,0,0,0,0
 179,Burundi,42,0,20,21,0,0,1
 180,San Martin (Parte Francesa),40,0,33,4,0,0,3
@@ -193,25 +193,25 @@
 191,Laos,19,0,14,5,0,0,0
 192,San Vicente y las Granadinas,18,0,14,4,0,0,0
 193,Fiyi,18,0,15,3,0,0,0
-194,Belice,18,0,16,0,0,0,2
-195,Nueva Caledonia,18,0,18,0,0,0,0
-196,Santa Lucia,18,0,18,0,0,0,0
+194,Nueva Caledonia,18,0,18,0,0,0,0
+195,Santa Lucia,18,0,18,0,0,0,0
+196,Belice,18,0,16,0,0,0,2
 197,Islas Virgenes de los Estados Unidos,17,0,0,17,0,0,0
 198,Curazao,17,0,14,2,0,0,1
 199,Dominica,16,0,16,0,0,0,0
 200,San Cristobal y Nieves,15,0,15,0,0,0,0
 201,Islas Malvinas,13,0,13,0,0,0,0
 202,Santa Sede,12,0,2,10,0,0,0
-203,Groenlandia,12,1,11,1,0,0,0
-204,Islas Turcas y Caicos,12,0,10,1,0,0,1
+203,Islas Turcas y Caicos,12,0,10,1,0,0,1
+204,Groenlandia,12,1,11,1,0,0,0
 205,Surinam,11,0,9,1,0,0,1
-206,Montserrat,11,0,10,0,0,0,1
-207,Seychelles,11,0,11,0,0,0,0
+206,Seychelles,11,0,11,0,0,0,0
+207,Montserrat,11,0,10,0,0,0,1
 208,Islas Virgenes Britanicas,8,0,6,1,0,0,1
 209,Papua Nueva Guinea,8,0,8,0,0,0,0
-210,"Bonaire, San Eustaquio y Saba",6,0,6,0,0,0,0
-211,San Bartolome,6,0,6,0,0,0,0
-212,Sahara Occidental,6,0,6,0,0,0,0
+210,Sahara Occidental,6,0,6,0,0,0,0
+211,"Bonaire, San Eustaquio y Saba",6,0,6,0,0,0,0
+212,San Bartolome,6,0,6,0,0,0,0
 213,Anguila,3,0,3,0,0,0,0
 214,Lesoto,2,0,0,2,0,0,0
 215,San Pedro y Miquelon,1,0,1,0,0,0,0
