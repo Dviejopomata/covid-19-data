@@ -235,11 +235,11 @@
         "nombre": "Bermudas",
         "casos_total": 133,
         "casos_nuevos": 0,
-        "casos_activos": 43,
+        "casos_activos": 35,
         "casos_criticos": 0,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 81
+        "recuperados_total": 89
     },
     {
         "pais": "BY",
@@ -464,13 +464,13 @@
     {
         "pais": "CO",
         "nombre": "Colombia",
-        "casos_total": 21175,
-        "casos_nuevos": 0,
-        "casos_activos": 15432,
+        "casos_total": 21981,
+        "casos_nuevos": 806,
+        "casos_activos": 15966,
         "casos_criticos": 0,
-        "fallecidos_total": 727,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 5016
+        "fallecidos_total": 750,
+        "fallecidos_nuevos": 23,
+        "recuperados_total": 5265
     },
     {
         "pais": "KM",
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1703145,
-        "casos_nuevos": 16709,
-        "casos_activos": 1142494,
+        "casos_total": 1703881,
+        "casos_nuevos": 17445,
+        "casos_activos": 1143125,
         "casos_criticos": 0,
-        "fallecidos_total": 99744,
-        "fallecidos_nuevos": 444,
-        "recuperados_total": 460907
+        "fallecidos_total": 99754,
+        "fallecidos_nuevos": 454,
+        "recuperados_total": 461002
     },
     {
         "pais": "EE",
@@ -2160,11 +2160,11 @@
         "nombre": "Suiza",
         "casos_total": 30746,
         "casos_nuevos": 10,
-        "casos_activos": 733,
+        "casos_activos": 633,
         "casos_criticos": 0,
         "fallecidos_total": 1913,
         "fallecidos_nuevos": 7,
-        "recuperados_total": 28100
+        "recuperados_total": 28200
     },
     {
         "pais": "SR",
@@ -2235,13 +2235,13 @@
     {
         "pais": "TG",
         "nombre": "Togo",
-        "casos_total": 381,
-        "casos_nuevos": 0,
-        "casos_activos": 228,
+        "casos_total": 386,
+        "casos_nuevos": 5,
+        "casos_activos": 212,
         "casos_criticos": 0,
-        "fallecidos_total": 12,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 141
+        "fallecidos_total": 13,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 161
     },
     {
         "pais": "TT",
@@ -2290,13 +2290,13 @@
     {
         "pais": "UG",
         "nombre": "Uganda",
-        "casos_total": 212,
-        "casos_nuevos": 14,
-        "casos_activos": 144,
+        "casos_total": 222,
+        "casos_nuevos": 24,
+        "casos_activos": 153,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 68
+        "recuperados_total": 69
     },
     {
         "pais": "UY",
