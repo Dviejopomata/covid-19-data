@@ -24,12 +24,12 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 180688,
-        "casos_nuevos": 360,
-        "casos_activos": 11075,
+        "casos_total": 180789,
+        "casos_nuevos": 461,
+        "casos_activos": 11161,
         "casos_criticos": 0,
-        "fallecidos_total": 8413,
-        "fallecidos_nuevos": 42,
+        "fallecidos_total": 8428,
+        "fallecidos_nuevos": 57,
         "recuperados_total": 161200
     },
     {
@@ -411,11 +411,11 @@
         "nombre": "Canada",
         "casos_total": 85677,
         "casos_nuevos": 978,
-        "casos_activos": 34932,
+        "casos_activos": 34609,
         "casos_criticos": 0,
         "fallecidos_total": 6538,
         "fallecidos_nuevos": 114,
-        "recuperados_total": 44207
+        "recuperados_total": 44530
     },
     {
         "pais": "QA",
@@ -609,11 +609,11 @@
         "nombre": "Ecuador",
         "casos_total": 37355,
         "casos_nuevos": 599,
-        "casos_activos": 30592,
+        "casos_activos": 16149,
         "casos_criticos": 0,
         "fallecidos_total": 3203,
         "fallecidos_nuevos": 95,
-        "recuperados_total": 3560
+        "recuperados_total": 18003
     },
     {
         "pais": "EG",
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1698722,
-        "casos_nuevos": 12286,
-        "casos_activos": 1141842,
+        "casos_total": 1700877,
+        "casos_nuevos": 14441,
+        "casos_activos": 1143823,
         "casos_criticos": 0,
-        "fallecidos_total": 99648,
-        "fallecidos_nuevos": 348,
-        "recuperados_total": 457232
+        "fallecidos_total": 99685,
+        "fallecidos_nuevos": 385,
+        "recuperados_total": 457369
     },
     {
         "pais": "EE",
@@ -796,11 +796,11 @@
         "nombre": "Gambia",
         "casos_total": 25,
         "casos_nuevos": 0,
-        "casos_activos": 11,
+        "casos_activos": 7,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 13
+        "recuperados_total": 17
     },
     {
         "pais": "GE",
