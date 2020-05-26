@@ -420,13 +420,13 @@
     {
         "pais": "QA",
         "nombre": "Catar",
-        "casos_total": 45465,
-        "casos_nuevos": 0,
-        "casos_activos": 35076,
+        "casos_total": 47207,
+        "casos_nuevos": 1742,
+        "casos_activos": 35335,
         "casos_criticos": 0,
-        "fallecidos_total": 26,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 10363
+        "fallecidos_total": 28,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 11844
     },
     {
         "pais": "CZ",
@@ -752,10 +752,10 @@
         "nombre": "Finlandia",
         "casos_total": 6628,
         "casos_nuevos": 29,
-        "casos_activos": 1220,
+        "casos_activos": 1216,
         "casos_criticos": 0,
-        "fallecidos_total": 308,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 312,
+        "fallecidos_nuevos": 4,
         "recuperados_total": 5100
     },
     {
@@ -1003,9 +1003,9 @@
     {
         "pais": "IN",
         "nombre": "India",
-        "casos_total": 146371,
-        "casos_nuevos": 1421,
-        "casos_activos": 81033,
+        "casos_total": 146376,
+        "casos_nuevos": 1426,
+        "casos_activos": 81038,
         "casos_criticos": 0,
         "fallecidos_total": 4187,
         "fallecidos_nuevos": 15,
@@ -1355,9 +1355,9 @@
     {
         "pais": "MG",
         "nombre": "Madagascar",
-        "casos_total": 542,
-        "casos_nuevos": 0,
-        "casos_activos": 393,
+        "casos_total": 586,
+        "casos_nuevos": 44,
+        "casos_activos": 437,
         "casos_criticos": 0,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
@@ -1564,13 +1564,13 @@
     {
         "pais": "NP",
         "nombre": "Nepal",
-        "casos_total": 682,
-        "casos_nuevos": 0,
-        "casos_activos": 566,
+        "casos_total": 772,
+        "casos_nuevos": 90,
+        "casos_activos": 613,
         "casos_criticos": 0,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 112
+        "recuperados_total": 155
     },
     {
         "pais": "NI",
@@ -2334,9 +2334,9 @@
     {
         "pais": "VN",
         "nombre": "Vietnam",
-        "casos_total": 326,
-        "casos_nuevos": 0,
-        "casos_activos": 54,
+        "casos_total": 327,
+        "casos_nuevos": 1,
+        "casos_activos": 55,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
