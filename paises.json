@@ -585,13 +585,13 @@
     {
         "pais": "DK",
         "nombre": "Dinamarca",
-        "casos_total": 11428,
-        "casos_nuevos": 0,
-        "casos_activos": 821,
+        "casos_total": 11480,
+        "casos_nuevos": 52,
+        "casos_activos": 809,
         "casos_criticos": 0,
-        "fallecidos_total": 563,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 10044
+        "fallecidos_total": 565,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 10106
     },
     {
         "pais": "DM",
@@ -1247,11 +1247,11 @@
         "nombre": "Laos",
         "casos_total": 19,
         "casos_nuevos": 0,
-        "casos_activos": 5,
+        "casos_activos": 3,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 14
+        "recuperados_total": 16
     },
     {
         "pais": "LS",
@@ -1874,10 +1874,10 @@
         "nombre": "Rumania",
         "casos_total": 18594,
         "casos_nuevos": 165,
-        "casos_activos": 5213,
+        "casos_activos": 5209,
         "casos_criticos": 0,
-        "fallecidos_total": 1219,
-        "fallecidos_nuevos": 3,
+        "fallecidos_total": 1223,
+        "fallecidos_nuevos": 7,
         "recuperados_total": 12162
     },
     {
@@ -1951,11 +1951,11 @@
         "nombre": "San Martin (Parte Holandesa)",
         "casos_total": 77,
         "casos_nuevos": 0,
-        "casos_activos": 3,
+        "casos_activos": 2,
         "casos_criticos": 0,
         "fallecidos_total": 15,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 59
+        "recuperados_total": 60
     },
     {
         "pais": "PM",
@@ -2147,12 +2147,12 @@
     {
         "pais": "SE",
         "nombre": "Suecia",
-        "casos_total": 34440,
-        "casos_nuevos": 0,
-        "casos_activos": 25344,
+        "casos_total": 35088,
+        "casos_nuevos": 648,
+        "casos_activos": 25897,
         "casos_criticos": 0,
-        "fallecidos_total": 4125,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 4220,
+        "fallecidos_nuevos": 95,
         "recuperados_total": 4971
     },
     {
@@ -2312,9 +2312,9 @@
     {
         "pais": "UZ",
         "nombre": "Uzbekistan",
-        "casos_total": 3333,
-        "casos_nuevos": 43,
-        "casos_activos": 660,
+        "casos_total": 3355,
+        "casos_nuevos": 65,
+        "casos_activos": 682,
         "casos_criticos": 0,
         "fallecidos_total": 14,
         "fallecidos_nuevos": 0,
