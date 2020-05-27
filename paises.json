@@ -92,9 +92,9 @@
         "nombre": "Argentina",
         "casos_total": 13228,
         "casos_nuevos": 0,
-        "casos_activos": 8571,
+        "casos_activos": 8577,
         "casos_criticos": 0,
-        "fallecidos_total": 490,
+        "fallecidos_total": 484,
         "fallecidos_nuevos": 0,
         "recuperados_total": 4167
     },
@@ -123,13 +123,13 @@
     {
         "pais": "AU",
         "nombre": "Australia",
-        "casos_total": 7133,
-        "casos_nuevos": 0,
-        "casos_activos": 478,
+        "casos_total": 7139,
+        "casos_nuevos": 6,
+        "casos_activos": 476,
         "casos_criticos": 0,
-        "fallecidos_total": 102,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 6553
+        "fallecidos_total": 103,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 6560
     },
     {
         "pais": "AT",
@@ -508,13 +508,13 @@
     {
         "pais": "KR",
         "nombre": "Corea del Sur",
-        "casos_total": 11225,
-        "casos_nuevos": 0,
-        "casos_activos": 681,
+        "casos_total": 11265,
+        "casos_nuevos": 40,
+        "casos_activos": 701,
         "casos_criticos": 0,
         "fallecidos_total": 269,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 10275
+        "recuperados_total": 10295
     },
     {
         "pais": "CR",
@@ -708,9 +708,9 @@
         "nombre": "Estados Unidos",
         "casos_total": 1725275,
         "casos_nuevos": 0,
-        "casos_activos": 1144727,
+        "casos_activos": 1144734,
         "casos_criticos": 0,
-        "fallecidos_total": 100579,
+        "fallecidos_total": 100572,
         "fallecidos_nuevos": 0,
         "recuperados_total": 479969
     },
@@ -1168,13 +1168,13 @@
     {
         "pais": "JM",
         "nombre": "Jamaica",
-        "casos_total": 556,
-        "casos_nuevos": 0,
-        "casos_activos": 309,
+        "casos_total": 564,
+        "casos_nuevos": 8,
+        "casos_activos": 288,
         "casos_criticos": 0,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 238
+        "recuperados_total": 267
     },
     {
         "pais": "JP",
