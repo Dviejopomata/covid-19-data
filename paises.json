@@ -1126,11 +1126,11 @@
         "nombre": "Islas Virgenes Britanicas",
         "casos_total": 8,
         "casos_nuevos": 0,
-        "casos_activos": 1,
+        "casos_activos": 0,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 6
+        "recuperados_total": 7
     },
     {
         "pais": "VI",
@@ -1509,9 +1509,9 @@
     {
         "pais": "MN",
         "nombre": "Mongolia",
-        "casos_total": 141,
-        "casos_nuevos": 0,
-        "casos_activos": 104,
+        "casos_total": 148,
+        "casos_nuevos": 7,
+        "casos_activos": 111,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
