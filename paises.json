@@ -35,9 +35,9 @@
     {
         "pais": "AO",
         "nombre": "Angola",
-        "casos_total": 71,
-        "casos_nuevos": 0,
-        "casos_activos": 49,
+        "casos_total": 74,
+        "casos_nuevos": 3,
+        "casos_activos": 52,
         "casos_criticos": 0,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
@@ -409,13 +409,13 @@
     {
         "pais": "CA",
         "nombre": "Canada",
-        "casos_total": 88473,
-        "casos_nuevos": 954,
-        "casos_activos": 34832,
+        "casos_total": 88475,
+        "casos_nuevos": 956,
+        "casos_activos": 34825,
         "casos_criticos": 0,
         "fallecidos_total": 6873,
         "fallecidos_nuevos": 108,
-        "recuperados_total": 46768
+        "recuperados_total": 46777
     },
     {
         "pais": "QA",
@@ -697,22 +697,22 @@
         "nombre": "Estado de Palestina",
         "casos_total": 446,
         "casos_nuevos": 12,
-        "casos_activos": 78,
+        "casos_activos": 75,
         "casos_criticos": 0,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 365
+        "recuperados_total": 368
     },
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1760816,
-        "casos_nuevos": 15013,
-        "casos_activos": 1163103,
+        "casos_total": 1765057,
+        "casos_nuevos": 19254,
+        "casos_activos": 1164764,
         "casos_criticos": 0,
-        "fallecidos_total": 102989,
-        "fallecidos_nuevos": 882,
-        "recuperados_total": 494724
+        "fallecidos_total": 103206,
+        "fallecidos_nuevos": 1099,
+        "recuperados_total": 497087
     },
     {
         "pais": "EE",
@@ -939,10 +939,10 @@
         "nombre": "Guinea-Bisau",
         "casos_total": 1195,
         "casos_nuevos": 0,
-        "casos_activos": 1146,
+        "casos_activos": 1145,
         "casos_criticos": 0,
-        "fallecidos_total": 7,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 8,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 42
     },
     {
@@ -1300,12 +1300,12 @@
     {
         "pais": "LY",
         "nombre": "Libia",
-        "casos_total": 99,
-        "casos_nuevos": 0,
-        "casos_activos": 55,
+        "casos_total": 105,
+        "casos_nuevos": 6,
+        "casos_activos": 60,
         "casos_criticos": 0,
-        "fallecidos_total": 4,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 5,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 40
     },
     {
@@ -1588,11 +1588,11 @@
         "nombre": "Niger",
         "casos_total": 955,
         "casos_nuevos": 3,
-        "casos_activos": 95,
+        "casos_activos": 88,
         "casos_criticos": 0,
         "fallecidos_total": 64,
         "fallecidos_nuevos": 1,
-        "recuperados_total": 796
+        "recuperados_total": 803
     },
     {
         "pais": "NG",
