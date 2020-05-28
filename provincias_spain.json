@@ -21,12 +21,12 @@
     },
     {
         "nombre": "Alemania",
-        "casos_total": 181895,
-        "casos_nuevos": 0,
-        "casos_activos": 10162,
+        "casos_total": 182150,
+        "casos_nuevos": 255,
+        "casos_activos": 10402,
         "casos_criticos": 0,
-        "fallecidos_total": 8533,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 8548,
+        "fallecidos_nuevos": 15,
         "recuperados_total": 163200
     },
     {
@@ -371,13 +371,13 @@
     },
     {
         "nombre": "Canada",
-        "casos_total": 87519,
-        "casos_nuevos": 0,
-        "casos_activos": 34590,
+        "casos_total": 87902,
+        "casos_nuevos": 383,
+        "casos_activos": 34638,
         "casos_criticos": 0,
-        "fallecidos_total": 6765,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 46164
+        "fallecidos_total": 6799,
+        "fallecidos_nuevos": 34,
+        "recuperados_total": 46465
     },
     {
         "nombre": "Catar",
@@ -641,13 +641,13 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 1749160,
-        "casos_nuevos": 3357,
-        "casos_activos": 1156663,
+        "casos_total": 1749726,
+        "casos_nuevos": 3923,
+        "casos_activos": 1157215,
         "casos_criticos": 0,
-        "fallecidos_total": 102241,
-        "fallecidos_nuevos": 134,
-        "recuperados_total": 490256
+        "fallecidos_total": 102249,
+        "fallecidos_nuevos": 142,
+        "recuperados_total": 490262
     },
     {
         "nombre": "Estonia",
