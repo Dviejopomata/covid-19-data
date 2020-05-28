@@ -1,7 +1,7 @@
 ,País,Casos totales,Nuevos casos,Casos activos,Recuperados,Casos críticos,Muertes hoy,Muertes
 0,Estados Unidos,1745803,0,490130,1153566,0,0,102107
 1,Brasil,414661,0,166647,222317,0,0,25697
-2,Rusia,370680,0,142208,224504,0,0,3968
+2,Rusia,379051,8371,150993,223916,0,174,4142
 3,España,283849,0,196958,59773,0,0,27118
 4,Reino Unido,267240,0,0,0,0,0,37460
 5,Italia,231139,0,147101,50966,0,0,33072
@@ -54,12 +54,12 @@
 52,Argelia,8857,0,5129,3105,0,0,623
 53,Nigeria,8733,0,2501,5978,0,0,254
 54,Noruega,8401,0,7727,439,0,0,235
-55,Oman,8373,0,2177,6157,0,0,39
+55,Oman,8373,0,2177,6156,0,1,40
 56,Armenia,8216,442,3287,4816,0,15,113
 57,Bolivia,7768,632,689,6799,0,6,280
 58,Malasia,7619,0,6083,1421,0,0,115
 59,Marruecos,7601,0,4978,2421,0,0,202
-60,Moldavia,7537,0,3884,3379,0,0,274
+60,Moldavia,7537,0,4123,3138,0,2,276
 61,Ghana,7303,0,2412,4857,0,0,34
 62,Australia,7150,11,6579,468,0,0,103
 63,Finlandia,6692,0,5100,1279,0,0,313
@@ -93,7 +93,7 @@
 91,Lituania,1647,0,1184,397,0,0,66
 92,Mayotte,1645,0,1314,311,0,0,20
 93,Kirguistan,1594,74,1066,512,0,0,16
-94,Eslovaquia,1515,0,1327,160,0,0,28
+94,Eslovaquia,1520,5,1332,160,0,0,28
 95,Nueva Zelanda,1504,0,1474,8,0,1,22
 96,Kenia,1471,0,408,1008,0,0,55
 97,Eslovenia,1471,0,1354,9,0,0,108
@@ -195,8 +195,8 @@
 193,Curazao,18,0,14,3,0,0,1
 194,Fiyi,18,0,15,3,0,0,0
 195,Santa Lucia,18,0,18,0,0,0,0
-196,Belice,18,0,16,0,0,0,2
-197,Nueva Caledonia,18,0,18,0,0,0,0
+196,Nueva Caledonia,18,0,18,0,0,0,0
+197,Belice,18,0,16,0,0,0,2
 198,Islas Virgenes de los Estados Unidos,17,0,0,17,0,0,0
 199,Dominica,16,0,16,0,0,0,0
 200,San Cristobal y Nieves,15,0,15,0,0,0,0
@@ -208,10 +208,10 @@
 206,Seychelles,11,0,11,0,0,0,0
 207,Montserrat,11,0,10,0,0,0,1
 208,Sahara Occidental,9,0,6,2,0,0,1
-209,Papua Nueva Guinea,8,0,8,0,0,0,0
-210,Islas Virgenes Britanicas,8,0,7,0,0,0,1
-211,San Bartolome,6,0,6,0,0,0,0
-212,"Bonaire, San Eustaquio y Saba",6,0,6,0,0,0,0
+209,Islas Virgenes Britanicas,8,0,7,0,0,0,1
+210,Papua Nueva Guinea,8,0,8,0,0,0,0
+211,"Bonaire, San Eustaquio y Saba",6,0,6,0,0,0,0
+212,San Bartolome,6,0,6,0,0,0,0
 213,Anguila,3,0,3,0,0,0,0
 214,Lesoto,2,0,0,2,0,0,0
 215,San Pedro y Miquelon,1,0,1,0,0,0,0
