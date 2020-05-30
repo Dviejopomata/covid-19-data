@@ -573,11 +573,11 @@
         "nombre": "El Salvador",
         "casos_total": 2278,
         "casos_nuevos": 0,
-        "casos_activos": 1221,
+        "casos_activos": 1218,
         "casos_criticos": 0,
-        "fallecidos_total": 42,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1015
+        "fallecidos_total": 43,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 1017
     },
     {
         "nombre": "Emiratos Arabes Unidos",
@@ -1981,13 +1981,13 @@
     },
     {
         "nombre": "Tailandia",
-        "casos_total": 3076,
-        "casos_nuevos": 0,
-        "casos_activos": 74,
+        "casos_total": 3077,
+        "casos_nuevos": 1,
+        "casos_activos": 59,
         "casos_criticos": 0,
         "fallecidos_total": 57,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 2945
+        "recuperados_total": 2961
     },
     {
         "nombre": "Taiwan",
@@ -2101,9 +2101,9 @@
     },
     {
         "nombre": "Uzbekistan",
-        "casos_total": 3468,
-        "casos_nuevos": 0,
-        "casos_activos": 726,
+        "casos_total": 3488,
+        "casos_nuevos": 20,
+        "casos_activos": 746,
         "casos_criticos": 0,
         "fallecidos_total": 14,
         "fallecidos_nuevos": 0,
