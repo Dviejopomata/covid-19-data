@@ -431,9 +431,9 @@
     {
         "pais": "CZ",
         "nombre": "Chequia",
-        "casos_total": 9230,
-        "casos_nuevos": 0,
-        "casos_activos": 2365,
+        "casos_total": 9233,
+        "casos_nuevos": 3,
+        "casos_activos": 2368,
         "casos_criticos": 0,
         "fallecidos_total": 319,
         "fallecidos_nuevos": 0,
@@ -706,9 +706,9 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 1816820,
-        "casos_nuevos": 0,
-        "casos_activos": 1176025,
+        "casos_total": 1816897,
+        "casos_nuevos": 77,
+        "casos_activos": 1176102,
         "casos_criticos": 0,
         "fallecidos_total": 105557,
         "fallecidos_nuevos": 0,
@@ -717,13 +717,13 @@
     {
         "pais": "EE",
         "nombre": "Estonia",
-        "casos_total": 1865,
-        "casos_nuevos": 0,
-        "casos_activos": 176,
+        "casos_total": 1869,
+        "casos_nuevos": 4,
+        "casos_activos": 177,
         "casos_criticos": 0,
-        "fallecidos_total": 67,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1622
+        "fallecidos_total": 68,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 1624
     },
     {
         "pais": "ET",
@@ -816,13 +816,13 @@
     {
         "pais": "GH",
         "nombre": "Ghana",
-        "casos_total": 7768,
-        "casos_nuevos": 0,
-        "casos_activos": 5193,
+        "casos_total": 7881,
+        "casos_nuevos": 113,
+        "casos_activos": 5004,
         "casos_criticos": 0,
-        "fallecidos_total": 35,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 2540
+        "fallecidos_total": 36,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 2841
     },
     {
         "pais": "GI",
@@ -1731,11 +1731,11 @@
         "nombre": "Polonia",
         "casos_total": 23571,
         "casos_nuevos": 0,
-        "casos_activos": 11494,
+        "casos_activos": 11239,
         "casos_criticos": 0,
         "fallecidos_total": 1061,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 11016
+        "recuperados_total": 11271
     },
     {
         "pais": "PT",
@@ -2279,13 +2279,13 @@
     {
         "pais": "UA",
         "nombre": "Ucrania",
-        "casos_total": 23204,
-        "casos_nuevos": 0,
-        "casos_activos": 13197,
+        "casos_total": 23672,
+        "casos_nuevos": 468,
+        "casos_activos": 13426,
         "casos_criticos": 0,
-        "fallecidos_total": 696,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 9311
+        "fallecidos_total": 708,
+        "fallecidos_nuevos": 12,
+        "recuperados_total": 9538
     },
     {
         "pais": "UG",
