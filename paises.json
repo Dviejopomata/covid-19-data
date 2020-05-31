@@ -13,13 +13,13 @@
     {
         "pais": "AL",
         "nombre": "Albania",
-        "casos_total": 1122,
-        "casos_nuevos": 0,
-        "casos_activos": 232,
+        "casos_total": 1136,
+        "casos_nuevos": 14,
+        "casos_activos": 231,
         "casos_criticos": 0,
         "fallecidos_total": 33,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 857
+        "recuperados_total": 872
     },
     {
         "pais": "DE",
@@ -189,24 +189,24 @@
     {
         "pais": "BH",
         "nombre": "Barein",
-        "casos_total": 10793,
-        "casos_nuevos": 0,
-        "casos_activos": 4949,
+        "casos_total": 11288,
+        "casos_nuevos": 495,
+        "casos_activos": 4597,
         "casos_criticos": 0,
         "fallecidos_total": 18,
         "fallecidos_nuevos": 1,
-        "recuperados_total": 5826
+        "recuperados_total": 6673
     },
     {
         "pais": "BE",
         "nombre": "Belgica",
-        "casos_total": 58186,
-        "casos_nuevos": 0,
-        "casos_activos": 32964,
+        "casos_total": 58381,
+        "casos_nuevos": 195,
+        "casos_activos": 33027,
         "casos_criticos": 0,
-        "fallecidos_total": 9453,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 15769
+        "fallecidos_total": 9467,
+        "fallecidos_nuevos": 14,
+        "recuperados_total": 15887
     },
     {
         "pais": "BZ",
@@ -499,10 +499,10 @@
         "nombre": "Consejo Danes para los Refugiados",
         "casos_total": 3070,
         "casos_nuevos": 104,
-        "casos_activos": 2551,
+        "casos_activos": 2550,
         "casos_criticos": 0,
-        "fallecidos_total": 71,
-        "fallecidos_nuevos": 2,
+        "fallecidos_total": 72,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 448
     },
     {
@@ -675,11 +675,11 @@
         "nombre": "Eslovenia",
         "casos_total": 1473,
         "casos_nuevos": 0,
-        "casos_activos": 8,
+        "casos_activos": 7,
         "casos_criticos": 0,
         "fallecidos_total": 108,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1357
+        "recuperados_total": 1358
     },
     {
         "pais": "ES",
@@ -750,12 +750,12 @@
     {
         "pais": "FI",
         "nombre": "Finlandia",
-        "casos_total": 6826,
-        "casos_nuevos": 0,
-        "casos_activos": 1010,
+        "casos_total": 6859,
+        "casos_nuevos": 33,
+        "casos_activos": 1039,
         "casos_criticos": 0,
-        "fallecidos_total": 316,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 320,
+        "fallecidos_nuevos": 4,
         "recuperados_total": 5500
     },
     {
@@ -1003,9 +1003,9 @@
     {
         "pais": "IN",
         "nombre": "India",
-        "casos_total": 182681,
-        "casos_nuevos": 854,
-        "casos_activos": 90446,
+        "casos_total": 182889,
+        "casos_nuevos": 1062,
+        "casos_activos": 90654,
         "casos_criticos": 0,
         "fallecidos_total": 5186,
         "fallecidos_nuevos": 1,
@@ -1014,13 +1014,13 @@
     {
         "pais": "ID",
         "nombre": "Indonesia",
-        "casos_total": 25773,
-        "casos_nuevos": 0,
-        "casos_activos": 17185,
+        "casos_total": 26473,
+        "casos_nuevos": 700,
+        "casos_activos": 17552,
         "casos_criticos": 0,
-        "fallecidos_total": 1573,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 7015
+        "fallecidos_total": 1613,
+        "fallecidos_nuevos": 40,
+        "recuperados_total": 7308
     },
     {
         "pais": "IQ",
@@ -1366,13 +1366,13 @@
     {
         "pais": "MY",
         "nombre": "Malasia",
-        "casos_total": 7762,
-        "casos_nuevos": 0,
-        "casos_activos": 1317,
+        "casos_total": 7819,
+        "casos_nuevos": 57,
+        "casos_activos": 1351,
         "casos_criticos": 0,
         "fallecidos_total": 115,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 6330
+        "recuperados_total": 6353
     },
     {
         "pais": "MW",
@@ -1421,13 +1421,13 @@
     {
         "pais": "MA",
         "nombre": "Marruecos",
-        "casos_total": 7780,
-        "casos_nuevos": 0,
-        "casos_activos": 2175,
+        "casos_total": 7783,
+        "casos_nuevos": 3,
+        "casos_activos": 2167,
         "casos_criticos": 0,
         "fallecidos_total": 204,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 5401
+        "recuperados_total": 5412
     },
     {
         "pais": "MQ",
@@ -1872,13 +1872,13 @@
     {
         "pais": "RO",
         "nombre": "Rumania",
-        "casos_total": 19133,
-        "casos_nuevos": 0,
-        "casos_activos": 4825,
+        "casos_total": 19257,
+        "casos_nuevos": 124,
+        "casos_activos": 4739,
         "casos_criticos": 0,
         "fallecidos_total": 1262,
         "fallecidos_nuevos": 3,
-        "recuperados_total": 13046
+        "recuperados_total": 13256
     },
     {
         "pais": "RU",
@@ -2257,13 +2257,13 @@
     {
         "pais": "TN",
         "nombre": "Tunez",
-        "casos_total": 1076,
-        "casos_nuevos": 0,
-        "casos_activos": 78,
+        "casos_total": 1077,
+        "casos_nuevos": 1,
+        "casos_activos": 69,
         "casos_criticos": 0,
         "fallecidos_total": 48,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 950
+        "recuperados_total": 960
     },
     {
         "pais": "TR",
