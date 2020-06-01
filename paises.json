@@ -1003,13 +1003,13 @@
     {
         "pais": "IN",
         "nombre": "India",
-        "casos_total": 190609,
-        "casos_nuevos": 0,
-        "casos_activos": 93349,
+        "casos_total": 190622,
+        "casos_nuevos": 13,
+        "casos_activos": 93359,
         "casos_criticos": 0,
         "fallecidos_total": 5408,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 91852
+        "recuperados_total": 91855
     },
     {
         "pais": "ID",
@@ -1509,9 +1509,9 @@
     {
         "pais": "MN",
         "nombre": "Mongolia",
-        "casos_total": 179,
-        "casos_nuevos": 0,
-        "casos_activos": 135,
+        "casos_total": 185,
+        "casos_nuevos": 6,
+        "casos_activos": 141,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1663,13 +1663,13 @@
     {
         "pais": "PK",
         "nombre": "Pakistan",
-        "casos_total": 69496,
-        "casos_nuevos": 0,
-        "casos_activos": 42742,
+        "casos_total": 72460,
+        "casos_nuevos": 2964,
+        "casos_activos": 44834,
         "casos_criticos": 0,
-        "fallecidos_total": 1483,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 25271
+        "fallecidos_total": 1543,
+        "fallecidos_nuevos": 60,
+        "recuperados_total": 26083
     },
     {
         "pais": "PA",
@@ -2094,10 +2094,10 @@
         "nombre": "Sri Lanka",
         "casos_total": 1633,
         "casos_nuevos": 0,
-        "casos_activos": 822,
+        "casos_activos": 821,
         "casos_criticos": 0,
-        "fallecidos_total": 10,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 11,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 801
     },
     {
