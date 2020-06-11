@@ -409,13 +409,13 @@
     {
         "pais": "CA",
         "nombre": "Canada",
-        "casos_total": 97472,
-        "casos_nuevos": 347,
-        "casos_activos": 32332,
+        "casos_total": 97476,
+        "casos_nuevos": 351,
+        "casos_activos": 31872,
         "casos_criticos": 0,
         "fallecidos_total": 7996,
         "fallecidos_nuevos": 36,
-        "recuperados_total": 57144
+        "recuperados_total": 57608
     },
     {
         "pais": "QA",
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 2083978,
-        "casos_nuevos": 17577,
-        "casos_activos": 1156154,
+        "casos_total": 2084922,
+        "casos_nuevos": 18521,
+        "casos_activos": 1157081,
         "casos_criticos": 0,
-        "fallecidos_total": 115905,
-        "fallecidos_nuevos": 775,
-        "recuperados_total": 811919
+        "fallecidos_total": 115919,
+        "fallecidos_nuevos": 789,
+        "recuperados_total": 811922
     },
     {
         "pais": "EE",
@@ -2070,9 +2070,9 @@
     {
         "pais": "SY",
         "nombre": "Siria",
-        "casos_total": 152,
-        "casos_nuevos": 0,
-        "casos_activos": 78,
+        "casos_total": 164,
+        "casos_nuevos": 12,
+        "casos_activos": 90,
         "casos_criticos": 0,
         "fallecidos_total": 6,
         "fallecidos_nuevos": 0,
