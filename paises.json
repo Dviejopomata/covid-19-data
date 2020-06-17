@@ -211,9 +211,9 @@
     {
         "pais": "BZ",
         "nombre": "Belice",
-        "casos_total": 21,
-        "casos_nuevos": 0,
-        "casos_activos": 3,
+        "casos_total": 22,
+        "casos_nuevos": 1,
+        "casos_activos": 4,
         "casos_criticos": 0,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
@@ -312,11 +312,11 @@
         "nombre": "Brasil",
         "casos_total": 928834,
         "casos_nuevos": 0,
-        "casos_activos": 418604,
+        "casos_activos": 406014,
         "casos_criticos": 0,
         "fallecidos_total": 45456,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 464774
+        "recuperados_total": 477364
     },
     {
         "pais": "BN",
@@ -367,11 +367,11 @@
         "nombre": "Butan",
         "casos_total": 67,
         "casos_nuevos": 0,
-        "casos_activos": 45,
+        "casos_activos": 43,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 22
+        "recuperados_total": 24
     },
     {
         "pais": "CV",
@@ -959,24 +959,24 @@
     {
         "pais": "HT",
         "nombre": "Haiti",
-        "casos_total": 4441,
-        "casos_nuevos": 0,
-        "casos_activos": 4341,
+        "casos_total": 4547,
+        "casos_nuevos": 106,
+        "casos_activos": 4443,
         "casos_criticos": 0,
-        "fallecidos_total": 76,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 80,
+        "fallecidos_nuevos": 4,
         "recuperados_total": 24
     },
     {
         "pais": "HN",
         "nombre": "Honduras",
-        "casos_total": 9178,
-        "casos_nuevos": 0,
-        "casos_activos": 7831,
+        "casos_total": 9656,
+        "casos_nuevos": 478,
+        "casos_activos": 8251,
         "casos_criticos": 0,
-        "fallecidos_total": 322,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1025
+        "fallecidos_total": 330,
+        "fallecidos_nuevos": 8,
+        "recuperados_total": 1075
     },
     {
         "pais": "HK",
@@ -1223,13 +1223,13 @@
     {
         "pais": "KG",
         "nombre": "Kirguistan",
-        "casos_total": 2472,
-        "casos_nuevos": 0,
-        "casos_activos": 596,
+        "casos_total": 2562,
+        "casos_nuevos": 90,
+        "casos_activos": 630,
         "casos_criticos": 0,
-        "fallecidos_total": 29,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1847
+        "fallecidos_total": 30,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 1902
     },
     {
         "pais": "KW",
@@ -2182,11 +2182,11 @@
         "nombre": "Tailandia",
         "casos_total": 3135,
         "casos_nuevos": 0,
-        "casos_activos": 84,
+        "casos_activos": 81,
         "casos_criticos": 0,
         "fallecidos_total": 58,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 2993
+        "recuperados_total": 2996
     },
     {
         "pais": "TW",
@@ -2312,9 +2312,9 @@
     {
         "pais": "UZ",
         "nombre": "Uzbekistan",
-        "casos_total": 5493,
-        "casos_nuevos": 0,
-        "casos_activos": 1378,
+        "casos_total": 5561,
+        "casos_nuevos": 68,
+        "casos_activos": 1446,
         "casos_criticos": 0,
         "fallecidos_total": 19,
         "fallecidos_nuevos": 0,
@@ -2334,9 +2334,9 @@
     {
         "pais": "VN",
         "nombre": "Vietnam",
-        "casos_total": 334,
-        "casos_nuevos": 0,
-        "casos_activos": 9,
+        "casos_total": 335,
+        "casos_nuevos": 1,
+        "casos_activos": 10,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
