@@ -90,12 +90,12 @@
     {
         "pais": "AR",
         "nombre": "Argentina",
-        "casos_total": 35552,
-        "casos_nuevos": 0,
-        "casos_activos": 23902,
+        "casos_total": 37510,
+        "casos_nuevos": 1958,
+        "casos_activos": 25841,
         "casos_criticos": 0,
-        "fallecidos_total": 929,
-        "fallecidos_nuevos": 16,
+        "fallecidos_total": 948,
+        "fallecidos_nuevos": 35,
         "recuperados_total": 10721
     },
     {
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 2261978,
-        "casos_nuevos": 26251,
-        "casos_activos": 1211603,
+        "casos_total": 2263634,
+        "casos_nuevos": 27907,
+        "casos_activos": 1212163,
         "casos_criticos": 0,
-        "fallecidos_total": 120623,
-        "fallecidos_nuevos": 682,
-        "recuperados_total": 929752
+        "fallecidos_total": 120688,
+        "fallecidos_nuevos": 747,
+        "recuperados_total": 930783
     },
     {
         "pais": "EE",
@@ -794,9 +794,9 @@
     {
         "pais": "GM",
         "nombre": "Gambia",
-        "casos_total": 34,
-        "casos_nuevos": 0,
-        "casos_activos": 9,
+        "casos_total": 36,
+        "casos_nuevos": 2,
+        "casos_activos": 11,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -840,11 +840,11 @@
         "nombre": "Granada",
         "casos_total": 23,
         "casos_nuevos": 0,
-        "casos_activos": 1,
+        "casos_activos": 0,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 22
+        "recuperados_total": 23
     },
     {
         "pais": "GR",
@@ -1674,13 +1674,13 @@
     {
         "pais": "PA",
         "nombre": "Panama",
-        "casos_total": 22597,
-        "casos_nuevos": 0,
-        "casos_activos": 8353,
+        "casos_total": 23351,
+        "casos_nuevos": 754,
+        "casos_activos": 9094,
         "casos_criticos": 0,
-        "fallecidos_total": 470,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 13774
+        "fallecidos_total": 475,
+        "fallecidos_nuevos": 5,
+        "recuperados_total": 13782
     },
     {
         "pais": "PG",
@@ -2323,9 +2323,9 @@
     {
         "pais": "VE",
         "nombre": "Venezuela",
-        "casos_total": 3386,
-        "casos_nuevos": 0,
-        "casos_activos": 2523,
+        "casos_total": 3483,
+        "casos_nuevos": 97,
+        "casos_activos": 2620,
         "casos_criticos": 0,
         "fallecidos_total": 28,
         "fallecidos_nuevos": 0,
