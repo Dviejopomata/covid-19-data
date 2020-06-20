@@ -24,9 +24,9 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 191035,
-        "casos_nuevos": 375,
-        "casos_activos": 7374,
+        "casos_total": 191216,
+        "casos_nuevos": 556,
+        "casos_activos": 7555,
         "casos_criticos": 0,
         "fallecidos_total": 8961,
         "fallecidos_nuevos": 1,
@@ -431,9 +431,9 @@
     {
         "pais": "CZ",
         "nombre": "Chequia",
-        "casos_total": 10429,
-        "casos_nuevos": 23,
-        "casos_activos": 2616,
+        "casos_total": 10448,
+        "casos_nuevos": 42,
+        "casos_activos": 2635,
         "casos_criticos": 0,
         "fallecidos_total": 336,
         "fallecidos_nuevos": 1,
@@ -464,13 +464,13 @@
     {
         "pais": "CO",
         "nombre": "Colombia",
-        "casos_total": 63276,
-        "casos_nuevos": 0,
-        "casos_activos": 37243,
+        "casos_total": 65633,
+        "casos_nuevos": 2357,
+        "casos_activos": 38008,
         "casos_criticos": 0,
-        "fallecidos_total": 2045,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 23988
+        "fallecidos_total": 2126,
+        "fallecidos_nuevos": 81,
+        "recuperados_total": 25499
     },
     {
         "pais": "KM",
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 2325655,
-        "casos_nuevos": 28465,
-        "casos_activos": 1237838,
+        "casos_total": 2329027,
+        "casos_nuevos": 31837,
+        "casos_activos": 1240479,
         "casos_criticos": 0,
-        "fallecidos_total": 121891,
-        "fallecidos_nuevos": 484,
-        "recuperados_total": 965926
+        "fallecidos_total": 121953,
+        "fallecidos_nuevos": 546,
+        "recuperados_total": 966595
     },
     {
         "pais": "EE",
@@ -1179,13 +1179,13 @@
     {
         "pais": "JP",
         "nombre": "Japon",
-        "casos_total": 17740,
-        "casos_nuevos": 0,
-        "casos_activos": 797,
+        "casos_total": 17799,
+        "casos_nuevos": 59,
+        "casos_activos": 770,
         "casos_criticos": 0,
-        "fallecidos_total": 935,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 16008
+        "fallecidos_total": 952,
+        "fallecidos_nuevos": 17,
+        "recuperados_total": 16077
     },
     {
         "pais": "JO",
@@ -1597,20 +1597,20 @@
     {
         "pais": "NG",
         "nombre": "Nigeria",
-        "casos_total": 19147,
-        "casos_nuevos": 0,
-        "casos_activos": 12079,
+        "casos_total": 19808,
+        "casos_nuevos": 661,
+        "casos_activos": 12584,
         "casos_criticos": 0,
-        "fallecidos_total": 487,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 6581
+        "fallecidos_total": 506,
+        "fallecidos_nuevos": 19,
+        "recuperados_total": 6718
     },
     {
         "pais": "NO",
         "nombre": "Noruega",
-        "casos_total": 8733,
-        "casos_nuevos": 7,
-        "casos_activos": 351,
+        "casos_total": 8742,
+        "casos_nuevos": 16,
+        "casos_activos": 360,
         "casos_criticos": 0,
         "fallecidos_total": 244,
         "fallecidos_nuevos": 0,
@@ -2301,13 +2301,13 @@
     {
         "pais": "UY",
         "nombre": "Uruguay",
-        "casos_total": 853,
-        "casos_nuevos": 0,
-        "casos_activos": 15,
+        "casos_total": 859,
+        "casos_nuevos": 6,
+        "casos_activos": 19,
         "casos_criticos": 0,
-        "fallecidos_total": 24,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 814
+        "fallecidos_total": 25,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 815
     },
     {
         "pais": "UZ",
@@ -2336,11 +2336,11 @@
         "nombre": "Vietnam",
         "casos_total": 349,
         "casos_nuevos": 0,
-        "casos_activos": 23,
+        "casos_activos": 22,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 326
+        "recuperados_total": 327
     },
     {
         "pais": "YE",
