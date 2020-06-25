@@ -125,10 +125,10 @@
         "nombre": "Australia",
         "casos_total": 7557,
         "casos_nuevos": 36,
-        "casos_activos": 524,
+        "casos_activos": 523,
         "casos_criticos": 0,
-        "fallecidos_total": 103,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 104,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 6930
     },
     {
@@ -706,9 +706,9 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 2463271,
+        "casos_total": 2462554,
         "casos_nuevos": 0,
-        "casos_activos": 1298385,
+        "casos_activos": 1297668,
         "casos_criticos": 0,
         "fallecidos_total": 124281,
         "fallecidos_nuevos": 0,
@@ -959,24 +959,24 @@
     {
         "pais": "HT",
         "nombre": "Haiti",
-        "casos_total": 5324,
-        "casos_nuevos": 0,
-        "casos_activos": 4799,
+        "casos_total": 5429,
+        "casos_nuevos": 105,
+        "casos_activos": 4825,
         "casos_criticos": 0,
-        "fallecidos_total": 89,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 436
+        "fallecidos_total": 92,
+        "fallecidos_nuevos": 3,
+        "recuperados_total": 512
     },
     {
         "pais": "HN",
         "nombre": "Honduras",
-        "casos_total": 13943,
-        "casos_nuevos": 0,
-        "casos_activos": 12077,
+        "casos_total": 14571,
+        "casos_nuevos": 628,
+        "casos_activos": 12608,
         "casos_criticos": 0,
-        "fallecidos_total": 405,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1461
+        "fallecidos_total": 417,
+        "fallecidos_nuevos": 12,
+        "recuperados_total": 1546
     },
     {
         "pais": "HK",
@@ -1113,9 +1113,9 @@
     {
         "pais": "TC",
         "nombre": "Islas Turcas y Caicos",
-        "casos_total": 14,
-        "casos_nuevos": 0,
-        "casos_activos": 2,
+        "casos_total": 15,
+        "casos_nuevos": 1,
+        "casos_activos": 3,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -1168,13 +1168,13 @@
     {
         "pais": "JM",
         "nombre": "Jamaica",
-        "casos_total": 670,
-        "casos_nuevos": 0,
-        "casos_activos": 142,
+        "casos_total": 678,
+        "casos_nuevos": 8,
+        "casos_activos": 147,
         "casos_criticos": 0,
         "fallecidos_total": 10,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 518
+        "recuperados_total": 521
     },
     {
         "pais": "JP",
@@ -1984,11 +1984,11 @@
         "nombre": "Santa Lucia",
         "casos_total": 19,
         "casos_nuevos": 0,
-        "casos_activos": 1,
+        "casos_activos": 0,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 18
+        "recuperados_total": 19
     },
     {
         "pais": "VA",
