@@ -26,11 +26,11 @@
         "nombre": "Alemania",
         "casos_total": 196717,
         "casos_nuevos": 0,
-        "casos_activos": 7353,
+        "casos_activos": 6653,
         "casos_criticos": 0,
         "fallecidos_total": 9064,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 180300
+        "recuperados_total": 181000
     },
     {
         "pais": "AO",
@@ -1146,13 +1146,13 @@
     {
         "pais": "IL",
         "nombre": "Israel",
-        "casos_total": 27047,
-        "casos_nuevos": 0,
-        "casos_activos": 9176,
+        "casos_total": 27542,
+        "casos_nuevos": 495,
+        "casos_activos": 9618,
         "casos_criticos": 0,
-        "fallecidos_total": 324,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 17547
+        "fallecidos_total": 325,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 17599
     },
     {
         "pais": "IT",
@@ -1201,13 +1201,13 @@
     {
         "pais": "KZ",
         "nombre": "Kazajistan",
-        "casos_total": 42574,
-        "casos_nuevos": 0,
-        "casos_activos": 16853,
+        "casos_total": 44075,
+        "casos_nuevos": 1501,
+        "casos_activos": 17636,
         "casos_criticos": 0,
         "fallecidos_total": 188,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 25533
+        "recuperados_total": 26251
     },
     {
         "pais": "KE",
@@ -1874,11 +1874,11 @@
         "nombre": "Rumania",
         "casos_total": 27746,
         "casos_nuevos": 0,
-        "casos_activos": 6696,
+        "casos_activos": 5626,
         "casos_criticos": 0,
         "fallecidos_total": 1687,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 19363
+        "recuperados_total": 20433
     },
     {
         "pais": "RU",
@@ -2312,9 +2312,9 @@
     {
         "pais": "UZ",
         "nombre": "Uzbekistan",
-        "casos_total": 9078,
-        "casos_nuevos": 0,
-        "casos_activos": 3017,
+        "casos_total": 9199,
+        "casos_nuevos": 121,
+        "casos_activos": 3138,
         "casos_criticos": 0,
         "fallecidos_total": 27,
         "fallecidos_nuevos": 0,
