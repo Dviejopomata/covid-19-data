@@ -409,9 +409,9 @@
     {
         "pais": "CA",
         "nombre": "Canada",
-        "casos_total": 104771,
-        "casos_nuevos": 500,
-        "casos_activos": 27782,
+        "casos_total": 104772,
+        "casos_nuevos": 501,
+        "casos_activos": 27783,
         "casos_criticos": 0,
         "fallecidos_total": 8642,
         "fallecidos_nuevos": 27,
@@ -521,10 +521,10 @@
         "nombre": "Costa Rica",
         "casos_total": 4023,
         "casos_nuevos": 270,
-        "casos_activos": 2417,
+        "casos_activos": 2416,
         "casos_criticos": 0,
-        "fallecidos_total": 17,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 18,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 1589
     },
     {
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 2833147,
-        "casos_nuevos": 53194,
-        "casos_activos": 1516257,
+        "casos_total": 2837189,
+        "casos_nuevos": 57236,
+        "casos_activos": 1514613,
         "casos_criticos": 0,
-        "fallecidos_total": 131413,
-        "fallecidos_nuevos": 615,
-        "recuperados_total": 1185477
+        "fallecidos_total": 131485,
+        "fallecidos_nuevos": 687,
+        "recuperados_total": 1191091
     },
     {
         "pais": "EE",
@@ -2323,13 +2323,13 @@
     {
         "pais": "VE",
         "nombre": "Venezuela",
-        "casos_total": 6062,
-        "casos_nuevos": 0,
-        "casos_activos": 4359,
+        "casos_total": 6273,
+        "casos_nuevos": 211,
+        "casos_activos": 4116,
         "casos_criticos": 0,
-        "fallecidos_total": 54,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1649
+        "fallecidos_total": 57,
+        "fallecidos_nuevos": 3,
+        "recuperados_total": 2100
     },
     {
         "pais": "VN",
