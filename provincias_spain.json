@@ -21,9 +21,9 @@
     },
     {
         "nombre": "Alemania",
-        "casos_total": 196823,
-        "casos_nuevos": 106,
-        "casos_activos": 6759,
+        "casos_total": 196888,
+        "casos_nuevos": 171,
+        "casos_activos": 6824,
         "casos_criticos": 0,
         "fallecidos_total": 9064,
         "fallecidos_nuevos": 0,
@@ -31,13 +31,13 @@
     },
     {
         "nombre": "Angola",
-        "casos_total": 315,
-        "casos_nuevos": 0,
-        "casos_activos": 201,
+        "casos_total": 328,
+        "casos_nuevos": 13,
+        "casos_activos": 203,
         "casos_criticos": 0,
-        "fallecidos_total": 17,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 97
+        "fallecidos_total": 18,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 107
     },
     {
         "nombre": "Anguila",
@@ -631,9 +631,9 @@
     },
     {
         "nombre": "Estado de Palestina",
-        "casos_total": 3148,
-        "casos_nuevos": 68,
-        "casos_activos": 2674,
+        "casos_total": 3341,
+        "casos_nuevos": 261,
+        "casos_activos": 2867,
         "casos_criticos": 0,
         "fallecidos_total": 11,
         "fallecidos_nuevos": 2,
@@ -641,13 +641,13 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 2860886,
-        "casos_nuevos": 25202,
-        "casos_activos": 1529844,
+        "casos_total": 2865014,
+        "casos_nuevos": 29330,
+        "casos_activos": 1533382,
         "casos_criticos": 0,
-        "fallecidos_total": 131807,
-        "fallecidos_nuevos": 322,
-        "recuperados_total": 1199235
+        "fallecidos_total": 131823,
+        "fallecidos_nuevos": 338,
+        "recuperados_total": 1199809
     },
     {
         "nombre": "Estonia",
@@ -701,13 +701,13 @@
     },
     {
         "nombre": "Francia",
-        "casos_total": 166378,
-        "casos_nuevos": 0,
-        "casos_activos": 59701,
+        "casos_total": 166960,
+        "casos_nuevos": 582,
+        "casos_activos": 60018,
         "casos_criticos": 0,
-        "fallecidos_total": 29875,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 76802
+        "fallecidos_total": 29893,
+        "fallecidos_nuevos": 18,
+        "recuperados_total": 77049
     },
     {
         "nombre": "Gabon",
@@ -911,13 +911,13 @@
     },
     {
         "nombre": "India",
-        "casos_total": 647503,
-        "casos_nuevos": 20335,
-        "casos_activos": 235960,
+        "casos_total": 649504,
+        "casos_nuevos": 22336,
+        "casos_activos": 236520,
         "casos_criticos": 0,
-        "fallecidos_total": 18661,
-        "fallecidos_nuevos": 436,
-        "recuperados_total": 392882
+        "fallecidos_total": 18669,
+        "fallecidos_nuevos": 444,
+        "recuperados_total": 394315
     },
     {
         "nombre": "Indonesia",
@@ -1411,9 +1411,9 @@
     },
     {
         "nombre": "Namibia",
-        "casos_total": 335,
-        "casos_nuevos": 42,
-        "casos_activos": 310,
+        "casos_total": 350,
+        "casos_nuevos": 57,
+        "casos_activos": 325,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1921,13 +1921,13 @@
     },
     {
         "nombre": "Sudafrica",
-        "casos_total": 168061,
-        "casos_nuevos": 0,
-        "casos_activos": 83218,
+        "casos_total": 177124,
+        "casos_nuevos": 9063,
+        "casos_activos": 87874,
         "casos_criticos": 0,
-        "fallecidos_total": 2844,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 81999
+        "fallecidos_total": 2952,
+        "fallecidos_nuevos": 108,
+        "recuperados_total": 86298
     },
     {
         "nombre": "Sudan",
@@ -2151,12 +2151,12 @@
     },
     {
         "nombre": "Zimbabue",
-        "casos_total": 617,
-        "casos_nuevos": 0,
-        "casos_activos": 437,
+        "casos_total": 625,
+        "casos_nuevos": 8,
+        "casos_activos": 442,
         "casos_criticos": 0,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 173
+        "recuperados_total": 176
     }
 ]
