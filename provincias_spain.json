@@ -23,11 +23,11 @@
         "nombre": "Alemania",
         "casos_total": 197000,
         "casos_nuevos": 0,
-        "casos_activos": 6927,
+        "casos_activos": 6627,
         "casos_criticos": 0,
         "fallecidos_total": 9073,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 181000
+        "recuperados_total": 181300
     },
     {
         "nombre": "Angola",
@@ -111,9 +111,9 @@
     },
     {
         "nombre": "Australia",
-        "casos_total": 8255,
-        "casos_nuevos": 0,
-        "casos_activos": 832,
+        "casos_total": 8260,
+        "casos_nuevos": 5,
+        "casos_activos": 837,
         "casos_criticos": 0,
         "fallecidos_total": 104,
         "fallecidos_nuevos": 0,
@@ -191,13 +191,13 @@
     },
     {
         "nombre": "Belice",
-        "casos_total": 28,
-        "casos_nuevos": 0,
-        "casos_activos": 8,
+        "casos_total": 30,
+        "casos_nuevos": 2,
+        "casos_activos": 9,
         "casos_criticos": 0,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 18
+        "recuperados_total": 19
     },
     {
         "nombre": "Benin",
@@ -241,13 +241,13 @@
     },
     {
         "nombre": "Bolivia",
-        "casos_total": 35528,
-        "casos_nuevos": 0,
-        "casos_activos": 23899,
+        "casos_total": 36818,
+        "casos_nuevos": 1290,
+        "casos_activos": 24732,
         "casos_criticos": 0,
-        "fallecidos_total": 1271,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 10358
+        "fallecidos_total": 1320,
+        "fallecidos_nuevos": 49,
+        "recuperados_total": 10766
     },
     {
         "nombre": "Bonaire, San Eustaquio y Saba",
@@ -881,13 +881,13 @@
     },
     {
         "nombre": "Honduras",
-        "casos_total": 21120,
-        "casos_nuevos": 0,
-        "casos_activos": 18339,
+        "casos_total": 22116,
+        "casos_nuevos": 996,
+        "casos_activos": 19261,
         "casos_criticos": 0,
-        "fallecidos_total": 591,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 2190
+        "fallecidos_total": 605,
+        "fallecidos_nuevos": 14,
+        "recuperados_total": 2250
     },
     {
         "nombre": "Hong Kong",
