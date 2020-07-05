@@ -1,13 +1,13 @@
 [
     {
         "nombre": "Afganistan",
-        "casos_total": 32672,
-        "casos_nuevos": 0,
-        "casos_activos": 12682,
+        "casos_total": 32951,
+        "casos_nuevos": 279,
+        "casos_activos": 12721,
         "casos_criticos": 0,
-        "fallecidos_total": 826,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 19164
+        "fallecidos_total": 864,
+        "fallecidos_nuevos": 38,
+        "recuperados_total": 19366
     },
     {
         "nombre": "Albania",
@@ -633,10 +633,10 @@
         "nombre": "Estado de Palestina",
         "casos_total": 3835,
         "casos_nuevos": 0,
-        "casos_activos": 3359,
+        "casos_activos": 3357,
         "casos_criticos": 0,
-        "fallecidos_total": 13,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 15,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 463
     },
     {
@@ -731,13 +731,13 @@
     },
     {
         "nombre": "Georgia",
-        "casos_total": 948,
-        "casos_nuevos": 0,
+        "casos_total": 951,
+        "casos_nuevos": 3,
         "casos_activos": 108,
         "casos_criticos": 0,
         "fallecidos_total": 15,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 825
+        "recuperados_total": 828
     },
     {
         "nombre": "Ghana",
@@ -901,19 +901,19 @@
     },
     {
         "nombre": "Hungria",
-        "casos_total": 4174,
-        "casos_nuevos": 0,
-        "casos_activos": 801,
+        "casos_total": 4183,
+        "casos_nuevos": 9,
+        "casos_activos": 783,
         "casos_criticos": 0,
         "fallecidos_total": 589,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 2784
+        "recuperados_total": 2811
     },
     {
         "nombre": "India",
-        "casos_total": 673904,
-        "casos_nuevos": 0,
-        "casos_activos": 245542,
+        "casos_total": 674312,
+        "casos_nuevos": 408,
+        "casos_activos": 245950,
         "casos_criticos": 0,
         "fallecidos_total": 19279,
         "fallecidos_nuevos": 0,
@@ -1141,9 +1141,9 @@
     },
     {
         "nombre": "Lesoto",
-        "casos_total": 35,
-        "casos_nuevos": 0,
-        "casos_activos": 24,
+        "casos_total": 63,
+        "casos_nuevos": 28,
+        "casos_activos": 52,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1263,11 +1263,11 @@
         "nombre": "Maldivas",
         "casos_total": 2435,
         "casos_nuevos": 0,
-        "casos_activos": 449,
+        "casos_activos": 395,
         "casos_criticos": 0,
         "fallecidos_total": 10,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1976
+        "recuperados_total": 2030
     },
     {
         "nombre": "Mali",
