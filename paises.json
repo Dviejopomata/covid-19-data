@@ -442,12 +442,12 @@
     {
         "pais": "CL",
         "nombre": "Chile",
-        "casos_total": 298557,
-        "casos_nuevos": 0,
-        "casos_activos": 27802,
+        "casos_total": 301019,
+        "casos_nuevos": 2462,
+        "casos_activos": 30214,
         "casos_criticos": 0,
-        "fallecidos_total": 6384,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 6434,
+        "fallecidos_nuevos": 50,
         "recuperados_total": 264371
     },
     {
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 3041969,
-        "casos_nuevos": 1136,
-        "casos_activos": 1583308,
+        "casos_total": 3050476,
+        "casos_nuevos": 9643,
+        "casos_activos": 1590682,
         "casos_criticos": 0,
-        "fallecidos_total": 133041,
-        "fallecidos_nuevos": 62,
-        "recuperados_total": 1325620
+        "fallecidos_total": 133125,
+        "fallecidos_nuevos": 146,
+        "recuperados_total": 1326669
     },
     {
         "pais": "EE",
@@ -1489,10 +1489,10 @@
         "nombre": "Moldavia",
         "casos_total": 17906,
         "casos_nuevos": 0,
-        "casos_activos": 6067,
+        "casos_activos": 6062,
         "casos_criticos": 0,
-        "fallecidos_total": 598,
-        "fallecidos_nuevos": 6,
+        "fallecidos_total": 603,
+        "fallecidos_nuevos": 11,
         "recuperados_total": 11241
     },
     {
@@ -1522,10 +1522,10 @@
         "nombre": "Montenegro",
         "casos_total": 841,
         "casos_nuevos": 0,
-        "casos_activos": 512,
+        "casos_activos": 510,
         "casos_criticos": 0,
-        "fallecidos_total": 14,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 16,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 315
     },
     {
@@ -2147,12 +2147,12 @@
     {
         "pais": "SE",
         "nombre": "Suecia",
-        "casos_total": 73061,
-        "casos_nuevos": 0,
+        "casos_total": 73344,
+        "casos_nuevos": 57,
         "casos_activos": 0,
         "casos_criticos": 0,
-        "fallecidos_total": 5433,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 5447,
+        "fallecidos_nuevos": 11,
         "recuperados_total": 0
     },
     {
@@ -2171,10 +2171,10 @@
         "nombre": "Surinam",
         "casos_total": 614,
         "casos_nuevos": 0,
-        "casos_activos": 285,
+        "casos_activos": 284,
         "casos_criticos": 0,
-        "fallecidos_total": 14,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 15,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 315
     },
     {
