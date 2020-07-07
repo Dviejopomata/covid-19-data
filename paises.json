@@ -202,11 +202,11 @@
         "nombre": "Belgica",
         "casos_total": 62058,
         "casos_nuevos": 42,
-        "casos_activos": 35193,
+        "casos_activos": 35162,
         "casos_criticos": 0,
         "fallecidos_total": 9774,
         "fallecidos_nuevos": 3,
-        "recuperados_total": 17091
+        "recuperados_total": 17122
     },
     {
         "pais": "BZ",
@@ -288,13 +288,13 @@
     {
         "pais": "BA",
         "nombre": "Bosnia y Herzegovina",
-        "casos_total": 5458,
-        "casos_nuevos": 0,
-        "casos_activos": 2661,
+        "casos_total": 5621,
+        "casos_nuevos": 163,
+        "casos_activos": 2721,
         "casos_criticos": 0,
-        "fallecidos_total": 199,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 2598
+        "fallecidos_total": 207,
+        "fallecidos_nuevos": 8,
+        "recuperados_total": 2693
     },
     {
         "pais": "BW",
@@ -343,13 +343,13 @@
     {
         "pais": "BF",
         "nombre": "Burkina Faso",
-        "casos_total": 1000,
-        "casos_nuevos": 0,
-        "casos_activos": 89,
+        "casos_total": 1003,
+        "casos_nuevos": 3,
+        "casos_activos": 90,
         "casos_criticos": 0,
         "fallecidos_total": 53,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 858
+        "recuperados_total": 860
     },
     {
         "pais": "BI",
@@ -420,13 +420,13 @@
     {
         "pais": "QA",
         "nombre": "Catar",
-        "casos_total": 100345,
-        "casos_nuevos": 0,
-        "casos_activos": 6314,
+        "casos_total": 100945,
+        "casos_nuevos": 600,
+        "casos_activos": 5908,
         "casos_criticos": 0,
-        "fallecidos_total": 133,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 93898
+        "fallecidos_total": 134,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 94903
     },
     {
         "pais": "CZ",
@@ -640,13 +640,13 @@
     {
         "pais": "AE",
         "nombre": "Emiratos Arabes Unidos",
-        "casos_total": 52068,
-        "casos_nuevos": 0,
-        "casos_activos": 11023,
+        "casos_total": 52600,
+        "casos_nuevos": 532,
+        "casos_activos": 10560,
         "casos_criticos": 0,
-        "fallecidos_total": 324,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 40721
+        "fallecidos_total": 326,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 41714
     },
     {
         "pais": "ER",
@@ -1003,13 +1003,13 @@
     {
         "pais": "IN",
         "nombre": "India",
-        "casos_total": 722007,
-        "casos_nuevos": 1661,
-        "casos_activos": 261535,
+        "casos_total": 723185,
+        "casos_nuevos": 2839,
+        "casos_activos": 261875,
         "casos_criticos": 0,
-        "fallecidos_total": 20185,
-        "fallecidos_nuevos": 11,
-        "recuperados_total": 440287
+        "fallecidos_total": 20198,
+        "fallecidos_nuevos": 24,
+        "recuperados_total": 441112
     },
     {
         "pais": "ID",
@@ -1036,13 +1036,13 @@
     {
         "pais": "IR",
         "nombre": "Iran",
-        "casos_total": 243051,
-        "casos_nuevos": 0,
-        "casos_activos": 27237,
+        "casos_total": 245688,
+        "casos_nuevos": 2637,
+        "casos_activos": 26757,
         "casos_criticos": 0,
-        "fallecidos_total": 11731,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 204083
+        "fallecidos_total": 11931,
+        "fallecidos_nuevos": 200,
+        "recuperados_total": 207000
     },
     {
         "pais": "IE",
@@ -1069,13 +1069,13 @@
     {
         "pais": "IS",
         "nombre": "Islandia",
-        "casos_total": 1866,
-        "casos_nuevos": 0,
+        "casos_total": 1873,
+        "casos_nuevos": 7,
         "casos_activos": 16,
         "casos_criticos": 0,
         "fallecidos_total": 10,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1840
+        "recuperados_total": 1847
     },
     {
         "pais": "KY",
@@ -1234,13 +1234,13 @@
     {
         "pais": "KW",
         "nombre": "Kuwait",
-        "casos_total": 50644,
-        "casos_nuevos": 0,
-        "casos_activos": 9270,
+        "casos_total": 51245,
+        "casos_nuevos": 601,
+        "casos_activos": 9353,
         "casos_criticos": 0,
-        "fallecidos_total": 373,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 41001
+        "fallecidos_total": 377,
+        "fallecidos_nuevos": 4,
+        "recuperados_total": 41515
     },
     {
         "pais": "LA",
@@ -1355,13 +1355,13 @@
     {
         "pais": "MG",
         "nombre": "Madagascar",
-        "casos_total": 3250,
-        "casos_nuevos": 0,
-        "casos_activos": 2082,
+        "casos_total": 3472,
+        "casos_nuevos": 222,
+        "casos_activos": 2252,
         "casos_criticos": 0,
         "fallecidos_total": 33,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1135
+        "recuperados_total": 1187
     },
     {
         "pais": "MY",
@@ -1377,9 +1377,9 @@
     {
         "pais": "MW",
         "nombre": "Malaui",
-        "casos_total": 1742,
-        "casos_nuevos": 0,
-        "casos_activos": 1406,
+        "casos_total": 1818,
+        "casos_nuevos": 76,
+        "casos_activos": 1482,
         "casos_criticos": 0,
         "fallecidos_total": 19,
         "fallecidos_nuevos": 0,
@@ -1410,13 +1410,13 @@
     {
         "pais": "MT",
         "nombre": "Malta",
-        "casos_total": 672,
-        "casos_nuevos": 0,
+        "casos_total": 673,
+        "casos_nuevos": 1,
         "casos_activos": 11,
         "casos_criticos": 0,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 652
+        "recuperados_total": 653
     },
     {
         "pais": "MA",
@@ -1564,13 +1564,13 @@
     {
         "pais": "NP",
         "nombre": "Nepal",
-        "casos_total": 15964,
-        "casos_nuevos": 0,
-        "casos_activos": 9118,
+        "casos_total": 16168,
+        "casos_nuevos": 204,
+        "casos_activos": 8634,
         "casos_criticos": 0,
         "fallecidos_total": 35,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 6811
+        "recuperados_total": 7499
     },
     {
         "pais": "NI",
@@ -2015,13 +2015,13 @@
     {
         "pais": "SN",
         "nombre": "Senegal",
-        "casos_total": 7478,
-        "casos_nuevos": 0,
-        "casos_activos": 2472,
+        "casos_total": 7547,
+        "casos_nuevos": 69,
+        "casos_activos": 2387,
         "casos_criticos": 0,
-        "fallecidos_total": 136,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 4870
+        "fallecidos_total": 137,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 5023
     },
     {
         "pais": "RS",
@@ -2094,11 +2094,11 @@
         "nombre": "Sri Lanka",
         "casos_total": 2078,
         "casos_nuevos": 1,
-        "casos_activos": 150,
+        "casos_activos": 112,
         "casos_criticos": 0,
         "fallecidos_total": 11,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1917
+        "recuperados_total": 1955
     },
     {
         "pais": "SZ",
@@ -2158,12 +2158,12 @@
     {
         "pais": "CH",
         "nombre": "Suiza",
-        "casos_total": 32315,
-        "casos_nuevos": 0,
-        "casos_activos": 1050,
+        "casos_total": 32369,
+        "casos_nuevos": 54,
+        "casos_activos": 1103,
         "casos_criticos": 0,
-        "fallecidos_total": 1965,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 1966,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 29300
     },
     {
@@ -2290,13 +2290,13 @@
     {
         "pais": "UG",
         "nombre": "Uganda",
-        "casos_total": 953,
-        "casos_nuevos": 0,
-        "casos_activos": 61,
+        "casos_total": 971,
+        "casos_nuevos": 18,
+        "casos_activos": 75,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 892
+        "recuperados_total": 896
     },
     {
         "pais": "UY",
@@ -2314,10 +2314,10 @@
         "nombre": "Uzbekistan",
         "casos_total": 10459,
         "casos_nuevos": 97,
-        "casos_activos": 3732,
+        "casos_activos": 3731,
         "casos_criticos": 0,
-        "fallecidos_total": 37,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 38,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 6690
     },
     {
