@@ -233,9 +233,9 @@
     {
         "pais": "BM",
         "nombre": "Bermudas",
-        "casos_total": 146,
-        "casos_nuevos": 0,
-        "casos_activos": 0,
+        "casos_total": 148,
+        "casos_nuevos": 2,
+        "casos_activos": 2,
         "casos_criticos": 0,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
@@ -310,12 +310,12 @@
     {
         "pais": "BR",
         "nombre": "Brasil",
-        "casos_total": 1668589,
-        "casos_nuevos": 42518,
-        "casos_activos": 529619,
+        "casos_total": 1674655,
+        "casos_nuevos": 48584,
+        "casos_activos": 535558,
         "casos_criticos": 0,
-        "fallecidos_total": 66741,
-        "fallecidos_nuevos": 1185,
+        "fallecidos_total": 66868,
+        "fallecidos_nuevos": 1312,
         "recuperados_total": 1072229
     },
     {
@@ -409,13 +409,13 @@
     {
         "pais": "CA",
         "nombre": "Canada",
-        "casos_total": 106106,
-        "casos_nuevos": 171,
-        "casos_activos": 27571,
+        "casos_total": 106167,
+        "casos_nuevos": 232,
+        "casos_activos": 27573,
         "casos_criticos": 0,
-        "fallecidos_total": 8708,
-        "fallecidos_nuevos": 15,
-        "recuperados_total": 69827
+        "fallecidos_total": 8711,
+        "fallecidos_nuevos": 18,
+        "recuperados_total": 69883
     },
     {
         "pais": "QA",
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 3089335,
-        "casos_nuevos": 49143,
-        "casos_activos": 1607019,
+        "casos_total": 3096753,
+        "casos_nuevos": 55111,
+        "casos_activos": 1608065,
         "casos_criticos": 0,
-        "fallecidos_total": 133845,
-        "fallecidos_nuevos": 866,
-        "recuperados_total": 1348471
+        "fallecidos_total": 133971,
+        "fallecidos_nuevos": 992,
+        "recuperados_total": 1354717
     },
     {
         "pais": "EE",
@@ -1005,11 +1005,11 @@
         "nombre": "India",
         "casos_total": 743481,
         "casos_nuevos": 23135,
-        "casos_activos": 265783,
+        "casos_activos": 265770,
         "casos_criticos": 0,
         "fallecidos_total": 20653,
         "fallecidos_nuevos": 479,
-        "recuperados_total": 457045
+        "recuperados_total": 457058
     },
     {
         "pais": "ID",
@@ -1300,13 +1300,13 @@
     {
         "pais": "LY",
         "nombre": "Libia",
-        "casos_total": 1117,
-        "casos_nuevos": 0,
-        "casos_activos": 814,
+        "casos_total": 1182,
+        "casos_nuevos": 65,
+        "casos_activos": 852,
         "casos_criticos": 0,
-        "fallecidos_total": 34,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 269
+        "fallecidos_total": 35,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 295
     },
     {
         "pais": "LI",
