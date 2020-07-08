@@ -1003,9 +1003,9 @@
     {
         "pais": "IN",
         "nombre": "India",
-        "casos_total": 743481,
-        "casos_nuevos": 0,
-        "casos_activos": 265770,
+        "casos_total": 744006,
+        "casos_nuevos": 525,
+        "casos_activos": 266295,
         "casos_criticos": 0,
         "fallecidos_total": 20653,
         "fallecidos_nuevos": 0,
@@ -1663,13 +1663,13 @@
     {
         "pais": "PK",
         "nombre": "Pakistan",
-        "casos_total": 234509,
-        "casos_nuevos": 0,
-        "casos_activos": 94713,
+        "casos_total": 237489,
+        "casos_nuevos": 2980,
+        "casos_activos": 91602,
         "casos_criticos": 0,
-        "fallecidos_total": 4839,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 134957
+        "fallecidos_total": 4922,
+        "fallecidos_nuevos": 83,
+        "recuperados_total": 140965
     },
     {
         "pais": "PA",
@@ -2180,13 +2180,13 @@
     {
         "pais": "TH",
         "nombre": "Tailandia",
-        "casos_total": 3195,
-        "casos_nuevos": 0,
+        "casos_total": 3197,
+        "casos_nuevos": 2,
         "casos_activos": 65,
         "casos_criticos": 0,
         "fallecidos_total": 58,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 3072
+        "recuperados_total": 3074
     },
     {
         "pais": "TW",
@@ -2312,12 +2312,12 @@
     {
         "pais": "UZ",
         "nombre": "Uzbekistan",
-        "casos_total": 10670,
-        "casos_nuevos": 0,
-        "casos_activos": 3819,
+        "casos_total": 10838,
+        "casos_nuevos": 168,
+        "casos_activos": 3986,
         "casos_criticos": 0,
-        "fallecidos_total": 40,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 41,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 6811
     },
     {
@@ -2367,12 +2367,12 @@
     {
         "pais": "ZW",
         "nombre": "Zimbabue",
-        "casos_total": 734,
+        "casos_total": 787,
         "casos_nuevos": 0,
-        "casos_activos": 528,
+        "casos_activos": 577,
         "casos_criticos": 0,
         "fallecidos_total": 9,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 197
+        "recuperados_total": 201
     }
 ]
