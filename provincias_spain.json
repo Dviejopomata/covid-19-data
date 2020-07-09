@@ -283,11 +283,11 @@
         "nombre": "Brasil",
         "casos_total": 1716196,
         "casos_nuevos": 0,
-        "casos_activos": 530219,
+        "casos_activos": 495674,
         "casos_criticos": 0,
         "fallecidos_total": 68055,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1117922
+        "recuperados_total": 1152467
     },
     {
         "nombre": "Brunei",
@@ -462,7 +462,7 @@
     {
         "nombre": "Corea del Sur",
         "casos_total": 13293,
-        "casos_nuevos": 49,
+        "casos_nuevos": 50,
         "casos_activos": 987,
         "casos_criticos": 0,
         "fallecidos_total": 287,
@@ -473,10 +473,10 @@
         "nombre": "Costa Rica",
         "casos_total": 5836,
         "casos_nuevos": 0,
-        "casos_activos": 3883,
+        "casos_activos": 3882,
         "casos_criticos": 0,
-        "fallecidos_total": 24,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 25,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 1929
     },
     {
@@ -1111,13 +1111,13 @@
     },
     {
         "nombre": "Kirguistan",
-        "casos_total": 8486,
-        "casos_nuevos": 0,
-        "casos_activos": 5391,
+        "casos_total": 8847,
+        "casos_nuevos": 361,
+        "casos_activos": 5678,
         "casos_criticos": 0,
-        "fallecidos_total": 112,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 2983
+        "fallecidos_total": 116,
+        "fallecidos_nuevos": 4,
+        "recuperados_total": 3053
     },
     {
         "nombre": "Kuwait",
@@ -1511,13 +1511,13 @@
     },
     {
         "nombre": "Pakistan",
-        "casos_total": 237489,
-        "casos_nuevos": 0,
-        "casos_activos": 91602,
+        "casos_total": 240848,
+        "casos_nuevos": 3359,
+        "casos_activos": 90554,
         "casos_criticos": 0,
-        "fallecidos_total": 4922,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 140965
+        "fallecidos_total": 4983,
+        "fallecidos_nuevos": 61,
+        "recuperados_total": 145311
     },
     {
         "nombre": "Panama",
