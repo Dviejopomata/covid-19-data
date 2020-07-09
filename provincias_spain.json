@@ -51,13 +51,13 @@
     },
     {
         "nombre": "Antigua y Barbuda",
-        "casos_total": 70,
-        "casos_nuevos": 0,
-        "casos_activos": 44,
+        "casos_total": 73,
+        "casos_nuevos": 3,
+        "casos_activos": 13,
         "casos_criticos": 0,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 23
+        "recuperados_total": 57
     },
     {
         "nombre": "Arabia Saudita",
@@ -871,23 +871,23 @@
     },
     {
         "nombre": "Haiti",
-        "casos_total": 6432,
-        "casos_nuevos": 0,
-        "casos_activos": 4235,
+        "casos_total": 6486,
+        "casos_nuevos": 54,
+        "casos_activos": 4182,
         "casos_criticos": 0,
-        "fallecidos_total": 117,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 2080
+        "fallecidos_total": 123,
+        "fallecidos_nuevos": 6,
+        "recuperados_total": 2181
     },
     {
         "nombre": "Honduras",
-        "casos_total": 25428,
-        "casos_nuevos": 0,
-        "casos_activos": 22114,
+        "casos_total": 25978,
+        "casos_nuevos": 550,
+        "casos_activos": 22563,
         "casos_criticos": 0,
-        "fallecidos_total": 677,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 2637
+        "fallecidos_total": 694,
+        "fallecidos_nuevos": 17,
+        "recuperados_total": 2721
     },
     {
         "nombre": "Hong Kong",
@@ -1091,9 +1091,9 @@
     },
     {
         "nombre": "Kazajistan",
-        "casos_total": 51059,
-        "casos_nuevos": 0,
-        "casos_activos": 16646,
+        "casos_total": 53021,
+        "casos_nuevos": 1962,
+        "casos_activos": 18608,
         "casos_criticos": 0,
         "fallecidos_total": 264,
         "fallecidos_nuevos": 0,
@@ -1373,11 +1373,11 @@
         "nombre": "Mongolia",
         "casos_total": 227,
         "casos_nuevos": 0,
-        "casos_activos": 32,
+        "casos_activos": 30,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 195
+        "recuperados_total": 197
     },
     {
         "nombre": "Montenegro",
