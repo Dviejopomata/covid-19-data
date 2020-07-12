@@ -863,11 +863,11 @@
         "nombre": "Guyana",
         "casos_total": 291,
         "casos_nuevos": 0,
-        "casos_activos": 140,
+        "casos_activos": 126,
         "casos_criticos": 0,
         "fallecidos_total": 17,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 134
+        "recuperados_total": 148
     },
     {
         "nombre": "Haiti",
@@ -881,13 +881,13 @@
     },
     {
         "nombre": "Honduras",
-        "casos_total": 27053,
-        "casos_nuevos": 0,
-        "casos_activos": 23453,
+        "casos_total": 27583,
+        "casos_nuevos": 530,
+        "casos_activos": 23911,
         "casos_criticos": 0,
-        "fallecidos_total": 750,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 2850
+        "fallecidos_total": 771,
+        "fallecidos_nuevos": 21,
+        "recuperados_total": 2901
     },
     {
         "nombre": "Hong Kong",
@@ -1011,9 +1011,9 @@
     },
     {
         "nombre": "Islas Turcas y Caicos",
-        "casos_total": 69,
-        "casos_nuevos": 0,
-        "casos_activos": 56,
+        "casos_total": 71,
+        "casos_nuevos": 2,
+        "casos_activos": 58,
         "casos_criticos": 0,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
