@@ -200,9 +200,9 @@
     {
         "pais": "BE",
         "nombre": "Belgica",
-        "casos_total": 62606,
-        "casos_nuevos": 0,
-        "casos_activos": 35628,
+        "casos_total": 62707,
+        "casos_nuevos": 101,
+        "casos_activos": 35729,
         "casos_criticos": 0,
         "fallecidos_total": 9782,
         "fallecidos_nuevos": 0,
@@ -959,24 +959,24 @@
     {
         "pais": "HT",
         "nombre": "Haiti",
-        "casos_total": 6690,
-        "casos_nuevos": 0,
-        "casos_activos": 3961,
+        "casos_total": 6727,
+        "casos_nuevos": 37,
+        "casos_activos": 3664,
         "casos_criticos": 0,
         "fallecidos_total": 139,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 2590
+        "recuperados_total": 2924
     },
     {
         "pais": "HN",
         "nombre": "Honduras",
-        "casos_total": 27583,
-        "casos_nuevos": 0,
-        "casos_activos": 23911,
+        "casos_total": 28090,
+        "casos_nuevos": 507,
+        "casos_activos": 24359,
         "casos_criticos": 0,
-        "fallecidos_total": 771,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 2901
+        "fallecidos_total": 774,
+        "fallecidos_nuevos": 3,
+        "recuperados_total": 2957
     },
     {
         "pais": "HK",
@@ -1511,11 +1511,11 @@
         "nombre": "Mongolia",
         "casos_total": 230,
         "casos_nuevos": 0,
-        "casos_activos": 28,
+        "casos_activos": 27,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 202
+        "recuperados_total": 203
     },
     {
         "pais": "ME",
