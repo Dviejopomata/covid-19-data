@@ -1,13 +1,13 @@
 [
     {
         "nombre": "Afganistan",
-        "casos_total": 34740,
-        "casos_nuevos": 0,
-        "casos_activos": 12238,
+        "casos_total": 34994,
+        "casos_nuevos": 254,
+        "casos_activos": 11444,
         "casos_criticos": 0,
-        "fallecidos_total": 1048,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 21454
+        "fallecidos_total": 1094,
+        "fallecidos_nuevos": 46,
+        "recuperados_total": 22456
     },
     {
         "nombre": "Albania",
@@ -91,13 +91,13 @@
     },
     {
         "nombre": "Armenia",
-        "casos_total": 32490,
-        "casos_nuevos": 0,
-        "casos_activos": 11180,
+        "casos_total": 33005,
+        "casos_nuevos": 515,
+        "casos_activos": 11065,
         "casos_criticos": 0,
-        "fallecidos_total": 581,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 20729
+        "fallecidos_total": 592,
+        "fallecidos_nuevos": 11,
+        "recuperados_total": 21348
     },
     {
         "nombre": "Aruba",
@@ -341,13 +341,13 @@
     },
     {
         "nombre": "Cabo Verde",
-        "casos_total": 1722,
-        "casos_nuevos": 0,
-        "casos_activos": 931,
+        "casos_total": 1780,
+        "casos_nuevos": 58,
+        "casos_activos": 911,
         "casos_criticos": 0,
         "fallecidos_total": 19,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 772
+        "recuperados_total": 850
     },
     {
         "nombre": "Camboya",
@@ -573,11 +573,11 @@
         "nombre": "El Salvador",
         "casos_total": 10303,
         "casos_nuevos": 0,
-        "casos_activos": 4106,
+        "casos_activos": 4078,
         "casos_criticos": 0,
         "fallecidos_total": 278,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 5919
+        "recuperados_total": 5947
     },
     {
         "nombre": "Emiratos Arabes Unidos",
@@ -641,13 +641,13 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 3545077,
-        "casos_nuevos": 0,
-        "casos_activos": 1805739,
+        "casos_total": 3545254,
+        "casos_nuevos": 177,
+        "casos_activos": 1805788,
         "casos_criticos": 0,
-        "fallecidos_total": 139143,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1600195
+        "fallecidos_total": 139145,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 1600321
     },
     {
         "nombre": "Estonia",
@@ -731,13 +731,13 @@
     },
     {
         "nombre": "Georgia",
-        "casos_total": 999,
-        "casos_nuevos": 0,
-        "casos_activos": 114,
+        "casos_total": 1003,
+        "casos_nuevos": 4,
+        "casos_activos": 115,
         "casos_criticos": 0,
         "fallecidos_total": 15,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 870
+        "recuperados_total": 873
     },
     {
         "nombre": "Ghana",
@@ -871,23 +871,23 @@
     },
     {
         "nombre": "Haiti",
-        "casos_total": 6727,
-        "casos_nuevos": 0,
-        "casos_activos": 3564,
+        "casos_total": 6831,
+        "casos_nuevos": 104,
+        "casos_activos": 3405,
         "casos_criticos": 0,
-        "fallecidos_total": 141,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 3022
+        "fallecidos_total": 143,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 3283
     },
     {
         "nombre": "Honduras",
         "casos_total": 29106,
         "casos_nuevos": 527,
-        "casos_activos": 25176,
+        "casos_activos": 25012,
         "casos_criticos": 0,
         "fallecidos_total": 807,
         "fallecidos_nuevos": 18,
-        "recuperados_total": 3123
+        "recuperados_total": 3287
     },
     {
         "nombre": "Hong Kong",
@@ -901,23 +901,23 @@
     },
     {
         "nombre": "Hungria",
-        "casos_total": 4258,
-        "casos_nuevos": 0,
-        "casos_activos": 557,
+        "casos_total": 4263,
+        "casos_nuevos": 5,
+        "casos_activos": 542,
         "casos_criticos": 0,
         "fallecidos_total": 595,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 3106
+        "recuperados_total": 3126
     },
     {
         "nombre": "India",
-        "casos_total": 937487,
-        "casos_nuevos": 0,
-        "casos_activos": 320092,
+        "casos_total": 937844,
+        "casos_nuevos": 357,
+        "casos_activos": 320339,
         "casos_criticos": 0,
-        "fallecidos_total": 24315,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 593080
+        "fallecidos_total": 24327,
+        "fallecidos_nuevos": 12,
+        "recuperados_total": 593178
     },
     {
         "nombre": "Indonesia",
@@ -1853,11 +1853,11 @@
         "nombre": "Seychelles",
         "casos_total": 100,
         "casos_nuevos": 0,
-        "casos_activos": 89,
+        "casos_activos": 73,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 11
+        "recuperados_total": 27
     },
     {
         "nombre": "Sierra Leona",
@@ -1941,13 +1941,13 @@
     },
     {
         "nombre": "Sudan del Sur",
-        "casos_total": 2148,
-        "casos_nuevos": 0,
-        "casos_activos": 1774,
+        "casos_total": 2153,
+        "casos_nuevos": 5,
+        "casos_activos": 937,
         "casos_criticos": 0,
         "fallecidos_total": 41,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 333
+        "recuperados_total": 1175
     },
     {
         "nombre": "Suecia",
@@ -2071,13 +2071,13 @@
     },
     {
         "nombre": "Ucrania",
-        "casos_total": 54771,
-        "casos_nuevos": 0,
-        "casos_activos": 26205,
+        "casos_total": 55607,
+        "casos_nuevos": 836,
+        "casos_activos": 26049,
         "casos_criticos": 0,
-        "fallecidos_total": 1412,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 27154
+        "fallecidos_total": 1427,
+        "fallecidos_nuevos": 15,
+        "recuperados_total": 28131
     },
     {
         "nombre": "Uganda",
