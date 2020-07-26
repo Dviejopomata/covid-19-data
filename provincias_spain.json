@@ -173,10 +173,10 @@
         "nombre": "Barein",
         "casos_total": 38747,
         "casos_nuevos": 0,
-        "casos_activos": 3405,
+        "casos_activos": 3404,
         "casos_criticos": 0,
-        "fallecidos_total": 137,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 138,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 35205
     },
     {
@@ -731,13 +731,13 @@
     },
     {
         "nombre": "Georgia",
-        "casos_total": 1117,
-        "casos_nuevos": 0,
-        "casos_activos": 184,
+        "casos_total": 1131,
+        "casos_nuevos": 14,
+        "casos_activos": 195,
         "casos_criticos": 0,
         "fallecidos_total": 16,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 917
+        "recuperados_total": 920
     },
     {
         "nombre": "Ghana",
@@ -901,23 +901,23 @@
     },
     {
         "nombre": "Hungria",
-        "casos_total": 4424,
-        "casos_nuevos": 0,
-        "casos_activos": 504,
+        "casos_total": 4435,
+        "casos_nuevos": 11,
+        "casos_activos": 510,
         "casos_criticos": 0,
         "fallecidos_total": 596,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 3324
+        "recuperados_total": 3329
     },
     {
         "nombre": "India",
-        "casos_total": 1387481,
-        "casos_nuevos": 1987,
-        "casos_activos": 469080,
+        "casos_total": 1389097,
+        "casos_nuevos": 3603,
+        "casos_activos": 469675,
         "casos_criticos": 0,
-        "fallecidos_total": 32119,
-        "fallecidos_nuevos": 23,
-        "recuperados_total": 886282
+        "fallecidos_total": 32127,
+        "fallecidos_nuevos": 31,
+        "recuperados_total": 887295
     },
     {
         "nombre": "Indonesia",
@@ -991,9 +991,9 @@
     },
     {
         "nombre": "Islas Feroe",
-        "casos_total": 192,
-        "casos_nuevos": 0,
-        "casos_activos": 4,
+        "casos_total": 214,
+        "casos_nuevos": 22,
+        "casos_activos": 26,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1113,11 +1113,11 @@
         "nombre": "Kirguistan",
         "casos_total": 32813,
         "casos_nuevos": 689,
-        "casos_activos": 12361,
+        "casos_activos": 11148,
         "casos_criticos": 0,
-        "fallecidos_total": 1249,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 19203
+        "fallecidos_total": 1277,
+        "fallecidos_nuevos": 28,
+        "recuperados_total": 20388
     },
     {
         "nombre": "Kuwait",
