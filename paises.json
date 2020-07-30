@@ -24,12 +24,12 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 209501,
-        "casos_nuevos": 690,
-        "casos_activos": 8283,
+        "casos_total": 209601,
+        "casos_nuevos": 790,
+        "casos_activos": 8380,
         "casos_criticos": 0,
-        "fallecidos_total": 9218,
-        "fallecidos_nuevos": 6,
+        "fallecidos_total": 9221,
+        "fallecidos_nuevos": 9,
         "recuperados_total": 192000
     },
     {
@@ -607,13 +607,13 @@
     {
         "pais": "EC",
         "nombre": "Ecuador",
-        "casos_total": 83193,
-        "casos_nuevos": 0,
-        "casos_activos": 41998,
+        "casos_total": 84370,
+        "casos_nuevos": 1177,
+        "casos_activos": 42889,
         "casos_criticos": 0,
-        "fallecidos_total": 5623,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 35572
+        "fallecidos_total": 5657,
+        "fallecidos_nuevos": 34,
+        "recuperados_total": 35824
     },
     {
         "pais": "EG",
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 4600388,
-        "casos_nuevos": 32351,
-        "casos_activos": 2191712,
+        "casos_total": 4607701,
+        "casos_nuevos": 39664,
+        "casos_activos": 2197318,
         "casos_criticos": 0,
-        "fallecidos_total": 154541,
-        "fallecidos_nuevos": 701,
-        "recuperados_total": 2254135
+        "fallecidos_total": 154620,
+        "fallecidos_nuevos": 780,
+        "recuperados_total": 2255763
     },
     {
         "pais": "EE",
@@ -772,12 +772,12 @@
     {
         "pais": "FR",
         "nombre": "Francia",
-        "casos_total": 185196,
-        "casos_nuevos": 0,
-        "casos_activos": 73647,
+        "casos_total": 186573,
+        "casos_nuevos": 1377,
+        "casos_activos": 75008,
         "casos_criticos": 0,
-        "fallecidos_total": 30238,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 30254,
+        "fallecidos_nuevos": 16,
         "recuperados_total": 81311
     },
     {
@@ -893,13 +893,13 @@
     {
         "pais": "GT",
         "nombre": "Guatemala",
-        "casos_total": 47605,
-        "casos_nuevos": 0,
-        "casos_activos": 11282,
+        "casos_total": 48826,
+        "casos_nuevos": 1221,
+        "casos_activos": 11330,
         "casos_criticos": 0,
-        "fallecidos_total": 1835,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 34488
+        "fallecidos_total": 1867,
+        "fallecidos_nuevos": 32,
+        "recuperados_total": 35629
     },
     {
         "pais": "GF",
@@ -1003,13 +1003,13 @@
     {
         "pais": "IN",
         "nombre": "India",
-        "casos_total": 1639184,
-        "casos_nuevos": 54800,
-        "casos_activos": 544739,
+        "casos_total": 1639350,
+        "casos_nuevos": 54966,
+        "casos_activos": 544471,
         "casos_criticos": 0,
         "fallecidos_total": 35786,
         "fallecidos_nuevos": 783,
-        "recuperados_total": 1058659
+        "recuperados_total": 1059093
     },
     {
         "pais": "ID",
@@ -1553,13 +1553,13 @@
     {
         "pais": "NA",
         "nombre": "Namibia",
-        "casos_total": 1986,
-        "casos_nuevos": 0,
-        "casos_activos": 1873,
+        "casos_total": 2052,
+        "casos_nuevos": 66,
+        "casos_activos": 1878,
         "casos_criticos": 0,
-        "fallecidos_total": 9,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 104
+        "fallecidos_total": 10,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 164
     },
     {
         "pais": "NP",
@@ -1777,8 +1777,8 @@
         "casos_nuevos": 846,
         "casos_activos": 0,
         "casos_criticos": 0,
-        "fallecidos_total": 45961,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 45999,
+        "fallecidos_nuevos": 38,
         "recuperados_total": 0
     },
     {
@@ -1806,9 +1806,9 @@
     {
         "pais": "CY",
         "nombre": "Republica de Chipre",
-        "casos_total": 1084,
-        "casos_nuevos": 4,
-        "casos_activos": 213,
+        "casos_total": 1090,
+        "casos_nuevos": 10,
+        "casos_activos": 219,
         "casos_criticos": 0,
         "fallecidos_total": 19,
         "fallecidos_nuevos": 0,
