@@ -31,13 +31,13 @@
     },
     {
         "nombre": "Angola",
-        "casos_total": 1078,
-        "casos_nuevos": 0,
-        "casos_activos": 729,
+        "casos_total": 1109,
+        "casos_nuevos": 31,
+        "casos_activos": 663,
         "casos_criticos": 0,
-        "fallecidos_total": 48,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 301
+        "fallecidos_total": 51,
+        "fallecidos_nuevos": 3,
+        "recuperados_total": 395
     },
     {
         "nombre": "Anguila",
@@ -471,13 +471,13 @@
     },
     {
         "nombre": "Costa Rica",
-        "casos_total": 16800,
-        "casos_nuevos": 0,
-        "casos_activos": 12617,
+        "casos_total": 17290,
+        "casos_nuevos": 490,
+        "casos_activos": 12870,
         "casos_criticos": 0,
-        "fallecidos_total": 133,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 4050
+        "fallecidos_total": 140,
+        "fallecidos_nuevos": 7,
+        "recuperados_total": 4280
     },
     {
         "nombre": "Costa de Marfil",
@@ -641,13 +641,13 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 4607701,
-        "casos_nuevos": 39664,
-        "casos_activos": 2197318,
+        "casos_total": 4613251,
+        "casos_nuevos": 45214,
+        "casos_activos": 2200521,
         "casos_criticos": 0,
-        "fallecidos_total": 154620,
-        "fallecidos_nuevos": 780,
-        "recuperados_total": 2255763
+        "fallecidos_total": 154781,
+        "fallecidos_nuevos": 941,
+        "recuperados_total": 2257949
     },
     {
         "nombre": "Estonia",
@@ -1041,12 +1041,12 @@
     },
     {
         "nombre": "Israel",
-        "casos_total": 69603,
-        "casos_nuevos": 1304,
-        "casos_activos": 33588,
+        "casos_total": 70036,
+        "casos_nuevos": 1737,
+        "casos_activos": 34020,
         "casos_criticos": 0,
-        "fallecidos_total": 499,
-        "fallecidos_nuevos": 8,
+        "fallecidos_total": 500,
+        "fallecidos_nuevos": 9,
         "recuperados_total": 35516
     },
     {
@@ -1211,13 +1211,13 @@
     },
     {
         "nombre": "Luxemburgo",
-        "casos_total": 6533,
-        "casos_nuevos": 0,
-        "casos_activos": 1460,
+        "casos_total": 6616,
+        "casos_nuevos": 83,
+        "casos_activos": 1475,
         "casos_criticos": 0,
         "fallecidos_total": 114,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 4959
+        "recuperados_total": 5027
     },
     {
         "nombre": "Macao",
@@ -1261,13 +1261,13 @@
     },
     {
         "nombre": "Maldivas",
-        "casos_total": 3567,
-        "casos_nuevos": 0,
-        "casos_activos": 998,
+        "casos_total": 3719,
+        "casos_nuevos": 152,
+        "casos_activos": 1135,
         "casos_criticos": 0,
-        "fallecidos_total": 15,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 2554
+        "fallecidos_total": 16,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 2568
     },
     {
         "nombre": "Mali",
@@ -1321,13 +1321,13 @@
     },
     {
         "nombre": "Mauritania",
-        "casos_total": 6273,
-        "casos_nuevos": 0,
-        "casos_activos": 1341,
+        "casos_total": 6295,
+        "casos_nuevos": 22,
+        "casos_activos": 1249,
         "casos_criticos": 0,
-        "fallecidos_total": 156,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 4776
+        "fallecidos_total": 157,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 4889
     },
     {
         "nombre": "Mayotte",
@@ -1353,10 +1353,10 @@
         "nombre": "Moldavia",
         "casos_total": 23947,
         "casos_nuevos": 0,
-        "casos_activos": 6145,
+        "casos_activos": 6136,
         "casos_criticos": 0,
-        "fallecidos_total": 762,
-        "fallecidos_nuevos": 3,
+        "fallecidos_total": 771,
+        "fallecidos_nuevos": 12,
         "recuperados_total": 17040
     },
     {
@@ -1671,9 +1671,9 @@
     },
     {
         "nombre": "Republica del Chad",
-        "casos_total": 926,
-        "casos_nuevos": 0,
-        "casos_activos": 38,
+        "casos_total": 935,
+        "casos_nuevos": 9,
+        "casos_activos": 47,
         "casos_criticos": 0,
         "fallecidos_total": 75,
         "fallecidos_nuevos": 0,
@@ -1821,13 +1821,13 @@
     },
     {
         "nombre": "Santo Tome y Principe",
-        "casos_total": 868,
-        "casos_nuevos": 0,
-        "casos_activos": 87,
+        "casos_total": 870,
+        "casos_nuevos": 2,
+        "casos_activos": 84,
         "casos_criticos": 0,
         "fallecidos_total": 15,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 766
+        "recuperados_total": 771
     },
     {
         "nombre": "Senegal",
@@ -2031,23 +2031,23 @@
     },
     {
         "nombre": "Togo",
-        "casos_total": 896,
-        "casos_nuevos": 0,
-        "casos_activos": 266,
+        "casos_total": 908,
+        "casos_nuevos": 12,
+        "casos_activos": 264,
         "casos_criticos": 0,
         "fallecidos_total": 18,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 612
+        "recuperados_total": 626
     },
     {
         "nombre": "Trinidad yTobago",
-        "casos_total": 156,
-        "casos_nuevos": 0,
-        "casos_activos": 20,
+        "casos_total": 157,
+        "casos_nuevos": 1,
+        "casos_activos": 19,
         "casos_criticos": 0,
         "fallecidos_total": 8,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 128
+        "recuperados_total": 130
     },
     {
         "nombre": "Tunez",
@@ -2131,13 +2131,13 @@
     },
     {
         "nombre": "Yemen",
-        "casos_total": 1711,
-        "casos_nuevos": 0,
-        "casos_activos": 377,
+        "casos_total": 1726,
+        "casos_nuevos": 15,
+        "casos_activos": 383,
         "casos_criticos": 0,
-        "fallecidos_total": 485,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 849
+        "fallecidos_total": 487,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 856
     },
     {
         "nombre": "Zambia",
