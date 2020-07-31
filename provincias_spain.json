@@ -113,11 +113,11 @@
         "nombre": "Australia",
         "casos_total": 16903,
         "casos_nuevos": 600,
-        "casos_activos": 6088,
+        "casos_activos": 6948,
         "casos_criticos": 0,
         "fallecidos_total": 196,
         "fallecidos_nuevos": 7,
-        "recuperados_total": 10619
+        "recuperados_total": 9759
     },
     {
         "nombre": "Austria",
@@ -693,10 +693,10 @@
         "nombre": "Fiyi",
         "casos_total": 27,
         "casos_nuevos": 0,
-        "casos_activos": 9,
+        "casos_activos": 8,
         "casos_criticos": 0,
-        "fallecidos_total": 0,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 1,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 18
     },
     {
@@ -1111,13 +1111,13 @@
     },
     {
         "nombre": "Kirguistan",
-        "casos_total": 35223,
-        "casos_nuevos": 0,
-        "casos_activos": 9874,
+        "casos_total": 35619,
+        "casos_nuevos": 396,
+        "casos_activos": 9562,
         "casos_criticos": 0,
-        "fallecidos_total": 1364,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 23985
+        "fallecidos_total": 1372,
+        "fallecidos_nuevos": 8,
+        "recuperados_total": 24685
     },
     {
         "nombre": "Kuwait",
@@ -1511,13 +1511,13 @@
     },
     {
         "nombre": "Pakistan",
-        "casos_total": 277402,
-        "casos_nuevos": 0,
-        "casos_activos": 25347,
+        "casos_total": 278305,
+        "casos_nuevos": 903,
+        "casos_activos": 25177,
         "casos_criticos": 0,
-        "fallecidos_total": 5924,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 246131
+        "fallecidos_total": 5951,
+        "fallecidos_nuevos": 27,
+        "recuperados_total": 247177
     },
     {
         "nombre": "Panama",
@@ -1531,9 +1531,9 @@
     },
     {
         "nombre": "Papua Nueva Guinea",
-        "casos_total": 63,
-        "casos_nuevos": 0,
-        "casos_activos": 50,
+        "casos_total": 72,
+        "casos_nuevos": 9,
+        "casos_activos": 59,
         "casos_criticos": 0,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
@@ -1981,13 +1981,13 @@
     },
     {
         "nombre": "Tailandia",
-        "casos_total": 3304,
-        "casos_nuevos": 0,
-        "casos_activos": 135,
+        "casos_total": 3310,
+        "casos_nuevos": 6,
+        "casos_activos": 127,
         "casos_criticos": 0,
         "fallecidos_total": 58,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 3111
+        "recuperados_total": 3125
     },
     {
         "nombre": "Taiwan",
@@ -2123,11 +2123,11 @@
         "nombre": "Vietnam",
         "casos_total": 509,
         "casos_nuevos": 0,
-        "casos_activos": 140,
+        "casos_activos": 136,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 369
+        "recuperados_total": 373
     },
     {
         "nombre": "Yemen",
