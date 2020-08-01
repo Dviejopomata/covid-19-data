@@ -21,9 +21,9 @@
     },
     {
         "nombre": "Alemania",
-        "casos_total": 211060,
-        "casos_nuevos": 395,
-        "casos_activos": 8234,
+        "casos_total": 211077,
+        "casos_nuevos": 412,
+        "casos_activos": 8251,
         "casos_criticos": 0,
         "fallecidos_total": 9226,
         "fallecidos_nuevos": 2,
@@ -171,13 +171,13 @@
     },
     {
         "nombre": "Barein",
-        "casos_total": 40982,
-        "casos_nuevos": 0,
-        "casos_activos": 2995,
+        "casos_total": 41190,
+        "casos_nuevos": 208,
+        "casos_activos": 2832,
         "casos_criticos": 0,
         "fallecidos_total": 147,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 37840
+        "recuperados_total": 38211
     },
     {
         "nombre": "Belgica",
@@ -301,13 +301,13 @@
     },
     {
         "nombre": "Bulgaria",
-        "casos_total": 11690,
-        "casos_nuevos": 0,
-        "casos_activos": 4988,
+        "casos_total": 11836,
+        "casos_nuevos": 146,
+        "casos_activos": 5055,
         "casos_criticos": 0,
-        "fallecidos_total": 383,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 6319
+        "fallecidos_total": 385,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 6396
     },
     {
         "nombre": "Burkina Faso",
@@ -371,13 +371,13 @@
     },
     {
         "nombre": "Canada",
-        "casos_total": 116582,
-        "casos_nuevos": 270,
-        "casos_activos": 6251,
+        "casos_total": 116599,
+        "casos_nuevos": 287,
+        "casos_activos": 6222,
         "casos_criticos": 0,
         "fallecidos_total": 8941,
         "fallecidos_nuevos": 6,
-        "recuperados_total": 101390
+        "recuperados_total": 101436
     },
     {
         "nombre": "Catar",
@@ -421,13 +421,13 @@
     },
     {
         "nombre": "Colombia",
-        "casos_total": 295508,
-        "casos_nuevos": 0,
-        "casos_activos": 131016,
+        "casos_total": 306181,
+        "casos_nuevos": 10673,
+        "casos_activos": 135143,
         "casos_criticos": 0,
-        "fallecidos_total": 10105,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 154387
+        "fallecidos_total": 10330,
+        "fallecidos_nuevos": 225,
+        "recuperados_total": 160708
     },
     {
         "nombre": "Comoras",
@@ -641,13 +641,13 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 4755609,
-        "casos_nuevos": 49720,
-        "casos_activos": 2243693,
+        "casos_total": 4758204,
+        "casos_nuevos": 52315,
+        "casos_activos": 2246048,
         "casos_criticos": 0,
-        "fallecidos_total": 157722,
-        "fallecidos_nuevos": 975,
-        "recuperados_total": 2354194
+        "fallecidos_total": 157737,
+        "fallecidos_nuevos": 990,
+        "recuperados_total": 2354419
     },
     {
         "nombre": "Estonia",
@@ -711,13 +711,13 @@
     },
     {
         "nombre": "Gabon",
-        "casos_total": 7352,
-        "casos_nuevos": 0,
-        "casos_activos": 2360,
+        "casos_total": 7531,
+        "casos_nuevos": 179,
+        "casos_activos": 2258,
         "casos_criticos": 0,
-        "fallecidos_total": 49,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 4943
+        "fallecidos_total": 50,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 5223
     },
     {
         "nombre": "Gambia",
@@ -1263,10 +1263,10 @@
         "nombre": "Maldivas",
         "casos_total": 3949,
         "casos_nuevos": 156,
-        "casos_activos": 1320,
+        "casos_activos": 1319,
         "casos_criticos": 0,
-        "fallecidos_total": 16,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 17,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 2613
     },
     {
@@ -1691,13 +1691,13 @@
     },
     {
         "nombre": "Ruanda",
-        "casos_total": 2022,
-        "casos_nuevos": 0,
-        "casos_activos": 911,
+        "casos_total": 2042,
+        "casos_nuevos": 20,
+        "casos_activos": 918,
         "casos_criticos": 0,
         "fallecidos_total": 5,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1106
+        "recuperados_total": 1119
     },
     {
         "nombre": "Rumania",
@@ -2151,12 +2151,12 @@
     },
     {
         "nombre": "Zimbabue",
-        "casos_total": 3169,
-        "casos_nuevos": 0,
-        "casos_activos": 2098,
+        "casos_total": 3659,
+        "casos_nuevos": 490,
+        "casos_activos": 2579,
         "casos_criticos": 0,
-        "fallecidos_total": 67,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1004
+        "fallecidos_total": 69,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 1011
     }
 ]
