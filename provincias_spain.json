@@ -11,13 +11,13 @@
     },
     {
         "nombre": "Albania",
-        "casos_total": 5396,
-        "casos_nuevos": 0,
-        "casos_activos": 2274,
+        "casos_total": 5519,
+        "casos_nuevos": 123,
+        "casos_activos": 2335,
         "casos_criticos": 0,
-        "fallecidos_total": 161,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 2961
+        "fallecidos_total": 166,
+        "fallecidos_nuevos": 5,
+        "recuperados_total": 3018
     },
     {
         "nombre": "Alemania",
@@ -83,11 +83,11 @@
         "nombre": "Argentina",
         "casos_total": 196543,
         "casos_nuevos": 0,
-        "casos_activos": 106448,
+        "casos_activos": 103905,
         "casos_criticos": 0,
-        "fallecidos_total": 3596,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 86499
+        "fallecidos_total": 3612,
+        "fallecidos_nuevos": 16,
+        "recuperados_total": 89026
     },
     {
         "nombre": "Armenia",
@@ -511,13 +511,13 @@
     },
     {
         "nombre": "Cuba",
-        "casos_total": 2633,
-        "casos_nuevos": 0,
-        "casos_activos": 179,
+        "casos_total": 2646,
+        "casos_nuevos": 13,
+        "casos_activos": 190,
         "casos_criticos": 0,
         "fallecidos_total": 87,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 2367
+        "recuperados_total": 2369
     },
     {
         "nombre": "Curazao",
@@ -641,13 +641,13 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 4766323,
-        "casos_nuevos": 2005,
-        "casos_activos": 2245234,
+        "casos_total": 4774590,
+        "casos_nuevos": 10272,
+        "casos_activos": 2253364,
         "casos_criticos": 0,
-        "fallecidos_total": 157924,
-        "fallecidos_nuevos": 26,
-        "recuperados_total": 2363165
+        "fallecidos_total": 157997,
+        "fallecidos_nuevos": 99,
+        "recuperados_total": 2363229
     },
     {
         "nombre": "Estonia",
@@ -911,13 +911,13 @@
     },
     {
         "nombre": "India",
-        "casos_total": 1767836,
-        "casos_nuevos": 15917,
-        "casos_activos": 573127,
+        "casos_total": 1780268,
+        "casos_nuevos": 28349,
+        "casos_activos": 577136,
         "casos_criticos": 0,
-        "fallecidos_total": 37570,
-        "fallecidos_nuevos": 167,
-        "recuperados_total": 1157139
+        "fallecidos_total": 37690,
+        "fallecidos_nuevos": 287,
+        "recuperados_total": 1165442
     },
     {
         "nombre": "Indonesia",
@@ -1351,12 +1351,12 @@
     },
     {
         "nombre": "Moldavia",
-        "casos_total": 25113,
-        "casos_nuevos": 0,
-        "casos_activos": 6508,
+        "casos_total": 25362,
+        "casos_nuevos": 249,
+        "casos_activos": 6755,
         "casos_criticos": 0,
-        "fallecidos_total": 789,
-        "fallecidos_nuevos": 1,
+        "fallecidos_total": 791,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 17816
     },
     {
@@ -1873,11 +1873,11 @@
         "nombre": "Singapur",
         "casos_total": 52825,
         "casos_nuevos": 313,
-        "casos_activos": 6058,
+        "casos_activos": 5872,
         "casos_criticos": 0,
         "fallecidos_total": 27,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 46740
+        "recuperados_total": 46926
     },
     {
         "nombre": "Siria",
@@ -2011,13 +2011,13 @@
     },
     {
         "nombre": "Tayikistan",
-        "casos_total": 7451,
-        "casos_nuevos": 0,
+        "casos_total": 7495,
+        "casos_nuevos": 44,
         "casos_activos": 1158,
         "casos_criticos": 0,
-        "fallecidos_total": 60,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 6233
+        "fallecidos_total": 61,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 6276
     },
     {
         "nombre": "Timor Oriental",
@@ -2041,9 +2041,9 @@
     },
     {
         "nombre": "Trinidad yTobago",
-        "casos_total": 173,
-        "casos_nuevos": 0,
-        "casos_activos": 33,
+        "casos_total": 180,
+        "casos_nuevos": 7,
+        "casos_activos": 40,
         "casos_criticos": 0,
         "fallecidos_total": 8,
         "fallecidos_nuevos": 0,
