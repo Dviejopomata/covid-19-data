@@ -57,13 +57,13 @@
     {
         "pais": "AG",
         "nombre": "Antigua y Barbuda",
-        "casos_total": 91,
+        "casos_total": 92,
         "casos_nuevos": 0,
-        "casos_activos": 21,
+        "casos_activos": 14,
         "casos_criticos": 0,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 67
+        "recuperados_total": 75
     },
     {
         "pais": "SA",
@@ -200,13 +200,13 @@
     {
         "pais": "BE",
         "nombre": "Belgica",
-        "casos_total": 69849,
-        "casos_nuevos": 0,
-        "casos_activos": 42414,
+        "casos_total": 70314,
+        "casos_nuevos": 465,
+        "casos_activos": 42866,
         "casos_criticos": 0,
-        "fallecidos_total": 9845,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 17590
+        "fallecidos_total": 9850,
+        "fallecidos_nuevos": 5,
+        "recuperados_total": 17598
     },
     {
         "pais": "BZ",
@@ -959,24 +959,24 @@
     {
         "pais": "HT",
         "nombre": "Haiti",
-        "casos_total": 7476,
-        "casos_nuevos": 0,
-        "casos_activos": 2705,
+        "casos_total": 7511,
+        "casos_nuevos": 35,
+        "casos_activos": 2513,
         "casos_criticos": 0,
-        "fallecidos_total": 165,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 4606
+        "fallecidos_total": 166,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 4832
     },
     {
         "pais": "HN",
         "nombre": "Honduras",
-        "casos_total": 43197,
-        "casos_nuevos": 0,
-        "casos_activos": 36026,
+        "casos_total": 43794,
+        "casos_nuevos": 597,
+        "casos_activos": 36556,
         "casos_criticos": 0,
-        "fallecidos_total": 1377,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 5794
+        "fallecidos_total": 1384,
+        "fallecidos_nuevos": 7,
+        "recuperados_total": 5854
     },
     {
         "pais": "HK",
@@ -1949,9 +1949,9 @@
     {
         "pais": "SX",
         "nombre": "San Martin (Parte Holandesa)",
-        "casos_total": 146,
-        "casos_nuevos": 0,
-        "casos_activos": 66,
+        "casos_total": 150,
+        "casos_nuevos": 4,
+        "casos_activos": 70,
         "casos_criticos": 0,
         "fallecidos_total": 16,
         "fallecidos_nuevos": 0,
@@ -2336,10 +2336,10 @@
         "nombre": "Vietnam",
         "casos_total": 652,
         "casos_nuevos": 0,
-        "casos_activos": 272,
+        "casos_activos": 271,
         "casos_criticos": 0,
-        "fallecidos_total": 6,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 7,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 374
     },
     {
