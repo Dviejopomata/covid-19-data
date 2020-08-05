@@ -345,10 +345,10 @@
         "nombre": "Burkina Faso",
         "casos_total": 1153,
         "casos_nuevos": 3,
-        "casos_activos": 153,
+        "casos_activos": 152,
         "casos_criticos": 0,
-        "fallecidos_total": 53,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 54,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 947
     },
     {
@@ -398,9 +398,9 @@
     {
         "pais": "CM",
         "nombre": "Camerun",
-        "casos_total": 17255,
-        "casos_nuevos": 0,
-        "casos_activos": 1544,
+        "casos_total": 17718,
+        "casos_nuevos": 463,
+        "casos_activos": 2007,
         "casos_criticos": 0,
         "fallecidos_total": 391,
         "fallecidos_nuevos": 0,
@@ -411,11 +411,11 @@
         "nombre": "Canada",
         "casos_total": 117792,
         "casos_nuevos": 761,
-        "casos_activos": 6489,
+        "casos_activos": 6384,
         "casos_criticos": 0,
         "fallecidos_total": 8958,
         "fallecidos_nuevos": 11,
-        "recuperados_total": 102345
+        "recuperados_total": 102450
     },
     {
         "pais": "QA",
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 4916742,
-        "casos_nuevos": 52826,
-        "casos_activos": 2276042,
+        "casos_total": 4918406,
+        "casos_nuevos": 54490,
+        "casos_activos": 2276893,
         "casos_criticos": 0,
-        "fallecidos_total": 160249,
-        "fallecidos_nuevos": 1321,
-        "recuperados_total": 2480451
+        "fallecidos_total": 160290,
+        "fallecidos_nuevos": 1362,
+        "recuperados_total": 2481223
     },
     {
         "pais": "EE",
@@ -1300,13 +1300,13 @@
     {
         "pais": "LY",
         "nombre": "Libia",
-        "casos_total": 4063,
-        "casos_nuevos": 0,
-        "casos_activos": 3345,
+        "casos_total": 4224,
+        "casos_nuevos": 161,
+        "casos_activos": 3495,
         "casos_criticos": 0,
-        "fallecidos_total": 93,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 625
+        "fallecidos_total": 96,
+        "fallecidos_nuevos": 3,
+        "recuperados_total": 633
     },
     {
         "pais": "LI",
@@ -1674,13 +1674,13 @@
     {
         "pais": "PA",
         "nombre": "Panama",
-        "casos_total": 68456,
-        "casos_nuevos": 0,
-        "casos_activos": 24866,
+        "casos_total": 69424,
+        "casos_nuevos": 968,
+        "casos_activos": 24572,
         "casos_criticos": 0,
-        "fallecidos_total": 1497,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 42093
+        "fallecidos_total": 1522,
+        "fallecidos_nuevos": 25,
+        "recuperados_total": 43330
     },
     {
         "pais": "PG",
@@ -1696,24 +1696,24 @@
     {
         "pais": "PY",
         "nombre": "Paraguay",
-        "casos_total": 5724,
-        "casos_nuevos": 0,
-        "casos_activos": 1420,
+        "casos_total": 5852,
+        "casos_nuevos": 128,
+        "casos_activos": 1148,
         "casos_criticos": 0,
-        "fallecidos_total": 55,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 4249
+        "fallecidos_total": 59,
+        "fallecidos_nuevos": 4,
+        "recuperados_total": 4645
     },
     {
         "pais": "PE",
         "nombre": "Peru",
-        "casos_total": 433100,
-        "casos_nuevos": 0,
-        "casos_activos": 115198,
+        "casos_total": 439890,
+        "casos_nuevos": 6790,
+        "casos_activos": 117426,
         "casos_criticos": 0,
-        "fallecidos_total": 19811,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 298091
+        "fallecidos_total": 20007,
+        "fallecidos_nuevos": 196,
+        "recuperados_total": 302457
     },
     {
         "pais": "PF",
@@ -1850,9 +1850,9 @@
     {
         "pais": "RE",
         "nombre": "Reunion",
-        "casos_total": 667,
-        "casos_nuevos": 0,
-        "casos_activos": 71,
+        "casos_total": 669,
+        "casos_nuevos": 2,
+        "casos_activos": 73,
         "casos_criticos": 0,
         "fallecidos_total": 4,
         "fallecidos_nuevos": 0,
@@ -2246,9 +2246,9 @@
     {
         "pais": "TT",
         "nombre": "Trinidad yTobago",
-        "casos_total": 192,
-        "casos_nuevos": 10,
-        "casos_activos": 49,
+        "casos_total": 194,
+        "casos_nuevos": 12,
+        "casos_activos": 51,
         "casos_criticos": 0,
         "fallecidos_total": 8,
         "fallecidos_nuevos": 0,
