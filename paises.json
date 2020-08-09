@@ -24,9 +24,9 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 217279,
-        "casos_nuevos": 383,
-        "casos_activos": 10618,
+        "casos_total": 217281,
+        "casos_nuevos": 385,
+        "casos_activos": 10620,
         "casos_criticos": 0,
         "fallecidos_total": 9261,
         "fallecidos_nuevos": 0,
@@ -312,11 +312,11 @@
         "nombre": "Brasil",
         "casos_total": 3035422,
         "casos_nuevos": 22053,
-        "casos_activos": 840080,
+        "casos_activos": 815913,
         "casos_criticos": 0,
         "fallecidos_total": 101049,
         "fallecidos_nuevos": 506,
-        "recuperados_total": 2094293
+        "recuperados_total": 2118460
     },
     {
         "pais": "BN",
@@ -332,13 +332,13 @@
     {
         "pais": "BG",
         "nombre": "Bulgaria",
-        "casos_total": 13343,
-        "casos_nuevos": 0,
-        "casos_activos": 5180,
+        "casos_total": 13396,
+        "casos_nuevos": 53,
+        "casos_activos": 5177,
         "casos_criticos": 0,
-        "fallecidos_total": 445,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 7718
+        "fallecidos_total": 447,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 7772
     },
     {
         "pais": "BF",
@@ -431,13 +431,13 @@
     {
         "pais": "CZ",
         "nombre": "Chequia",
-        "casos_total": 18303,
-        "casos_nuevos": 68,
-        "casos_activos": 5137,
+        "casos_total": 18353,
+        "casos_nuevos": 118,
+        "casos_activos": 5178,
         "casos_criticos": 0,
         "fallecidos_total": 390,
         "fallecidos_nuevos": 1,
-        "recuperados_total": 12776
+        "recuperados_total": 12785
     },
     {
         "pais": "CL",
@@ -464,13 +464,13 @@
     {
         "pais": "CO",
         "nombre": "Colombia",
-        "casos_total": 376870,
-        "casos_nuevos": 0,
-        "casos_activos": 159739,
+        "casos_total": 387481,
+        "casos_nuevos": 10611,
+        "casos_activos": 161951,
         "casos_criticos": 0,
-        "fallecidos_total": 12540,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 204591
+        "fallecidos_total": 12842,
+        "fallecidos_nuevos": 302,
+        "recuperados_total": 212688
     },
     {
         "pais": "KM",
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 5191822,
-        "casos_nuevos": 40227,
-        "casos_activos": 2371631,
+        "casos_total": 5195332,
+        "casos_nuevos": 43737,
+        "casos_activos": 2368421,
         "casos_criticos": 0,
-        "fallecidos_total": 165537,
-        "fallecidos_nuevos": 447,
-        "recuperados_total": 2654654
+        "fallecidos_total": 165562,
+        "fallecidos_nuevos": 479,
+        "recuperados_total": 2661349
     },
     {
         "pais": "EE",
@@ -893,13 +893,13 @@
     {
         "pais": "GT",
         "nombre": "Guatemala",
-        "casos_total": 56189,
-        "casos_nuevos": 0,
-        "casos_activos": 9920,
+        "casos_total": 56605,
+        "casos_nuevos": 416,
+        "casos_activos": 9796,
         "casos_criticos": 0,
-        "fallecidos_total": 2197,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 44072
+        "fallecidos_total": 2211,
+        "fallecidos_nuevos": 14,
+        "recuperados_total": 44598
     },
     {
         "pais": "GF",
@@ -1179,13 +1179,13 @@
     {
         "pais": "JP",
         "nombre": "Japon",
-        "casos_total": 45439,
-        "casos_nuevos": 0,
-        "casos_activos": 13093,
+        "casos_total": 46783,
+        "casos_nuevos": 1344,
+        "casos_activos": 13431,
         "casos_criticos": 0,
-        "fallecidos_total": 1039,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 31307
+        "fallecidos_total": 1040,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 32312
     },
     {
         "pais": "JO",
@@ -1597,20 +1597,20 @@
     {
         "pais": "NG",
         "nombre": "Nigeria",
-        "casos_total": 46140,
-        "casos_nuevos": 0,
-        "casos_activos": 12154,
+        "casos_total": 46577,
+        "casos_nuevos": 437,
+        "casos_activos": 12446,
         "casos_criticos": 0,
-        "fallecidos_total": 942,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 33044
+        "fallecidos_total": 945,
+        "fallecidos_nuevos": 3,
+        "recuperados_total": 33186
     },
     {
         "pais": "NO",
         "nombre": "Noruega",
-        "casos_total": 9615,
-        "casos_nuevos": 16,
-        "casos_activos": 502,
+        "casos_total": 9638,
+        "casos_nuevos": 39,
+        "casos_activos": 525,
         "casos_criticos": 0,
         "fallecidos_total": 256,
         "fallecidos_nuevos": 0,
@@ -2213,9 +2213,9 @@
     {
         "pais": "TJ",
         "nombre": "Tayikistan",
-        "casos_total": 7706,
-        "casos_nuevos": 0,
-        "casos_activos": 1160,
+        "casos_total": 7745,
+        "casos_nuevos": 39,
+        "casos_activos": 1199,
         "casos_criticos": 0,
         "fallecidos_total": 62,
         "fallecidos_nuevos": 0,
@@ -2301,13 +2301,13 @@
     {
         "pais": "UY",
         "nombre": "Uruguay",
-        "casos_total": 1335,
-        "casos_nuevos": 0,
-        "casos_activos": 186,
+        "casos_total": 1353,
+        "casos_nuevos": 18,
+        "casos_activos": 191,
         "casos_criticos": 0,
         "fallecidos_total": 37,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1112
+        "recuperados_total": 1125
     },
     {
         "pais": "UZ",
@@ -2323,12 +2323,12 @@
     {
         "pais": "VE",
         "nombre": "Venezuela",
-        "casos_total": 24961,
-        "casos_nuevos": 0,
-        "casos_activos": 11390,
+        "casos_total": 25805,
+        "casos_nuevos": 844,
+        "casos_activos": 12226,
         "casos_criticos": 0,
-        "fallecidos_total": 215,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 223,
+        "fallecidos_nuevos": 8,
         "recuperados_total": 13356
     },
     {
