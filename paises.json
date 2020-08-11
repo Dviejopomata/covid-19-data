@@ -24,9 +24,9 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 219229,
-        "casos_nuevos": 729,
-        "casos_activos": 11062,
+        "casos_total": 219409,
+        "casos_nuevos": 909,
+        "casos_activos": 11242,
         "casos_criticos": 0,
         "fallecidos_total": 9267,
         "fallecidos_nuevos": 2,
@@ -112,9 +112,9 @@
     {
         "pais": "AW",
         "nombre": "Aruba",
-        "casos_total": 630,
-        "casos_nuevos": 0,
-        "casos_activos": 513,
+        "casos_total": 717,
+        "casos_nuevos": 87,
+        "casos_activos": 600,
         "casos_criticos": 0,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
@@ -519,13 +519,13 @@
     {
         "pais": "CR",
         "nombre": "Costa Rica",
-        "casos_total": 23872,
-        "casos_nuevos": 0,
-        "casos_activos": 15805,
+        "casos_total": 24508,
+        "casos_nuevos": 636,
+        "casos_activos": 16282,
         "casos_criticos": 0,
-        "fallecidos_total": 244,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 7823
+        "fallecidos_total": 255,
+        "fallecidos_nuevos": 11,
+        "recuperados_total": 7971
     },
     {
         "pais": "CI",
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 5270736,
-        "casos_nuevos": 19290,
-        "casos_activos": 2384170,
+        "casos_total": 5278963,
+        "casos_nuevos": 27517,
+        "casos_activos": 2389440,
         "casos_criticos": 0,
-        "fallecidos_total": 166871,
-        "fallecidos_nuevos": 679,
-        "recuperados_total": 2719695
+        "fallecidos_total": 167068,
+        "fallecidos_nuevos": 876,
+        "recuperados_total": 2722455
     },
     {
         "pais": "EE",
@@ -1806,12 +1806,12 @@
     {
         "pais": "CY",
         "nombre": "Republica de Chipre",
-        "casos_total": 1252,
-        "casos_nuevos": 0,
-        "casos_activos": 363,
+        "casos_total": 1277,
+        "casos_nuevos": 25,
+        "casos_activos": 387,
         "casos_criticos": 0,
-        "fallecidos_total": 19,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 20,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 870
     },
     {
@@ -2257,13 +2257,13 @@
     {
         "pais": "TN",
         "nombre": "Tunez",
-        "casos_total": 1717,
-        "casos_nuevos": 0,
-        "casos_activos": 401,
+        "casos_total": 1738,
+        "casos_nuevos": 21,
+        "casos_activos": 414,
         "casos_criticos": 0,
-        "fallecidos_total": 51,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 1265
+        "fallecidos_total": 52,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 1272
     },
     {
         "pais": "TR",
