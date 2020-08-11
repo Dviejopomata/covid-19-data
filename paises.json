@@ -310,12 +310,12 @@
     {
         "pais": "BR",
         "nombre": "Brasil",
-        "casos_total": 3068138,
-        "casos_nuevos": 10668,
-        "casos_activos": 802292,
+        "casos_total": 3109630,
+        "casos_nuevos": 52160,
+        "casos_activos": 842792,
         "casos_criticos": 0,
-        "fallecidos_total": 102034,
-        "fallecidos_nuevos": 177,
+        "fallecidos_total": 103026,
+        "fallecidos_nuevos": 1169,
         "recuperados_total": 2163812
     },
     {
@@ -398,24 +398,24 @@
     {
         "pais": "CM",
         "nombre": "Camerun",
-        "casos_total": 18042,
-        "casos_nuevos": 0,
-        "casos_activos": 2327,
+        "casos_total": 18213,
+        "casos_nuevos": 171,
+        "casos_activos": 2495,
         "casos_criticos": 0,
-        "fallecidos_total": 395,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 398,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 15320
     },
     {
         "pais": "CA",
         "nombre": "Canada",
-        "casos_total": 120256,
-        "casos_nuevos": 124,
-        "casos_activos": 4744,
+        "casos_total": 120375,
+        "casos_nuevos": 243,
+        "casos_activos": 4657,
         "casos_criticos": 0,
-        "fallecidos_total": 8988,
-        "fallecidos_nuevos": 1,
-        "recuperados_total": 106524
+        "fallecidos_total": 8991,
+        "fallecidos_nuevos": 4,
+        "recuperados_total": 106727
     },
     {
         "pais": "QA",
@@ -464,13 +464,13 @@
     {
         "pais": "CO",
         "nombre": "Colombia",
-        "casos_total": 397623,
-        "casos_nuevos": 0,
-        "casos_activos": 162984,
+        "casos_total": 410453,
+        "casos_nuevos": 12830,
+        "casos_activos": 166551,
         "casos_criticos": 0,
-        "fallecidos_total": 13154,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 221485
+        "fallecidos_total": 13475,
+        "fallecidos_nuevos": 321,
+        "recuperados_total": 230427
     },
     {
         "pais": "KM",
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 5297128,
-        "casos_nuevos": 45682,
-        "casos_activos": 2392974,
+        "casos_total": 5300287,
+        "casos_nuevos": 48849,
+        "casos_activos": 2394778,
         "casos_criticos": 0,
-        "fallecidos_total": 167349,
-        "fallecidos_nuevos": 1157,
-        "recuperados_total": 2736805
+        "fallecidos_total": 167458,
+        "fallecidos_nuevos": 1266,
+        "recuperados_total": 2738051
     },
     {
         "pais": "EE",
@@ -915,13 +915,13 @@
     {
         "pais": "GN",
         "nombre": "Guinea",
-        "casos_total": 7930,
-        "casos_nuevos": 0,
-        "casos_activos": 982,
+        "casos_total": 8018,
+        "casos_nuevos": 88,
+        "casos_activos": 948,
         "casos_criticos": 0,
         "fallecidos_total": 50,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 6898
+        "recuperados_total": 7020
     },
     {
         "pais": "GQ",
@@ -1608,9 +1608,9 @@
     {
         "pais": "NO",
         "nombre": "Noruega",
-        "casos_total": 9712,
-        "casos_nuevos": 28,
-        "casos_activos": 599,
+        "casos_total": 9751,
+        "casos_nuevos": 67,
+        "casos_activos": 638,
         "casos_criticos": 0,
         "fallecidos_total": 256,
         "fallecidos_nuevos": 0,
@@ -2136,9 +2136,9 @@
     {
         "pais": "SS",
         "nombre": "Sudan del Sur",
-        "casos_total": 2470,
-        "casos_nuevos": 0,
-        "casos_activos": 1248,
+        "casos_total": 2472,
+        "casos_nuevos": 2,
+        "casos_activos": 1250,
         "casos_criticos": 0,
         "fallecidos_total": 47,
         "fallecidos_nuevos": 0,
@@ -2246,9 +2246,9 @@
     {
         "pais": "TT",
         "nombre": "Trinidad yTobago",
-        "casos_total": 295,
-        "casos_nuevos": 14,
-        "casos_activos": 148,
+        "casos_total": 300,
+        "casos_nuevos": 19,
+        "casos_activos": 153,
         "casos_criticos": 0,
         "fallecidos_total": 8,
         "fallecidos_nuevos": 0,
@@ -2345,9 +2345,9 @@
     {
         "pais": "YE",
         "nombre": "Yemen",
-        "casos_total": 1832,
+        "casos_total": 1831,
         "casos_nuevos": 0,
-        "casos_activos": 394,
+        "casos_activos": 393,
         "casos_criticos": 0,
         "fallecidos_total": 523,
         "fallecidos_nuevos": 5,
