@@ -57,13 +57,13 @@
     {
         "pais": "AG",
         "nombre": "Antigua y Barbuda",
-        "casos_total": 92,
-        "casos_nuevos": 0,
-        "casos_activos": 13,
+        "casos_total": 93,
+        "casos_nuevos": 1,
+        "casos_activos": 7,
         "casos_criticos": 0,
         "fallecidos_total": 3,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 76
+        "recuperados_total": 83
     },
     {
         "pais": "SA",
@@ -123,12 +123,12 @@
     {
         "pais": "AU",
         "nombre": "Australia",
-        "casos_total": 22358,
-        "casos_nuevos": 0,
-        "casos_activos": 8996,
+        "casos_total": 22741,
+        "casos_nuevos": 383,
+        "casos_activos": 9365,
         "casos_criticos": 0,
-        "fallecidos_total": 361,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 375,
+        "fallecidos_nuevos": 14,
         "recuperados_total": 13001
     },
     {
@@ -684,7 +684,7 @@
     {
         "pais": "ES",
         "nombre": "Espa\u00f1a",
-        "casos_total": 379799,
+        "casos_total": 355856,
         "casos_nuevos": 0,
         "casos_activos": 0,
         "casos_criticos": 0,
@@ -970,13 +970,13 @@
     {
         "pais": "HN",
         "nombre": "Honduras",
-        "casos_total": 48657,
-        "casos_nuevos": 0,
-        "casos_activos": 40179,
+        "casos_total": 49042,
+        "casos_nuevos": 385,
+        "casos_activos": 40468,
         "casos_criticos": 0,
-        "fallecidos_total": 1533,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 6945
+        "fallecidos_total": 1542,
+        "fallecidos_nuevos": 9,
+        "recuperados_total": 7032
     },
     {
         "pais": "HK",
@@ -1300,13 +1300,13 @@
     {
         "pais": "LY",
         "nombre": "Libia",
-        "casos_total": 6611,
+        "casos_total": 7050,
         "casos_nuevos": 0,
-        "casos_activos": 5701,
+        "casos_activos": 6099,
         "casos_criticos": 0,
-        "fallecidos_total": 132,
+        "fallecidos_total": 135,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 778
+        "recuperados_total": 816
     },
     {
         "pais": "LI",
@@ -1709,9 +1709,9 @@
         "nombre": "Peru",
         "casos_total": 507996,
         "casos_nuevos": 0,
-        "casos_activos": 138277,
+        "casos_activos": 134342,
         "casos_criticos": 0,
-        "fallecidos_total": 21713,
+        "fallecidos_total": 25648,
         "fallecidos_nuevos": 0,
         "recuperados_total": 348006
     },
