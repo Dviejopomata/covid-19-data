@@ -125,11 +125,11 @@
         "nombre": "Australia",
         "casos_total": 23035,
         "casos_nuevos": 292,
-        "casos_activos": 9304,
+        "casos_activos": 9301,
         "casos_criticos": 0,
         "fallecidos_total": 379,
         "fallecidos_nuevos": 4,
-        "recuperados_total": 13352
+        "recuperados_total": 13355
     },
     {
         "pais": "AT",
@@ -213,10 +213,10 @@
         "nombre": "Belice",
         "casos_total": 356,
         "casos_nuevos": 0,
-        "casos_activos": 322,
+        "casos_activos": 321,
         "casos_criticos": 0,
-        "fallecidos_total": 2,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 3,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 32
     },
     {
@@ -1113,13 +1113,13 @@
     {
         "pais": "TC",
         "nombre": "Islas Turcas y Caicos",
-        "casos_total": 258,
-        "casos_nuevos": 0,
-        "casos_activos": 204,
+        "casos_total": 274,
+        "casos_nuevos": 16,
+        "casos_activos": 218,
         "casos_criticos": 0,
         "fallecidos_total": 2,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 52
+        "recuperados_total": 54
     },
     {
         "pais": "VG",
@@ -1696,24 +1696,24 @@
     {
         "pais": "PY",
         "nombre": "Paraguay",
-        "casos_total": 8389,
+        "casos_total": 9022,
         "casos_nuevos": 0,
-        "casos_activos": 2776,
+        "casos_activos": 3257,
         "casos_criticos": 0,
-        "fallecidos_total": 97,
+        "fallecidos_total": 108,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 5516
+        "recuperados_total": 5657
     },
     {
         "pais": "PE",
         "nombre": "Peru",
-        "casos_total": 507996,
+        "casos_total": 516296,
         "casos_nuevos": 0,
-        "casos_activos": 134342,
+        "casos_activos": 136208,
         "casos_criticos": 0,
-        "fallecidos_total": 25648,
+        "fallecidos_total": 25856,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 348006
+        "recuperados_total": 354232
     },
     {
         "pais": "PF",
@@ -1949,9 +1949,9 @@
     {
         "pais": "SX",
         "nombre": "San Martin (Parte Holandesa)",
-        "casos_total": 263,
-        "casos_nuevos": 0,
-        "casos_activos": 144,
+        "casos_total": 269,
+        "casos_nuevos": 6,
+        "casos_activos": 150,
         "casos_criticos": 0,
         "fallecidos_total": 17,
         "fallecidos_nuevos": 0,
