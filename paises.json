@@ -156,13 +156,13 @@
     {
         "pais": "BS",
         "nombre": "Bahamas",
-        "casos_total": 1424,
-        "casos_nuevos": 0,
-        "casos_activos": 1201,
+        "casos_total": 1531,
+        "casos_nuevos": 107,
+        "casos_activos": 1300,
         "casos_criticos": 0,
-        "fallecidos_total": 20,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 203
+        "fallecidos_total": 22,
+        "fallecidos_nuevos": 2,
+        "recuperados_total": 209
     },
     {
         "pais": "BD",
@@ -409,13 +409,13 @@
     {
         "pais": "CA",
         "nombre": "Canada",
-        "casos_total": 123422,
-        "casos_nuevos": 268,
-        "casos_activos": 4596,
+        "casos_total": 123490,
+        "casos_nuevos": 336,
+        "casos_activos": 4619,
         "casos_criticos": 0,
         "fallecidos_total": 9049,
         "fallecidos_nuevos": 4,
-        "recuperados_total": 109777
+        "recuperados_total": 109822
     },
     {
         "pais": "QA",
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 5696643,
-        "casos_nuevos": 40669,
-        "casos_activos": 2465739,
+        "casos_total": 5699221,
+        "casos_nuevos": 43247,
+        "casos_activos": 2462385,
         "casos_criticos": 0,
-        "fallecidos_total": 176203,
-        "fallecidos_nuevos": 1129,
-        "recuperados_total": 3054701
+        "fallecidos_total": 176302,
+        "fallecidos_nuevos": 1228,
+        "recuperados_total": 3060534
     },
     {
         "pais": "EE",
@@ -1080,9 +1080,9 @@
     {
         "pais": "KY",
         "nombre": "Islas Caimanes",
-        "casos_total": 203,
-        "casos_nuevos": 0,
-        "casos_activos": 0,
+        "casos_total": 205,
+        "casos_nuevos": 2,
+        "casos_activos": 2,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
@@ -1520,13 +1520,13 @@
     {
         "pais": "ME",
         "nombre": "Montenegro",
-        "casos_total": 4132,
-        "casos_nuevos": 0,
-        "casos_activos": 1017,
+        "casos_total": 4174,
+        "casos_nuevos": 42,
+        "casos_activos": 967,
         "casos_criticos": 0,
         "fallecidos_total": 80,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 3035
+        "recuperados_total": 3127
     },
     {
         "pais": "MS",
@@ -1973,11 +1973,11 @@
         "nombre": "San Vicente y las Granadinas",
         "casos_total": 58,
         "casos_nuevos": 0,
-        "casos_activos": 3,
+        "casos_activos": 2,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 55
+        "recuperados_total": 56
     },
     {
         "pais": "LC",
