@@ -640,13 +640,13 @@
     {
         "pais": "AE",
         "nombre": "Emiratos Arabes Unidos",
-        "casos_total": 66617,
-        "casos_nuevos": 0,
-        "casos_activos": 7837,
+        "casos_total": 67007,
+        "casos_nuevos": 390,
+        "casos_activos": 8144,
         "casos_criticos": 0,
-        "fallecidos_total": 372,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 58408
+        "fallecidos_total": 375,
+        "fallecidos_nuevos": 3,
+        "recuperados_total": 58488
     },
     {
         "pais": "ER",
@@ -695,9 +695,9 @@
     {
         "pais": "PS",
         "nombre": "Estado de Palestina",
-        "casos_total": 18476,
-        "casos_nuevos": 0,
-        "casos_activos": 7246,
+        "casos_total": 18802,
+        "casos_nuevos": 326,
+        "casos_activos": 7572,
         "casos_criticos": 0,
         "fallecidos_total": 127,
         "fallecidos_nuevos": 2,
@@ -706,12 +706,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 5841428,
-        "casos_nuevos": 0,
-        "casos_activos": 2513174,
+        "casos_total": 5841689,
+        "casos_nuevos": 261,
+        "casos_activos": 2513427,
         "casos_criticos": 0,
-        "fallecidos_total": 180174,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 180182,
+        "fallecidos_nuevos": 8,
         "recuperados_total": 3148080
     },
     {
@@ -1322,9 +1322,9 @@
     {
         "pais": "LT",
         "nombre": "Lituania",
-        "casos_total": 2594,
-        "casos_nuevos": 0,
-        "casos_activos": 744,
+        "casos_total": 2635,
+        "casos_nuevos": 41,
+        "casos_activos": 785,
         "casos_criticos": 0,
         "fallecidos_total": 84,
         "fallecidos_nuevos": 0,
@@ -2290,9 +2290,9 @@
     {
         "pais": "UG",
         "nombre": "Uganda",
-        "casos_total": 2166,
-        "casos_nuevos": 0,
-        "casos_activos": 947,
+        "casos_total": 2263,
+        "casos_nuevos": 97,
+        "casos_activos": 1044,
         "casos_criticos": 0,
         "fallecidos_total": 20,
         "fallecidos_nuevos": 0,
