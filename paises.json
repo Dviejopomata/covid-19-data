@@ -706,12 +706,12 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 6211796,
-        "casos_nuevos": 0,
-        "casos_activos": 2567797,
+        "casos_total": 6211816,
+        "casos_nuevos": 20,
+        "casos_activos": 2567816,
         "casos_criticos": 0,
-        "fallecidos_total": 187736,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 187737,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 3456263
     },
     {
@@ -1267,13 +1267,13 @@
     {
         "pais": "LV",
         "nombre": "Letonia",
-        "casos_total": 1396,
-        "casos_nuevos": 0,
-        "casos_activos": 199,
+        "casos_total": 1404,
+        "casos_nuevos": 8,
+        "casos_activos": 197,
         "casos_criticos": 0,
         "fallecidos_total": 34,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1163
+        "recuperados_total": 1173
     },
     {
         "pais": "LB",
@@ -1322,13 +1322,13 @@
     {
         "pais": "LT",
         "nombre": "Lituania",
-        "casos_total": 2906,
-        "casos_nuevos": 0,
-        "casos_activos": 980,
+        "casos_total": 2929,
+        "casos_nuevos": 23,
+        "casos_activos": 986,
         "casos_criticos": 0,
         "fallecidos_total": 86,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1840
+        "recuperados_total": 1857
     },
     {
         "pais": "LU",
@@ -1883,13 +1883,13 @@
     {
         "pais": "RU",
         "nombre": "Rusia",
-        "casos_total": 995319,
-        "casos_nuevos": 0,
-        "casos_activos": 168756,
+        "casos_total": 1000048,
+        "casos_nuevos": 4729,
+        "casos_activos": 167044,
         "casos_criticos": 0,
-        "fallecidos_total": 17176,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 809387
+        "fallecidos_total": 17299,
+        "fallecidos_nuevos": 123,
+        "recuperados_total": 815705
     },
     {
         "pais": "EH",
@@ -2059,9 +2059,9 @@
     {
         "pais": "SG",
         "nombre": "Singapur",
-        "casos_total": 56812,
-        "casos_nuevos": 0,
-        "casos_activos": 1127,
+        "casos_total": 56852,
+        "casos_nuevos": 40,
+        "casos_activos": 1167,
         "casos_criticos": 0,
         "fallecidos_total": 27,
         "fallecidos_nuevos": 0,
@@ -2279,13 +2279,13 @@
     {
         "pais": "UA",
         "nombre": "Ucrania",
-        "casos_total": 121215,
-        "casos_nuevos": 0,
-        "casos_activos": 61544,
+        "casos_total": 123303,
+        "casos_nuevos": 2088,
+        "casos_activos": 62896,
         "casos_criticos": 0,
-        "fallecidos_total": 2557,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 57114
+        "fallecidos_total": 2605,
+        "fallecidos_nuevos": 48,
+        "recuperados_total": 57802
     },
     {
         "pais": "UG",
