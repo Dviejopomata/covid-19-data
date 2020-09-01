@@ -21,12 +21,12 @@
     },
     {
         "nombre": "Alemania",
-        "casos_total": 245795,
-        "casos_nuevos": 1003,
-        "casos_activos": 16517,
+        "casos_total": 245957,
+        "casos_nuevos": 1165,
+        "casos_activos": 16677,
         "casos_criticos": 0,
-        "fallecidos_total": 9378,
-        "fallecidos_nuevos": 7,
+        "fallecidos_total": 9380,
+        "fallecidos_nuevos": 9,
         "recuperados_total": 219900
     },
     {
@@ -621,8 +621,8 @@
     },
     {
         "nombre": "Espa\u00f1a",
-        "casos_total": 462858,
-        "casos_nuevos": 0,
+        "casos_total": 470973,
+        "casos_nuevos": 8115,
         "casos_activos": 0,
         "casos_criticos": 0,
         "fallecidos_total": 29152,
@@ -641,13 +641,13 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 6226203,
-        "casos_nuevos": 14407,
-        "casos_activos": 2575321,
+        "casos_total": 6240273,
+        "casos_nuevos": 24681,
+        "casos_activos": 2582753,
         "casos_criticos": 0,
-        "fallecidos_total": 188070,
-        "fallecidos_nuevos": 334,
-        "recuperados_total": 3462812
+        "fallecidos_total": 188432,
+        "fallecidos_nuevos": 696,
+        "recuperados_total": 3469088
     },
     {
         "nombre": "Estonia",
@@ -831,19 +831,19 @@
     },
     {
         "nombre": "Guinea",
-        "casos_total": 9409,
-        "casos_nuevos": 0,
-        "casos_activos": 903,
+        "casos_total": 9479,
+        "casos_nuevos": 70,
+        "casos_activos": 893,
         "casos_criticos": 0,
         "fallecidos_total": 59,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 8447
+        "recuperados_total": 8527
     },
     {
         "nombre": "Guinea Ecuatorial",
-        "casos_total": 4941,
-        "casos_nuevos": 0,
-        "casos_activos": 974,
+        "casos_total": 4965,
+        "casos_nuevos": 24,
+        "casos_activos": 998,
         "casos_criticos": 0,
         "fallecidos_total": 83,
         "fallecidos_nuevos": 0,
@@ -911,13 +911,13 @@
     },
     {
         "nombre": "India",
-        "casos_total": 3759515,
-        "casos_nuevos": 71576,
-        "casos_activos": 797221,
+        "casos_total": 3766108,
+        "casos_nuevos": 78169,
+        "casos_activos": 801561,
         "casos_criticos": 0,
-        "fallecidos_total": 66448,
-        "fallecidos_nuevos": 1013,
-        "recuperados_total": 2895846
+        "fallecidos_total": 66460,
+        "fallecidos_nuevos": 1025,
+        "recuperados_total": 2898087
     },
     {
         "nombre": "Indonesia",
@@ -1321,9 +1321,9 @@
     },
     {
         "nombre": "Mauritania",
-        "casos_total": 7048,
-        "casos_nuevos": 0,
-        "casos_activos": 425,
+        "casos_total": 7075,
+        "casos_nuevos": 27,
+        "casos_activos": 452,
         "casos_criticos": 0,
         "fallecidos_total": 159,
         "fallecidos_nuevos": 0,
@@ -1963,11 +1963,11 @@
         "nombre": "Suiza",
         "casos_total": 42393,
         "casos_nuevos": 216,
-        "casos_activos": 4282,
+        "casos_activos": 4082,
         "casos_criticos": 0,
         "fallecidos_total": 2011,
         "fallecidos_nuevos": 5,
-        "recuperados_total": 36100
+        "recuperados_total": 36300
     },
     {
         "nombre": "Surinam",
