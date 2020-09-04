@@ -631,11 +631,11 @@
         "nombre": "El Salvador",
         "casos_total": 26000,
         "casos_nuevos": 0,
-        "casos_activos": 10142,
+        "casos_activos": 10114,
         "casos_criticos": 0,
-        "fallecidos_total": 739,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 15119
+        "fallecidos_total": 744,
+        "fallecidos_nuevos": 5,
+        "recuperados_total": 15142
     },
     {
         "pais": "AE",
@@ -805,13 +805,13 @@
     {
         "pais": "GE",
         "nombre": "Georgia",
-        "casos_total": 1568,
-        "casos_nuevos": 0,
-        "casos_activos": 270,
+        "casos_total": 1596,
+        "casos_nuevos": 28,
+        "casos_activos": 283,
         "casos_criticos": 0,
         "fallecidos_total": 19,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 1279
+        "recuperados_total": 1294
     },
     {
         "pais": "GH",
@@ -1146,13 +1146,13 @@
     {
         "pais": "IL",
         "nombre": "Israel",
-        "casos_total": 124455,
-        "casos_nuevos": 0,
-        "casos_activos": 24825,
+        "casos_total": 125260,
+        "casos_nuevos": 805,
+        "casos_activos": 24797,
         "casos_criticos": 0,
         "fallecidos_total": 985,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 98645
+        "recuperados_total": 99478
     },
     {
         "pais": "IT",
@@ -2279,12 +2279,12 @@
     {
         "pais": "UA",
         "nombre": "Ucrania",
-        "casos_total": 128228,
-        "casos_nuevos": 0,
-        "casos_activos": 65842,
+        "casos_total": 130951,
+        "casos_nuevos": 2723,
+        "casos_activos": 68514,
         "casos_criticos": 0,
-        "fallecidos_total": 2710,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 2761,
+        "fallecidos_nuevos": 51,
         "recuperados_total": 59676
     },
     {
