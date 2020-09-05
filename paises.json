@@ -255,9 +255,9 @@
     {
         "pais": "MM",
         "nombre": "Birmania",
-        "casos_total": 1171,
-        "casos_nuevos": 0,
-        "casos_activos": 805,
+        "casos_total": 1216,
+        "casos_nuevos": 45,
+        "casos_activos": 850,
         "casos_criticos": 0,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
@@ -631,11 +631,11 @@
         "nombre": "El Salvador",
         "casos_total": 26099,
         "casos_nuevos": 0,
-        "casos_activos": 10008,
+        "casos_activos": 9978,
         "casos_criticos": 0,
-        "fallecidos_total": 744,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 15347
+        "fallecidos_total": 752,
+        "fallecidos_nuevos": 8,
+        "recuperados_total": 15369
     },
     {
         "pais": "AE",
@@ -1203,11 +1203,11 @@
         "nombre": "Kazajistan",
         "casos_total": 106225,
         "casos_nuevos": 104,
-        "casos_activos": 6052,
+        "casos_activos": 5619,
         "casos_criticos": 0,
         "fallecidos_total": 1588,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 98585
+        "recuperados_total": 99018
     },
     {
         "pais": "KE",
@@ -1223,13 +1223,13 @@
     {
         "pais": "KG",
         "nombre": "Kirguistan",
-        "casos_total": 44199,
-        "casos_nuevos": 0,
-        "casos_activos": 3750,
+        "casos_total": 44293,
+        "casos_nuevos": 94,
+        "casos_activos": 3634,
         "casos_criticos": 0,
         "fallecidos_total": 1060,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 39389
+        "recuperados_total": 39599
     },
     {
         "pais": "KW",
