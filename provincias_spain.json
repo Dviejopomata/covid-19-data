@@ -83,11 +83,11 @@
         "nombre": "Argentina",
         "casos_total": 471806,
         "casos_nuevos": 0,
-        "casos_activos": 121686,
+        "casos_activos": 112867,
         "casos_criticos": 0,
-        "fallecidos_total": 9739,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 340381
+        "fallecidos_total": 9807,
+        "fallecidos_nuevos": 68,
+        "recuperados_total": 349132
     },
     {
         "nombre": "Armenia",
@@ -141,12 +141,12 @@
     },
     {
         "nombre": "Bahamas",
-        "casos_total": 2476,
-        "casos_nuevos": 0,
-        "casos_activos": 1473,
+        "casos_total": 2506,
+        "casos_nuevos": 30,
+        "casos_activos": 1502,
         "casos_criticos": 0,
-        "fallecidos_total": 55,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 56,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 948
     },
     {
@@ -221,23 +221,23 @@
     },
     {
         "nombre": "Bielorrusia",
-        "casos_total": 72663,
-        "casos_nuevos": 0,
-        "casos_activos": 115,
+        "casos_total": 72859,
+        "casos_nuevos": 196,
+        "casos_activos": 284,
         "casos_criticos": 0,
-        "fallecidos_total": 705,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 71843
+        "fallecidos_total": 711,
+        "fallecidos_nuevos": 6,
+        "recuperados_total": 71864
     },
     {
         "nombre": "Birmania",
-        "casos_total": 1319,
-        "casos_nuevos": 66,
-        "casos_activos": 940,
+        "casos_total": 1419,
+        "casos_nuevos": 166,
+        "casos_activos": 1026,
         "casos_criticos": 0,
         "fallecidos_total": 8,
         "fallecidos_nuevos": 1,
-        "recuperados_total": 371
+        "recuperados_total": 385
     },
     {
         "nombre": "Bolivia",
@@ -371,12 +371,12 @@
     },
     {
         "nombre": "Canada",
-        "casos_total": 131495,
-        "casos_nuevos": 0,
-        "casos_activos": 6216,
+        "casos_total": 131653,
+        "casos_nuevos": 158,
+        "casos_activos": 6372,
         "casos_criticos": 0,
-        "fallecidos_total": 9143,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 9145,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 116136
     },
     {
@@ -641,13 +641,13 @@
     },
     {
         "nombre": "Estados Unidos",
-        "casos_total": 6432209,
-        "casos_nuevos": 1057,
-        "casos_activos": 2532207,
+        "casos_total": 6434526,
+        "casos_nuevos": 3374,
+        "casos_activos": 2534454,
         "casos_criticos": 0,
-        "fallecidos_total": 192864,
-        "fallecidos_nuevos": 46,
-        "recuperados_total": 3707138
+        "fallecidos_total": 192886,
+        "fallecidos_nuevos": 68,
+        "recuperados_total": 3707186
     },
     {
         "nombre": "Estonia",
@@ -911,13 +911,13 @@
     },
     {
         "nombre": "India",
-        "casos_total": 4131690,
-        "casos_nuevos": 20851,
-        "casos_activos": 865429,
+        "casos_total": 4160493,
+        "casos_nuevos": 49654,
+        "casos_activos": 869623,
         "casos_criticos": 0,
-        "fallecidos_total": 70802,
-        "fallecidos_nuevos": 123,
-        "recuperados_total": 3195459
+        "fallecidos_total": 71120,
+        "fallecidos_nuevos": 441,
+        "recuperados_total": 3219750
     },
     {
         "nombre": "Indonesia",
@@ -1351,9 +1351,9 @@
     },
     {
         "nombre": "Moldavia",
-        "casos_total": 39473,
-        "casos_nuevos": 0,
-        "casos_activos": 10611,
+        "casos_total": 39797,
+        "casos_nuevos": 324,
+        "casos_activos": 10935,
         "casos_criticos": 0,
         "fallecidos_total": 1063,
         "fallecidos_nuevos": 0,
@@ -1461,9 +1461,9 @@
     },
     {
         "nombre": "Noruega",
-        "casos_total": 11296,
-        "casos_nuevos": 0,
-        "casos_activos": 1684,
+        "casos_total": 11330,
+        "casos_nuevos": 34,
+        "casos_activos": 1718,
         "casos_criticos": 0,
         "fallecidos_total": 264,
         "fallecidos_nuevos": 0,
@@ -1873,11 +1873,11 @@
         "nombre": "Singapur",
         "casos_total": 57022,
         "casos_nuevos": 40,
-        "casos_activos": 728,
+        "casos_activos": 662,
         "casos_criticos": 0,
         "fallecidos_total": 27,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 56267
+        "recuperados_total": 56333
     },
     {
         "nombre": "Siria",
@@ -1891,9 +1891,9 @@
     },
     {
         "nombre": "Somalia",
-        "casos_total": 3332,
-        "casos_nuevos": 0,
-        "casos_activos": 539,
+        "casos_total": 3362,
+        "casos_nuevos": 30,
+        "casos_activos": 569,
         "casos_criticos": 0,
         "fallecidos_total": 97,
         "fallecidos_nuevos": 0,
@@ -1901,9 +1901,9 @@
     },
     {
         "nombre": "Sri Lanka",
-        "casos_total": 3121,
-        "casos_nuevos": 0,
-        "casos_activos": 184,
+        "casos_total": 3122,
+        "casos_nuevos": 1,
+        "casos_activos": 185,
         "casos_criticos": 0,
         "fallecidos_total": 12,
         "fallecidos_nuevos": 0,
@@ -2011,13 +2011,13 @@
     },
     {
         "nombre": "Tayikistan",
-        "casos_total": 8757,
-        "casos_nuevos": 0,
-        "casos_activos": 1138,
+        "casos_total": 8792,
+        "casos_nuevos": 35,
+        "casos_activos": 1141,
         "casos_criticos": 0,
         "fallecidos_total": 70,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 7549
+        "recuperados_total": 7581
     },
     {
         "nombre": "Timor Oriental",
@@ -2041,13 +2041,13 @@
     },
     {
         "nombre": "Trinidad yTobago",
-        "casos_total": 2230,
-        "casos_nuevos": 0,
-        "casos_activos": 1480,
+        "casos_total": 2234,
+        "casos_nuevos": 4,
+        "casos_activos": 1477,
         "casos_criticos": 0,
         "fallecidos_total": 33,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 717
+        "recuperados_total": 724
     },
     {
         "nombre": "Tunez",
