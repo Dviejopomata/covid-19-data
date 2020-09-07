@@ -24,9 +24,9 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 251744,
-        "casos_nuevos": 20,
-        "casos_activos": 15343,
+        "casos_total": 252069,
+        "casos_nuevos": 345,
+        "casos_activos": 15668,
         "casos_criticos": 0,
         "fallecidos_total": 9401,
         "fallecidos_nuevos": 0,
@@ -68,13 +68,13 @@
     {
         "pais": "SA",
         "nombre": "Arabia Saudita",
-        "casos_total": 320688,
-        "casos_nuevos": 0,
-        "casos_activos": 19870,
+        "casos_total": 321456,
+        "casos_nuevos": 768,
+        "casos_activos": 19726,
         "casos_criticos": 0,
-        "fallecidos_total": 4081,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 296737
+        "fallecidos_total": 4107,
+        "fallecidos_nuevos": 26,
+        "recuperados_total": 297623
     },
     {
         "pais": "DZ",
@@ -92,11 +92,11 @@
         "nombre": "Argentina",
         "casos_total": 478792,
         "casos_nuevos": 0,
-        "casos_activos": 119801,
+        "casos_activos": 111492,
         "casos_criticos": 0,
-        "fallecidos_total": 9859,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 349132
+        "fallecidos_total": 9912,
+        "fallecidos_nuevos": 53,
+        "recuperados_total": 357388
     },
     {
         "pais": "AM",
@@ -244,13 +244,13 @@
     {
         "pais": "BY",
         "nombre": "Bielorrusia",
-        "casos_total": 72859,
-        "casos_nuevos": 0,
-        "casos_activos": 284,
+        "casos_total": 73031,
+        "casos_nuevos": 172,
+        "casos_activos": 432,
         "casos_criticos": 0,
-        "fallecidos_total": 711,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 71864
+        "fallecidos_total": 716,
+        "fallecidos_nuevos": 5,
+        "recuperados_total": 71883
     },
     {
         "pais": "MM",
@@ -585,13 +585,13 @@
     {
         "pais": "DK",
         "nombre": "Dinamarca",
-        "casos_total": 17883,
-        "casos_nuevos": 0,
-        "casos_activos": 1496,
+        "casos_total": 18113,
+        "casos_nuevos": 230,
+        "casos_activos": 1652,
         "casos_criticos": 0,
-        "fallecidos_total": 627,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 15760
+        "fallecidos_total": 628,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 15833
     },
     {
         "pais": "DM",
@@ -697,18 +697,18 @@
         "nombre": "Estado de Palestina",
         "casos_total": 26779,
         "casos_nuevos": 652,
-        "casos_activos": 9326,
+        "casos_activos": 9325,
         "casos_criticos": 0,
-        "fallecidos_total": 183,
-        "fallecidos_nuevos": 2,
+        "fallecidos_total": 184,
+        "fallecidos_nuevos": 3,
         "recuperados_total": 17270
     },
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 6460421,
-        "casos_nuevos": 171,
-        "casos_activos": 2541069,
+        "casos_total": 6461353,
+        "casos_nuevos": 1103,
+        "casos_activos": 2542001,
         "casos_criticos": 0,
         "fallecidos_total": 193253,
         "fallecidos_nuevos": 3,
@@ -2015,13 +2015,13 @@
     {
         "pais": "SN",
         "nombre": "Senegal",
-        "casos_total": 13987,
-        "casos_nuevos": 0,
-        "casos_activos": 3775,
+        "casos_total": 14014,
+        "casos_nuevos": 27,
+        "casos_activos": 3686,
         "casos_criticos": 0,
-        "fallecidos_total": 290,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 9922
+        "fallecidos_total": 291,
+        "fallecidos_nuevos": 1,
+        "recuperados_total": 10037
     },
     {
         "pais": "RS",
@@ -2147,12 +2147,12 @@
     {
         "pais": "SE",
         "nombre": "Suecia",
-        "casos_total": 84985,
+        "casos_total": 85558,
         "casos_nuevos": 0,
         "casos_activos": 0,
         "casos_criticos": 0,
-        "fallecidos_total": 5835,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 5837,
+        "fallecidos_nuevos": 5,
         "recuperados_total": 0
     },
     {
