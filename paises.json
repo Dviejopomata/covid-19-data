@@ -24,9 +24,9 @@
     {
         "pais": "DE",
         "nombre": "Alemania",
-        "casos_total": 272308,
-        "casos_nuevos": 0,
-        "casos_activos": 19342,
+        "casos_total": 272311,
+        "casos_nuevos": 3,
+        "casos_activos": 19345,
         "casos_criticos": 0,
         "fallecidos_total": 9466,
         "fallecidos_nuevos": 0,
@@ -167,13 +167,13 @@
     {
         "pais": "BD",
         "nombre": "Banglades",
-        "casos_total": 347372,
-        "casos_nuevos": 0,
-        "casos_activos": 88073,
+        "casos_total": 348918,
+        "casos_nuevos": 1544,
+        "casos_activos": 87414,
         "casos_criticos": 0,
-        "fallecidos_total": 4913,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 254386
+        "fallecidos_total": 4939,
+        "fallecidos_nuevos": 26,
+        "recuperados_total": 256565
     },
     {
         "pais": "BB",
@@ -629,24 +629,24 @@
     {
         "pais": "SV",
         "nombre": "El Salvador",
-        "casos_total": 27428,
-        "casos_nuevos": 0,
-        "casos_activos": 5373,
+        "casos_total": 27553,
+        "casos_nuevos": 125,
+        "casos_activos": 5181,
         "casos_criticos": 0,
-        "fallecidos_total": 808,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 21247
+        "fallecidos_total": 811,
+        "fallecidos_nuevos": 3,
+        "recuperados_total": 21561
     },
     {
         "pais": "AE",
         "nombre": "Emiratos Arabes Unidos",
-        "casos_total": 84242,
-        "casos_nuevos": 0,
-        "casos_activos": 10326,
+        "casos_total": 84916,
+        "casos_nuevos": 674,
+        "casos_activos": 10239,
         "casos_criticos": 0,
         "fallecidos_total": 404,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 73512
+        "recuperados_total": 74273
     },
     {
         "pais": "ER",
@@ -750,9 +750,9 @@
     {
         "pais": "FI",
         "nombre": "Finlandia",
-        "casos_total": 8922,
-        "casos_nuevos": 0,
-        "casos_activos": 883,
+        "casos_total": 8980,
+        "casos_nuevos": 58,
+        "casos_activos": 941,
         "casos_criticos": 0,
         "fallecidos_total": 339,
         "fallecidos_nuevos": 0,
@@ -1003,12 +1003,12 @@
     {
         "pais": "IN",
         "nombre": "India",
-        "casos_total": 5400619,
-        "casos_nuevos": 2389,
-        "casos_activos": 1010802,
+        "casos_total": 5405252,
+        "casos_nuevos": 7022,
+        "casos_activos": 1015413,
         "casos_criticos": 0,
-        "fallecidos_total": 86774,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 86796,
+        "fallecidos_nuevos": 22,
         "recuperados_total": 4303043
     },
     {
