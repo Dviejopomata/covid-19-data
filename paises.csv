@@ -1,5 +1,5 @@
 ,País,Casos totales,Nuevos casos,Casos activos,Recuperados,Casos críticos,Muertes hoy,Muertes
-0,Estados Unidos,7185471,0,4437575,2540358,0,0,207538
+0,Estados Unidos,7185516,45,4437575,2540403,0,0,207538
 1,India,5818570,2467,4756164,970089,0,0,92317
 2,Brasil,4659909,0,4023789,496237,0,0,139883
 3,Rusia,1128836,0,929829,179059,0,0,19948
@@ -51,7 +51,7 @@
 49,Venezuela,70406,0,59745,10080,0,0,581
 50,Costa Rica,69459,0,26554,42110,0,0,795
 51,Nepal,69301,0,50411,18437,0,0,453
-52,Barein,67701,0,60853,6617,0,0,231
+52,Barein,67701,0,60853,6615,0,2,233
 53,Chequia,58374,0,27382,30425,0,0,567
 54,Nigeria,57849,0,49098,7649,0,0,1102
 55,Singapur,57654,0,57333,294,0,0,27
@@ -210,8 +210,8 @@
 208,Islas Virgenes de los Estados Unidos,17,0,0,17,0,0,0
 209,San Pedro y Miquelon,16,0,6,10,0,0,0
 210,Groenlandia,14,0,14,0,0,0,0
-211,Montserrat,13,0,12,0,0,0,1
-212,Islas Malvinas,13,0,13,0,0,0,0
+211,Islas Malvinas,13,0,13,0,0,0,0
+212,Montserrat,13,0,12,0,0,0,1
 213,Santa Sede,12,0,12,0,0,0,0
 214,Sahara Occidental,10,0,8,1,0,0,1
 215,Anguila,3,0,3,0,0,0,0
