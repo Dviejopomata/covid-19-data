@@ -125,11 +125,11 @@
         "nombre": "Australia",
         "casos_total": 27078,
         "casos_nuevos": 15,
-        "casos_activos": 1474,
+        "casos_activos": 1438,
         "casos_criticos": 0,
         "fallecidos_total": 886,
         "fallecidos_nuevos": 4,
-        "recuperados_total": 24718
+        "recuperados_total": 24754
     },
     {
         "pais": "AT",
@@ -631,10 +631,10 @@
         "nombre": "El Salvador",
         "casos_total": 28981,
         "casos_nuevos": 0,
-        "casos_activos": 4457,
+        "casos_activos": 4453,
         "casos_criticos": 0,
-        "fallecidos_total": 839,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 843,
+        "fallecidos_nuevos": 4,
         "recuperados_total": 23685
     },
     {
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 7406146,
-        "casos_nuevos": 0,
-        "casos_activos": 2546678,
+        "casos_total": 7406729,
+        "casos_nuevos": 583,
+        "casos_activos": 2546411,
         "casos_criticos": 0,
-        "fallecidos_total": 210785,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 4648683
+        "fallecidos_total": 210797,
+        "fallecidos_nuevos": 12,
+        "recuperados_total": 4649521
     },
     {
         "pais": "EE",
@@ -2312,12 +2312,12 @@
     {
         "pais": "UZ",
         "nombre": "Uzbekistan",
-        "casos_total": 56354,
-        "casos_nuevos": 0,
-        "casos_activos": 2918,
+        "casos_total": 56519,
+        "casos_nuevos": 165,
+        "casos_activos": 3081,
         "casos_criticos": 0,
-        "fallecidos_total": 466,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 468,
+        "fallecidos_nuevos": 2,
         "recuperados_total": 52970
     },
     {
