@@ -277,13 +277,13 @@
     {
         "pais": "BQ",
         "nombre": "Bonaire, San Eustaquio y Saba",
-        "casos_total": 106,
-        "casos_nuevos": 0,
-        "casos_activos": 81,
+        "casos_total": 121,
+        "casos_nuevos": 15,
+        "casos_activos": 88,
         "casos_criticos": 0,
         "fallecidos_total": 1,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 24
+        "recuperados_total": 32
     },
     {
         "pais": "BA",
@@ -510,11 +510,11 @@
         "nombre": "Corea del Sur",
         "casos_total": 23812,
         "casos_nuevos": 113,
-        "casos_activos": 1809,
+        "casos_activos": 1808,
         "casos_criticos": 0,
         "fallecidos_total": 413,
         "fallecidos_nuevos": 6,
-        "recuperados_total": 21590
+        "recuperados_total": 21591
     },
     {
         "pais": "CR",
@@ -706,13 +706,13 @@
     {
         "pais": "US",
         "nombre": "Estados Unidos",
-        "casos_total": 7446825,
-        "casos_nuevos": 40472,
-        "casos_activos": 2546253,
+        "casos_total": 7447282,
+        "casos_nuevos": 40929,
+        "casos_activos": 2535836,
         "casos_criticos": 0,
-        "fallecidos_total": 211713,
-        "fallecidos_nuevos": 928,
-        "recuperados_total": 4688859
+        "fallecidos_total": 211740,
+        "fallecidos_nuevos": 955,
+        "recuperados_total": 4699706
     },
     {
         "pais": "EE",
@@ -1696,24 +1696,24 @@
     {
         "pais": "PY",
         "nombre": "Paraguay",
-        "casos_total": 40101,
-        "casos_nuevos": 0,
-        "casos_activos": 15512,
+        "casos_total": 40758,
+        "casos_nuevos": 657,
+        "casos_activos": 15452,
         "casos_criticos": 0,
-        "fallecidos_total": 841,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 23748
+        "fallecidos_total": 857,
+        "fallecidos_nuevos": 16,
+        "recuperados_total": 24449
     },
     {
         "pais": "PE",
         "nombre": "Peru",
-        "casos_total": 811768,
-        "casos_nuevos": 0,
-        "casos_activos": 102447,
+        "casos_total": 814829,
+        "casos_nuevos": 3061,
+        "casos_activos": 98551,
         "casos_criticos": 0,
-        "fallecidos_total": 32396,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 676925
+        "fallecidos_total": 32463,
+        "fallecidos_nuevos": 67,
+        "recuperados_total": 683815
     },
     {
         "pais": "PF",
@@ -2037,9 +2037,9 @@
     {
         "pais": "SC",
         "nombre": "Seychelles",
-        "casos_total": 143,
-        "casos_nuevos": 0,
-        "casos_activos": 3,
+        "casos_total": 144,
+        "casos_nuevos": 1,
+        "casos_activos": 4,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
