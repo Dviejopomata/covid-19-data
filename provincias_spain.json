@@ -111,12 +111,12 @@
     },
     {
         "nombre": "Australia",
-        "casos_total": 27149,
-        "casos_nuevos": 0,
-        "casos_activos": 1363,
+        "casos_total": 27173,
+        "casos_nuevos": 24,
+        "casos_activos": 1386,
         "casos_criticos": 0,
-        "fallecidos_total": 894,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 895,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 24892
     },
     {
@@ -181,13 +181,13 @@
     },
     {
         "nombre": "Belgica",
-        "casos_total": 130235,
-        "casos_nuevos": 0,
-        "casos_activos": 100492,
+        "casos_total": 132203,
+        "casos_nuevos": 1968,
+        "casos_activos": 102413,
         "casos_criticos": 0,
-        "fallecidos_total": 10064,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 19679
+        "fallecidos_total": 10078,
+        "fallecidos_nuevos": 14,
+        "recuperados_total": 19712
     },
     {
         "nombre": "Belice",
@@ -881,13 +881,13 @@
     },
     {
         "nombre": "Honduras",
-        "casos_total": 79629,
-        "casos_nuevos": 0,
-        "casos_activos": 47902,
+        "casos_total": 80020,
+        "casos_nuevos": 391,
+        "casos_activos": 47819,
         "casos_criticos": 0,
-        "fallecidos_total": 2422,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 29305
+        "fallecidos_total": 2433,
+        "fallecidos_nuevos": 11,
+        "recuperados_total": 29768
     },
     {
         "nombre": "Hong Kong",
@@ -1101,13 +1101,13 @@
     },
     {
         "nombre": "Kazajistan",
-        "casos_total": 108236,
-        "casos_nuevos": 0,
-        "casos_activos": 3234,
+        "casos_total": 108296,
+        "casos_nuevos": 60,
+        "casos_activos": 3204,
         "casos_criticos": 0,
         "fallecidos_total": 1725,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 103277
+        "recuperados_total": 103367
     },
     {
         "nombre": "Kenia",
@@ -1381,9 +1381,9 @@
     },
     {
         "nombre": "Mongolia",
-        "casos_total": 314,
-        "casos_nuevos": 0,
-        "casos_activos": 7,
+        "casos_total": 315,
+        "casos_nuevos": 1,
+        "casos_activos": 8,
         "casos_criticos": 0,
         "fallecidos_total": 0,
         "fallecidos_nuevos": 0,
@@ -1521,13 +1521,13 @@
     },
     {
         "nombre": "Pakistan",
-        "casos_total": 315260,
-        "casos_nuevos": 0,
-        "casos_activos": 8907,
+        "casos_total": 315727,
+        "casos_nuevos": 467,
+        "casos_activos": 8588,
         "casos_criticos": 0,
-        "fallecidos_total": 6517,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 299836
+        "fallecidos_total": 6523,
+        "fallecidos_nuevos": 6,
+        "recuperados_total": 300616
     },
     {
         "nombre": "Panama",
@@ -1781,13 +1781,13 @@
     },
     {
         "nombre": "San Martin (Parte Holandesa)",
-        "casos_total": 679,
-        "casos_nuevos": 0,
-        "casos_activos": 85,
+        "casos_total": 686,
+        "casos_nuevos": 7,
+        "casos_activos": 72,
         "casos_criticos": 0,
         "fallecidos_total": 22,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 572
+        "recuperados_total": 592
     },
     {
         "nombre": "San Pedro y Miquelon",
@@ -2051,11 +2051,11 @@
     },
     {
         "nombre": "Trinidad yTobago",
-        "casos_total": 4766,
+        "casos_total": 4767,
         "casos_nuevos": 0,
         "casos_activos": 1801,
         "casos_criticos": 0,
-        "fallecidos_total": 81,
+        "fallecidos_total": 82,
         "fallecidos_nuevos": 0,
         "recuperados_total": 2884
     },
