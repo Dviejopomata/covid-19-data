@@ -631,10 +631,10 @@
         "nombre": "El Salvador",
         "casos_total": 32421,
         "casos_nuevos": 0,
-        "casos_activos": 3354,
+        "casos_activos": 3350,
         "casos_criticos": 0,
-        "fallecidos_total": 940,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 944,
+        "fallecidos_nuevos": 4,
         "recuperados_total": 28127
     },
     {
@@ -2105,10 +2105,10 @@
         "nombre": "Sri Lanka",
         "casos_total": 7153,
         "casos_nuevos": 0,
-        "casos_activos": 3495,
+        "casos_activos": 3494,
         "casos_criticos": 0,
-        "fallecidos_total": 14,
-        "fallecidos_nuevos": 0,
+        "fallecidos_total": 15,
+        "fallecidos_nuevos": 1,
         "recuperados_total": 3644
     },
     {
@@ -2202,9 +2202,9 @@
     {
         "pais": "TW",
         "nombre": "Taiwan",
-        "casos_total": 548,
-        "casos_nuevos": 0,
-        "casos_activos": 44,
+        "casos_total": 550,
+        "casos_nuevos": 2,
+        "casos_activos": 46,
         "casos_criticos": 0,
         "fallecidos_total": 7,
         "fallecidos_nuevos": 0,
@@ -2290,13 +2290,13 @@
     {
         "pais": "UA",
         "nombre": "Ucrania",
-        "casos_total": 330396,
-        "casos_nuevos": 0,
-        "casos_activos": 186654,
+        "casos_total": 337410,
+        "casos_nuevos": 7014,
+        "casos_activos": 191366,
         "casos_criticos": 0,
-        "fallecidos_total": 6164,
-        "fallecidos_nuevos": 0,
-        "recuperados_total": 137578
+        "fallecidos_total": 6289,
+        "fallecidos_nuevos": 125,
+        "recuperados_total": 139755
     },
     {
         "pais": "UG",
@@ -2323,13 +2323,13 @@
     {
         "pais": "UZ",
         "nombre": "Uzbekistan",
-        "casos_total": 64724,
-        "casos_nuevos": 0,
-        "casos_activos": 2225,
+        "casos_total": 64811,
+        "casos_nuevos": 87,
+        "casos_activos": 2236,
         "casos_criticos": 0,
         "fallecidos_total": 542,
         "fallecidos_nuevos": 0,
-        "recuperados_total": 61957
+        "recuperados_total": 62033
     },
     {
         "pais": "VE",
